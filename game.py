@@ -5,7 +5,7 @@ import random
 def login():
     tries = 3
     while tries >= 0:
-        print("Login, to play Rock, paper and scissors!")
+        print("Login, to play Guess the number!")
         username = str(input("Please Enter your username: "))
         password = int(input("Please enter your pin in the screen: "))
         if username == ("SausageAndWaffles") and password == (71556):
