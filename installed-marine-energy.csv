@@ -1,0 +1,88 @@
+Entity,Code,Year,Installed Capacity (megawatts)
+Africa,,2013,0.25
+Africa,,2014,0.25
+Africa,,2015,0.25
+Africa,,2016,0.25
+Asia,,2000,3.4
+Asia,,2001,3.4
+Asia,,2002,3.4
+Asia,,2003,3.4
+Asia,,2004,3.4
+Asia,,2005,3.4
+Asia,,2006,3.4
+Asia,,2007,3.4
+Asia,,2008,3.4
+Asia,,2009,4.4
+Asia,,2010,5.1
+Asia,,2011,259.1
+Asia,,2012,259.1
+Asia,,2013,259.1
+Asia,,2014,259.3
+Asia,,2015,262
+Asia,,2016,262
+Europe,,2000,240.5
+Europe,,2001,240.5
+Europe,,2002,240.5
+Europe,,2003,240.5
+Europe,,2004,240.5
+Europe,,2005,240.5
+Europe,,2006,240.5
+Europe,,2007,240.5
+Europe,,2008,240.5
+Europe,,2009,241.215
+Europe,,2010,242.845
+Europe,,2011,243.2
+Europe,,2012,245.61
+Europe,,2013,244.187
+Europe,,2014,244.713
+Europe,,2015,248.233
+Europe,,2016,248.393
+North America,,2000,20
+North America,,2001,20
+North America,,2002,20
+North America,,2003,20
+North America,,2004,20
+North America,,2005,20
+North America,,2006,20
+North America,,2007,20
+North America,,2008,20
+North America,,2009,20
+North America,,2010,20
+North America,,2011,20
+North America,,2012,20
+North America,,2013,20.09
+North America,,2014,20.09
+North America,,2015,20.005
+North America,,2016,23.925
+Oceania,,2007,1
+Oceania,,2008,1
+Oceania,,2009,1
+Oceania,,2010,1
+Oceania,,2011,1.004
+Oceania,,2012,1.04
+Oceania,,2013,1
+Oceania,,2014,1
+Oceania,,2015,1
+Oceania,,2016,0
+South America,,2012,0.1
+South America,,2013,0.1
+South America,,2014,0.15
+South America,,2015,0.05
+South America,,2016,0.05
+World,OWID_WRL,2000,264.3
+World,OWID_WRL,2001,264.3
+World,OWID_WRL,2002,264.3
+World,OWID_WRL,2003,264.3
+World,OWID_WRL,2004,264.3
+World,OWID_WRL,2005,264.3
+World,OWID_WRL,2006,264.3
+World,OWID_WRL,2007,266.6
+World,OWID_WRL,2008,266.6
+World,OWID_WRL,2009,268.3
+World,OWID_WRL,2010,270.6
+World,OWID_WRL,2011,525
+World,OWID_WRL,2012,527.5
+World,OWID_WRL,2013,526.4
+World,OWID_WRL,2014,527.2
+World,OWID_WRL,2015,533.2
+World,OWID_WRL,2016,536.3

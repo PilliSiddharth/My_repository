@@ -1,0 +1,174 @@
+Entity,Code,Year, (hours per week)
+Australia,AUS,1870,56.2
+Australia,AUS,1880,53.3
+Australia,AUS,1890,50.5
+Australia,AUS,1900,48.1
+Australia,AUS,1913,44.7
+Australia,AUS,1929,45.5
+Australia,AUS,1938,45
+Australia,AUS,1950,39.6
+Australia,AUS,1960,39.6
+Australia,AUS,1970,39.6
+Australia,AUS,1980,39.2
+Australia,AUS,1990,40.1
+Australia,AUS,2000,40.55
+Belgium,BEL,1870,72.2
+Belgium,BEL,1880,69.3
+Belgium,BEL,1890,66.5
+Belgium,BEL,1900,64.2
+Belgium,BEL,1913,59.5
+Belgium,BEL,1929,48.2
+Belgium,BEL,1938,48
+Belgium,BEL,1960,42.5
+Belgium,BEL,1970,39.9
+Belgium,BEL,1980,38.5
+Belgium,BEL,1990,36.6
+Belgium,BEL,2000,36.9
+Canada,CAN,1870,57.2
+Canada,CAN,1880,59
+Canada,CAN,1890,60.9
+Canada,CAN,1900,62.6
+Canada,CAN,1913,57.9
+Canada,CAN,1929,49
+Canada,CAN,1938,47.2
+Canada,CAN,1950,42.3
+Canada,CAN,1960,40.7
+Canada,CAN,1970,39.7
+Canada,CAN,1980,38.5
+Canada,CAN,1990,38
+Canada,CAN,2000,39.4
+Denmark,DNK,1870,69.9
+Denmark,DNK,1880,64.6
+Denmark,DNK,1890,59.9
+Denmark,DNK,1900,56
+Denmark,DNK,1913,55.8
+Denmark,DNK,1929,48.5
+Denmark,DNK,1938,47.6
+Denmark,DNK,1950,46
+Denmark,DNK,1960,44.4
+Denmark,DNK,1970,39
+Denmark,DNK,1980,37.5
+Denmark,DNK,1990,35
+Denmark,DNK,2000,38.5
+France,FRA,1870,66.1
+France,FRA,1880,66
+France,FRA,1890,65.9
+France,FRA,1900,65.9
+France,FRA,1913,62
+France,FRA,1929,48
+France,FRA,1938,39
+France,FRA,1950,44.8
+France,FRA,1960,45.9
+France,FRA,1970,44.8
+France,FRA,1980,40.7
+France,FRA,1990,39.9
+France,FRA,2000,35.75
+Germany,DEU,1870,67.6
+Germany,DEU,1880,66.3
+Germany,DEU,1890,65.1
+Germany,DEU,1900,64
+Germany,DEU,1913,57
+Germany,DEU,1929,46
+Germany,DEU,1938,48.5
+Germany,DEU,1950,48.2
+Germany,DEU,1960,45.6
+Germany,DEU,1970,43.8
+Germany,DEU,1980,41.6
+Germany,DEU,1990,39
+Germany,DEU,2000,39.9
+Ireland,IRL,1870,63.8
+Ireland,IRL,1880,62
+Ireland,IRL,1890,60.2
+Ireland,IRL,1900,58.6
+Ireland,IRL,1913,56.4
+Ireland,IRL,1929,46.6
+Ireland,IRL,1938,48.2
+Ireland,IRL,1950,45
+Ireland,IRL,1970,42.7
+Ireland,IRL,1980,41.1
+Ireland,IRL,1990,42.1
+Ireland,IRL,2000,39.35
+Italy,ITA,1870,63.3
+Italy,ITA,1880,63.4
+Italy,ITA,1890,63.6
+Italy,ITA,1900,63.8
+Italy,ITA,1913,62.4
+Italy,ITA,1929,48.8
+Italy,ITA,1938,48.5
+Italy,ITA,1950,47.8
+Italy,ITA,1960,42.4
+Italy,ITA,1970,42.9
+Italy,ITA,1980,42.5
+Italy,ITA,1990,39.6
+Italy,ITA,2000,38.4
+Netherlands,NLD,1870,65
+Netherlands,NLD,1880,63.4
+Netherlands,NLD,1890,61.9
+Netherlands,NLD,1900,60.5
+Netherlands,NLD,1913,58.6
+Netherlands,NLD,1929,48.1
+Netherlands,NLD,1938,48.5
+Netherlands,NLD,1950,49.2
+Netherlands,NLD,1970,45.1
+Netherlands,NLD,1980,40.8
+Netherlands,NLD,1990,34
+Netherlands,NLD,2000,33.85
+Spain,ESP,1870,64.7
+Spain,ESP,1880,62.7
+Spain,ESP,1890,60.8
+Spain,ESP,1900,59.1
+Spain,ESP,1913,56.7
+Spain,ESP,1929,48.5
+Spain,ESP,1938,47
+Spain,ESP,1980,40
+Spain,ESP,1990,38.9
+Spain,ESP,2000,35.45
+Sweden,SWE,1870,69.6
+Sweden,SWE,1880,64.6
+Sweden,SWE,1890,59.9
+Sweden,SWE,1900,56
+Sweden,SWE,1913,56
+Sweden,SWE,1929,48
+Sweden,SWE,1938,46.3
+Sweden,SWE,1950,46.8
+Sweden,SWE,1960,43.4
+Sweden,SWE,1980,37.7
+Sweden,SWE,1990,38.2
+Sweden,SWE,2000,37.7
+Switzerland,CHE,1870,65.4
+Switzerland,CHE,1880,63.1
+Switzerland,CHE,1890,60.9
+Switzerland,CHE,1900,59
+Switzerland,CHE,1913,56.3
+Switzerland,CHE,1929,48.5
+Switzerland,CHE,1938,46.3
+Switzerland,CHE,1950,47.5
+Switzerland,CHE,1960,46.1
+Switzerland,CHE,1980,43.8
+Switzerland,CHE,1990,41.6
+United Kingdom,GBR,1870,56.9
+United Kingdom,GBR,1880,56.6
+United Kingdom,GBR,1890,56.3
+United Kingdom,GBR,1900,56
+United Kingdom,GBR,1913,56
+United Kingdom,GBR,1929,47
+United Kingdom,GBR,1938,48.6
+United Kingdom,GBR,1950,45.7
+United Kingdom,GBR,1960,44.7
+United Kingdom,GBR,1970,42
+United Kingdom,GBR,1980,40
+United Kingdom,GBR,1990,42.4
+United Kingdom,GBR,2000,40.45
+United States,USA,1870,62
+United States,USA,1880,61
+United States,USA,1890,60
+United States,USA,1900,59.1
+United States,USA,1913,58.3
+United States,USA,1929,48
+United States,USA,1938,37.3
+United States,USA,1950,42.4
+United States,USA,1960,40.2
+United States,USA,1970,38.8
+United States,USA,1980,39.1
+United States,USA,1990,39.7
+United States,USA,2000,40.25

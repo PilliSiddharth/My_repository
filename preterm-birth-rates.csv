@@ -1,0 +1,456 @@
+Entity,Code,Year,Preterm birth rate (%)
+Afghanistan,AFG,2014,10.4
+Albania,ALB,2014,8.72
+Algeria,DZA,2014,13.41
+Angola,AGO,2014,11.97
+Antigua and Barbuda,ATG,2014,9.83
+Argentina,ARG,2000,7.2
+Argentina,ARG,2005,7.49
+Argentina,ARG,2010,8.19
+Argentina,ARG,2014,8.38
+Armenia,ARM,2014,10.4
+Asia,,2000,9.54
+Asia,,2005,9.95
+Asia,,2010,10.32
+Asia,,2014,10.4
+Australia,AUS,2000,7.16
+Australia,AUS,2005,7.53
+Australia,AUS,2010,7.94
+Australia,AUS,2014,8.6
+Austria,AUT,2000,8.35
+Austria,AUT,2005,8.36
+Austria,AUT,2010,8.51
+Austria,AUT,2014,7.93
+Azerbaijan,AZE,2014,10.4
+Bahamas,BHS,2014,9.83
+Bahrain,BHR,2000,7.98
+Bahrain,BHR,2005,9.29
+Bahrain,BHR,2010,10.45
+Bahrain,BHR,2014,10.35
+Bangladesh,BGD,2000,19.25
+Bangladesh,BGD,2005,18.96
+Bangladesh,BGD,2010,20.71
+Bangladesh,BGD,2014,19.15
+Barbados,BRB,2014,9.83
+Belarus,BLR,2000,4.47
+Belarus,BLR,2005,4.55
+Belarus,BLR,2010,4.53
+Belarus,BLR,2014,4.28
+Belgium,BEL,2000,7.97
+Belgium,BEL,2005,8.47
+Belgium,BEL,2010,9.4
+Belgium,BEL,2014,10.07
+Belize,BLZ,2014,9.83
+Benin,BEN,2000,7.89
+Benin,BEN,2005,8.61
+Benin,BEN,2010,9.14
+Benin,BEN,2014,9.3
+Bhutan,BTN,2014,10.4
+Bolivia,BOL,2014,9.83
+Bosnia and Herzegovina,BIH,2000,9.8
+Bosnia and Herzegovina,BIH,2005,8.13
+Bosnia and Herzegovina,BIH,2010,7.16
+Bosnia and Herzegovina,BIH,2014,6.73
+Botswana,BWA,2014,11.97
+Brazil,BRA,2000,5.53
+Brazil,BRA,2005,6.96
+Brazil,BRA,2010,8.63
+Brazil,BRA,2014,11.18
+Brunei,BRN,2014,10.4
+Bulgaria,BGR,2000,8.27
+Bulgaria,BGR,2005,8.74
+Bulgaria,BGR,2010,9.04
+Bulgaria,BGR,2014,9.01
+Burkina Faso,BFA,2014,11.97
+Burundi,BDI,2014,11.97
+Cambodia,KHM,2014,10.4
+Cameroon,CMR,2014,11.97
+Canada,CAN,2000,7.21
+Canada,CAN,2005,7.64
+Canada,CAN,2010,7.9
+Canada,CAN,2014,8.15
+Cape Verde,CPV,2014,11.97
+Central African Republic,CAF,2014,11.97
+Chad,TCD,2014,11.97
+Chile,CHL,2000,6.64
+Chile,CHL,2005,7.36
+Chile,CHL,2010,7.97
+Chile,CHL,2014,7.93
+China,CHN,2000,6.35
+China,CHN,2005,6.62
+China,CHN,2010,6.91
+China,CHN,2014,6.94
+Colombia,COL,2000,8.24
+Colombia,COL,2005,11.04
+Colombia,COL,2010,12.77
+Colombia,COL,2014,14.55
+Comoros,COM,2014,11.97
+Congo,COG,2014,11.97
+Costa Rica,CRI,2014,9.83
+Cote d'Ivoire,CIV,2014,11.97
+Croatia,HRV,2000,6.05
+Croatia,HRV,2005,5.85
+Croatia,HRV,2010,5.41
+Croatia,HRV,2014,4.99
+Cuba,CUB,2000,6.14
+Cuba,CUB,2005,6.24
+Cuba,CUB,2010,6.28
+Cuba,CUB,2014,6
+Cyprus,CYP,2000,8.18
+Cyprus,CYP,2005,11.31
+Cyprus,CYP,2010,15.19
+Cyprus,CYP,2014,18.7
+Czech Republic,CZE,2000,6.28
+Czech Republic,CZE,2005,7.13
+Czech Republic,CZE,2010,7.93
+Czech Republic,CZE,2014,7.61
+Democratic Republic of Congo,COD,2000,11.57
+Democratic Republic of Congo,COD,2005,11
+Democratic Republic of Congo,COD,2010,10.56
+Democratic Republic of Congo,COD,2014,9.83
+Denmark,DNK,2000,6.7
+Denmark,DNK,2005,7.1
+Denmark,DNK,2010,7.08
+Denmark,DNK,2014,7.21
+Djibouti,DJI,2014,11.97
+Dominican Republic,DOM,2014,9.83
+Ecuador,ECU,2000,8.94
+Ecuador,ECU,2005,8.81
+Ecuador,ECU,2010,8.7
+Ecuador,ECU,2014,8.02
+Egypt,EGY,2014,13.41
+El Salvador,SLV,2000,6.12
+El Salvador,SLV,2005,7.91
+El Salvador,SLV,2010,8.7
+El Salvador,SLV,2014,9.59
+Equatorial Guinea,GNQ,2014,11.97
+Eritrea,ERI,2014,11.97
+Estonia,EST,2000,5.89
+Estonia,EST,2005,5.86
+Estonia,EST,2010,5.51
+Estonia,EST,2014,5.65
+Ethiopia,ETH,2014,11.97
+Europe,,2000,6.98
+Europe,,2005,7.57
+Europe,,2010,8.22
+Europe,,2014,8.72
+Fiji,FJI,2014,9.98
+Finland,FIN,2000,5.84
+Finland,FIN,2005,5.71
+Finland,FIN,2010,5.57
+Finland,FIN,2014,5.77
+France,FRA,2000,7.04
+France,FRA,2005,7.56
+France,FRA,2010,8.06
+France,FRA,2014,8.42
+Gabon,GAB,2014,11.97
+Gambia,GMB,2014,11.97
+Georgia,GEO,2014,10.4
+Germany,DEU,2000,8.64
+Germany,DEU,2005,8.87
+Germany,DEU,2010,8.94
+Germany,DEU,2014,8.87
+Ghana,GHA,2014,11.97
+Greece,GRC,2000,5.51
+Greece,GRC,2005,7.98
+Greece,GRC,2010,10.67
+Greece,GRC,2014,11.41
+Grenada,GRD,2014,9.83
+Guatemala,GTM,2014,9.83
+Guinea,GIN,2014,11.97
+Guinea-Bissau,GNB,2014,11.97
+Guyana,GUY,2014,9.83
+Haiti,HTI,2014,9.83
+Honduras,HND,2014,9.83
+Hungary,HUN,2000,8.54
+Hungary,HUN,2005,9.16
+Hungary,HUN,2010,9.61
+Hungary,HUN,2014,8.84
+Iceland,ISL,2014,8.72
+India,IND,2000,10.63
+India,IND,2005,11.99
+India,IND,2010,13.1
+India,IND,2014,13.61
+Indonesia,IDN,2014,10.4
+Iran,IRN,2000,11.69
+Iran,IRN,2005,9.13
+Iran,IRN,2010,7.35
+Iran,IRN,2014,6.04
+Iraq,IRQ,2014,10.4
+Ireland,IRL,2000,5.39
+Ireland,IRL,2005,5.75
+Ireland,IRL,2010,5.92
+Ireland,IRL,2014,6.36
+Israel,ISR,2000,14.39
+Israel,ISR,2005,11.93
+Israel,ISR,2010,9.86
+Israel,ISR,2014,8.57
+Italy,ITA,2000,6.29
+Italy,ITA,2005,6.89
+Italy,ITA,2010,7.36
+Italy,ITA,2014,7.79
+Jamaica,JAM,2014,9.83
+Japan,JPN,2000,5.9
+Japan,JPN,2005,6.09
+Japan,JPN,2010,6.22
+Japan,JPN,2014,5.67
+Jordan,JOR,2000,4.96
+Jordan,JOR,2005,7.95
+Jordan,JOR,2010,12.55
+Jordan,JOR,2014,17.77
+Kazakhstan,KAZ,2000,5.66
+Kazakhstan,KAZ,2005,5.8
+Kazakhstan,KAZ,2010,5.57
+Kazakhstan,KAZ,2014,5.18
+Kenya,KEN,2000,8.76
+Kenya,KEN,2005,8.93
+Kenya,KEN,2010,9.09
+Kenya,KEN,2014,8.64
+Kiribati,KIR,2014,9.98
+Kuwait,KWT,2014,10.4
+Kyrgyzstan,KGZ,2014,10.4
+Laos,LAO,2014,10.4
+Latin America and the Caribbean	,,2000,7.84
+Latin America and the Caribbean	,,2005,8.44
+Latin America and the Caribbean	,,2010,9.29
+Latin America and the Caribbean	,,2014,9.83
+Latvia,LVA,2000,5.54
+Latvia,LVA,2005,6.14
+Latvia,LVA,2010,5.98
+Latvia,LVA,2014,5.4
+Lebanon,LBN,2000,6.43
+Lebanon,LBN,2005,6.78
+Lebanon,LBN,2010,7.73
+Lebanon,LBN,2014,9.03
+Lesotho,LSO,2014,11.97
+Liberia,LBR,2014,11.97
+Libya,LBY,2014,13.41
+Lithuania,LTU,2000,5.77
+Lithuania,LTU,2005,6.15
+Lithuania,LTU,2010,6.19
+Lithuania,LTU,2014,5.42
+Luxembourg,LUX,2000,7.14
+Luxembourg,LUX,2005,8.16
+Luxembourg,LUX,2010,8.97
+Luxembourg,LUX,2014,9.64
+Macedonia,MKD,2014,8.72
+Madagascar,MDG,2014,11.97
+Malawi,MWI,2000,14.99
+Malawi,MWI,2005,13.42
+Malawi,MWI,2010,11.93
+Malawi,MWI,2014,10.48
+Malaysia,MYS,2014,10.4
+Maldives,MDV,2000,5.25
+Maldives,MDV,2005,5.65
+Maldives,MDV,2010,6.42
+Maldives,MDV,2014,6.23
+Mali,MLI,2014,11.97
+Malta,MLT,2000,6.82
+Malta,MLT,2005,7.08
+Malta,MLT,2010,7.16
+Malta,MLT,2014,7.08
+Mauritania,MRT,2014,11.97
+Mauritius,MUS,2014,11.97
+Mexico,MEX,2000,10.45
+Mexico,MEX,2005,9.04
+Mexico,MEX,2010,8.15
+Mexico,MEX,2014,7.04
+Micronesia (country),FSM,2014,9.98
+Moldova,MDA,2014,8.72
+Mongolia,MNG,2014,10.4
+Montenegro,MNE,2014,8.72
+Morocco,MAR,2014,13.41
+Mozambique,MOZ,2014,11.97
+Myanmar,MMR,2014,10.4
+Namibia,NAM,2014,11.97
+Nepal,NPL,2000,18.38
+Nepal,NPL,2005,11.42
+Nepal,NPL,2010,7.82
+Nepal,NPL,2014,5.29
+Netherlands,NLD,2000,7.69
+Netherlands,NLD,2005,7.55
+Netherlands,NLD,2010,7.48
+Netherlands,NLD,2014,7.44
+New Zealand,NZL,2000,7.24
+New Zealand,NZL,2005,7.7
+New Zealand,NZL,2010,8.04
+New Zealand,NZL,2014,7.47
+Nicaragua,NIC,2014,9.83
+Niger,NER,2014,11.97
+Nigeria,NGA,2000,19.21
+Nigeria,NGA,2005,15.56
+Nigeria,NGA,2010,13.16
+Nigeria,NGA,2014,11.42
+North America,,2000,10.53
+North America,,2005,10.83
+North America,,2010,11.05
+North America,,2014,11.18
+North Korea,PRK,2014,10.4
+Northern Africa,,2014,13.41
+Norway,NOR,2000,6.73
+Norway,NOR,2005,6.5
+Norway,NOR,2010,6.24
+Norway,NOR,2014,5.82
+Oceania,,2000,6.98
+Oceania,,2005,7.81
+Oceania,,2010,8.97
+Oceania,,2014,9.98
+Oman,OMN,2000,7.1
+Oman,OMN,2005,7.42
+Oman,OMN,2010,8.48
+Oman,OMN,2014,9.23
+Pakistan,PAK,2000,8.34
+Pakistan,PAK,2005,8.09
+Pakistan,PAK,2010,8.11
+Pakistan,PAK,2014,8.39
+Panama,PAN,2014,9.83
+Papua New Guinea,PNG,2014,9.98
+Paraguay,PRY,2000,7.49
+Paraguay,PRY,2005,7.59
+Paraguay,PRY,2010,8.11
+Paraguay,PRY,2014,8.07
+Peru,PER,2000,6.09
+Peru,PER,2005,6.62
+Peru,PER,2010,8.13
+Peru,PER,2014,8.79
+Philippines,PHL,2000,6.68
+Philippines,PHL,2005,7.88
+Philippines,PHL,2010,10.57
+Philippines,PHL,2014,13.27
+Poland,POL,2000,6.51
+Poland,POL,2005,6.59
+Poland,POL,2010,6.76
+Poland,POL,2014,7.25
+Portugal,PRT,2000,7.06
+Portugal,PRT,2005,7.3
+Portugal,PRT,2010,7.78
+Portugal,PRT,2014,7.73
+Qatar,QAT,2000,10.1
+Qatar,QAT,2005,7.72
+Qatar,QAT,2010,5.74
+Qatar,QAT,2014,4.48
+Romania,ROU,2014,8.72
+Russia,RUS,2000,6.54
+Russia,RUS,2005,7.21
+Russia,RUS,2010,8
+Russia,RUS,2014,8.62
+Rwanda,RWA,2014,11.97
+Saint Lucia,LCA,2014,9.83
+Saint Vincent and the Grenadines,VCT,2014,9.83
+Samoa,WSM,2014,9.98
+Sao Tome and Principe,STP,2014,11.97
+Saudi Arabia,SAU,2000,4.61
+Saudi Arabia,SAU,2005,4.35
+Saudi Arabia,SAU,2010,4.36
+Saudi Arabia,SAU,2014,3.96
+Senegal,SEN,2014,11.97
+Serbia,SRB,2000,7.23
+Serbia,SRB,2005,8.86
+Serbia,SRB,2010,10.7
+Serbia,SRB,2014,11.97
+Seychelles,SYC,2014,11.97
+Sierra Leone,SLE,2014,11.97
+Singapore,SGP,2014,10.4
+Slovakia,SVK,2000,5.89
+Slovakia,SVK,2005,6.87
+Slovakia,SVK,2010,8.07
+Slovakia,SVK,2014,9.07
+Slovenia,SVN,2000,6.61
+Slovenia,SVN,2005,7.11
+Slovenia,SVN,2010,7.49
+Slovenia,SVN,2014,7.26
+Solomon Islands,SLB,2014,9.98
+Somalia,SOM,2014,11.97
+South Africa,ZAF,2000,10.04
+South Africa,ZAF,2005,10.22
+South Africa,ZAF,2010,11.39
+South Africa,ZAF,2014,12.43
+South Korea,KOR,2000,4.06
+South Korea,KOR,2005,4.85
+South Korea,KOR,2010,5.74
+South Korea,KOR,2014,6.68
+South Sudan,SSD,2014,11.97
+Spain,ESP,2000,7.1
+Spain,ESP,2005,7.09
+Spain,ESP,2010,7.15
+Spain,ESP,2014,6.47
+Sri Lanka,LKA,2000,10.81
+Sri Lanka,LKA,2005,10.01
+Sri Lanka,LKA,2010,8.23
+Sri Lanka,LKA,2014,6.98
+Sub-Saharan Africa,,2000,13.1
+Sub-Saharan Africa,,2005,12.38
+Sub-Saharan Africa,,2010,12.28
+Sub-Saharan Africa,,2014,11.97
+Sudan,SDN,2014,13.41
+Suriname,SUR,2014,9.83
+Swaziland,SWZ,2000,12.84
+Swaziland,SWZ,2005,11.75
+Swaziland,SWZ,2010,11.49
+Swaziland,SWZ,2014,11.97
+Sweden,SWE,2000,6.97
+Sweden,SWE,2005,6.61
+Sweden,SWE,2010,6.44
+Sweden,SWE,2014,6.31
+Switzerland,CHE,2000,7.62
+Switzerland,CHE,2005,7.46
+Switzerland,CHE,2010,7.37
+Switzerland,CHE,2014,7.19
+Syria,SYR,2014,10.4
+Tajikistan,TJK,2014,10.4
+Tanzania,TZA,2000,12.34
+Tanzania,TZA,2005,14.26
+Tanzania,TZA,2010,15.9
+Tanzania,TZA,2014,16.59
+Thailand,THA,2000,9.03
+Thailand,THA,2005,10.52
+Thailand,THA,2010,11.53
+Thailand,THA,2014,12.7
+Timor,TLS,2014,10.4
+Togo,TGO,2014,11.97
+Tonga,TON,2014,9.98
+Trinidad and Tobago,TTO,2014,9.83
+Tunisia,TUN,2014,13.41
+Turkey,TUR,2000,9.12
+Turkey,TUR,2005,10.56
+Turkey,TUR,2010,11.76
+Turkey,TUR,2014,12.41
+Turkmenistan,TKM,2014,10.4
+Uganda,UGA,2000,8.35
+Uganda,UGA,2005,7.48
+Uganda,UGA,2010,7.23
+Uganda,UGA,2014,6.62
+Ukraine,UKR,2014,8.72
+United Arab Emirates,ARE,2000,5.1
+United Arab Emirates,ARE,2005,5.47
+United Arab Emirates,ARE,2010,5.63
+United Arab Emirates,ARE,2014,5.5
+United Kingdom,GBR,2000,6.62
+United Kingdom,GBR,2005,6.91
+United Kingdom,GBR,2010,7.1
+United Kingdom,GBR,2014,7.05
+United States,USA,2000,11.4
+United States,USA,2005,11.66
+United States,USA,2010,11.88
+United States,USA,2014,9.56
+Uruguay,URY,2000,9.72
+Uruguay,URY,2005,9.62
+Uruguay,URY,2010,9.77
+Uruguay,URY,2014,8.97
+Uzbekistan,UZB,2014,10.4
+Vanuatu,VUT,2014,9.98
+Venezuela,VEN,2000,12.13
+Venezuela,VEN,2005,11.03
+Venezuela,VEN,2010,10.65
+Venezuela,VEN,2014,9.73
+Vietnam,VNM,2000,12.17
+Vietnam,VNM,2005,9.88
+Vietnam,VNM,2010,8.18
+Vietnam,VNM,2014,6.53
+World,OWID_WRL,2000,9.77
+World,OWID_WRL,2005,10.02
+World,OWID_WRL,2010,10.44
+World,OWID_WRL,2014,10.6
+Yemen,YEM,2014,10.4
+Zambia,ZMB,2014,11.97
+Zimbabwe,ZWE,2014,11.97

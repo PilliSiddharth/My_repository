@@ -1,0 +1,457 @@
+Entity,Code,Year,Top marignal income tax rate (%)
+France,FRA,1900,0
+France,FRA,1901,0
+France,FRA,1902,0
+France,FRA,1903,0
+France,FRA,1904,0
+France,FRA,1905,0
+France,FRA,1906,0
+France,FRA,1907,0
+France,FRA,1908,0
+France,FRA,1909,0
+France,FRA,1910,0
+France,FRA,1911,0
+France,FRA,1912,0
+France,FRA,1913,0
+France,FRA,1914,0
+France,FRA,1915,2
+France,FRA,1916,10
+France,FRA,1917,20
+France,FRA,1918,20
+France,FRA,1919,50
+France,FRA,1920,50
+France,FRA,1921,50
+France,FRA,1922,50
+France,FRA,1923,60
+France,FRA,1924,72
+France,FRA,1925,60
+France,FRA,1926,30
+France,FRA,1927,30
+France,FRA,1928,33.33
+France,FRA,1929,33.33
+France,FRA,1930,33.33
+France,FRA,1931,33.33
+France,FRA,1932,36.67
+France,FRA,1933,36.67
+France,FRA,1934,30
+France,FRA,1935,36
+France,FRA,1936,48
+France,FRA,1937,51.84
+France,FRA,1938,53.332
+France,FRA,1939,53.332
+France,FRA,1940,53.332
+France,FRA,1941,60
+France,FRA,1942,70
+France,FRA,1943,70
+France,FRA,1944,70
+France,FRA,1945,60
+France,FRA,1946,60
+France,FRA,1947,72
+France,FRA,1948,60
+France,FRA,1949,60
+France,FRA,1950,60
+France,FRA,1951,60
+France,FRA,1952,60
+France,FRA,1953,60
+France,FRA,1954,60
+France,FRA,1955,66
+France,FRA,1956,66
+France,FRA,1957,66
+France,FRA,1958,66
+France,FRA,1959,66
+France,FRA,1960,66
+France,FRA,1961,63
+France,FRA,1962,63
+France,FRA,1963,64.575
+France,FRA,1964,63
+France,FRA,1965,63
+France,FRA,1966,65
+France,FRA,1967,66
+France,FRA,1968,66
+France,FRA,1969,64.5
+France,FRA,1970,61.8
+France,FRA,1971,61.2
+France,FRA,1972,60
+France,FRA,1973,60
+France,FRA,1974,60
+France,FRA,1975,60
+France,FRA,1976,60
+France,FRA,1977,60
+France,FRA,1978,60
+France,FRA,1979,60
+France,FRA,1980,66
+France,FRA,1981,66
+France,FRA,1982,69.55
+France,FRA,1983,70.2
+France,FRA,1984,66.95
+France,FRA,1985,65
+France,FRA,1986,58
+France,FRA,1987,56.8
+France,FRA,1988,56.8
+France,FRA,1989,56.8
+France,FRA,1990,56.8
+France,FRA,1991,57.9
+France,FRA,1992,57.9
+France,FRA,1993,59.2
+France,FRA,1994,59.2
+France,FRA,1995,59.2
+France,FRA,1996,57.9
+France,FRA,1997,57.9
+France,FRA,1998,62
+France,FRA,1999,62
+France,FRA,2000,61.25
+France,FRA,2001,60.75
+France,FRA,2002,57.58
+France,FRA,2003,56.09
+France,FRA,2004,56.09
+France,FRA,2005,56.09
+France,FRA,2006,48
+France,FRA,2007,48
+France,FRA,2008,48
+France,FRA,2009,48
+France,FRA,2010,49
+France,FRA,2011,49
+France,FRA,2012,53
+France,FRA,2013,53
+Germany,DEU,1900,3
+Germany,DEU,1901,3
+Germany,DEU,1902,3
+Germany,DEU,1903,3
+Germany,DEU,1904,3
+Germany,DEU,1905,3
+Germany,DEU,1906,3
+Germany,DEU,1907,3
+Germany,DEU,1908,3
+Germany,DEU,1909,3
+Germany,DEU,1910,3
+Germany,DEU,1911,3
+Germany,DEU,1912,3
+Germany,DEU,1913,3
+Germany,DEU,1914,4
+Germany,DEU,1915,4
+Germany,DEU,1916,4
+Germany,DEU,1917,4
+Germany,DEU,1918,20
+Germany,DEU,1919,30
+Germany,DEU,1920,40
+Germany,DEU,1921,40
+Germany,DEU,1922,40
+Germany,DEU,1923,40
+Germany,DEU,1924,40
+Germany,DEU,1925,40
+Germany,DEU,1926,40
+Germany,DEU,1927,40
+Germany,DEU,1928,40
+Germany,DEU,1929,40
+Germany,DEU,1930,40
+Germany,DEU,1931,40
+Germany,DEU,1932,40
+Germany,DEU,1933,40
+Germany,DEU,1934,50
+Germany,DEU,1935,50
+Germany,DEU,1936,50
+Germany,DEU,1937,50
+Germany,DEU,1938,50
+Germany,DEU,1939,60
+Germany,DEU,1940,60
+Germany,DEU,1941,60
+Germany,DEU,1942,60
+Germany,DEU,1943,60
+Germany,DEU,1944,60
+Germany,DEU,1945,60
+Germany,DEU,1946,90
+Germany,DEU,1947,90
+Germany,DEU,1948,90
+Germany,DEU,1949,75
+Germany,DEU,1950,75
+Germany,DEU,1951,75
+Germany,DEU,1952,75
+Germany,DEU,1953,66
+Germany,DEU,1954,60
+Germany,DEU,1955,53
+Germany,DEU,1956,53
+Germany,DEU,1957,53
+Germany,DEU,1958,53
+Germany,DEU,1959,53
+Germany,DEU,1960,53
+Germany,DEU,1961,53
+Germany,DEU,1962,53
+Germany,DEU,1963,53
+Germany,DEU,1964,53
+Germany,DEU,1965,53
+Germany,DEU,1966,53
+Germany,DEU,1967,53
+Germany,DEU,1968,53
+Germany,DEU,1969,53
+Germany,DEU,1970,53
+Germany,DEU,1971,53
+Germany,DEU,1972,53
+Germany,DEU,1973,53
+Germany,DEU,1974,53
+Germany,DEU,1975,56
+Germany,DEU,1976,56
+Germany,DEU,1977,56
+Germany,DEU,1978,56
+Germany,DEU,1979,56
+Germany,DEU,1980,56
+Germany,DEU,1981,56
+Germany,DEU,1982,56
+Germany,DEU,1983,56
+Germany,DEU,1984,56
+Germany,DEU,1985,56
+Germany,DEU,1986,56
+Germany,DEU,1987,56
+Germany,DEU,1988,56
+Germany,DEU,1989,56
+Germany,DEU,1990,53
+Germany,DEU,1991,53
+Germany,DEU,1992,53
+Germany,DEU,1993,53
+Germany,DEU,1994,53
+Germany,DEU,1995,53
+Germany,DEU,1996,53
+Germany,DEU,1997,53
+Germany,DEU,1998,53
+Germany,DEU,1999,53
+Germany,DEU,2000,51
+Germany,DEU,2001,48.5
+Germany,DEU,2002,48.5
+Germany,DEU,2003,48.5
+Germany,DEU,2004,45
+Germany,DEU,2005,42
+Germany,DEU,2006,42
+Germany,DEU,2007,45
+Germany,DEU,2008,45
+Germany,DEU,2009,45
+Germany,DEU,2010,45
+Germany,DEU,2011,45
+Germany,DEU,2012,45
+Germany,DEU,2013,45
+United Kingdom,GBR,1900,0
+United Kingdom,GBR,1901,0
+United Kingdom,GBR,1902,0
+United Kingdom,GBR,1903,0
+United Kingdom,GBR,1904,0
+United Kingdom,GBR,1905,0
+United Kingdom,GBR,1906,0
+United Kingdom,GBR,1907,0
+United Kingdom,GBR,1908,0
+United Kingdom,GBR,1909,8.333333333
+United Kingdom,GBR,1910,8.333333333
+United Kingdom,GBR,1911,8.333333333
+United Kingdom,GBR,1912,8.333333333
+United Kingdom,GBR,1913,8.333333333
+United Kingdom,GBR,1914,17.22222083
+United Kingdom,GBR,1915,32.5
+United Kingdom,GBR,1916,42.5
+United Kingdom,GBR,1917,42.5
+United Kingdom,GBR,1918,52.5
+United Kingdom,GBR,1919,52.5
+United Kingdom,GBR,1920,60
+United Kingdom,GBR,1921,60
+United Kingdom,GBR,1922,55
+United Kingdom,GBR,1923,52.5
+United Kingdom,GBR,1924,52.5
+United Kingdom,GBR,1925,50
+United Kingdom,GBR,1926,50
+United Kingdom,GBR,1927,50
+United Kingdom,GBR,1928,50
+United Kingdom,GBR,1929,57.5
+United Kingdom,GBR,1930,63.75
+United Kingdom,GBR,1931,66.25
+United Kingdom,GBR,1932,66.25
+United Kingdom,GBR,1933,66.25
+United Kingdom,GBR,1934,63.75
+United Kingdom,GBR,1935,63.75
+United Kingdom,GBR,1936,65
+United Kingdom,GBR,1937,66.25
+United Kingdom,GBR,1938,75
+United Kingdom,GBR,1939,82.5
+United Kingdom,GBR,1940,90
+United Kingdom,GBR,1941,97.5
+United Kingdom,GBR,1942,97.5
+United Kingdom,GBR,1943,97.5
+United Kingdom,GBR,1944,97.5
+United Kingdom,GBR,1945,97.5
+United Kingdom,GBR,1946,97.5
+United Kingdom,GBR,1947,97.5
+United Kingdom,GBR,1948,97.5
+United Kingdom,GBR,1949,97.5
+United Kingdom,GBR,1950,97.5
+United Kingdom,GBR,1951,97.5
+United Kingdom,GBR,1952,97.5
+United Kingdom,GBR,1953,95
+United Kingdom,GBR,1954,95
+United Kingdom,GBR,1955,92.5
+United Kingdom,GBR,1956,92.5
+United Kingdom,GBR,1957,92.5
+United Kingdom,GBR,1958,92.5
+United Kingdom,GBR,1959,88.75
+United Kingdom,GBR,1960,88.75
+United Kingdom,GBR,1961,88.75
+United Kingdom,GBR,1962,88.75
+United Kingdom,GBR,1963,88.75
+United Kingdom,GBR,1964,88.75
+United Kingdom,GBR,1965,91.25
+United Kingdom,GBR,1966,91.25
+United Kingdom,GBR,1967,91.25
+United Kingdom,GBR,1968,91.25
+United Kingdom,GBR,1969,91.25
+United Kingdom,GBR,1970,91.25
+United Kingdom,GBR,1971,88.75
+United Kingdom,GBR,1972,88.75
+United Kingdom,GBR,1973,90
+United Kingdom,GBR,1974,98
+United Kingdom,GBR,1975,98
+United Kingdom,GBR,1976,98
+United Kingdom,GBR,1977,98
+United Kingdom,GBR,1978,98
+United Kingdom,GBR,1979,75
+United Kingdom,GBR,1980,75
+United Kingdom,GBR,1981,75
+United Kingdom,GBR,1982,75
+United Kingdom,GBR,1983,75
+United Kingdom,GBR,1984,60
+United Kingdom,GBR,1985,60
+United Kingdom,GBR,1986,60
+United Kingdom,GBR,1987,60
+United Kingdom,GBR,1988,40
+United Kingdom,GBR,1989,40
+United Kingdom,GBR,1990,40
+United Kingdom,GBR,1991,40
+United Kingdom,GBR,1992,40
+United Kingdom,GBR,1993,40
+United Kingdom,GBR,1994,40
+United Kingdom,GBR,1995,40
+United Kingdom,GBR,1996,40
+United Kingdom,GBR,1997,40
+United Kingdom,GBR,1998,40
+United Kingdom,GBR,1999,40
+United Kingdom,GBR,2000,40
+United Kingdom,GBR,2001,40
+United Kingdom,GBR,2002,40
+United Kingdom,GBR,2003,40
+United Kingdom,GBR,2004,40
+United Kingdom,GBR,2005,40
+United Kingdom,GBR,2006,40
+United Kingdom,GBR,2007,40
+United Kingdom,GBR,2008,40
+United Kingdom,GBR,2009,40
+United Kingdom,GBR,2010,50
+United Kingdom,GBR,2011,50
+United Kingdom,GBR,2012,50
+United Kingdom,GBR,2013,45
+United States,USA,1900,0
+United States,USA,1901,0
+United States,USA,1902,0
+United States,USA,1903,0
+United States,USA,1904,0
+United States,USA,1905,0
+United States,USA,1906,0
+United States,USA,1907,0
+United States,USA,1908,0
+United States,USA,1909,0
+United States,USA,1910,0
+United States,USA,1911,0
+United States,USA,1912,0
+United States,USA,1913,7
+United States,USA,1914,7
+United States,USA,1915,7
+United States,USA,1916,15
+United States,USA,1917,67
+United States,USA,1918,77
+United States,USA,1919,73
+United States,USA,1920,73
+United States,USA,1921,73
+United States,USA,1922,58
+United States,USA,1923,43.5
+United States,USA,1924,46
+United States,USA,1925,25
+United States,USA,1926,25
+United States,USA,1927,25
+United States,USA,1928,25
+United States,USA,1929,24
+United States,USA,1930,25
+United States,USA,1931,25
+United States,USA,1932,63
+United States,USA,1933,63
+United States,USA,1934,63
+United States,USA,1935,63
+United States,USA,1936,79
+United States,USA,1937,79
+United States,USA,1938,79
+United States,USA,1939,79
+United States,USA,1940,81.1
+United States,USA,1941,81
+United States,USA,1942,88
+United States,USA,1943,88
+United States,USA,1944,94
+United States,USA,1945,94
+United States,USA,1946,86.45
+United States,USA,1947,86.45
+United States,USA,1948,82.13
+United States,USA,1949,82.13
+United States,USA,1950,84.36
+United States,USA,1951,91
+United States,USA,1952,92
+United States,USA,1953,92
+United States,USA,1954,91
+United States,USA,1955,91
+United States,USA,1956,91
+United States,USA,1957,91
+United States,USA,1958,91
+United States,USA,1959,91
+United States,USA,1960,91
+United States,USA,1961,91
+United States,USA,1962,91
+United States,USA,1963,91
+United States,USA,1964,77
+United States,USA,1965,70
+United States,USA,1966,70
+United States,USA,1967,70
+United States,USA,1968,75.25
+United States,USA,1969,77
+United States,USA,1970,71.75
+United States,USA,1971,70
+United States,USA,1972,70
+United States,USA,1973,70
+United States,USA,1974,70
+United States,USA,1975,70
+United States,USA,1976,70
+United States,USA,1977,70
+United States,USA,1978,70
+United States,USA,1979,70
+United States,USA,1980,70
+United States,USA,1981,69.13
+United States,USA,1982,50
+United States,USA,1983,50
+United States,USA,1984,50
+United States,USA,1985,50
+United States,USA,1986,50
+United States,USA,1987,38.5
+United States,USA,1988,28
+United States,USA,1989,28
+United States,USA,1990,28
+United States,USA,1991,31
+United States,USA,1992,31
+United States,USA,1993,39.6
+United States,USA,1994,39.6
+United States,USA,1995,39.6
+United States,USA,1996,39.6
+United States,USA,1997,39.6
+United States,USA,1998,39.6
+United States,USA,1999,39.6
+United States,USA,2000,39.6
+United States,USA,2001,38.6
+United States,USA,2002,38.6
+United States,USA,2003,35
+United States,USA,2004,35
+United States,USA,2005,35
+United States,USA,2006,35
+United States,USA,2007,35
+United States,USA,2008,35
+United States,USA,2009,35
+United States,USA,2010,35
+United States,USA,2011,35
+United States,USA,2012,35
+United States,USA,2013,39.6

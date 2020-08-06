@@ -1,0 +1,556 @@
+Entity,Code,Year,Waste Recycling Rates - Paper and Cardboard (%)
+Australia,AUS,1994,40
+Australia,AUS,1995,42
+Australia,AUS,1996,44
+Australia,AUS,1997,49
+Australia,AUS,1998,48
+Australia,AUS,1999,51
+Australia,AUS,2000,44
+Australia,AUS,2001,49
+Australia,AUS,2002,50
+Australia,AUS,2003,48
+Australia,AUS,2004,53
+Australia,AUS,2005,53
+Austria,AUT,1980,30
+Austria,AUT,1981,30
+Austria,AUT,1985,37
+Austria,AUT,1990,52
+Austria,AUT,1991,54
+Austria,AUT,1992,56
+Austria,AUT,1993,68
+Austria,AUT,1994,66
+Austria,AUT,1995,66
+Austria,AUT,1996,71
+Austria,AUT,1997,69
+Austria,AUT,1998,65
+Austria,AUT,1999,66
+Austria,AUT,2000,64
+Austria,AUT,2001,65
+Austria,AUT,2002,61
+Austria,AUT,2003,62
+Austria,AUT,2004,63
+Austria,AUT,2005,70
+Belgium,BEL,1990,33
+Belgium,BEL,1991,33
+Belgium,BEL,1992,33
+Belgium,BEL,1993,38
+Belgium,BEL,1994,36
+Belgium,BEL,1995,37
+Belgium,BEL,1996,43
+Belgium,BEL,1997,45
+Belgium,BEL,1998,48
+Belgium,BEL,1999,55
+Belgium,BEL,2000,52
+Belgium,BEL,2001,51
+Belgium,BEL,2002,48
+Belgium,BEL,2003,53
+Belgium,BEL,2004,61
+Belgium,BEL,2005,60
+Canada,CAN,1980,20
+Canada,CAN,1985,23
+Canada,CAN,1990,28
+Canada,CAN,1991,32
+Canada,CAN,1992,35
+Canada,CAN,1993,38
+Canada,CAN,1994,39
+Canada,CAN,1995,41
+Canada,CAN,1996,44
+Canada,CAN,1997,45
+Canada,CAN,1998,44
+Canada,CAN,1999,42
+Canada,CAN,2000,42
+Canada,CAN,2001,40
+Canada,CAN,2002,42
+Canada,CAN,2003,43
+Canada,CAN,2004,45
+Canada,CAN,2005,46
+Czech Republic,CZE,1996,38
+Czech Republic,CZE,1997,33
+Czech Republic,CZE,1998,38
+Czech Republic,CZE,1999,39
+Czech Republic,CZE,2000,42
+Czech Republic,CZE,2001,43
+Czech Republic,CZE,2002,45
+Czech Republic,CZE,2003,44
+Czech Republic,CZE,2004,43
+Czech Republic,CZE,2005,47
+Denmark,DNK,1980,26
+Denmark,DNK,1985,31
+Denmark,DNK,1986,30
+Denmark,DNK,1987,29
+Denmark,DNK,1988,30
+Denmark,DNK,1989,30
+Denmark,DNK,1990,35
+Denmark,DNK,1991,35
+Denmark,DNK,1992,36
+Denmark,DNK,1993,46
+Denmark,DNK,1994,43
+Denmark,DNK,1995,44
+Denmark,DNK,1996,52
+Denmark,DNK,1997,51
+Denmark,DNK,1998,52
+Denmark,DNK,1999,52
+Denmark,DNK,2000,48
+Denmark,DNK,2001,45
+Denmark,DNK,2002,56
+Denmark,DNK,2003,53
+Denmark,DNK,2004,57
+Denmark,DNK,2005,60
+Finland,FIN,1980,35
+Finland,FIN,1985,39
+Finland,FIN,1989,40
+Finland,FIN,1990,43
+Finland,FIN,1991,46
+Finland,FIN,1992,48
+Finland,FIN,1993,49
+Finland,FIN,1994,43
+Finland,FIN,1995,56
+Finland,FIN,1996,62
+Finland,FIN,1997,61
+Finland,FIN,1998,63
+Finland,FIN,1999,65
+Finland,FIN,2000,67
+Finland,FIN,2001,74
+Finland,FIN,2002,72
+Finland,FIN,2003,73
+Finland,FIN,2004,71
+Finland,FIN,2005,70
+France,FRA,1980,30
+France,FRA,1981,32
+France,FRA,1982,33
+France,FRA,1983,33
+France,FRA,1984,34
+France,FRA,1985,35
+France,FRA,1986,34
+France,FRA,1987,35
+France,FRA,1988,34
+France,FRA,1989,34
+France,FRA,1990,34
+France,FRA,1991,34
+France,FRA,1992,34
+France,FRA,1993,36
+France,FRA,1994,36
+France,FRA,1995,39
+France,FRA,1996,42
+France,FRA,1997,41
+France,FRA,1998,43
+France,FRA,1999,46
+France,FRA,2000,47
+France,FRA,2001,49
+France,FRA,2002,51
+France,FRA,2003,53
+France,FRA,2004,54
+France,FRA,2005,55
+Germany,DEU,1980,34
+Germany,DEU,1981,36
+Germany,DEU,1982,36
+Germany,DEU,1983,37
+Germany,DEU,1984,38
+Germany,DEU,1985,43
+Germany,DEU,1986,42
+Germany,DEU,1987,43
+Germany,DEU,1988,43
+Germany,DEU,1989,44
+Germany,DEU,1990,44
+Germany,DEU,1991,47
+Germany,DEU,1992,50
+Germany,DEU,1993,55
+Germany,DEU,1994,59
+Germany,DEU,1995,67
+Germany,DEU,1996,70
+Germany,DEU,1997,71
+Germany,DEU,1998,71
+Germany,DEU,1999,73
+Germany,DEU,2000,72
+Germany,DEU,2001,75
+Germany,DEU,2002,72
+Germany,DEU,2003,72
+Germany,DEU,2004,73
+Greece,GRC,1980,22
+Greece,GRC,1985,25
+Greece,GRC,1990,28
+Greece,GRC,1991,29
+Greece,GRC,1992,32
+Greece,GRC,1993,31
+Greece,GRC,1994,33
+Greece,GRC,1995,32
+Greece,GRC,1996,29
+Greece,GRC,1997,33
+Greece,GRC,1998,21
+Greece,GRC,1999,31
+Greece,GRC,2000,35
+Greece,GRC,2001,30
+Greece,GRC,2002,34
+Greece,GRC,2003,33
+Greece,GRC,2004,37
+Hungary,HUN,1991,44
+Hungary,HUN,1992,36
+Hungary,HUN,1993,24
+Hungary,HUN,1994,36
+Hungary,HUN,1995,43
+Hungary,HUN,1996,45
+Hungary,HUN,1997,40
+Hungary,HUN,1998,43
+Hungary,HUN,1999,42
+Hungary,HUN,2000,42
+Hungary,HUN,2001,45
+Hungary,HUN,2002,45
+Hungary,HUN,2003,56
+Hungary,HUN,2004,50
+Hungary,HUN,2005,50
+Iceland,ISL,2002,11
+Iceland,ISL,2003,12
+Iceland,ISL,2004,13
+Ireland,IRL,1992,12
+Ireland,IRL,1993,12
+Ireland,IRL,1994,13
+Ireland,IRL,1995,11
+Ireland,IRL,1996,11
+Ireland,IRL,1997,22
+Ireland,IRL,1998,21
+Ireland,IRL,1999,18
+Ireland,IRL,2000,19
+Ireland,IRL,2001,27
+Ireland,IRL,2002,34
+Ireland,IRL,2003,38
+Ireland,IRL,2004,77
+Ireland,IRL,2005,78
+Italy,ITA,1981,34
+Italy,ITA,1982,31
+Italy,ITA,1983,28
+Italy,ITA,1984,26
+Italy,ITA,1985,25
+Italy,ITA,1986,25
+Italy,ITA,1987,27
+Italy,ITA,1988,27
+Italy,ITA,1989,26
+Italy,ITA,1990,27
+Italy,ITA,1991,28
+Italy,ITA,1992,28
+Italy,ITA,1993,30
+Italy,ITA,1994,28
+Italy,ITA,1995,28
+Italy,ITA,1996,31
+Italy,ITA,1997,32
+Italy,ITA,1998,33
+Italy,ITA,1999,35
+Italy,ITA,2000,37
+Italy,ITA,2001,44
+Italy,ITA,2002,45
+Italy,ITA,2003,47
+Italy,ITA,2004,49
+Italy,ITA,2005,50
+Japan,JPN,1980,48
+Japan,JPN,1981,48
+Japan,JPN,1982,49
+Japan,JPN,1983,49
+Japan,JPN,1984,51
+Japan,JPN,1985,50
+Japan,JPN,1986,50
+Japan,JPN,1987,49
+Japan,JPN,1988,48
+Japan,JPN,1989,49
+Japan,JPN,1990,50
+Japan,JPN,1991,51
+Japan,JPN,1992,51
+Japan,JPN,1993,51
+Japan,JPN,1994,52
+Japan,JPN,1995,51
+Japan,JPN,1996,52
+Japan,JPN,1997,54
+Japan,JPN,1998,56
+Japan,JPN,1999,56
+Japan,JPN,2000,59
+Japan,JPN,2001,63
+Japan,JPN,2002,65
+Japan,JPN,2003,66
+Mexico,MEX,1992,7
+Mexico,MEX,1993,7
+Mexico,MEX,1994,7
+Mexico,MEX,1995,7
+Mexico,MEX,1996,7
+Mexico,MEX,1997,7
+Mexico,MEX,1998,7
+Mexico,MEX,1999,7
+Mexico,MEX,2000,7
+Mexico,MEX,2001,7
+Mexico,MEX,2003,7
+Mexico,MEX,2004,7
+Mexico,MEX,2005,7
+Netherlands,NLD,1980,46
+Netherlands,NLD,1985,50
+Netherlands,NLD,1986,53
+Netherlands,NLD,1987,57
+Netherlands,NLD,1988,59
+Netherlands,NLD,1989,48
+Netherlands,NLD,1990,50
+Netherlands,NLD,1991,54
+Netherlands,NLD,1992,51
+Netherlands,NLD,1993,55
+Netherlands,NLD,1994,55
+Netherlands,NLD,1995,59
+Netherlands,NLD,1996,65
+Netherlands,NLD,1997,58
+Netherlands,NLD,1998,58
+Netherlands,NLD,1999,57
+Netherlands,NLD,2000,45
+Netherlands,NLD,2001,64
+Netherlands,NLD,2002,65
+Netherlands,NLD,2003,69
+Netherlands,NLD,2004,70
+Netherlands,NLD,2005,72
+New Zealand,NZL,1994,42
+New Zealand,NZL,1995,47
+New Zealand,NZL,1996,52
+New Zealand,NZL,1997,55
+New Zealand,NZL,1998,52
+New Zealand,NZL,1999,52
+New Zealand,NZL,2000,56
+New Zealand,NZL,2001,53
+New Zealand,NZL,2002,61
+New Zealand,NZL,2003,69
+New Zealand,NZL,2004,72
+New Zealand,NZL,2005,72
+Norway,NOR,1990,29
+Norway,NOR,1991,32
+Norway,NOR,1992,38
+Norway,NOR,1993,38
+Norway,NOR,1994,41
+Norway,NOR,1995,46
+Norway,NOR,1996,49
+Norway,NOR,1997,53
+Norway,NOR,1998,54
+Norway,NOR,1999,65
+Norway,NOR,2000,57
+Norway,NOR,2001,66
+Norway,NOR,2002,68
+Norway,NOR,2003,68
+Norway,NOR,2004,72
+Norway,NOR,2005,71
+Poland,POL,1980,34
+Poland,POL,1981,33
+Poland,POL,1982,33
+Poland,POL,1983,36
+Poland,POL,1984,37
+Poland,POL,1985,34
+Poland,POL,1986,35
+Poland,POL,1987,35
+Poland,POL,1988,33
+Poland,POL,1989,33
+Poland,POL,1990,46
+Poland,POL,1991,48
+Poland,POL,1992,42
+Poland,POL,1993,14
+Poland,POL,1994,13
+Poland,POL,1995,28
+Poland,POL,1996,32
+Poland,POL,1997,34
+Poland,POL,1998,32
+Poland,POL,1999,32
+Poland,POL,2000,32
+Poland,POL,2001,32
+Poland,POL,2002,32
+Poland,POL,2003,35
+Poland,POL,2004,34
+Poland,POL,2005,34
+Portugal,PRT,1980,38
+Portugal,PRT,1981,38
+Portugal,PRT,1985,37
+Portugal,PRT,1988,42
+Portugal,PRT,1989,39
+Portugal,PRT,1990,40
+Portugal,PRT,1991,39
+Portugal,PRT,1992,39
+Portugal,PRT,1993,38
+Portugal,PRT,1994,40
+Portugal,PRT,1995,37
+Portugal,PRT,1996,39
+Portugal,PRT,1997,40
+Portugal,PRT,1998,42
+Portugal,PRT,1999,43
+Portugal,PRT,2000,45
+Portugal,PRT,2001,44
+Portugal,PRT,2002,45
+Portugal,PRT,2003,46
+Portugal,PRT,2004,36
+Portugal,PRT,2005,50
+Slovakia,SVK,1989,34
+Slovakia,SVK,1990,35
+Slovakia,SVK,1991,33
+Slovakia,SVK,1992,32
+Slovakia,SVK,1993,30
+Slovakia,SVK,1994,26
+Slovakia,SVK,1995,32
+Slovakia,SVK,1996,33
+Slovakia,SVK,1997,34
+Slovakia,SVK,1998,34
+Slovakia,SVK,1999,42
+Slovakia,SVK,2000,40
+Slovakia,SVK,2001,39
+Slovakia,SVK,2002,40
+Slovakia,SVK,2003,48
+Slovakia,SVK,2004,49
+Slovakia,SVK,2005,50
+South Korea,KOR,1988,41
+South Korea,KOR,1989,42
+South Korea,KOR,1990,44
+South Korea,KOR,1991,43
+South Korea,KOR,1992,44
+South Korea,KOR,1993,46
+South Korea,KOR,1994,51
+South Korea,KOR,1995,53
+South Korea,KOR,1996,55
+South Korea,KOR,1997,57
+South Korea,KOR,1998,58
+South Korea,KOR,1999,59
+South Korea,KOR,2000,60
+South Korea,KOR,2001,62
+South Korea,KOR,2002,64
+South Korea,KOR,2003,66
+South Korea,KOR,2004,69
+Spain,ESP,1980,39
+Spain,ESP,1981,38
+Spain,ESP,1982,42
+Spain,ESP,1983,44
+Spain,ESP,1984,42
+Spain,ESP,1985,44
+Spain,ESP,1986,43
+Spain,ESP,1987,41
+Spain,ESP,1988,41
+Spain,ESP,1989,39
+Spain,ESP,1990,39
+Spain,ESP,1991,38
+Spain,ESP,1992,37
+Spain,ESP,1993,37
+Spain,ESP,1994,36
+Spain,ESP,1995,41
+Spain,ESP,1996,41
+Spain,ESP,1997,42
+Spain,ESP,1998,43
+Spain,ESP,1999,46
+Spain,ESP,2000,48
+Spain,ESP,2001,55
+Spain,ESP,2002,52
+Spain,ESP,2003,51
+Spain,ESP,2004,55
+Spain,ESP,2005,59
+Sweden,SWE,1980,34
+Sweden,SWE,1990,46
+Sweden,SWE,1991,46
+Sweden,SWE,1992,50
+Sweden,SWE,1993,50
+Sweden,SWE,1994,65
+Sweden,SWE,1995,70
+Sweden,SWE,1996,61
+Sweden,SWE,1997,69
+Sweden,SWE,1998,71
+Sweden,SWE,1999,71
+Sweden,SWE,2000,66
+Sweden,SWE,2001,68
+Sweden,SWE,2002,67
+Sweden,SWE,2004,74
+Switzerland,CHE,1980,35
+Switzerland,CHE,1985,39
+Switzerland,CHE,1986,40
+Switzerland,CHE,1987,42
+Switzerland,CHE,1988,45
+Switzerland,CHE,1989,47
+Switzerland,CHE,1990,49
+Switzerland,CHE,1991,51
+Switzerland,CHE,1992,54
+Switzerland,CHE,1993,54
+Switzerland,CHE,1994,58
+Switzerland,CHE,1995,61
+Switzerland,CHE,1996,67
+Switzerland,CHE,1997,63
+Switzerland,CHE,1998,65
+Switzerland,CHE,1999,64
+Switzerland,CHE,2000,63
+Switzerland,CHE,2001,69
+Switzerland,CHE,2002,70
+Switzerland,CHE,2003,70
+Switzerland,CHE,2004,70
+Switzerland,CHE,2005,74
+Turkey,TUR,1990,26
+Turkey,TUR,1991,29
+Turkey,TUR,1992,29
+Turkey,TUR,1993,30
+Turkey,TUR,1994,36
+Turkey,TUR,1995,34
+Turkey,TUR,1996,33
+Turkey,TUR,1997,36
+Turkey,TUR,1998,36
+Turkey,TUR,1999,35
+Turkey,TUR,2000,40
+Turkey,TUR,2001,44
+Turkey,TUR,2002,41
+Turkey,TUR,2003,42
+United Kingdom,GBR,1980,32
+United Kingdom,GBR,1981,30
+United Kingdom,GBR,1982,29
+United Kingdom,GBR,1983,28
+United Kingdom,GBR,1984,29
+United Kingdom,GBR,1985,28
+United Kingdom,GBR,1986,29
+United Kingdom,GBR,1987,30
+United Kingdom,GBR,1988,30
+United Kingdom,GBR,1989,31
+United Kingdom,GBR,1990,33
+United Kingdom,GBR,1991,34
+United Kingdom,GBR,1992,34
+United Kingdom,GBR,1993,32
+United Kingdom,GBR,1994,35
+United Kingdom,GBR,1995,35
+United Kingdom,GBR,1996,39
+United Kingdom,GBR,1997,41
+United Kingdom,GBR,1998,40
+United Kingdom,GBR,1999,40
+United Kingdom,GBR,2000,41
+United Kingdom,GBR,2001,44
+United Kingdom,GBR,2002,48
+United Kingdom,GBR,2003,50
+United Kingdom,GBR,2004,56
+United States,USA,1980,21
+United States,USA,1985,21
+United States,USA,1990,28
+United States,USA,1991,32
+United States,USA,1992,33
+United States,USA,1993,33
+United States,USA,1994,36
+United States,USA,1995,40
+United States,USA,1996,41
+United States,USA,1997,40
+United States,USA,1998,41
+United States,USA,1999,41
+United States,USA,2000,43
+United States,USA,2001,46
+United States,USA,2002,46
+United States,USA,2003,48
+United States,USA,2004,47
+United States,USA,2005,50
+World,OWID_WRL,1980,524
+World,OWID_WRL,1981,319
+World,OWID_WRL,1982,253
+World,OWID_WRL,1983,255
+World,OWID_WRL,1984,257
+World,OWID_WRL,1985,561
+World,OWID_WRL,1986,381
+World,OWID_WRL,1987,388
+World,OWID_WRL,1988,473
+World,OWID_WRL,1989,536
+World,OWID_WRL,1990,839
+World,OWID_WRL,1991,912
+World,OWID_WRL,1992,941
+World,OWID_WRL,1993,942
+World,OWID_WRL,1994,1065
+World,OWID_WRL,1995,1147
+World,OWID_WRL,1996,1248
+World,OWID_WRL,1997,1275
+World,OWID_WRL,1998,1279
+World,OWID_WRL,1999,1325
+World,OWID_WRL,2000,1313
+World,OWID_WRL,2001,1393
+World,OWID_WRL,2002,1430
+World,OWID_WRL,2003,1422
+World,OWID_WRL,2004,1457
+World,OWID_WRL,2005,1178

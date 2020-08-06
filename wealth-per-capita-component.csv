@@ -1,0 +1,96 @@
+Entity,Code,Year,Human capital ($),Net foreign assets ($),Produced capital (including urban land) ($),Natural capital ($)
+East Asia & Pacific,,1995,56828.89,-275.27,15049.75,6407.92
+East Asia & Pacific,,2000,59380.02,100.24,18672.47,6950.65
+East Asia & Pacific,,2005,57499.9,707.4,23823.79,8788.03
+East Asia & Pacific,,2010,72468.28,1618.62,31541.47,13179.12
+East Asia & Pacific,,2014,85078.97,1783.94,39184.56,14739.26
+East Asia & Pacific (developing countries),,1995,20770.87,-433.18,5201.58,5721.77
+East Asia & Pacific (developing countries),,2000,24193.36,-310.34,7294.32,6330
+East Asia & Pacific (developing countries),,2005,25085.78,131.4,10713.76,8165.88
+East Asia & Pacific (developing countries),,2010,41612.11,688.91,16945.22,12177.26
+East Asia & Pacific (developing countries),,2014,53387.05,404.48,24017.84,13771.66
+Europe & Central Asia,,1995,176534.96,-657,90557.94,13886.75
+Europe & Central Asia,,2000,193916.37,-1392.06,95220.23,13535.9
+Europe & Central Asia,,2005,208334.07,-1927.23,106041.79,17028.64
+Europe & Central Asia,,2010,221080.49,-2629.5,119124.64,19335.67
+Europe & Central Asia,,2014,227581.23,-1595.24,122870.25,19376.67
+Europe & Central Asia (developing countries),,1995,14559.64,-839.24,23547.47,14699.22
+Europe & Central Asia (developing countries),,2000,15987.81,-1646.08,20506.9,12427.26
+Europe & Central Asia (developing countries),,2005,20565.65,-1867.53,22950.35,14845.95
+Europe & Central Asia (developing countries),,2010,24064.12,-2873.33,26115.37,18760.01
+Europe & Central Asia (developing countries),,2014,26115.66,-3324.52,27760.36,19978.29
+High income: OECD,,1995,412757.08,-1305.86,126197.86,13535.29
+High income: OECD,,2000,461959.38,-2894.09,145414.64,13321.33
+High income: OECD,,2005,474872.07,-2945.79,168508.3,14793.27
+High income: OECD,,2010,472946.49,-3248.77,185602.77,19241.82
+High income: OECD,,2014,499926.65,-5464.47,195928.6,19525.08
+High income: non-OECD,,1995,59375.97,3642.02,68725.65,34140.47
+High income: non-OECD,,2000,69451.04,6845.57,51475.23,37788.89
+High income: non-OECD,,2005,84507.29,7403.06,49684.31,57889.98
+High income: non-OECD,,2010,107517.68,9137.39,54769.14,74088.58
+High income: non-OECD,,2014,111792.78,14005.04,59095.86,80104.47
+Latin America & Caribbean,,1995,70897.94,-1927.14,25468.54,17849.13
+Latin America & Caribbean,,2000,74398.19,-2722.65,25714.61,16284.59
+Latin America & Caribbean,,2005,78924.92,-2328.08,27858.75,19793.3
+Latin America & Caribbean,,2010,85812.83,-2690.25,30133.34,24292.15
+Latin America & Caribbean,,2014,88699.98,-2372.41,32568.35,25346.98
+Latin America & Caribbean (developing countries),,1995,72936.77,-1997.73,24221.28,17688.25
+Latin America & Caribbean (developing countries),,2000,75472.27,-2798.63,24300.96,16002.64
+Latin America & Caribbean (developing countries),,2005,82396.61,-2680.78,26681.24,19050.73
+Latin America & Caribbean (developing countries),,2010,87687.93,-3284.37,29154.94,23106.52
+Latin America & Caribbean (developing countries),,2014,90191.28,-3102.52,29233.14,24340.92
+Low income,,1995,3920.53,-473.05,1938.72,6214.36
+Low income,,2000,4015.66,-354,1730.46,5042.96
+Low income,,2005,4045.93,-328.91,1611.5,4911.57
+Low income,,2010,4446.9,-210.66,1536.48,6029.38
+Low income,,2014,5563.69,-322.37,1967,6420.94
+Lower middle income,,1995,7991.98,-561.4,4110.89,6176.17
+Lower middle income,,2000,7917.33,-517.24,4039.45,5305.43
+Lower middle income,,2005,9300.59,-375.82,5010.86,5490.36
+Lower middle income,,2010,11420.69,-477.07,5937.41,6793.77
+Lower middle income,,2014,13116.55,-649.63,6531.24,6949.44
+Middle East & North Africa,,1995,35620.07,4852.76,24022.17,26707.87
+Middle East & North Africa,,2000,39177.46,6797.48,20235.45,28865.28
+Middle East & North Africa,,2005,44513.12,5703.62,19319.41,44194.83
+Middle East & North Africa,,2010,50439.92,7531.51,22444.67,63548.44
+Middle East & North Africa,,2014,54870.98,9900.49,23984.08,70136.75
+Middle East & North Africa (developing countries),,1995,12622.3,-861.71,6412.34,6799.89
+Middle East & North Africa (developing countries),,2000,14142.74,-690.75,6112.86,7697.89
+Middle East & North Africa (developing countries),,2005,15670.33,-2112.65,7885.84,13346.72
+Middle East & North Africa (developing countries),,2010,18075.14,-1046.01,9092.51,20426.05
+Middle East & North Africa (developing countries),,2014,19384.03,-1425.36,9777.5,20758.78
+North America,,1995,622124.35,-3413.79,144283.24,19376.08
+North America,,2000,724656.13,-7082.63,165051.79,19264.07
+North America,,2005,751681.57,-7742.59,196548.31,21841.29
+North America,,2010,720484.94,-9834.78,206688.59,27665.01
+North America,,2014,762896.49,-20360.34,217570.78,26513.6
+South Asia,,1995,4453.81,-184.91,2105.94,2875.8
+South Asia,,2000,5540.67,-173.51,2303.73,2852.3
+South Asia,,2005,6884.54,-179.98,2876.16,2930.65
+South Asia,,2010,8033.1,-321.37,3923.96,4074.2
+South Asia,,2014,9393.06,-423.31,4796.74,4633.18
+South Asia (developing countries),,1995,4453.81,-184.91,2105.94,2875.8
+South Asia (developing countries),,2000,5540.67,-173.51,2303.73,2852.3
+South Asia (developing countries),,2005,6884.54,-179.98,2876.16,2930.65
+South Asia (developing countries),,2010,8033.1,-321.37,3923.96,4074.2
+South Asia (developing countries),,2014,9393.06,-423.31,4796.74,4633.18
+Sub-Saharan Africa,,1995,9397.06,-1028.43,4354.28,13679.89
+Sub-Saharan Africa,,2000,8771.06,-670.27,3816.35,10046.38
+Sub-Saharan Africa,,2005,8507.37,-385.15,4945.31,9601.05
+Sub-Saharan Africa,,2010,11297.63,-118.61,3882.76,10299.73
+Sub-Saharan Africa,,2014,12680.12,-360.16,4017.44,9224.91
+Sub-Saharan Africa (developing countries),,1995,9397.06,-1028.43,4354.28,13679.89
+Sub-Saharan Africa (developing countries),,2000,8771.06,-670.27,3816.35,10046.38
+Sub-Saharan Africa (developing countries),,2005,8507.37,-385.15,4945.31,9601.05
+Sub-Saharan Africa (developing countries),,2010,11297.63,-118.61,3882.76,10299.73
+Sub-Saharan Africa (developing countries),,2014,12680.12,-360.16,4017.44,9224.91
+Upper middle income,,1995,32898.72,-702.16,10809.87,9129.05
+Upper middle income,,2000,37745.52,-803.74,12424.01,9286.67
+Upper middle income,,2005,40420.3,-617.68,16144.81,12171.05
+Upper middle income,,2010,56535.64,-199.41,22082.63,17187.67
+Upper middle income,,2014,67389.66,-431.71,28526.93,18960
+World,OWID_WRL,1995,89977.11,-540.04,30792.5,9802.66
+World,OWID_WRL,2000,97444.82,-678.22,32801.35,9462.65
+World,OWID_WRL,2005,98922.71,-539.11,37237.28,11486.58
+World,OWID_WRL,2010,103210.91,-395.1,41569.86,15018.52
+World,OWID_WRL,2014,109423.5,-675.55,44760.26,15840.88

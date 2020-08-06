@@ -1,0 +1,2857 @@
+Entity,Code,Year,
+Afghanistan,AFG,1990,0.33
+Afghanistan,AFG,1991,0.33
+Afghanistan,AFG,1992,0.33
+Afghanistan,AFG,1993,0.33
+Afghanistan,AFG,1994,0.33
+Afghanistan,AFG,1995,0.33
+Afghanistan,AFG,1996,0.33
+Afghanistan,AFG,1997,0.33
+Afghanistan,AFG,1998,0.33
+Afghanistan,AFG,1999,0.33
+Afghanistan,AFG,2000,0.32
+Afghanistan,AFG,2001,0.31
+Afghanistan,AFG,2002,0.3
+Afghanistan,AFG,2003,0.29
+Afghanistan,AFG,2004,0.28
+Afghanistan,AFG,2005,0.27
+Afghanistan,AFG,2006,0.26
+Afghanistan,AFG,2007,0.25
+Afghanistan,AFG,2008,0.25
+Afghanistan,AFG,2009,0.25
+Afghanistan,AFG,2010,0.25
+Afghanistan,AFG,2011,0.25
+Afghanistan,AFG,2012,0.25
+Afghanistan,AFG,2013,0.25
+Afghanistan,AFG,2014,0.25
+Algeria,DZA,1990,0.28
+Algeria,DZA,1991,0.28
+Algeria,DZA,1992,0.28
+Algeria,DZA,1993,0.28
+Algeria,DZA,1994,0.28
+Algeria,DZA,1995,0.28
+Algeria,DZA,1996,0.28
+Algeria,DZA,1997,0.28
+Algeria,DZA,1998,0.28
+Algeria,DZA,1999,0.28
+Algeria,DZA,2000,0.27
+Algeria,DZA,2001,0.27
+Algeria,DZA,2002,0.28
+Algeria,DZA,2003,0.28
+Algeria,DZA,2004,0.28
+Algeria,DZA,2005,0.28
+Algeria,DZA,2006,0.28
+Algeria,DZA,2007,0.28
+Algeria,DZA,2008,0.28
+Algeria,DZA,2009,0.28
+Algeria,DZA,2010,0.28
+Algeria,DZA,2011,0.28
+Algeria,DZA,2012,0.28
+Algeria,DZA,2013,0.28
+Algeria,DZA,2014,0.28
+Angola,AGO,1990,0.31
+Angola,AGO,1991,0.31
+Angola,AGO,1992,0.31
+Angola,AGO,1993,0.31
+Angola,AGO,1994,0.31
+Angola,AGO,1995,0.31
+Angola,AGO,1996,0.31
+Angola,AGO,1997,0.31
+Angola,AGO,1998,0.31
+Angola,AGO,1999,0.31
+Angola,AGO,2000,0.3
+Angola,AGO,2001,0.3
+Angola,AGO,2002,0.3
+Angola,AGO,2003,0.3
+Angola,AGO,2004,0.3
+Angola,AGO,2005,0.3
+Angola,AGO,2006,0.3
+Angola,AGO,2007,0.3
+Angola,AGO,2008,0.3
+Angola,AGO,2009,0.3
+Angola,AGO,2010,0.3
+Angola,AGO,2011,0.3
+Angola,AGO,2012,0.3
+Angola,AGO,2013,0.3
+Angola,AGO,2014,0.3
+Argentina,ARG,1990,0.21
+Argentina,ARG,1991,0.21
+Argentina,ARG,1992,0.21
+Argentina,ARG,1993,0.21
+Argentina,ARG,1994,0.21
+Argentina,ARG,1995,0.21
+Argentina,ARG,1996,0.21
+Argentina,ARG,1997,0.21
+Argentina,ARG,1998,0.21
+Argentina,ARG,1999,0.21
+Argentina,ARG,2000,0.21
+Argentina,ARG,2001,0.21
+Argentina,ARG,2002,0.21
+Argentina,ARG,2003,0.21
+Argentina,ARG,2004,0.21
+Argentina,ARG,2005,0.21
+Argentina,ARG,2006,0.21
+Argentina,ARG,2007,0.21
+Argentina,ARG,2008,0.21
+Argentina,ARG,2009,0.21
+Argentina,ARG,2010,0.21
+Argentina,ARG,2011,0.21
+Argentina,ARG,2012,0.21
+Argentina,ARG,2013,0.21
+Argentina,ARG,2014,0.21
+Armenia,ARM,1992,0.21
+Armenia,ARM,1993,0.21
+Armenia,ARM,1994,0.21
+Armenia,ARM,1995,0.21
+Armenia,ARM,1996,0.21
+Armenia,ARM,1997,0.21
+Armenia,ARM,1998,0.21
+Armenia,ARM,1999,0.21
+Armenia,ARM,2000,0.21
+Armenia,ARM,2001,0.21
+Armenia,ARM,2002,0.21
+Armenia,ARM,2003,0.21
+Armenia,ARM,2004,0.21
+Armenia,ARM,2005,0.21
+Armenia,ARM,2006,0.22
+Armenia,ARM,2007,0.22
+Armenia,ARM,2008,0.22
+Armenia,ARM,2009,0.23
+Armenia,ARM,2010,0.23
+Armenia,ARM,2011,0.24
+Armenia,ARM,2012,0.24
+Armenia,ARM,2013,0.24
+Armenia,ARM,2014,0.24
+Azerbaijan,AZE,1992,0.22
+Azerbaijan,AZE,1993,0.22
+Azerbaijan,AZE,1994,0.22
+Azerbaijan,AZE,1995,0.22
+Azerbaijan,AZE,1996,0.22
+Azerbaijan,AZE,1997,0.22
+Azerbaijan,AZE,1998,0.22
+Azerbaijan,AZE,1999,0.22
+Azerbaijan,AZE,2000,0.22
+Azerbaijan,AZE,2001,0.22
+Azerbaijan,AZE,2002,0.22
+Azerbaijan,AZE,2003,0.22
+Azerbaijan,AZE,2004,0.22
+Azerbaijan,AZE,2005,0.22
+Azerbaijan,AZE,2006,0.22
+Azerbaijan,AZE,2007,0.22
+Azerbaijan,AZE,2008,0.21
+Azerbaijan,AZE,2009,0.21
+Azerbaijan,AZE,2010,0.21
+Azerbaijan,AZE,2011,0.21
+Azerbaijan,AZE,2012,0.21
+Azerbaijan,AZE,2013,0.21
+Azerbaijan,AZE,2014,0.21
+Bangladesh,BGD,1990,0.32
+Bangladesh,BGD,1991,0.32
+Bangladesh,BGD,1992,0.32
+Bangladesh,BGD,1993,0.32
+Bangladesh,BGD,1994,0.31
+Bangladesh,BGD,1995,0.3
+Bangladesh,BGD,1996,0.3
+Bangladesh,BGD,1997,0.29
+Bangladesh,BGD,1998,0.28
+Bangladesh,BGD,1999,0.27
+Bangladesh,BGD,2000,0.26
+Bangladesh,BGD,2001,0.26
+Bangladesh,BGD,2002,0.26
+Bangladesh,BGD,2003,0.26
+Bangladesh,BGD,2004,0.25
+Bangladesh,BGD,2005,0.25
+Bangladesh,BGD,2006,0.26
+Bangladesh,BGD,2007,0.26
+Bangladesh,BGD,2008,0.26
+Bangladesh,BGD,2009,0.26
+Bangladesh,BGD,2010,0.26
+Bangladesh,BGD,2011,0.26
+Bangladesh,BGD,2012,0.26
+Bangladesh,BGD,2013,0.26
+Bangladesh,BGD,2014,0.26
+Barbados,BRB,1990,0.21
+Barbados,BRB,1991,0.21
+Barbados,BRB,1992,0.21
+Barbados,BRB,1993,0.21
+Barbados,BRB,1994,0.21
+Barbados,BRB,1995,0.21
+Barbados,BRB,1996,0.21
+Barbados,BRB,1997,0.21
+Barbados,BRB,1998,0.21
+Barbados,BRB,1999,0.21
+Barbados,BRB,2000,0.21
+Barbados,BRB,2001,0.22
+Barbados,BRB,2002,0.22
+Barbados,BRB,2003,0.22
+Barbados,BRB,2004,0.22
+Barbados,BRB,2005,0.22
+Barbados,BRB,2006,0.22
+Barbados,BRB,2007,0.22
+Barbados,BRB,2008,0.22
+Barbados,BRB,2009,0.22
+Barbados,BRB,2010,0.22
+Barbados,BRB,2011,0.22
+Barbados,BRB,2012,0.22
+Barbados,BRB,2013,0.22
+Barbados,BRB,2014,0.22
+Belize,BLZ,1990,0.25
+Belize,BLZ,1991,0.25
+Belize,BLZ,1992,0.25
+Belize,BLZ,1993,0.25
+Belize,BLZ,1994,0.25
+Belize,BLZ,1995,0.25
+Belize,BLZ,1996,0.25
+Belize,BLZ,1997,0.25
+Belize,BLZ,1998,0.25
+Belize,BLZ,1999,0.25
+Belize,BLZ,2000,0.24
+Belize,BLZ,2001,0.24
+Belize,BLZ,2002,0.24
+Belize,BLZ,2003,0.24
+Belize,BLZ,2004,0.24
+Belize,BLZ,2005,0.25
+Belize,BLZ,2006,0.25
+Belize,BLZ,2007,0.25
+Belize,BLZ,2008,0.25
+Belize,BLZ,2009,0.25
+Belize,BLZ,2010,0.25
+Belize,BLZ,2011,0.25
+Belize,BLZ,2012,0.25
+Belize,BLZ,2013,0.25
+Belize,BLZ,2014,0.25
+Benin,BEN,1990,0.29
+Benin,BEN,1991,0.29
+Benin,BEN,1992,0.29
+Benin,BEN,1993,0.29
+Benin,BEN,1994,0.29
+Benin,BEN,1995,0.29
+Benin,BEN,1996,0.29
+Benin,BEN,1997,0.29
+Benin,BEN,1998,0.29
+Benin,BEN,1999,0.29
+Benin,BEN,2000,0.28
+Benin,BEN,2001,0.28
+Benin,BEN,2002,0.28
+Benin,BEN,2003,0.28
+Benin,BEN,2004,0.28
+Benin,BEN,2005,0.28
+Benin,BEN,2006,0.28
+Benin,BEN,2007,0.28
+Benin,BEN,2008,0.28
+Benin,BEN,2009,0.28
+Benin,BEN,2010,0.28
+Benin,BEN,2011,0.28
+Benin,BEN,2012,0.28
+Benin,BEN,2013,0.28
+Benin,BEN,2014,0.28
+Bolivia,BOL,1990,0.26
+Bolivia,BOL,1991,0.26
+Bolivia,BOL,1992,0.26
+Bolivia,BOL,1993,0.26
+Bolivia,BOL,1994,0.26
+Bolivia,BOL,1995,0.26
+Bolivia,BOL,1996,0.26
+Bolivia,BOL,1997,0.26
+Bolivia,BOL,1998,0.26
+Bolivia,BOL,1999,0.26
+Bolivia,BOL,2000,0.25
+Bolivia,BOL,2001,0.24
+Bolivia,BOL,2002,0.25
+Bolivia,BOL,2003,0.24
+Bolivia,BOL,2004,0.24
+Bolivia,BOL,2005,0.24
+Bolivia,BOL,2006,0.24
+Bolivia,BOL,2007,0.23
+Bolivia,BOL,2008,0.24
+Bolivia,BOL,2009,0.24
+Bolivia,BOL,2010,0.24
+Bolivia,BOL,2011,0.23
+Bolivia,BOL,2012,0.23
+Bolivia,BOL,2013,0.23
+Bolivia,BOL,2014,0.23
+Botswana,BWA,1990,0.25
+Botswana,BWA,1991,0.25
+Botswana,BWA,1992,0.25
+Botswana,BWA,1993,0.25
+Botswana,BWA,1994,0.25
+Botswana,BWA,1995,0.25
+Botswana,BWA,1996,0.25
+Botswana,BWA,1997,0.25
+Botswana,BWA,1998,0.25
+Botswana,BWA,1999,0.25
+Botswana,BWA,2000,0.24
+Botswana,BWA,2001,0.24
+Botswana,BWA,2002,0.24
+Botswana,BWA,2003,0.24
+Botswana,BWA,2004,0.24
+Botswana,BWA,2005,0.24
+Botswana,BWA,2006,0.24
+Botswana,BWA,2007,0.24
+Botswana,BWA,2008,0.24
+Botswana,BWA,2009,0.24
+Botswana,BWA,2010,0.25
+Botswana,BWA,2011,0.25
+Botswana,BWA,2012,0.25
+Botswana,BWA,2013,0.25
+Botswana,BWA,2014,0.25
+Brazil,BRA,1990,0.31
+Brazil,BRA,1991,0.31
+Brazil,BRA,1992,0.31
+Brazil,BRA,1993,0.31
+Brazil,BRA,1994,0.31
+Brazil,BRA,1995,0.31
+Brazil,BRA,1996,0.31
+Brazil,BRA,1997,0.31
+Brazil,BRA,1998,0.31
+Brazil,BRA,1999,0.31
+Brazil,BRA,2000,0.31
+Brazil,BRA,2001,0.3
+Brazil,BRA,2002,0.29
+Brazil,BRA,2003,0.28
+Brazil,BRA,2004,0.27
+Brazil,BRA,2005,0.26
+Brazil,BRA,2006,0.25
+Brazil,BRA,2007,0.24
+Brazil,BRA,2008,0.23
+Brazil,BRA,2009,0.23
+Brazil,BRA,2010,0.23
+Brazil,BRA,2011,0.23
+Brazil,BRA,2012,0.23
+Brazil,BRA,2013,0.23
+Brazil,BRA,2014,0.23
+Brunei,BRN,1990,0.21
+Brunei,BRN,1991,0.21
+Brunei,BRN,1992,0.21
+Brunei,BRN,1993,0.21
+Brunei,BRN,1994,0.21
+Brunei,BRN,1995,0.21
+Brunei,BRN,1996,0.21
+Brunei,BRN,1997,0.21
+Brunei,BRN,1998,0.21
+Brunei,BRN,1999,0.21
+Brunei,BRN,2000,0.21
+Brunei,BRN,2001,0.21
+Brunei,BRN,2002,0.21
+Brunei,BRN,2003,0.21
+Brunei,BRN,2004,0.21
+Brunei,BRN,2005,0.21
+Brunei,BRN,2006,0.21
+Brunei,BRN,2007,0.21
+Brunei,BRN,2008,0.21
+Brunei,BRN,2009,0.21
+Brunei,BRN,2010,0.21
+Brunei,BRN,2011,0.21
+Brunei,BRN,2012,0.21
+Brunei,BRN,2013,0.21
+Brunei,BRN,2014,0.21
+Burkina Faso,BFA,1990,0.29
+Burkina Faso,BFA,1991,0.29
+Burkina Faso,BFA,1992,0.29
+Burkina Faso,BFA,1993,0.29
+Burkina Faso,BFA,1994,0.29
+Burkina Faso,BFA,1995,0.29
+Burkina Faso,BFA,1996,0.29
+Burkina Faso,BFA,1997,0.29
+Burkina Faso,BFA,1998,0.31
+Burkina Faso,BFA,1999,0.33
+Burkina Faso,BFA,2000,0.34
+Burkina Faso,BFA,2001,0.36
+Burkina Faso,BFA,2002,0.38
+Burkina Faso,BFA,2003,0.4
+Burkina Faso,BFA,2004,0.4
+Burkina Faso,BFA,2005,0.4
+Burkina Faso,BFA,2006,0.4
+Burkina Faso,BFA,2007,0.41
+Burkina Faso,BFA,2008,0.41
+Burkina Faso,BFA,2009,0.41
+Burkina Faso,BFA,2010,0.41
+Burkina Faso,BFA,2011,0.41
+Burkina Faso,BFA,2012,0.41
+Burkina Faso,BFA,2013,0.41
+Burkina Faso,BFA,2014,0.41
+Cabo Verde,,1990,0.25
+Cabo Verde,,1991,0.25
+Cabo Verde,,1992,0.25
+Cabo Verde,,1993,0.25
+Cabo Verde,,1994,0.25
+Cabo Verde,,1995,0.25
+Cabo Verde,,1996,0.25
+Cabo Verde,,1997,0.25
+Cabo Verde,,1998,0.25
+Cabo Verde,,1999,0.25
+Cabo Verde,,2000,0.24
+Cabo Verde,,2001,0.24
+Cabo Verde,,2002,0.24
+Cabo Verde,,2003,0.24
+Cabo Verde,,2004,0.24
+Cabo Verde,,2005,0.25
+Cabo Verde,,2006,0.25
+Cabo Verde,,2007,0.25
+Cabo Verde,,2008,0.25
+Cabo Verde,,2009,0.25
+Cabo Verde,,2010,0.25
+Cabo Verde,,2011,0.25
+Cabo Verde,,2012,0.25
+Cabo Verde,,2013,0.25
+Cabo Verde,,2014,0.25
+Cambodia,KHM,1990,0.28
+Cambodia,KHM,1991,0.28
+Cambodia,KHM,1992,0.28
+Cambodia,KHM,1993,0.28
+Cambodia,KHM,1994,0.28
+Cambodia,KHM,1995,0.28
+Cambodia,KHM,1996,0.28
+Cambodia,KHM,1997,0.28
+Cambodia,KHM,1998,0.28
+Cambodia,KHM,1999,0.28
+Cambodia,KHM,2000,0.27
+Cambodia,KHM,2001,0.27
+Cambodia,KHM,2002,0.28
+Cambodia,KHM,2003,0.28
+Cambodia,KHM,2004,0.28
+Cambodia,KHM,2005,0.27
+Cambodia,KHM,2006,0.27
+Cambodia,KHM,2007,0.27
+Cambodia,KHM,2008,0.27
+Cambodia,KHM,2009,0.27
+Cambodia,KHM,2010,0.27
+Cambodia,KHM,2011,0.27
+Cambodia,KHM,2012,0.27
+Cambodia,KHM,2013,0.27
+Cambodia,KHM,2014,0.27
+Cameroon,CMR,1990,0.26
+Cameroon,CMR,1991,0.26
+Cameroon,CMR,1992,0.26
+Cameroon,CMR,1993,0.26
+Cameroon,CMR,1994,0.26
+Cameroon,CMR,1995,0.26
+Cameroon,CMR,1996,0.26
+Cameroon,CMR,1997,0.26
+Cameroon,CMR,1998,0.26
+Cameroon,CMR,1999,0.26
+Cameroon,CMR,2000,0.25
+Cameroon,CMR,2001,0.25
+Cameroon,CMR,2002,0.25
+Cameroon,CMR,2003,0.25
+Cameroon,CMR,2004,0.25
+Cameroon,CMR,2005,0.25
+Cameroon,CMR,2006,0.25
+Cameroon,CMR,2007,0.25
+Cameroon,CMR,2008,0.25
+Cameroon,CMR,2009,0.25
+Cameroon,CMR,2010,0.25
+Cameroon,CMR,2011,0.25
+Cameroon,CMR,2012,0.25
+Cameroon,CMR,2013,0.25
+Cameroon,CMR,2014,0.25
+Central African Republic,CAF,1990,0.29
+Central African Republic,CAF,1991,0.29
+Central African Republic,CAF,1992,0.29
+Central African Republic,CAF,1993,0.29
+Central African Republic,CAF,1994,0.29
+Central African Republic,CAF,1995,0.29
+Central African Republic,CAF,1996,0.29
+Central African Republic,CAF,1997,0.29
+Central African Republic,CAF,1998,0.29
+Central African Republic,CAF,1999,0.29
+Central African Republic,CAF,2000,0.28
+Central African Republic,CAF,2001,0.28
+Central African Republic,CAF,2002,0.28
+Central African Republic,CAF,2003,0.28
+Central African Republic,CAF,2004,0.29
+Central African Republic,CAF,2005,0.29
+Central African Republic,CAF,2006,0.29
+Central African Republic,CAF,2007,0.29
+Central African Republic,CAF,2008,0.3
+Central African Republic,CAF,2009,0.3
+Central African Republic,CAF,2010,0.3
+Central African Republic,CAF,2011,0.3
+Central African Republic,CAF,2012,0.3
+Central African Republic,CAF,2013,0.3
+Central African Republic,CAF,2014,0.3
+Chad,TCD,1990,0.31
+Chad,TCD,1991,0.31
+Chad,TCD,1992,0.31
+Chad,TCD,1993,0.31
+Chad,TCD,1994,0.31
+Chad,TCD,1995,0.31
+Chad,TCD,1996,0.31
+Chad,TCD,1997,0.31
+Chad,TCD,1998,0.31
+Chad,TCD,1999,0.31
+Chad,TCD,2000,0.29
+Chad,TCD,2001,0.3
+Chad,TCD,2002,0.31
+Chad,TCD,2003,0.32
+Chad,TCD,2004,0.32
+Chad,TCD,2005,0.33
+Chad,TCD,2006,0.34
+Chad,TCD,2007,0.34
+Chad,TCD,2008,0.35
+Chad,TCD,2009,0.36
+Chad,TCD,2010,0.36
+Chad,TCD,2011,0.36
+Chad,TCD,2012,0.36
+Chad,TCD,2013,0.36
+Chad,TCD,2014,0.36
+Chile,CHL,1990,0.21
+Chile,CHL,1991,0.21
+Chile,CHL,1992,0.21
+Chile,CHL,1993,0.21
+Chile,CHL,1994,0.21
+Chile,CHL,1995,0.21
+Chile,CHL,1996,0.21
+Chile,CHL,1997,0.21
+Chile,CHL,1998,0.21
+Chile,CHL,1999,0.21
+Chile,CHL,2000,0.22
+Chile,CHL,2001,0.22
+Chile,CHL,2002,0.22
+Chile,CHL,2003,0.22
+Chile,CHL,2004,0.22
+Chile,CHL,2005,0.22
+Chile,CHL,2006,0.22
+Chile,CHL,2007,0.22
+Chile,CHL,2008,0.22
+Chile,CHL,2009,0.22
+Chile,CHL,2010,0.22
+Chile,CHL,2011,0.22
+Chile,CHL,2012,0.22
+Chile,CHL,2013,0.22
+Chile,CHL,2014,0.22
+China,CHN,1990,0.32
+China,CHN,1991,0.32
+China,CHN,1992,0.32
+China,CHN,1993,0.32
+China,CHN,1994,0.32
+China,CHN,1995,0.32
+China,CHN,1996,0.32
+China,CHN,1997,0.32
+China,CHN,1998,0.32
+China,CHN,1999,0.32
+China,CHN,2000,0.32
+China,CHN,2001,0.32
+China,CHN,2002,0.32
+China,CHN,2003,0.32
+China,CHN,2004,0.32
+China,CHN,2005,0.32
+China,CHN,2006,0.32
+China,CHN,2007,0.32
+China,CHN,2008,0.32
+China,CHN,2009,0.32
+China,CHN,2010,0.32
+China,CHN,2011,0.32
+China,CHN,2012,0.32
+China,CHN,2013,0.32
+China,CHN,2014,0.32
+Colombia,COL,1990,0.28
+Colombia,COL,1991,0.28
+Colombia,COL,1992,0.28
+Colombia,COL,1993,0.28
+Colombia,COL,1994,0.28
+Colombia,COL,1995,0.28
+Colombia,COL,1996,0.28
+Colombia,COL,1997,0.28
+Colombia,COL,1998,0.28
+Colombia,COL,1999,0.28
+Colombia,COL,2000,0.28
+Colombia,COL,2001,0.28
+Colombia,COL,2002,0.28
+Colombia,COL,2003,0.27
+Colombia,COL,2004,0.27
+Colombia,COL,2005,0.27
+Colombia,COL,2006,0.28
+Colombia,COL,2007,0.27
+Colombia,COL,2008,0.26
+Colombia,COL,2009,0.27
+Colombia,COL,2010,0.27
+Colombia,COL,2011,0.26
+Colombia,COL,2012,0.26
+Colombia,COL,2013,0.26
+Colombia,COL,2014,0.27
+Congo,COG,1990,0.29
+Congo,COG,1991,0.29
+Congo,COG,1992,0.29
+Congo,COG,1993,0.29
+Congo,COG,1994,0.29
+Congo,COG,1995,0.29
+Congo,COG,1996,0.29
+Congo,COG,1997,0.29
+Congo,COG,1998,0.29
+Congo,COG,1999,0.29
+Congo,COG,2000,0.28
+Congo,COG,2001,0.28
+Congo,COG,2002,0.28
+Congo,COG,2003,0.28
+Congo,COG,2004,0.28
+Congo,COG,2005,0.28
+Congo,COG,2006,0.28
+Congo,COG,2007,0.28
+Congo,COG,2008,0.28
+Congo,COG,2009,0.28
+Congo,COG,2010,0.28
+Congo,COG,2011,0.28
+Congo,COG,2012,0.28
+Congo,COG,2013,0.28
+Congo,COG,2014,0.28
+Costa Rica,CRI,1990,0.22
+Costa Rica,CRI,1991,0.22
+Costa Rica,CRI,1992,0.22
+Costa Rica,CRI,1993,0.22
+Costa Rica,CRI,1994,0.22
+Costa Rica,CRI,1995,0.22
+Costa Rica,CRI,1996,0.22
+Costa Rica,CRI,1997,0.22
+Costa Rica,CRI,1998,0.22
+Costa Rica,CRI,1999,0.22
+Costa Rica,CRI,2000,0.21
+Costa Rica,CRI,2001,0.21
+Costa Rica,CRI,2002,0.22
+Costa Rica,CRI,2003,0.22
+Costa Rica,CRI,2004,0.22
+Costa Rica,CRI,2005,0.22
+Costa Rica,CRI,2006,0.22
+Costa Rica,CRI,2007,0.22
+Costa Rica,CRI,2008,0.22
+Costa Rica,CRI,2009,0.22
+Costa Rica,CRI,2010,0.22
+Costa Rica,CRI,2011,0.22
+Costa Rica,CRI,2012,0.22
+Costa Rica,CRI,2013,0.22
+Costa Rica,CRI,2014,0.22
+Cote d'Ivoire,CIV,1990,0.29
+Cote d'Ivoire,CIV,1991,0.29
+Cote d'Ivoire,CIV,1992,0.29
+Cote d'Ivoire,CIV,1993,0.29
+Cote d'Ivoire,CIV,1994,0.29
+Cote d'Ivoire,CIV,1995,0.29
+Cote d'Ivoire,CIV,1996,0.29
+Cote d'Ivoire,CIV,1997,0.3
+Cote d'Ivoire,CIV,1998,0.32
+Cote d'Ivoire,CIV,1999,0.33
+Cote d'Ivoire,CIV,2000,0.35
+Cote d'Ivoire,CIV,2001,0.36
+Cote d'Ivoire,CIV,2002,0.38
+Cote d'Ivoire,CIV,2003,0.38
+Cote d'Ivoire,CIV,2004,0.38
+Cote d'Ivoire,CIV,2005,0.38
+Cote d'Ivoire,CIV,2006,0.38
+Cote d'Ivoire,CIV,2007,0.38
+Cote d'Ivoire,CIV,2008,0.38
+Cote d'Ivoire,CIV,2009,0.38
+Cote d'Ivoire,CIV,2010,0.38
+Cote d'Ivoire,CIV,2011,0.38
+Cote d'Ivoire,CIV,2012,0.38
+Cote d'Ivoire,CIV,2013,0.38
+Cote d'Ivoire,CIV,2014,0.38
+Cuba,CUB,1990,0.22
+Cuba,CUB,1991,0.22
+Cuba,CUB,1992,0.22
+Cuba,CUB,1993,0.22
+Cuba,CUB,1994,0.22
+Cuba,CUB,1995,0.22
+Cuba,CUB,1996,0.22
+Cuba,CUB,1997,0.22
+Cuba,CUB,1998,0.22
+Cuba,CUB,1999,0.22
+Cuba,CUB,2000,0.22
+Cuba,CUB,2001,0.23
+Cuba,CUB,2002,0.23
+Cuba,CUB,2003,0.23
+Cuba,CUB,2004,0.23
+Cuba,CUB,2005,0.23
+Cuba,CUB,2006,0.23
+Cuba,CUB,2007,0.23
+Cuba,CUB,2008,0.23
+Cuba,CUB,2009,0.23
+Cuba,CUB,2010,0.23
+Cuba,CUB,2011,0.23
+Cuba,CUB,2012,0.23
+Cuba,CUB,2013,0.23
+Cuba,CUB,2014,0.23
+Djibouti,DJI,1990,0.3
+Djibouti,DJI,1991,0.3
+Djibouti,DJI,1992,0.3
+Djibouti,DJI,1993,0.3
+Djibouti,DJI,1994,0.3
+Djibouti,DJI,1995,0.3
+Djibouti,DJI,1996,0.3
+Djibouti,DJI,1997,0.3
+Djibouti,DJI,1998,0.3
+Djibouti,DJI,1999,0.3
+Djibouti,DJI,2000,0.3
+Djibouti,DJI,2001,0.3
+Djibouti,DJI,2002,0.3
+Djibouti,DJI,2003,0.3
+Djibouti,DJI,2004,0.3
+Djibouti,DJI,2005,0.3
+Djibouti,DJI,2006,0.3
+Djibouti,DJI,2007,0.3
+Djibouti,DJI,2008,0.3
+Djibouti,DJI,2009,0.3
+Djibouti,DJI,2010,0.3
+Djibouti,DJI,2011,0.3
+Djibouti,DJI,2012,0.3
+Djibouti,DJI,2013,0.3
+Djibouti,DJI,2014,0.3
+Dominican Republic,DOM,1990,0.24
+Dominican Republic,DOM,1991,0.24
+Dominican Republic,DOM,1992,0.24
+Dominican Republic,DOM,1993,0.24
+Dominican Republic,DOM,1994,0.24
+Dominican Republic,DOM,1995,0.24
+Dominican Republic,DOM,1996,0.24
+Dominican Republic,DOM,1997,0.24
+Dominican Republic,DOM,1998,0.24
+Dominican Republic,DOM,1999,0.24
+Dominican Republic,DOM,2000,0.24
+Dominican Republic,DOM,2001,0.24
+Dominican Republic,DOM,2002,0.24
+Dominican Republic,DOM,2003,0.24
+Dominican Republic,DOM,2004,0.24
+Dominican Republic,DOM,2005,0.24
+Dominican Republic,DOM,2006,0.24
+Dominican Republic,DOM,2007,0.24
+Dominican Republic,DOM,2008,0.24
+Dominican Republic,DOM,2009,0.24
+Dominican Republic,DOM,2010,0.24
+Dominican Republic,DOM,2011,0.24
+Dominican Republic,DOM,2012,0.24
+Dominican Republic,DOM,2013,0.24
+Dominican Republic,DOM,2014,0.24
+Ecuador,ECU,1990,0.23
+Ecuador,ECU,1991,0.23
+Ecuador,ECU,1992,0.23
+Ecuador,ECU,1993,0.23
+Ecuador,ECU,1994,0.23
+Ecuador,ECU,1995,0.23
+Ecuador,ECU,1996,0.23
+Ecuador,ECU,1997,0.23
+Ecuador,ECU,1998,0.23
+Ecuador,ECU,1999,0.23
+Ecuador,ECU,2000,0.23
+Ecuador,ECU,2001,0.23
+Ecuador,ECU,2002,0.23
+Ecuador,ECU,2003,0.24
+Ecuador,ECU,2004,0.24
+Ecuador,ECU,2005,0.24
+Ecuador,ECU,2006,0.24
+Ecuador,ECU,2007,0.24
+Ecuador,ECU,2008,0.23
+Ecuador,ECU,2009,0.24
+Ecuador,ECU,2010,0.23
+Ecuador,ECU,2011,0.23
+Ecuador,ECU,2012,0.23
+Ecuador,ECU,2013,0.23
+Ecuador,ECU,2014,0.23
+Egypt,EGY,1990,0.29
+Egypt,EGY,1991,0.29
+Egypt,EGY,1992,0.29
+Egypt,EGY,1993,0.29
+Egypt,EGY,1994,0.29
+Egypt,EGY,1995,0.29
+Egypt,EGY,1996,0.29
+Egypt,EGY,1997,0.29
+Egypt,EGY,1998,0.29
+Egypt,EGY,1999,0.29
+Egypt,EGY,2000,0.28
+Egypt,EGY,2001,0.28
+Egypt,EGY,2002,0.28
+Egypt,EGY,2003,0.29
+Egypt,EGY,2004,0.29
+Egypt,EGY,2005,0.29
+Egypt,EGY,2006,0.29
+Egypt,EGY,2007,0.29
+Egypt,EGY,2008,0.29
+Egypt,EGY,2009,0.29
+Egypt,EGY,2010,0.29
+Egypt,EGY,2011,0.29
+Egypt,EGY,2012,0.29
+Egypt,EGY,2013,0.29
+Egypt,EGY,2014,0.29
+El Salvador,SLV,1990,0.26
+El Salvador,SLV,1991,0.26
+El Salvador,SLV,1992,0.26
+El Salvador,SLV,1993,0.26
+El Salvador,SLV,1994,0.26
+El Salvador,SLV,1995,0.26
+El Salvador,SLV,1996,0.26
+El Salvador,SLV,1997,0.26
+El Salvador,SLV,1998,0.26
+El Salvador,SLV,1999,0.26
+El Salvador,SLV,2000,0.25
+El Salvador,SLV,2001,0.25
+El Salvador,SLV,2002,0.25
+El Salvador,SLV,2003,0.25
+El Salvador,SLV,2004,0.25
+El Salvador,SLV,2005,0.25
+El Salvador,SLV,2006,0.26
+El Salvador,SLV,2007,0.26
+El Salvador,SLV,2008,0.26
+El Salvador,SLV,2009,0.26
+El Salvador,SLV,2010,0.26
+El Salvador,SLV,2011,0.26
+El Salvador,SLV,2012,0.26
+El Salvador,SLV,2013,0.26
+El Salvador,SLV,2014,0.26
+Ethiopia,ETH,1990,0.3
+Ethiopia,ETH,1991,0.3
+Ethiopia,ETH,1992,0.3
+Ethiopia,ETH,1993,0.3
+Ethiopia,ETH,1994,0.3
+Ethiopia,ETH,1995,0.31
+Ethiopia,ETH,1996,0.31
+Ethiopia,ETH,1997,0.31
+Ethiopia,ETH,1998,0.31
+Ethiopia,ETH,1999,0.32
+Ethiopia,ETH,2000,0.31
+Ethiopia,ETH,2001,0.31
+Ethiopia,ETH,2002,0.31
+Ethiopia,ETH,2003,0.31
+Ethiopia,ETH,2004,0.31
+Ethiopia,ETH,2005,0.31
+Ethiopia,ETH,2006,0.31
+Ethiopia,ETH,2007,0.31
+Ethiopia,ETH,2008,0.31
+Ethiopia,ETH,2009,0.31
+Ethiopia,ETH,2010,0.31
+Ethiopia,ETH,2011,0.31
+Ethiopia,ETH,2012,0.31
+Ethiopia,ETH,2013,0.31
+Ethiopia,ETH,2014,0.31
+Fiji,FJI,1990,0.24
+Fiji,FJI,1991,0.24
+Fiji,FJI,1992,0.24
+Fiji,FJI,1993,0.24
+Fiji,FJI,1994,0.24
+Fiji,FJI,1995,0.24
+Fiji,FJI,1996,0.24
+Fiji,FJI,1997,0.24
+Fiji,FJI,1998,0.24
+Fiji,FJI,1999,0.24
+Fiji,FJI,2000,0.24
+Fiji,FJI,2001,0.24
+Fiji,FJI,2002,0.24
+Fiji,FJI,2003,0.24
+Fiji,FJI,2004,0.24
+Fiji,FJI,2005,0.24
+Fiji,FJI,2006,0.24
+Fiji,FJI,2007,0.24
+Fiji,FJI,2008,0.24
+Fiji,FJI,2009,0.24
+Fiji,FJI,2010,0.24
+Fiji,FJI,2011,0.24
+Fiji,FJI,2012,0.24
+Fiji,FJI,2013,0.24
+Fiji,FJI,2014,0.24
+Gabon,GAB,1990,0.22
+Gabon,GAB,1991,0.22
+Gabon,GAB,1992,0.22
+Gabon,GAB,1993,0.22
+Gabon,GAB,1994,0.22
+Gabon,GAB,1995,0.22
+Gabon,GAB,1996,0.22
+Gabon,GAB,1997,0.22
+Gabon,GAB,1998,0.22
+Gabon,GAB,1999,0.22
+Gabon,GAB,2000,0.2
+Gabon,GAB,2001,0.2
+Gabon,GAB,2002,0.2
+Gabon,GAB,2003,0.2
+Gabon,GAB,2004,0.2
+Gabon,GAB,2005,0.2
+Gabon,GAB,2006,0.2
+Gabon,GAB,2007,0.2
+Gabon,GAB,2008,0.2
+Gabon,GAB,2009,0.2
+Gabon,GAB,2010,0.2
+Gabon,GAB,2011,0.2
+Gabon,GAB,2012,0.2
+Gabon,GAB,2013,0.2
+Gabon,GAB,2014,0.2
+Gambia,GMB,1990,0.28
+Gambia,GMB,1991,0.28
+Gambia,GMB,1992,0.28
+Gambia,GMB,1993,0.28
+Gambia,GMB,1994,0.28
+Gambia,GMB,1995,0.28
+Gambia,GMB,1996,0.28
+Gambia,GMB,1997,0.28
+Gambia,GMB,1998,0.28
+Gambia,GMB,1999,0.28
+Gambia,GMB,2000,0.27
+Gambia,GMB,2001,0.27
+Gambia,GMB,2002,0.27
+Gambia,GMB,2003,0.27
+Gambia,GMB,2004,0.27
+Gambia,GMB,2005,0.27
+Gambia,GMB,2006,0.27
+Gambia,GMB,2007,0.27
+Gambia,GMB,2008,0.27
+Gambia,GMB,2009,0.27
+Gambia,GMB,2010,0.27
+Gambia,GMB,2011,0.27
+Gambia,GMB,2012,0.27
+Gambia,GMB,2013,0.27
+Gambia,GMB,2014,0.27
+Georgia,GEO,1992,0.21
+Georgia,GEO,1993,0.21
+Georgia,GEO,1994,0.21
+Georgia,GEO,1995,0.21
+Georgia,GEO,1996,0.21
+Georgia,GEO,1997,0.21
+Georgia,GEO,1998,0.21
+Georgia,GEO,1999,0.21
+Georgia,GEO,2000,0.26
+Georgia,GEO,2001,0.25
+Georgia,GEO,2002,0.25
+Georgia,GEO,2003,0.25
+Georgia,GEO,2004,0.25
+Georgia,GEO,2005,0.25
+Georgia,GEO,2006,0.25
+Georgia,GEO,2007,0.25
+Georgia,GEO,2008,0.25
+Georgia,GEO,2009,0.25
+Georgia,GEO,2010,0.25
+Georgia,GEO,2011,0.25
+Georgia,GEO,2012,0.25
+Georgia,GEO,2013,0.25
+Georgia,GEO,2014,0.25
+Ghana,GHA,1990,0.27
+Ghana,GHA,1991,0.27
+Ghana,GHA,1992,0.27
+Ghana,GHA,1993,0.27
+Ghana,GHA,1994,0.27
+Ghana,GHA,1995,0.27
+Ghana,GHA,1996,0.27
+Ghana,GHA,1997,0.27
+Ghana,GHA,1998,0.27
+Ghana,GHA,1999,0.27
+Ghana,GHA,2000,0.27
+Ghana,GHA,2001,0.27
+Ghana,GHA,2002,0.27
+Ghana,GHA,2003,0.27
+Ghana,GHA,2004,0.27
+Ghana,GHA,2005,0.27
+Ghana,GHA,2006,0.27
+Ghana,GHA,2007,0.27
+Ghana,GHA,2008,0.27
+Ghana,GHA,2009,0.27
+Ghana,GHA,2010,0.27
+Ghana,GHA,2011,0.27
+Ghana,GHA,2012,0.27
+Ghana,GHA,2013,0.27
+Ghana,GHA,2014,0.27
+Guatemala,GTM,1990,0.27
+Guatemala,GTM,1991,0.27
+Guatemala,GTM,1992,0.27
+Guatemala,GTM,1993,0.27
+Guatemala,GTM,1994,0.27
+Guatemala,GTM,1995,0.27
+Guatemala,GTM,1996,0.27
+Guatemala,GTM,1997,0.27
+Guatemala,GTM,1998,0.27
+Guatemala,GTM,1999,0.27
+Guatemala,GTM,2000,0.26
+Guatemala,GTM,2001,0.26
+Guatemala,GTM,2002,0.27
+Guatemala,GTM,2003,0.28
+Guatemala,GTM,2004,0.28
+Guatemala,GTM,2005,0.29
+Guatemala,GTM,2006,0.3
+Guatemala,GTM,2007,0.3
+Guatemala,GTM,2008,0.3
+Guatemala,GTM,2009,0.3
+Guatemala,GTM,2010,0.3
+Guatemala,GTM,2011,0.3
+Guatemala,GTM,2012,0.3
+Guatemala,GTM,2013,0.3
+Guatemala,GTM,2014,0.3
+Guinea,GIN,1990,0.33
+Guinea,GIN,1991,0.33
+Guinea,GIN,1992,0.33
+Guinea,GIN,1993,0.33
+Guinea,GIN,1994,0.33
+Guinea,GIN,1995,0.33
+Guinea,GIN,1996,0.33
+Guinea,GIN,1997,0.33
+Guinea,GIN,1998,0.33
+Guinea,GIN,1999,0.33
+Guinea,GIN,2000,0.33
+Guinea,GIN,2001,0.33
+Guinea,GIN,2002,0.33
+Guinea,GIN,2003,0.33
+Guinea,GIN,2004,0.32
+Guinea,GIN,2005,0.32
+Guinea,GIN,2006,0.32
+Guinea,GIN,2007,0.32
+Guinea,GIN,2008,0.32
+Guinea,GIN,2009,0.32
+Guinea,GIN,2010,0.32
+Guinea,GIN,2011,0.32
+Guinea,GIN,2012,0.32
+Guinea,GIN,2013,0.32
+Guinea,GIN,2014,0.32
+Guinea-Bissau,GNB,1990,0.29
+Guinea-Bissau,GNB,1991,0.29
+Guinea-Bissau,GNB,1992,0.29
+Guinea-Bissau,GNB,1993,0.29
+Guinea-Bissau,GNB,1994,0.29
+Guinea-Bissau,GNB,1995,0.29
+Guinea-Bissau,GNB,1996,0.29
+Guinea-Bissau,GNB,1997,0.29
+Guinea-Bissau,GNB,1998,0.29
+Guinea-Bissau,GNB,1999,0.29
+Guinea-Bissau,GNB,2000,0.28
+Guinea-Bissau,GNB,2001,0.28
+Guinea-Bissau,GNB,2002,0.28
+Guinea-Bissau,GNB,2003,0.28
+Guinea-Bissau,GNB,2004,0.28
+Guinea-Bissau,GNB,2005,0.28
+Guinea-Bissau,GNB,2006,0.28
+Guinea-Bissau,GNB,2007,0.28
+Guinea-Bissau,GNB,2008,0.28
+Guinea-Bissau,GNB,2009,0.28
+Guinea-Bissau,GNB,2010,0.28
+Guinea-Bissau,GNB,2011,0.28
+Guinea-Bissau,GNB,2012,0.28
+Guinea-Bissau,GNB,2013,0.28
+Guinea-Bissau,GNB,2014,0.28
+Guyana,GUY,1990,0.26
+Guyana,GUY,1991,0.26
+Guyana,GUY,1992,0.26
+Guyana,GUY,1993,0.26
+Guyana,GUY,1994,0.26
+Guyana,GUY,1995,0.26
+Guyana,GUY,1996,0.26
+Guyana,GUY,1997,0.26
+Guyana,GUY,1998,0.26
+Guyana,GUY,1999,0.26
+Guyana,GUY,2000,0.25
+Guyana,GUY,2001,0.25
+Guyana,GUY,2002,0.25
+Guyana,GUY,2003,0.25
+Guyana,GUY,2004,0.25
+Guyana,GUY,2005,0.25
+Guyana,GUY,2006,0.25
+Guyana,GUY,2007,0.25
+Guyana,GUY,2008,0.25
+Guyana,GUY,2009,0.25
+Guyana,GUY,2010,0.25
+Guyana,GUY,2011,0.25
+Guyana,GUY,2012,0.25
+Guyana,GUY,2013,0.25
+Guyana,GUY,2014,0.25
+Haiti,HTI,1990,0.33
+Haiti,HTI,1991,0.33
+Haiti,HTI,1992,0.33
+Haiti,HTI,1993,0.33
+Haiti,HTI,1994,0.36
+Haiti,HTI,1995,0.38
+Haiti,HTI,1996,0.41
+Haiti,HTI,1997,0.44
+Haiti,HTI,1998,0.46
+Haiti,HTI,1999,0.49
+Haiti,HTI,2000,0.49
+Haiti,HTI,2001,0.49
+Haiti,HTI,2002,0.49
+Haiti,HTI,2003,0.49
+Haiti,HTI,2004,0.49
+Haiti,HTI,2005,0.49
+Haiti,HTI,2006,0.49
+Haiti,HTI,2007,0.49
+Haiti,HTI,2008,0.49
+Haiti,HTI,2009,0.49
+Haiti,HTI,2010,0.49
+Haiti,HTI,2011,0.49
+Haiti,HTI,2012,0.49
+Haiti,HTI,2013,0.49
+Haiti,HTI,2014,0.49
+Honduras,HND,1990,0.32
+Honduras,HND,1991,0.32
+Honduras,HND,1992,0.32
+Honduras,HND,1993,0.32
+Honduras,HND,1994,0.32
+Honduras,HND,1995,0.32
+Honduras,HND,1996,0.32
+Honduras,HND,1997,0.32
+Honduras,HND,1998,0.32
+Honduras,HND,1999,0.32
+Honduras,HND,2000,0.31
+Honduras,HND,2001,0.31
+Honduras,HND,2002,0.31
+Honduras,HND,2003,0.31
+Honduras,HND,2004,0.31
+Honduras,HND,2005,0.31
+Honduras,HND,2006,0.31
+Honduras,HND,2007,0.31
+Honduras,HND,2008,0.31
+Honduras,HND,2009,0.31
+Honduras,HND,2010,0.31
+Honduras,HND,2011,0.31
+Honduras,HND,2012,0.31
+Honduras,HND,2013,0.31
+Honduras,HND,2014,0.31
+India,IND,1990,0.29
+India,IND,1991,0.29
+India,IND,1992,0.29
+India,IND,1993,0.29
+India,IND,1994,0.29
+India,IND,1995,0.29
+India,IND,1996,0.28
+India,IND,1997,0.27
+India,IND,1998,0.27
+India,IND,1999,0.26
+India,IND,2000,0.26
+India,IND,2001,0.26
+India,IND,2002,0.25
+India,IND,2003,0.25
+India,IND,2004,0.25
+India,IND,2005,0.25
+India,IND,2006,0.25
+India,IND,2007,0.25
+India,IND,2008,0.25
+India,IND,2009,0.25
+India,IND,2010,0.25
+India,IND,2011,0.25
+India,IND,2012,0.25
+India,IND,2013,0.25
+India,IND,2014,0.25
+Indonesia,IDN,1990,0.28
+Indonesia,IDN,1991,0.28
+Indonesia,IDN,1992,0.28
+Indonesia,IDN,1993,0.28
+Indonesia,IDN,1994,0.28
+Indonesia,IDN,1995,0.28
+Indonesia,IDN,1996,0.28
+Indonesia,IDN,1997,0.28
+Indonesia,IDN,1998,0.28
+Indonesia,IDN,1999,0.28
+Indonesia,IDN,2000,0.27
+Indonesia,IDN,2001,0.28
+Indonesia,IDN,2002,0.28
+Indonesia,IDN,2003,0.28
+Indonesia,IDN,2004,0.29
+Indonesia,IDN,2005,0.29
+Indonesia,IDN,2006,0.29
+Indonesia,IDN,2007,0.3
+Indonesia,IDN,2008,0.3
+Indonesia,IDN,2009,0.3
+Indonesia,IDN,2010,0.27
+Indonesia,IDN,2011,0.27
+Indonesia,IDN,2012,0.28
+Indonesia,IDN,2013,0.28
+Indonesia,IDN,2014,0.28
+Iran,IRN,1990,0.28
+Iran,IRN,1991,0.28
+Iran,IRN,1992,0.28
+Iran,IRN,1993,0.28
+Iran,IRN,1994,0.28
+Iran,IRN,1995,0.28
+Iran,IRN,1996,0.28
+Iran,IRN,1997,0.28
+Iran,IRN,1998,0.28
+Iran,IRN,1999,0.28
+Iran,IRN,2000,0.27
+Iran,IRN,2001,0.27
+Iran,IRN,2002,0.28
+Iran,IRN,2003,0.27
+Iran,IRN,2004,0.27
+Iran,IRN,2005,0.27
+Iran,IRN,2006,0.27
+Iran,IRN,2007,0.27
+Iran,IRN,2008,0.27
+Iran,IRN,2009,0.27
+Iran,IRN,2010,0.27
+Iran,IRN,2011,0.27
+Iran,IRN,2012,0.27
+Iran,IRN,2013,0.27
+Iran,IRN,2014,0.27
+Iraq,IRQ,1990,0.26
+Iraq,IRQ,1991,0.26
+Iraq,IRQ,1992,0.26
+Iraq,IRQ,1993,0.26
+Iraq,IRQ,1994,0.26
+Iraq,IRQ,1995,0.26
+Iraq,IRQ,1996,0.26
+Iraq,IRQ,1997,0.26
+Iraq,IRQ,1998,0.26
+Iraq,IRQ,1999,0.26
+Iraq,IRQ,2000,0.26
+Iraq,IRQ,2001,0.26
+Iraq,IRQ,2002,0.28
+Iraq,IRQ,2003,0.3
+Iraq,IRQ,2004,0.32
+Iraq,IRQ,2005,0.34
+Iraq,IRQ,2006,0.36
+Iraq,IRQ,2007,0.38
+Iraq,IRQ,2008,0.38
+Iraq,IRQ,2009,0.38
+Iraq,IRQ,2010,0.38
+Iraq,IRQ,2011,0.38
+Iraq,IRQ,2012,0.38
+Iraq,IRQ,2013,0.38
+Iraq,IRQ,2014,0.38
+Jamaica,JAM,1990,0.24
+Jamaica,JAM,1991,0.24
+Jamaica,JAM,1992,0.24
+Jamaica,JAM,1993,0.24
+Jamaica,JAM,1994,0.24
+Jamaica,JAM,1995,0.24
+Jamaica,JAM,1996,0.24
+Jamaica,JAM,1997,0.24
+Jamaica,JAM,1998,0.24
+Jamaica,JAM,1999,0.24
+Jamaica,JAM,2000,0.23
+Jamaica,JAM,2001,0.23
+Jamaica,JAM,2002,0.23
+Jamaica,JAM,2003,0.23
+Jamaica,JAM,2004,0.23
+Jamaica,JAM,2005,0.23
+Jamaica,JAM,2006,0.23
+Jamaica,JAM,2007,0.23
+Jamaica,JAM,2008,0.23
+Jamaica,JAM,2009,0.23
+Jamaica,JAM,2010,0.23
+Jamaica,JAM,2011,0.24
+Jamaica,JAM,2012,0.24
+Jamaica,JAM,2013,0.24
+Jamaica,JAM,2014,0.24
+Jordan,JOR,1990,0.25
+Jordan,JOR,1991,0.25
+Jordan,JOR,1992,0.25
+Jordan,JOR,1993,0.25
+Jordan,JOR,1994,0.25
+Jordan,JOR,1995,0.25
+Jordan,JOR,1996,0.25
+Jordan,JOR,1997,0.25
+Jordan,JOR,1998,0.25
+Jordan,JOR,1999,0.25
+Jordan,JOR,2000,0.25
+Jordan,JOR,2001,0.25
+Jordan,JOR,2002,0.25
+Jordan,JOR,2003,0.25
+Jordan,JOR,2004,0.24
+Jordan,JOR,2005,0.24
+Jordan,JOR,2006,0.24
+Jordan,JOR,2007,0.24
+Jordan,JOR,2008,0.24
+Jordan,JOR,2009,0.24
+Jordan,JOR,2010,0.24
+Jordan,JOR,2011,0.24
+Jordan,JOR,2012,0.24
+Jordan,JOR,2013,0.24
+Jordan,JOR,2014,0.24
+Kazakhstan,KAZ,1992,0.22
+Kazakhstan,KAZ,1993,0.22
+Kazakhstan,KAZ,1994,0.22
+Kazakhstan,KAZ,1995,0.22
+Kazakhstan,KAZ,1996,0.22
+Kazakhstan,KAZ,1997,0.22
+Kazakhstan,KAZ,1998,0.22
+Kazakhstan,KAZ,1999,0.22
+Kazakhstan,KAZ,2000,0.23
+Kazakhstan,KAZ,2001,0.24
+Kazakhstan,KAZ,2002,0.25
+Kazakhstan,KAZ,2003,0.25
+Kazakhstan,KAZ,2004,0.27
+Kazakhstan,KAZ,2005,0.28
+Kazakhstan,KAZ,2006,0.27
+Kazakhstan,KAZ,2007,0.27
+Kazakhstan,KAZ,2008,0.27
+Kazakhstan,KAZ,2009,0.27
+Kazakhstan,KAZ,2010,0.26
+Kazakhstan,KAZ,2011,0.26
+Kazakhstan,KAZ,2012,0.26
+Kazakhstan,KAZ,2013,0.26
+Kazakhstan,KAZ,2014,0.26
+Kenya,KEN,1990,0.26
+Kenya,KEN,1991,0.26
+Kenya,KEN,1992,0.26
+Kenya,KEN,1993,0.26
+Kenya,KEN,1994,0.26
+Kenya,KEN,1995,0.26
+Kenya,KEN,1996,0.26
+Kenya,KEN,1997,0.26
+Kenya,KEN,1998,0.26
+Kenya,KEN,1999,0.26
+Kenya,KEN,2000,0.25
+Kenya,KEN,2001,0.25
+Kenya,KEN,2002,0.25
+Kenya,KEN,2003,0.25
+Kenya,KEN,2004,0.25
+Kenya,KEN,2005,0.25
+Kenya,KEN,2006,0.24
+Kenya,KEN,2007,0.23
+Kenya,KEN,2008,0.23
+Kenya,KEN,2009,0.23
+Kenya,KEN,2010,0.23
+Kenya,KEN,2011,0.23
+Kenya,KEN,2012,0.23
+Kenya,KEN,2013,0.23
+Kenya,KEN,2014,0.23
+Kiribati,KIR,1990,0.27
+Kiribati,KIR,1991,0.27
+Kiribati,KIR,1992,0.27
+Kiribati,KIR,1993,0.27
+Kiribati,KIR,1994,0.27
+Kiribati,KIR,1995,0.27
+Kiribati,KIR,1996,0.27
+Kiribati,KIR,1997,0.27
+Kiribati,KIR,1998,0.27
+Kiribati,KIR,1999,0.27
+Kiribati,KIR,2000,0.26
+Kiribati,KIR,2001,0.27
+Kiribati,KIR,2002,0.27
+Kiribati,KIR,2003,0.27
+Kiribati,KIR,2004,0.27
+Kiribati,KIR,2005,0.27
+Kiribati,KIR,2006,0.27
+Kiribati,KIR,2007,0.27
+Kiribati,KIR,2008,0.27
+Kiribati,KIR,2009,0.27
+Kiribati,KIR,2010,0.27
+Kiribati,KIR,2011,0.27
+Kiribati,KIR,2012,0.27
+Kiribati,KIR,2013,0.27
+Kiribati,KIR,2014,0.27
+Kuwait,KWT,1990,0.25
+Kuwait,KWT,1991,0.25
+Kuwait,KWT,1992,0.25
+Kuwait,KWT,1993,0.25
+Kuwait,KWT,1994,0.25
+Kuwait,KWT,1995,0.25
+Kuwait,KWT,1996,0.25
+Kuwait,KWT,1997,0.25
+Kuwait,KWT,1998,0.25
+Kuwait,KWT,1999,0.25
+Kuwait,KWT,2000,0.26
+Kuwait,KWT,2001,0.26
+Kuwait,KWT,2002,0.26
+Kuwait,KWT,2003,0.26
+Kuwait,KWT,2004,0.26
+Kuwait,KWT,2005,0.26
+Kuwait,KWT,2006,0.26
+Kuwait,KWT,2007,0.26
+Kuwait,KWT,2008,0.26
+Kuwait,KWT,2009,0.26
+Kuwait,KWT,2010,0.26
+Kuwait,KWT,2011,0.26
+Kuwait,KWT,2012,0.26
+Kuwait,KWT,2013,0.26
+Kuwait,KWT,2014,0.26
+Kyrgyzstan,KGZ,1992,0.26
+Kyrgyzstan,KGZ,1993,0.26
+Kyrgyzstan,KGZ,1994,0.26
+Kyrgyzstan,KGZ,1995,0.26
+Kyrgyzstan,KGZ,1996,0.26
+Kyrgyzstan,KGZ,1997,0.26
+Kyrgyzstan,KGZ,1998,0.26
+Kyrgyzstan,KGZ,1999,0.26
+Kyrgyzstan,KGZ,2000,0.25
+Kyrgyzstan,KGZ,2001,0.25
+Kyrgyzstan,KGZ,2002,0.25
+Kyrgyzstan,KGZ,2003,0.25
+Kyrgyzstan,KGZ,2004,0.25
+Kyrgyzstan,KGZ,2005,0.25
+Kyrgyzstan,KGZ,2006,0.25
+Kyrgyzstan,KGZ,2007,0.25
+Kyrgyzstan,KGZ,2008,0.25
+Kyrgyzstan,KGZ,2009,0.25
+Kyrgyzstan,KGZ,2010,0.25
+Kyrgyzstan,KGZ,2011,0.25
+Kyrgyzstan,KGZ,2012,0.25
+Kyrgyzstan,KGZ,2013,0.25
+Kyrgyzstan,KGZ,2014,0.25
+Laos,LAO,1990,0.31
+Laos,LAO,1991,0.31
+Laos,LAO,1992,0.31
+Laos,LAO,1993,0.31
+Laos,LAO,1994,0.31
+Laos,LAO,1995,0.31
+Laos,LAO,1996,0.31
+Laos,LAO,1997,0.31
+Laos,LAO,1998,0.31
+Laos,LAO,1999,0.31
+Laos,LAO,2000,0.3
+Laos,LAO,2001,0.29
+Laos,LAO,2002,0.29
+Laos,LAO,2003,0.28
+Laos,LAO,2004,0.27
+Laos,LAO,2005,0.26
+Laos,LAO,2006,0.25
+Laos,LAO,2007,0.25
+Laos,LAO,2008,0.25
+Laos,LAO,2009,0.25
+Laos,LAO,2010,0.25
+Laos,LAO,2011,0.25
+Laos,LAO,2012,0.25
+Laos,LAO,2013,0.25
+Laos,LAO,2014,0.25
+Lebanon,LBN,1990,0.25
+Lebanon,LBN,1991,0.25
+Lebanon,LBN,1992,0.25
+Lebanon,LBN,1993,0.25
+Lebanon,LBN,1994,0.25
+Lebanon,LBN,1995,0.25
+Lebanon,LBN,1996,0.25
+Lebanon,LBN,1997,0.25
+Lebanon,LBN,1998,0.25
+Lebanon,LBN,1999,0.25
+Lebanon,LBN,2000,0.25
+Lebanon,LBN,2001,0.25
+Lebanon,LBN,2002,0.25
+Lebanon,LBN,2003,0.25
+Lebanon,LBN,2004,0.25
+Lebanon,LBN,2005,0.25
+Lebanon,LBN,2006,0.25
+Lebanon,LBN,2007,0.25
+Lebanon,LBN,2008,0.25
+Lebanon,LBN,2009,0.25
+Lebanon,LBN,2010,0.25
+Lebanon,LBN,2011,0.26
+Lebanon,LBN,2012,0.26
+Lebanon,LBN,2013,0.26
+Lebanon,LBN,2014,0.26
+Lesotho,LSO,1990,0.27
+Lesotho,LSO,1991,0.27
+Lesotho,LSO,1992,0.27
+Lesotho,LSO,1993,0.27
+Lesotho,LSO,1994,0.27
+Lesotho,LSO,1995,0.27
+Lesotho,LSO,1996,0.27
+Lesotho,LSO,1997,0.27
+Lesotho,LSO,1998,0.27
+Lesotho,LSO,1999,0.27
+Lesotho,LSO,2000,0.27
+Lesotho,LSO,2001,0.27
+Lesotho,LSO,2002,0.27
+Lesotho,LSO,2003,0.27
+Lesotho,LSO,2004,0.27
+Lesotho,LSO,2005,0.27
+Lesotho,LSO,2006,0.27
+Lesotho,LSO,2007,0.27
+Lesotho,LSO,2008,0.27
+Lesotho,LSO,2009,0.27
+Lesotho,LSO,2010,0.27
+Lesotho,LSO,2011,0.27
+Lesotho,LSO,2012,0.27
+Lesotho,LSO,2013,0.27
+Lesotho,LSO,2014,0.27
+Liberia,LBR,1990,0.35
+Liberia,LBR,1991,0.35
+Liberia,LBR,1992,0.35
+Liberia,LBR,1993,0.35
+Liberia,LBR,1994,0.35
+Liberia,LBR,1995,0.35
+Liberia,LBR,1996,0.35
+Liberia,LBR,1997,0.35
+Liberia,LBR,1998,0.35
+Liberia,LBR,1999,0.35
+Liberia,LBR,2000,0.35
+Liberia,LBR,2001,0.35
+Liberia,LBR,2002,0.35
+Liberia,LBR,2003,0.35
+Liberia,LBR,2004,0.35
+Liberia,LBR,2005,0.35
+Liberia,LBR,2006,0.35
+Liberia,LBR,2007,0.35
+Liberia,LBR,2008,0.35
+Liberia,LBR,2009,0.35
+Liberia,LBR,2010,0.35
+Liberia,LBR,2011,0.35
+Liberia,LBR,2012,0.35
+Liberia,LBR,2013,0.35
+Liberia,LBR,2014,0.35
+Madagascar,MDG,1990,0.28
+Madagascar,MDG,1991,0.28
+Madagascar,MDG,1992,0.28
+Madagascar,MDG,1993,0.28
+Madagascar,MDG,1994,0.28
+Madagascar,MDG,1995,0.28
+Madagascar,MDG,1996,0.28
+Madagascar,MDG,1997,0.28
+Madagascar,MDG,1998,0.28
+Madagascar,MDG,1999,0.28
+Madagascar,MDG,2000,0.27
+Madagascar,MDG,2001,0.27
+Madagascar,MDG,2002,0.28
+Madagascar,MDG,2003,0.29
+Madagascar,MDG,2004,0.3
+Madagascar,MDG,2005,0.31
+Madagascar,MDG,2006,0.3
+Madagascar,MDG,2007,0.29
+Madagascar,MDG,2008,0.29
+Madagascar,MDG,2009,0.28
+Madagascar,MDG,2010,0.27
+Madagascar,MDG,2011,0.27
+Madagascar,MDG,2012,0.28
+Madagascar,MDG,2013,0.28
+Madagascar,MDG,2014,0.28
+Malawi,MWI,1990,0.32
+Malawi,MWI,1991,0.32
+Malawi,MWI,1992,0.32
+Malawi,MWI,1993,0.32
+Malawi,MWI,1994,0.32
+Malawi,MWI,1995,0.32
+Malawi,MWI,1996,0.32
+Malawi,MWI,1997,0.32
+Malawi,MWI,1998,0.32
+Malawi,MWI,1999,0.32
+Malawi,MWI,2000,0.31
+Malawi,MWI,2001,0.31
+Malawi,MWI,2002,0.31
+Malawi,MWI,2003,0.31
+Malawi,MWI,2004,0.31
+Malawi,MWI,2005,0.31
+Malawi,MWI,2006,0.31
+Malawi,MWI,2007,0.31
+Malawi,MWI,2008,0.31
+Malawi,MWI,2009,0.32
+Malawi,MWI,2010,0.32
+Malawi,MWI,2011,0.32
+Malawi,MWI,2012,0.32
+Malawi,MWI,2013,0.32
+Malawi,MWI,2014,0.32
+Malaysia,MYS,1990,0.22
+Malaysia,MYS,1991,0.22
+Malaysia,MYS,1992,0.22
+Malaysia,MYS,1993,0.22
+Malaysia,MYS,1994,0.22
+Malaysia,MYS,1995,0.22
+Malaysia,MYS,1996,0.22
+Malaysia,MYS,1997,0.22
+Malaysia,MYS,1998,0.22
+Malaysia,MYS,1999,0.22
+Malaysia,MYS,2000,0.21
+Malaysia,MYS,2001,0.21
+Malaysia,MYS,2002,0.21
+Malaysia,MYS,2003,0.22
+Malaysia,MYS,2004,0.22
+Malaysia,MYS,2005,0.22
+Malaysia,MYS,2006,0.22
+Malaysia,MYS,2007,0.22
+Malaysia,MYS,2008,0.22
+Malaysia,MYS,2009,0.22
+Malaysia,MYS,2010,0.22
+Malaysia,MYS,2011,0.22
+Malaysia,MYS,2012,0.22
+Malaysia,MYS,2013,0.22
+Malaysia,MYS,2014,0.22
+Maldives,MDV,1990,0.25
+Maldives,MDV,1991,0.25
+Maldives,MDV,1992,0.25
+Maldives,MDV,1993,0.25
+Maldives,MDV,1994,0.25
+Maldives,MDV,1995,0.25
+Maldives,MDV,1996,0.25
+Maldives,MDV,1997,0.25
+Maldives,MDV,1998,0.25
+Maldives,MDV,1999,0.25
+Maldives,MDV,2000,0.25
+Maldives,MDV,2001,0.25
+Maldives,MDV,2002,0.25
+Maldives,MDV,2003,0.25
+Maldives,MDV,2004,0.25
+Maldives,MDV,2005,0.25
+Maldives,MDV,2006,0.25
+Maldives,MDV,2007,0.25
+Maldives,MDV,2008,0.25
+Maldives,MDV,2009,0.25
+Maldives,MDV,2010,0.25
+Maldives,MDV,2011,0.25
+Maldives,MDV,2012,0.25
+Maldives,MDV,2013,0.25
+Maldives,MDV,2014,0.25
+Mali,MLI,1990,0.29
+Mali,MLI,1991,0.29
+Mali,MLI,1992,0.29
+Mali,MLI,1993,0.29
+Mali,MLI,1994,0.29
+Mali,MLI,1995,0.29
+Mali,MLI,1996,0.29
+Mali,MLI,1997,0.29
+Mali,MLI,1998,0.29
+Mali,MLI,1999,0.29
+Mali,MLI,2000,0.28
+Mali,MLI,2001,0.28
+Mali,MLI,2002,0.28
+Mali,MLI,2003,0.28
+Mali,MLI,2004,0.28
+Mali,MLI,2005,0.28
+Mali,MLI,2006,0.28
+Mali,MLI,2007,0.28
+Mali,MLI,2008,0.27
+Mali,MLI,2009,0.27
+Mali,MLI,2010,0.27
+Mali,MLI,2011,0.27
+Mali,MLI,2012,0.27
+Mali,MLI,2013,0.27
+Mali,MLI,2014,0.27
+Mauritania,MRT,1990,0.29
+Mauritania,MRT,1991,0.29
+Mauritania,MRT,1992,0.29
+Mauritania,MRT,1993,0.29
+Mauritania,MRT,1994,0.29
+Mauritania,MRT,1995,0.29
+Mauritania,MRT,1996,0.29
+Mauritania,MRT,1997,0.29
+Mauritania,MRT,1998,0.29
+Mauritania,MRT,1999,0.29
+Mauritania,MRT,2000,0.28
+Mauritania,MRT,2001,0.28
+Mauritania,MRT,2002,0.28
+Mauritania,MRT,2003,0.29
+Mauritania,MRT,2004,0.29
+Mauritania,MRT,2005,0.28
+Mauritania,MRT,2006,0.28
+Mauritania,MRT,2007,0.28
+Mauritania,MRT,2008,0.28
+Mauritania,MRT,2009,0.28
+Mauritania,MRT,2010,0.28
+Mauritania,MRT,2011,0.28
+Mauritania,MRT,2012,0.28
+Mauritania,MRT,2013,0.28
+Mauritania,MRT,2014,0.28
+Mauritius,MUS,1990,0.26
+Mauritius,MUS,1991,0.26
+Mauritius,MUS,1992,0.26
+Mauritius,MUS,1993,0.26
+Mauritius,MUS,1994,0.26
+Mauritius,MUS,1995,0.26
+Mauritius,MUS,1996,0.26
+Mauritius,MUS,1997,0.26
+Mauritius,MUS,1998,0.26
+Mauritius,MUS,1999,0.26
+Mauritius,MUS,2000,0.26
+Mauritius,MUS,2001,0.26
+Mauritius,MUS,2002,0.26
+Mauritius,MUS,2003,0.26
+Mauritius,MUS,2004,0.26
+Mauritius,MUS,2005,0.26
+Mauritius,MUS,2006,0.26
+Mauritius,MUS,2007,0.26
+Mauritius,MUS,2008,0.26
+Mauritius,MUS,2009,0.26
+Mauritius,MUS,2010,0.26
+Mauritius,MUS,2011,0.26
+Mauritius,MUS,2012,0.26
+Mauritius,MUS,2013,0.27
+Mauritius,MUS,2014,0.27
+Mexico,MEX,1990,0.29
+Mexico,MEX,1991,0.29
+Mexico,MEX,1992,0.29
+Mexico,MEX,1993,0.29
+Mexico,MEX,1994,0.29
+Mexico,MEX,1995,0.29
+Mexico,MEX,1996,0.28
+Mexico,MEX,1997,0.28
+Mexico,MEX,1998,0.27
+Mexico,MEX,1999,0.26
+Mexico,MEX,2000,0.26
+Mexico,MEX,2001,0.27
+Mexico,MEX,2002,0.28
+Mexico,MEX,2003,0.29
+Mexico,MEX,2004,0.3
+Mexico,MEX,2005,0.28
+Mexico,MEX,2006,0.27
+Mexico,MEX,2007,0.27
+Mexico,MEX,2008,0.27
+Mexico,MEX,2009,0.26
+Mexico,MEX,2010,0.26
+Mexico,MEX,2011,0.26
+Mexico,MEX,2012,0.26
+Mexico,MEX,2013,0.26
+Mexico,MEX,2014,0.26
+Mongolia,MNG,1990,0.26
+Mongolia,MNG,1991,0.26
+Mongolia,MNG,1992,0.26
+Mongolia,MNG,1993,0.26
+Mongolia,MNG,1994,0.26
+Mongolia,MNG,1995,0.26
+Mongolia,MNG,1996,0.26
+Mongolia,MNG,1997,0.26
+Mongolia,MNG,1998,0.26
+Mongolia,MNG,1999,0.26
+Mongolia,MNG,2000,0.26
+Mongolia,MNG,2001,0.26
+Mongolia,MNG,2002,0.27
+Mongolia,MNG,2003,0.27
+Mongolia,MNG,2004,0.28
+Mongolia,MNG,2005,0.28
+Mongolia,MNG,2006,0.29
+Mongolia,MNG,2007,0.29
+Mongolia,MNG,2008,0.29
+Mongolia,MNG,2009,0.29
+Mongolia,MNG,2010,0.29
+Mongolia,MNG,2011,0.29
+Mongolia,MNG,2012,0.29
+Mongolia,MNG,2013,0.29
+Mongolia,MNG,2014,0.29
+Morocco,MAR,1990,0.3
+Morocco,MAR,1991,0.3
+Morocco,MAR,1992,0.3
+Morocco,MAR,1993,0.3
+Morocco,MAR,1994,0.3
+Morocco,MAR,1995,0.3
+Morocco,MAR,1996,0.3
+Morocco,MAR,1997,0.3
+Morocco,MAR,1998,0.3
+Morocco,MAR,1999,0.3
+Morocco,MAR,2000,0.31
+Morocco,MAR,2001,0.31
+Morocco,MAR,2002,0.31
+Morocco,MAR,2003,0.31
+Morocco,MAR,2004,0.31
+Morocco,MAR,2005,0.31
+Morocco,MAR,2006,0.31
+Morocco,MAR,2007,0.31
+Morocco,MAR,2008,0.31
+Morocco,MAR,2009,0.31
+Morocco,MAR,2010,0.31
+Morocco,MAR,2011,0.31
+Morocco,MAR,2012,0.31
+Morocco,MAR,2013,0.31
+Morocco,MAR,2014,0.31
+Mozambique,MOZ,1990,0.31
+Mozambique,MOZ,1991,0.31
+Mozambique,MOZ,1992,0.31
+Mozambique,MOZ,1993,0.31
+Mozambique,MOZ,1994,0.31
+Mozambique,MOZ,1995,0.31
+Mozambique,MOZ,1996,0.31
+Mozambique,MOZ,1997,0.32
+Mozambique,MOZ,1998,0.32
+Mozambique,MOZ,1999,0.33
+Mozambique,MOZ,2000,0.35
+Mozambique,MOZ,2001,0.35
+Mozambique,MOZ,2002,0.36
+Mozambique,MOZ,2003,0.36
+Mozambique,MOZ,2004,0.35
+Mozambique,MOZ,2005,0.34
+Mozambique,MOZ,2006,0.35
+Mozambique,MOZ,2007,0.35
+Mozambique,MOZ,2008,0.35
+Mozambique,MOZ,2009,0.35
+Mozambique,MOZ,2010,0.35
+Mozambique,MOZ,2011,0.35
+Mozambique,MOZ,2012,0.35
+Mozambique,MOZ,2013,0.35
+Mozambique,MOZ,2014,0.35
+Myanmar,MMR,1990,0.28
+Myanmar,MMR,1991,0.28
+Myanmar,MMR,1992,0.28
+Myanmar,MMR,1993,0.28
+Myanmar,MMR,1994,0.28
+Myanmar,MMR,1995,0.28
+Myanmar,MMR,1996,0.28
+Myanmar,MMR,1997,0.28
+Myanmar,MMR,1998,0.28
+Myanmar,MMR,1999,0.28
+Myanmar,MMR,2000,0.28
+Myanmar,MMR,2001,0.28
+Myanmar,MMR,2002,0.28
+Myanmar,MMR,2003,0.27
+Myanmar,MMR,2004,0.27
+Myanmar,MMR,2005,0.27
+Myanmar,MMR,2006,0.27
+Myanmar,MMR,2007,0.27
+Myanmar,MMR,2008,0.27
+Myanmar,MMR,2009,0.27
+Myanmar,MMR,2010,0.27
+Myanmar,MMR,2011,0.27
+Myanmar,MMR,2012,0.27
+Myanmar,MMR,2013,0.27
+Myanmar,MMR,2014,0.27
+Namibia,NAM,1990,0.25
+Namibia,NAM,1991,0.25
+Namibia,NAM,1992,0.25
+Namibia,NAM,1993,0.25
+Namibia,NAM,1994,0.25
+Namibia,NAM,1995,0.25
+Namibia,NAM,1996,0.25
+Namibia,NAM,1997,0.25
+Namibia,NAM,1998,0.25
+Namibia,NAM,1999,0.25
+Namibia,NAM,2000,0.24
+Namibia,NAM,2001,0.24
+Namibia,NAM,2002,0.24
+Namibia,NAM,2003,0.24
+Namibia,NAM,2004,0.24
+Namibia,NAM,2005,0.24
+Namibia,NAM,2006,0.24
+Namibia,NAM,2007,0.24
+Namibia,NAM,2008,0.24
+Namibia,NAM,2009,0.24
+Namibia,NAM,2010,0.24
+Namibia,NAM,2011,0.24
+Namibia,NAM,2012,0.24
+Namibia,NAM,2013,0.24
+Namibia,NAM,2014,0.24
+Nepal,NPL,1990,0.28
+Nepal,NPL,1991,0.29
+Nepal,NPL,1992,0.29
+Nepal,NPL,1993,0.3
+Nepal,NPL,1994,0.3
+Nepal,NPL,1995,0.31
+Nepal,NPL,1996,0.31
+Nepal,NPL,1997,0.31
+Nepal,NPL,1998,0.31
+Nepal,NPL,1999,0.31
+Nepal,NPL,2000,0.3
+Nepal,NPL,2001,0.3
+Nepal,NPL,2002,0.31
+Nepal,NPL,2003,0.31
+Nepal,NPL,2004,0.3
+Nepal,NPL,2005,0.3
+Nepal,NPL,2006,0.29
+Nepal,NPL,2007,0.29
+Nepal,NPL,2008,0.29
+Nepal,NPL,2009,0.28
+Nepal,NPL,2010,0.28
+Nepal,NPL,2011,0.28
+Nepal,NPL,2012,0.29
+Nepal,NPL,2013,0.29
+Nepal,NPL,2014,0.29
+Nicaragua,NIC,1990,0.31
+Nicaragua,NIC,1991,0.31
+Nicaragua,NIC,1992,0.31
+Nicaragua,NIC,1993,0.31
+Nicaragua,NIC,1994,0.31
+Nicaragua,NIC,1995,0.31
+Nicaragua,NIC,1996,0.31
+Nicaragua,NIC,1997,0.31
+Nicaragua,NIC,1998,0.31
+Nicaragua,NIC,1999,0.31
+Nicaragua,NIC,2000,0.31
+Nicaragua,NIC,2001,0.31
+Nicaragua,NIC,2002,0.31
+Nicaragua,NIC,2003,0.32
+Nicaragua,NIC,2004,0.32
+Nicaragua,NIC,2005,0.32
+Nicaragua,NIC,2006,0.32
+Nicaragua,NIC,2007,0.32
+Nicaragua,NIC,2008,0.32
+Nicaragua,NIC,2009,0.32
+Nicaragua,NIC,2010,0.32
+Nicaragua,NIC,2011,0.32
+Nicaragua,NIC,2012,0.32
+Nicaragua,NIC,2013,0.32
+Nicaragua,NIC,2014,0.32
+Niger,NER,1990,0.31
+Niger,NER,1991,0.31
+Niger,NER,1992,0.31
+Niger,NER,1993,0.31
+Niger,NER,1994,0.31
+Niger,NER,1995,0.31
+Niger,NER,1996,0.31
+Niger,NER,1997,0.31
+Niger,NER,1998,0.31
+Niger,NER,1999,0.31
+Niger,NER,2000,0.3
+Niger,NER,2001,0.3
+Niger,NER,2002,0.3
+Niger,NER,2003,0.3
+Niger,NER,2004,0.3
+Niger,NER,2005,0.3
+Niger,NER,2006,0.29
+Niger,NER,2007,0.29
+Niger,NER,2008,0.28
+Niger,NER,2009,0.28
+Niger,NER,2010,0.28
+Niger,NER,2011,0.28
+Niger,NER,2012,0.28
+Niger,NER,2013,0.28
+Niger,NER,2014,0.28
+Nigeria,NGA,1990,0.28
+Nigeria,NGA,1991,0.28
+Nigeria,NGA,1992,0.28
+Nigeria,NGA,1993,0.28
+Nigeria,NGA,1994,0.28
+Nigeria,NGA,1995,0.28
+Nigeria,NGA,1996,0.28
+Nigeria,NGA,1997,0.28
+Nigeria,NGA,1998,0.28
+Nigeria,NGA,1999,0.28
+Nigeria,NGA,2000,0.26
+Nigeria,NGA,2001,0.26
+Nigeria,NGA,2002,0.26
+Nigeria,NGA,2003,0.26
+Nigeria,NGA,2004,0.26
+Nigeria,NGA,2005,0.26
+Nigeria,NGA,2006,0.25
+Nigeria,NGA,2007,0.25
+Nigeria,NGA,2008,0.25
+Nigeria,NGA,2009,0.25
+Nigeria,NGA,2010,0.25
+Nigeria,NGA,2011,0.25
+Nigeria,NGA,2012,0.25
+Nigeria,NGA,2013,0.25
+Nigeria,NGA,2014,0.25
+North Korea,PRK,1990,0.25
+North Korea,PRK,1991,0.25
+North Korea,PRK,1992,0.25
+North Korea,PRK,1993,0.25
+North Korea,PRK,1994,0.25
+North Korea,PRK,1995,0.25
+North Korea,PRK,1996,0.25
+North Korea,PRK,1997,0.25
+North Korea,PRK,1998,0.25
+North Korea,PRK,1999,0.25
+North Korea,PRK,2000,0.25
+North Korea,PRK,2001,0.25
+North Korea,PRK,2002,0.25
+North Korea,PRK,2003,0.25
+North Korea,PRK,2004,0.25
+North Korea,PRK,2005,0.25
+North Korea,PRK,2006,0.25
+North Korea,PRK,2007,0.25
+North Korea,PRK,2008,0.25
+North Korea,PRK,2009,0.25
+North Korea,PRK,2010,0.25
+North Korea,PRK,2011,0.26
+North Korea,PRK,2012,0.26
+North Korea,PRK,2013,0.26
+North Korea,PRK,2014,0.26
+Pakistan,PAK,1990,0.33
+Pakistan,PAK,1991,0.33
+Pakistan,PAK,1992,0.33
+Pakistan,PAK,1993,0.33
+Pakistan,PAK,1994,0.33
+Pakistan,PAK,1995,0.33
+Pakistan,PAK,1996,0.33
+Pakistan,PAK,1997,0.33
+Pakistan,PAK,1998,0.33
+Pakistan,PAK,1999,0.33
+Pakistan,PAK,2000,0.32
+Pakistan,PAK,2001,0.32
+Pakistan,PAK,2002,0.32
+Pakistan,PAK,2003,0.31
+Pakistan,PAK,2004,0.31
+Pakistan,PAK,2005,0.31
+Pakistan,PAK,2006,0.31
+Pakistan,PAK,2007,0.31
+Pakistan,PAK,2008,0.31
+Pakistan,PAK,2009,0.31
+Pakistan,PAK,2010,0.31
+Pakistan,PAK,2011,0.31
+Pakistan,PAK,2012,0.31
+Pakistan,PAK,2013,0.31
+Pakistan,PAK,2014,0.31
+Panama,PAN,1990,0.27
+Panama,PAN,1991,0.27
+Panama,PAN,1992,0.27
+Panama,PAN,1993,0.27
+Panama,PAN,1994,0.27
+Panama,PAN,1995,0.27
+Panama,PAN,1996,0.27
+Panama,PAN,1997,0.27
+Panama,PAN,1998,0.27
+Panama,PAN,1999,0.27
+Panama,PAN,2000,0.27
+Panama,PAN,2001,0.27
+Panama,PAN,2002,0.27
+Panama,PAN,2003,0.27
+Panama,PAN,2004,0.27
+Panama,PAN,2005,0.27
+Panama,PAN,2006,0.27
+Panama,PAN,2007,0.27
+Panama,PAN,2008,0.27
+Panama,PAN,2009,0.27
+Panama,PAN,2010,0.27
+Panama,PAN,2011,0.27
+Panama,PAN,2012,0.27
+Panama,PAN,2013,0.27
+Panama,PAN,2014,0.27
+Paraguay,PRY,1990,0.27
+Paraguay,PRY,1991,0.27
+Paraguay,PRY,1992,0.27
+Paraguay,PRY,1993,0.27
+Paraguay,PRY,1994,0.28
+Paraguay,PRY,1995,0.28
+Paraguay,PRY,1996,0.28
+Paraguay,PRY,1997,0.28
+Paraguay,PRY,1998,0.28
+Paraguay,PRY,1999,0.28
+Paraguay,PRY,2000,0.27
+Paraguay,PRY,2001,0.27
+Paraguay,PRY,2002,0.27
+Paraguay,PRY,2003,0.27
+Paraguay,PRY,2004,0.26
+Paraguay,PRY,2005,0.26
+Paraguay,PRY,2006,0.25
+Paraguay,PRY,2007,0.24
+Paraguay,PRY,2008,0.24
+Paraguay,PRY,2009,0.24
+Paraguay,PRY,2010,0.24
+Paraguay,PRY,2011,0.23
+Paraguay,PRY,2012,0.23
+Paraguay,PRY,2013,0.23
+Paraguay,PRY,2014,0.23
+Peru,PER,1990,0.27
+Peru,PER,1991,0.27
+Peru,PER,1992,0.27
+Peru,PER,1993,0.27
+Peru,PER,1994,0.27
+Peru,PER,1995,0.27
+Peru,PER,1996,0.27
+Peru,PER,1997,0.27
+Peru,PER,1998,0.27
+Peru,PER,1999,0.27
+Peru,PER,2000,0.27
+Peru,PER,2001,0.27
+Peru,PER,2002,0.27
+Peru,PER,2003,0.26
+Peru,PER,2004,0.26
+Peru,PER,2005,0.26
+Peru,PER,2006,0.26
+Peru,PER,2007,0.26
+Peru,PER,2008,0.25
+Peru,PER,2009,0.26
+Peru,PER,2010,0.25
+Peru,PER,2011,0.25
+Peru,PER,2012,0.25
+Peru,PER,2013,0.25
+Peru,PER,2014,0.25
+Philippines,PHL,1990,0.31
+Philippines,PHL,1991,0.31
+Philippines,PHL,1992,0.31
+Philippines,PHL,1993,0.31
+Philippines,PHL,1994,0.31
+Philippines,PHL,1995,0.31
+Philippines,PHL,1996,0.31
+Philippines,PHL,1997,0.31
+Philippines,PHL,1998,0.31
+Philippines,PHL,1999,0.31
+Philippines,PHL,2000,0.3
+Philippines,PHL,2001,0.3
+Philippines,PHL,2002,0.3
+Philippines,PHL,2003,0.3
+Philippines,PHL,2004,0.3
+Philippines,PHL,2005,0.3
+Philippines,PHL,2006,0.3
+Philippines,PHL,2007,0.3
+Philippines,PHL,2008,0.29
+Philippines,PHL,2009,0.29
+Philippines,PHL,2010,0.29
+Philippines,PHL,2011,0.29
+Philippines,PHL,2012,0.29
+Philippines,PHL,2013,0.29
+Philippines,PHL,2014,0.29
+Rwanda,RWA,1990,0.33
+Rwanda,RWA,1991,0.33
+Rwanda,RWA,1992,0.33
+Rwanda,RWA,1993,0.33
+Rwanda,RWA,1994,0.33
+Rwanda,RWA,1995,0.33
+Rwanda,RWA,1996,0.33
+Rwanda,RWA,1997,0.33
+Rwanda,RWA,1998,0.33
+Rwanda,RWA,1999,0.33
+Rwanda,RWA,2000,0.32
+Rwanda,RWA,2001,0.32
+Rwanda,RWA,2002,0.32
+Rwanda,RWA,2003,0.32
+Rwanda,RWA,2004,0.32
+Rwanda,RWA,2005,0.32
+Rwanda,RWA,2006,0.33
+Rwanda,RWA,2007,0.33
+Rwanda,RWA,2008,0.32
+Rwanda,RWA,2009,0.32
+Rwanda,RWA,2010,0.32
+Rwanda,RWA,2011,0.32
+Rwanda,RWA,2012,0.32
+Rwanda,RWA,2013,0.32
+Rwanda,RWA,2014,0.32
+Saint Vincent and the Grenadines,VCT,1990,0.24
+Saint Vincent and the Grenadines,VCT,1991,0.24
+Saint Vincent and the Grenadines,VCT,1992,0.24
+Saint Vincent and the Grenadines,VCT,1993,0.24
+Saint Vincent and the Grenadines,VCT,1994,0.24
+Saint Vincent and the Grenadines,VCT,1995,0.24
+Saint Vincent and the Grenadines,VCT,1996,0.24
+Saint Vincent and the Grenadines,VCT,1997,0.24
+Saint Vincent and the Grenadines,VCT,1998,0.24
+Saint Vincent and the Grenadines,VCT,1999,0.24
+Saint Vincent and the Grenadines,VCT,2000,0.24
+Saint Vincent and the Grenadines,VCT,2001,0.24
+Saint Vincent and the Grenadines,VCT,2002,0.24
+Saint Vincent and the Grenadines,VCT,2003,0.24
+Saint Vincent and the Grenadines,VCT,2004,0.24
+Saint Vincent and the Grenadines,VCT,2005,0.24
+Saint Vincent and the Grenadines,VCT,2006,0.24
+Saint Vincent and the Grenadines,VCT,2007,0.24
+Saint Vincent and the Grenadines,VCT,2008,0.24
+Saint Vincent and the Grenadines,VCT,2009,0.24
+Saint Vincent and the Grenadines,VCT,2010,0.24
+Saint Vincent and the Grenadines,VCT,2011,0.24
+Saint Vincent and the Grenadines,VCT,2012,0.24
+Saint Vincent and the Grenadines,VCT,2013,0.24
+Saint Vincent and the Grenadines,VCT,2014,0.24
+Samoa,WSM,1990,0.24
+Samoa,WSM,1991,0.24
+Samoa,WSM,1992,0.24
+Samoa,WSM,1993,0.24
+Samoa,WSM,1994,0.24
+Samoa,WSM,1995,0.24
+Samoa,WSM,1996,0.24
+Samoa,WSM,1997,0.24
+Samoa,WSM,1998,0.24
+Samoa,WSM,1999,0.24
+Samoa,WSM,2000,0.23
+Samoa,WSM,2001,0.23
+Samoa,WSM,2002,0.23
+Samoa,WSM,2003,0.23
+Samoa,WSM,2004,0.23
+Samoa,WSM,2005,0.23
+Samoa,WSM,2006,0.23
+Samoa,WSM,2007,0.23
+Samoa,WSM,2008,0.23
+Samoa,WSM,2009,0.23
+Samoa,WSM,2010,0.23
+Samoa,WSM,2011,0.23
+Samoa,WSM,2012,0.23
+Samoa,WSM,2013,0.23
+Samoa,WSM,2014,0.23
+Sao Tome and Principe,STP,1990,0.25
+Sao Tome and Principe,STP,1991,0.25
+Sao Tome and Principe,STP,1992,0.25
+Sao Tome and Principe,STP,1993,0.25
+Sao Tome and Principe,STP,1994,0.25
+Sao Tome and Principe,STP,1995,0.25
+Sao Tome and Principe,STP,1996,0.25
+Sao Tome and Principe,STP,1997,0.25
+Sao Tome and Principe,STP,1998,0.25
+Sao Tome and Principe,STP,1999,0.25
+Sao Tome and Principe,STP,2000,0.24
+Sao Tome and Principe,STP,2001,0.24
+Sao Tome and Principe,STP,2002,0.24
+Sao Tome and Principe,STP,2003,0.24
+Sao Tome and Principe,STP,2004,0.24
+Sao Tome and Principe,STP,2005,0.24
+Sao Tome and Principe,STP,2006,0.24
+Sao Tome and Principe,STP,2007,0.24
+Sao Tome and Principe,STP,2008,0.24
+Sao Tome and Principe,STP,2009,0.24
+Sao Tome and Principe,STP,2010,0.24
+Sao Tome and Principe,STP,2011,0.24
+Sao Tome and Principe,STP,2012,0.24
+Sao Tome and Principe,STP,2013,0.24
+Sao Tome and Principe,STP,2014,0.24
+Saudi Arabia,SAU,1990,0.22
+Saudi Arabia,SAU,1991,0.22
+Saudi Arabia,SAU,1992,0.22
+Saudi Arabia,SAU,1993,0.22
+Saudi Arabia,SAU,1994,0.22
+Saudi Arabia,SAU,1995,0.22
+Saudi Arabia,SAU,1996,0.22
+Saudi Arabia,SAU,1997,0.22
+Saudi Arabia,SAU,1998,0.22
+Saudi Arabia,SAU,1999,0.22
+Saudi Arabia,SAU,2000,0.21
+Saudi Arabia,SAU,2001,0.21
+Saudi Arabia,SAU,2002,0.21
+Saudi Arabia,SAU,2003,0.22
+Saudi Arabia,SAU,2004,0.22
+Saudi Arabia,SAU,2005,0.22
+Saudi Arabia,SAU,2006,0.22
+Saudi Arabia,SAU,2007,0.22
+Saudi Arabia,SAU,2008,0.22
+Saudi Arabia,SAU,2009,0.22
+Saudi Arabia,SAU,2010,0.22
+Saudi Arabia,SAU,2011,0.22
+Saudi Arabia,SAU,2012,0.22
+Saudi Arabia,SAU,2013,0.22
+Saudi Arabia,SAU,2014,0.22
+Senegal,SEN,1990,0.26
+Senegal,SEN,1991,0.26
+Senegal,SEN,1992,0.26
+Senegal,SEN,1993,0.26
+Senegal,SEN,1994,0.26
+Senegal,SEN,1995,0.26
+Senegal,SEN,1996,0.26
+Senegal,SEN,1997,0.26
+Senegal,SEN,1998,0.26
+Senegal,SEN,1999,0.26
+Senegal,SEN,2000,0.25
+Senegal,SEN,2001,0.25
+Senegal,SEN,2002,0.25
+Senegal,SEN,2003,0.24
+Senegal,SEN,2004,0.24
+Senegal,SEN,2005,0.24
+Senegal,SEN,2006,0.24
+Senegal,SEN,2007,0.24
+Senegal,SEN,2008,0.24
+Senegal,SEN,2009,0.24
+Senegal,SEN,2010,0.24
+Senegal,SEN,2011,0.24
+Senegal,SEN,2012,0.24
+Senegal,SEN,2013,0.24
+Senegal,SEN,2014,0.24
+Sierra Leone,SLE,1990,0.36
+Sierra Leone,SLE,1991,0.36
+Sierra Leone,SLE,1992,0.36
+Sierra Leone,SLE,1993,0.36
+Sierra Leone,SLE,1994,0.36
+Sierra Leone,SLE,1995,0.36
+Sierra Leone,SLE,1996,0.36
+Sierra Leone,SLE,1997,0.36
+Sierra Leone,SLE,1998,0.36
+Sierra Leone,SLE,1999,0.36
+Sierra Leone,SLE,2000,0.35
+Sierra Leone,SLE,2001,0.35
+Sierra Leone,SLE,2002,0.35
+Sierra Leone,SLE,2003,0.35
+Sierra Leone,SLE,2004,0.35
+Sierra Leone,SLE,2005,0.36
+Sierra Leone,SLE,2006,0.36
+Sierra Leone,SLE,2007,0.36
+Sierra Leone,SLE,2008,0.36
+Sierra Leone,SLE,2009,0.36
+Sierra Leone,SLE,2010,0.36
+Sierra Leone,SLE,2011,0.36
+Sierra Leone,SLE,2012,0.36
+Sierra Leone,SLE,2013,0.36
+Sierra Leone,SLE,2014,0.36
+Solomon Islands,SLB,1990,0.25
+Solomon Islands,SLB,1991,0.25
+Solomon Islands,SLB,1992,0.25
+Solomon Islands,SLB,1993,0.25
+Solomon Islands,SLB,1994,0.25
+Solomon Islands,SLB,1995,0.25
+Solomon Islands,SLB,1996,0.25
+Solomon Islands,SLB,1997,0.25
+Solomon Islands,SLB,1998,0.25
+Solomon Islands,SLB,1999,0.25
+Solomon Islands,SLB,2000,0.24
+Solomon Islands,SLB,2001,0.24
+Solomon Islands,SLB,2002,0.24
+Solomon Islands,SLB,2003,0.24
+Solomon Islands,SLB,2004,0.24
+Solomon Islands,SLB,2005,0.24
+Solomon Islands,SLB,2006,0.24
+Solomon Islands,SLB,2007,0.24
+Solomon Islands,SLB,2008,0.24
+Solomon Islands,SLB,2009,0.24
+Solomon Islands,SLB,2010,0.24
+Solomon Islands,SLB,2011,0.24
+Solomon Islands,SLB,2012,0.24
+Solomon Islands,SLB,2013,0.24
+Solomon Islands,SLB,2014,0.24
+South Africa,ZAF,1990,0.23
+South Africa,ZAF,1991,0.23
+South Africa,ZAF,1992,0.23
+South Africa,ZAF,1993,0.23
+South Africa,ZAF,1994,0.23
+South Africa,ZAF,1995,0.23
+South Africa,ZAF,1996,0.23
+South Africa,ZAF,1997,0.23
+South Africa,ZAF,1998,0.23
+South Africa,ZAF,1999,0.23
+South Africa,ZAF,2000,0.22
+South Africa,ZAF,2001,0.22
+South Africa,ZAF,2002,0.22
+South Africa,ZAF,2003,0.22
+South Africa,ZAF,2004,0.22
+South Africa,ZAF,2005,0.22
+South Africa,ZAF,2006,0.23
+South Africa,ZAF,2007,0.22
+South Africa,ZAF,2008,0.22
+South Africa,ZAF,2009,0.22
+South Africa,ZAF,2010,0.22
+South Africa,ZAF,2011,0.22
+South Africa,ZAF,2012,0.22
+South Africa,ZAF,2013,0.22
+South Africa,ZAF,2014,0.22
+South Korea,KOR,1990,0.21
+South Korea,KOR,1991,0.21
+South Korea,KOR,1992,0.21
+South Korea,KOR,1993,0.21
+South Korea,KOR,1994,0.21
+South Korea,KOR,1995,0.21
+South Korea,KOR,1996,0.21
+South Korea,KOR,1997,0.21
+South Korea,KOR,1998,0.21
+South Korea,KOR,1999,0.21
+South Korea,KOR,2000,0.21
+South Korea,KOR,2001,0.22
+South Korea,KOR,2002,0.22
+South Korea,KOR,2003,0.22
+South Korea,KOR,2004,0.22
+South Korea,KOR,2005,0.22
+South Korea,KOR,2006,0.22
+South Korea,KOR,2007,0.22
+South Korea,KOR,2008,0.22
+South Korea,KOR,2009,0.22
+South Korea,KOR,2010,0.22
+South Korea,KOR,2011,0.22
+South Korea,KOR,2012,0.22
+South Korea,KOR,2013,0.22
+South Korea,KOR,2014,0.22
+Sri Lanka,LKA,1990,0.28
+Sri Lanka,LKA,1991,0.28
+Sri Lanka,LKA,1992,0.28
+Sri Lanka,LKA,1993,0.28
+Sri Lanka,LKA,1994,0.29
+Sri Lanka,LKA,1995,0.31
+Sri Lanka,LKA,1996,0.32
+Sri Lanka,LKA,1997,0.33
+Sri Lanka,LKA,1998,0.34
+Sri Lanka,LKA,1999,0.35
+Sri Lanka,LKA,2000,0.35
+Sri Lanka,LKA,2001,0.35
+Sri Lanka,LKA,2002,0.35
+Sri Lanka,LKA,2003,0.35
+Sri Lanka,LKA,2004,0.35
+Sri Lanka,LKA,2005,0.35
+Sri Lanka,LKA,2006,0.35
+Sri Lanka,LKA,2007,0.35
+Sri Lanka,LKA,2008,0.35
+Sri Lanka,LKA,2009,0.35
+Sri Lanka,LKA,2010,0.35
+Sri Lanka,LKA,2011,0.35
+Sri Lanka,LKA,2012,0.35
+Sri Lanka,LKA,2013,0.35
+Sri Lanka,LKA,2014,0.35
+Sudan (former),,1990,0.27
+Sudan (former),,1991,0.27
+Sudan (former),,1992,0.27
+Sudan (former),,1993,0.27
+Sudan (former),,1994,0.27
+Sudan (former),,1995,0.27
+Sudan (former),,1996,0.27
+Sudan (former),,1997,0.27
+Sudan (former),,1998,0.27
+Sudan (former),,1999,0.27
+Sudan (former),,2000,0.27
+Sudan (former),,2001,0.28
+Sudan (former),,2002,0.28
+Sudan (former),,2003,0.28
+Sudan (former),,2004,0.29
+Sudan (former),,2005,0.29
+Sudan (former),,2006,0.29
+Sudan (former),,2007,0.29
+Sudan (former),,2008,0.3
+Sudan (former),,2009,0.3
+Sudan (former),,2010,0.3
+Sudan (former),,2011,0.3
+Suriname,SUR,1990,0.24
+Suriname,SUR,1991,0.24
+Suriname,SUR,1992,0.24
+Suriname,SUR,1993,0.24
+Suriname,SUR,1994,0.24
+Suriname,SUR,1995,0.24
+Suriname,SUR,1996,0.24
+Suriname,SUR,1997,0.24
+Suriname,SUR,1998,0.24
+Suriname,SUR,1999,0.24
+Suriname,SUR,2000,0.24
+Suriname,SUR,2001,0.24
+Suriname,SUR,2002,0.24
+Suriname,SUR,2003,0.24
+Suriname,SUR,2004,0.24
+Suriname,SUR,2005,0.24
+Suriname,SUR,2006,0.24
+Suriname,SUR,2007,0.24
+Suriname,SUR,2008,0.24
+Suriname,SUR,2009,0.24
+Suriname,SUR,2010,0.24
+Suriname,SUR,2011,0.24
+Suriname,SUR,2012,0.24
+Suriname,SUR,2013,0.24
+Suriname,SUR,2014,0.24
+Swaziland,SWZ,1990,0.25
+Swaziland,SWZ,1991,0.25
+Swaziland,SWZ,1992,0.25
+Swaziland,SWZ,1993,0.25
+Swaziland,SWZ,1994,0.25
+Swaziland,SWZ,1995,0.25
+Swaziland,SWZ,1996,0.25
+Swaziland,SWZ,1997,0.25
+Swaziland,SWZ,1998,0.25
+Swaziland,SWZ,1999,0.25
+Swaziland,SWZ,2000,0.24
+Swaziland,SWZ,2001,0.24
+Swaziland,SWZ,2002,0.24
+Swaziland,SWZ,2003,0.25
+Swaziland,SWZ,2004,0.25
+Swaziland,SWZ,2005,0.25
+Swaziland,SWZ,2006,0.25
+Swaziland,SWZ,2007,0.25
+Swaziland,SWZ,2008,0.25
+Swaziland,SWZ,2009,0.25
+Swaziland,SWZ,2010,0.25
+Swaziland,SWZ,2011,0.25
+Swaziland,SWZ,2012,0.25
+Swaziland,SWZ,2013,0.25
+Swaziland,SWZ,2014,0.25
+Tajikistan,TJK,1992,0.24
+Tajikistan,TJK,1993,0.24
+Tajikistan,TJK,1994,0.24
+Tajikistan,TJK,1995,0.24
+Tajikistan,TJK,1996,0.24
+Tajikistan,TJK,1997,0.24
+Tajikistan,TJK,1998,0.24
+Tajikistan,TJK,1999,0.24
+Tajikistan,TJK,2000,0.24
+Tajikistan,TJK,2001,0.25
+Tajikistan,TJK,2002,0.27
+Tajikistan,TJK,2003,0.28
+Tajikistan,TJK,2004,0.3
+Tajikistan,TJK,2005,0.32
+Tajikistan,TJK,2006,0.31
+Tajikistan,TJK,2007,0.3
+Tajikistan,TJK,2008,0.3
+Tajikistan,TJK,2009,0.3
+Tajikistan,TJK,2010,0.3
+Tajikistan,TJK,2011,0.3
+Tajikistan,TJK,2012,0.3
+Tajikistan,TJK,2013,0.3
+Tajikistan,TJK,2014,0.3
+Tanzania,TZA,1990,0.28
+Tanzania,TZA,1991,0.28
+Tanzania,TZA,1992,0.28
+Tanzania,TZA,1993,0.28
+Tanzania,TZA,1994,0.28
+Tanzania,TZA,1995,0.29
+Tanzania,TZA,1996,0.29
+Tanzania,TZA,1997,0.3
+Tanzania,TZA,1998,0.31
+Tanzania,TZA,1999,0.32
+Tanzania,TZA,2000,0.32
+Tanzania,TZA,2001,0.32
+Tanzania,TZA,2002,0.33
+Tanzania,TZA,2003,0.34
+Tanzania,TZA,2004,0.34
+Tanzania,TZA,2005,0.35
+Tanzania,TZA,2006,0.36
+Tanzania,TZA,2007,0.36
+Tanzania,TZA,2008,0.36
+Tanzania,TZA,2009,0.36
+Tanzania,TZA,2010,0.36
+Tanzania,TZA,2011,0.36
+Tanzania,TZA,2012,0.36
+Tanzania,TZA,2013,0.36
+Tanzania,TZA,2014,0.36
+Thailand,THA,1990,0.28
+Thailand,THA,1991,0.28
+Thailand,THA,1992,0.28
+Thailand,THA,1993,0.28
+Thailand,THA,1994,0.28
+Thailand,THA,1995,0.28
+Thailand,THA,1996,0.28
+Thailand,THA,1997,0.28
+Thailand,THA,1998,0.28
+Thailand,THA,1999,0.28
+Thailand,THA,2000,0.29
+Thailand,THA,2001,0.28
+Thailand,THA,2002,0.28
+Thailand,THA,2003,0.27
+Thailand,THA,2004,0.27
+Thailand,THA,2005,0.26
+Thailand,THA,2006,0.26
+Thailand,THA,2007,0.25
+Thailand,THA,2008,0.25
+Thailand,THA,2009,0.24
+Thailand,THA,2010,0.24
+Thailand,THA,2011,0.23
+Thailand,THA,2012,0.24
+Thailand,THA,2013,0.24
+Thailand,THA,2014,0.24
+Timor,TLS,1990,0.28
+Timor,TLS,1991,0.28
+Timor,TLS,1992,0.28
+Timor,TLS,1993,0.28
+Timor,TLS,1994,0.28
+Timor,TLS,1995,0.28
+Timor,TLS,1996,0.28
+Timor,TLS,1997,0.29
+Timor,TLS,1998,0.3
+Timor,TLS,1999,0.31
+Timor,TLS,2000,0.31
+Timor,TLS,2001,0.32
+Timor,TLS,2002,0.32
+Timor,TLS,2003,0.32
+Timor,TLS,2004,0.32
+Timor,TLS,2005,0.32
+Timor,TLS,2006,0.32
+Timor,TLS,2007,0.32
+Timor,TLS,2008,0.32
+Timor,TLS,2009,0.32
+Timor,TLS,2010,0.32
+Timor,TLS,2011,0.32
+Timor,TLS,2012,0.32
+Timor,TLS,2013,0.32
+Timor,TLS,2014,0.32
+Togo,TGO,1990,0.29
+Togo,TGO,1991,0.29
+Togo,TGO,1992,0.29
+Togo,TGO,1993,0.29
+Togo,TGO,1994,0.29
+Togo,TGO,1995,0.29
+Togo,TGO,1996,0.29
+Togo,TGO,1997,0.29
+Togo,TGO,1998,0.29
+Togo,TGO,1999,0.29
+Togo,TGO,2000,0.29
+Togo,TGO,2001,0.29
+Togo,TGO,2002,0.29
+Togo,TGO,2003,0.29
+Togo,TGO,2004,0.29
+Togo,TGO,2005,0.29
+Togo,TGO,2006,0.29
+Togo,TGO,2007,0.29
+Togo,TGO,2008,0.29
+Togo,TGO,2009,0.29
+Togo,TGO,2010,0.29
+Togo,TGO,2011,0.29
+Togo,TGO,2012,0.29
+Togo,TGO,2013,0.29
+Togo,TGO,2014,0.29
+Trinidad and Tobago,TTO,1990,0.27
+Trinidad and Tobago,TTO,1991,0.27
+Trinidad and Tobago,TTO,1992,0.27
+Trinidad and Tobago,TTO,1993,0.27
+Trinidad and Tobago,TTO,1994,0.27
+Trinidad and Tobago,TTO,1995,0.27
+Trinidad and Tobago,TTO,1996,0.27
+Trinidad and Tobago,TTO,1997,0.27
+Trinidad and Tobago,TTO,1998,0.27
+Trinidad and Tobago,TTO,1999,0.27
+Trinidad and Tobago,TTO,2000,0.27
+Trinidad and Tobago,TTO,2001,0.27
+Trinidad and Tobago,TTO,2002,0.27
+Trinidad and Tobago,TTO,2003,0.27
+Trinidad and Tobago,TTO,2004,0.27
+Trinidad and Tobago,TTO,2005,0.27
+Trinidad and Tobago,TTO,2006,0.27
+Trinidad and Tobago,TTO,2007,0.27
+Trinidad and Tobago,TTO,2008,0.27
+Trinidad and Tobago,TTO,2009,0.27
+Trinidad and Tobago,TTO,2010,0.27
+Trinidad and Tobago,TTO,2011,0.27
+Trinidad and Tobago,TTO,2012,0.27
+Trinidad and Tobago,TTO,2013,0.27
+Trinidad and Tobago,TTO,2014,0.27
+Tunisia,TUN,1990,0.22
+Tunisia,TUN,1991,0.22
+Tunisia,TUN,1992,0.22
+Tunisia,TUN,1993,0.22
+Tunisia,TUN,1994,0.22
+Tunisia,TUN,1995,0.22
+Tunisia,TUN,1996,0.22
+Tunisia,TUN,1997,0.22
+Tunisia,TUN,1998,0.22
+Tunisia,TUN,1999,0.22
+Tunisia,TUN,2000,0.22
+Tunisia,TUN,2001,0.22
+Tunisia,TUN,2002,0.22
+Tunisia,TUN,2003,0.22
+Tunisia,TUN,2004,0.22
+Tunisia,TUN,2005,0.22
+Tunisia,TUN,2006,0.22
+Tunisia,TUN,2007,0.22
+Tunisia,TUN,2008,0.22
+Tunisia,TUN,2009,0.22
+Tunisia,TUN,2010,0.22
+Tunisia,TUN,2011,0.22
+Tunisia,TUN,2012,0.22
+Tunisia,TUN,2013,0.22
+Tunisia,TUN,2014,0.22
+Turkey,TUR,1990,0.26
+Turkey,TUR,1991,0.26
+Turkey,TUR,1992,0.26
+Turkey,TUR,1993,0.26
+Turkey,TUR,1994,0.26
+Turkey,TUR,1995,0.26
+Turkey,TUR,1996,0.26
+Turkey,TUR,1997,0.26
+Turkey,TUR,1998,0.26
+Turkey,TUR,1999,0.26
+Turkey,TUR,2000,0.26
+Turkey,TUR,2001,0.26
+Turkey,TUR,2002,0.27
+Turkey,TUR,2003,0.27
+Turkey,TUR,2004,0.27
+Turkey,TUR,2005,0.26
+Turkey,TUR,2006,0.24
+Turkey,TUR,2007,0.23
+Turkey,TUR,2008,0.23
+Turkey,TUR,2009,0.23
+Turkey,TUR,2010,0.23
+Turkey,TUR,2011,0.23
+Turkey,TUR,2012,0.23
+Turkey,TUR,2013,0.23
+Turkey,TUR,2014,0.23
+Turkmenistan,TKM,1992,0.24
+Turkmenistan,TKM,1993,0.24
+Turkmenistan,TKM,1994,0.24
+Turkmenistan,TKM,1995,0.24
+Turkmenistan,TKM,1996,0.24
+Turkmenistan,TKM,1997,0.24
+Turkmenistan,TKM,1998,0.24
+Turkmenistan,TKM,1999,0.24
+Turkmenistan,TKM,2000,0.23
+Turkmenistan,TKM,2001,0.23
+Turkmenistan,TKM,2002,0.23
+Turkmenistan,TKM,2003,0.23
+Turkmenistan,TKM,2004,0.23
+Turkmenistan,TKM,2005,0.23
+Turkmenistan,TKM,2006,0.23
+Turkmenistan,TKM,2007,0.24
+Turkmenistan,TKM,2008,0.24
+Turkmenistan,TKM,2009,0.24
+Turkmenistan,TKM,2010,0.24
+Turkmenistan,TKM,2011,0.24
+Turkmenistan,TKM,2012,0.24
+Turkmenistan,TKM,2013,0.24
+Turkmenistan,TKM,2014,0.24
+Uganda,UGA,1990,0.29
+Uganda,UGA,1991,0.29
+Uganda,UGA,1992,0.29
+Uganda,UGA,1993,0.29
+Uganda,UGA,1994,0.29
+Uganda,UGA,1995,0.29
+Uganda,UGA,1996,0.29
+Uganda,UGA,1997,0.3
+Uganda,UGA,1998,0.31
+Uganda,UGA,1999,0.32
+Uganda,UGA,2000,0.32
+Uganda,UGA,2001,0.34
+Uganda,UGA,2002,0.35
+Uganda,UGA,2003,0.33
+Uganda,UGA,2004,0.32
+Uganda,UGA,2005,0.3
+Uganda,UGA,2006,0.31
+Uganda,UGA,2007,0.3
+Uganda,UGA,2008,0.3
+Uganda,UGA,2009,0.3
+Uganda,UGA,2010,0.3
+Uganda,UGA,2011,0.3
+Uganda,UGA,2012,0.31
+Uganda,UGA,2013,0.31
+Uganda,UGA,2014,0.31
+United Arab Emirates,ARE,1990,0.22
+United Arab Emirates,ARE,1991,0.22
+United Arab Emirates,ARE,1992,0.22
+United Arab Emirates,ARE,1993,0.22
+United Arab Emirates,ARE,1994,0.22
+United Arab Emirates,ARE,1995,0.22
+United Arab Emirates,ARE,1996,0.22
+United Arab Emirates,ARE,1997,0.22
+United Arab Emirates,ARE,1998,0.22
+United Arab Emirates,ARE,1999,0.22
+United Arab Emirates,ARE,2000,0.22
+United Arab Emirates,ARE,2001,0.22
+United Arab Emirates,ARE,2002,0.22
+United Arab Emirates,ARE,2003,0.22
+United Arab Emirates,ARE,2004,0.22
+United Arab Emirates,ARE,2005,0.23
+United Arab Emirates,ARE,2006,0.23
+United Arab Emirates,ARE,2007,0.23
+United Arab Emirates,ARE,2008,0.23
+United Arab Emirates,ARE,2009,0.23
+United Arab Emirates,ARE,2010,0.23
+United Arab Emirates,ARE,2011,0.23
+United Arab Emirates,ARE,2012,0.23
+United Arab Emirates,ARE,2013,0.23
+United Arab Emirates,ARE,2014,0.23
+Uruguay,URY,1990,0.21
+Uruguay,URY,1991,0.21
+Uruguay,URY,1992,0.21
+Uruguay,URY,1993,0.21
+Uruguay,URY,1994,0.21
+Uruguay,URY,1995,0.21
+Uruguay,URY,1996,0.21
+Uruguay,URY,1997,0.21
+Uruguay,URY,1998,0.21
+Uruguay,URY,1999,0.21
+Uruguay,URY,2000,0.21
+Uruguay,URY,2001,0.21
+Uruguay,URY,2002,0.21
+Uruguay,URY,2003,0.21
+Uruguay,URY,2004,0.21
+Uruguay,URY,2005,0.21
+Uruguay,URY,2006,0.21
+Uruguay,URY,2007,0.21
+Uruguay,URY,2008,0.21
+Uruguay,URY,2009,0.21
+Uruguay,URY,2010,0.21
+Uruguay,URY,2011,0.21
+Uruguay,URY,2012,0.21
+Uruguay,URY,2013,0.21
+Uruguay,URY,2014,0.21
+Uzbekistan,UZB,1992,0.22
+Uzbekistan,UZB,1993,0.22
+Uzbekistan,UZB,1994,0.22
+Uzbekistan,UZB,1995,0.22
+Uzbekistan,UZB,1996,0.22
+Uzbekistan,UZB,1997,0.22
+Uzbekistan,UZB,1998,0.22
+Uzbekistan,UZB,1999,0.22
+Uzbekistan,UZB,2000,0.22
+Uzbekistan,UZB,2001,0.22
+Uzbekistan,UZB,2002,0.22
+Uzbekistan,UZB,2003,0.23
+Uzbekistan,UZB,2004,0.23
+Uzbekistan,UZB,2005,0.23
+Uzbekistan,UZB,2006,0.23
+Uzbekistan,UZB,2007,0.23
+Uzbekistan,UZB,2008,0.23
+Uzbekistan,UZB,2009,0.23
+Uzbekistan,UZB,2010,0.23
+Uzbekistan,UZB,2011,0.23
+Uzbekistan,UZB,2012,0.23
+Uzbekistan,UZB,2013,0.23
+Uzbekistan,UZB,2014,0.23
+Vanuatu,VUT,1990,0.28
+Vanuatu,VUT,1991,0.28
+Vanuatu,VUT,1992,0.28
+Vanuatu,VUT,1993,0.28
+Vanuatu,VUT,1994,0.28
+Vanuatu,VUT,1995,0.28
+Vanuatu,VUT,1996,0.28
+Vanuatu,VUT,1997,0.28
+Vanuatu,VUT,1998,0.28
+Vanuatu,VUT,1999,0.28
+Vanuatu,VUT,2000,0.28
+Vanuatu,VUT,2001,0.28
+Vanuatu,VUT,2002,0.28
+Vanuatu,VUT,2003,0.28
+Vanuatu,VUT,2004,0.28
+Vanuatu,VUT,2005,0.28
+Vanuatu,VUT,2006,0.28
+Vanuatu,VUT,2007,0.28
+Vanuatu,VUT,2008,0.28
+Vanuatu,VUT,2009,0.28
+Vanuatu,VUT,2010,0.28
+Vanuatu,VUT,2011,0.28
+Vanuatu,VUT,2012,0.28
+Vanuatu,VUT,2013,0.28
+Vanuatu,VUT,2014,0.28
+Venezuela,VEN,1990,0.23
+Venezuela,VEN,1991,0.23
+Venezuela,VEN,1992,0.23
+Venezuela,VEN,1993,0.23
+Venezuela,VEN,1994,0.23
+Venezuela,VEN,1995,0.23
+Venezuela,VEN,1996,0.23
+Venezuela,VEN,1997,0.23
+Venezuela,VEN,1998,0.23
+Venezuela,VEN,1999,0.23
+Venezuela,VEN,2000,0.23
+Venezuela,VEN,2001,0.23
+Venezuela,VEN,2002,0.22
+Venezuela,VEN,2003,0.22
+Venezuela,VEN,2004,0.21
+Venezuela,VEN,2005,0.21
+Venezuela,VEN,2006,0.2
+Venezuela,VEN,2007,0.2
+Venezuela,VEN,2008,0.2
+Venezuela,VEN,2009,0.2
+Venezuela,VEN,2010,0.2
+Venezuela,VEN,2011,0.2
+Venezuela,VEN,2012,0.2
+Venezuela,VEN,2013,0.2
+Venezuela,VEN,2014,0.2
+Vietnam,VNM,1990,0.32
+Vietnam,VNM,1991,0.32
+Vietnam,VNM,1992,0.31
+Vietnam,VNM,1993,0.29
+Vietnam,VNM,1994,0.28
+Vietnam,VNM,1995,0.27
+Vietnam,VNM,1996,0.26
+Vietnam,VNM,1997,0.25
+Vietnam,VNM,1998,0.25
+Vietnam,VNM,1999,0.25
+Vietnam,VNM,2000,0.26
+Vietnam,VNM,2001,0.26
+Vietnam,VNM,2002,0.27
+Vietnam,VNM,2003,0.27
+Vietnam,VNM,2004,0.27
+Vietnam,VNM,2005,0.28
+Vietnam,VNM,2006,0.28
+Vietnam,VNM,2007,0.28
+Vietnam,VNM,2008,0.29
+Vietnam,VNM,2009,0.29
+Vietnam,VNM,2010,0.29
+Vietnam,VNM,2011,0.29
+Vietnam,VNM,2012,0.29
+Vietnam,VNM,2013,0.29
+Vietnam,VNM,2014,0.29
+Yemen,YEM,1990,0.29
+Yemen,YEM,1991,0.29
+Yemen,YEM,1992,0.29
+Yemen,YEM,1993,0.29
+Yemen,YEM,1994,0.29
+Yemen,YEM,1995,0.29
+Yemen,YEM,1996,0.29
+Yemen,YEM,1997,0.29
+Yemen,YEM,1998,0.29
+Yemen,YEM,1999,0.29
+Yemen,YEM,2000,0.28
+Yemen,YEM,2001,0.28
+Yemen,YEM,2002,0.28
+Yemen,YEM,2003,0.28
+Yemen,YEM,2004,0.28
+Yemen,YEM,2005,0.28
+Yemen,YEM,2006,0.27
+Yemen,YEM,2007,0.27
+Yemen,YEM,2008,0.26
+Yemen,YEM,2009,0.26
+Yemen,YEM,2010,0.26
+Yemen,YEM,2011,0.27
+Yemen,YEM,2012,0.27
+Yemen,YEM,2013,0.27
+Yemen,YEM,2014,0.27
+Zambia,ZMB,1990,0.3
+Zambia,ZMB,1991,0.3
+Zambia,ZMB,1992,0.3
+Zambia,ZMB,1993,0.3
+Zambia,ZMB,1994,0.3
+Zambia,ZMB,1995,0.3
+Zambia,ZMB,1996,0.3
+Zambia,ZMB,1997,0.31
+Zambia,ZMB,1998,0.32
+Zambia,ZMB,1999,0.33
+Zambia,ZMB,2000,0.34
+Zambia,ZMB,2001,0.35
+Zambia,ZMB,2002,0.37
+Zambia,ZMB,2003,0.37
+Zambia,ZMB,2004,0.39
+Zambia,ZMB,2005,0.4
+Zambia,ZMB,2006,0.4
+Zambia,ZMB,2007,0.41
+Zambia,ZMB,2008,0.42
+Zambia,ZMB,2009,0.42
+Zambia,ZMB,2010,0.43
+Zambia,ZMB,2011,0.43
+Zambia,ZMB,2012,0.43
+Zambia,ZMB,2013,0.43
+Zambia,ZMB,2014,0.43
+Zimbabwe,ZWE,1990,0.32
+Zimbabwe,ZWE,1991,0.32
+Zimbabwe,ZWE,1992,0.32
+Zimbabwe,ZWE,1993,0.32
+Zimbabwe,ZWE,1994,0.32
+Zimbabwe,ZWE,1995,0.32
+Zimbabwe,ZWE,1996,0.32
+Zimbabwe,ZWE,1997,0.32
+Zimbabwe,ZWE,1998,0.32
+Zimbabwe,ZWE,1999,0.32
+Zimbabwe,ZWE,2000,0.31
+Zimbabwe,ZWE,2001,0.31
+Zimbabwe,ZWE,2002,0.31
+Zimbabwe,ZWE,2003,0.31
+Zimbabwe,ZWE,2004,0.31
+Zimbabwe,ZWE,2005,0.31
+Zimbabwe,ZWE,2006,0.31
+Zimbabwe,ZWE,2007,0.31
+Zimbabwe,ZWE,2008,0.31
+Zimbabwe,ZWE,2009,0.31
+Zimbabwe,ZWE,2010,0.31
+Zimbabwe,ZWE,2011,0.31
+Zimbabwe,ZWE,2012,0.31
+Zimbabwe,ZWE,2013,0.31
+Zimbabwe,ZWE,2014,0.31

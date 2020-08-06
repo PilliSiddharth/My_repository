@@ -1,0 +1,7 @@
+Entity,Code,Year,Year,Agriculture (tonnes),Energy production (tonnes),Fugitive emissions (tonnes),Industrial processes (tonnes),Manufacturing industry & construction (tonnes),Military aircraft and naval shipping (tonnes),Non-road transport (tonnes),Other (tonnes),Road transport (tonnes),Small non-road mobile sources & machinery (tonnes),Waste (tonnes)
+Ammonia,,2016,253000,200,200,3800,2100,,,12900,4400,2200,10100
+NMVOC,,2016,117500,4000,129300.00000000001,443000,19400,600,12500,3600,31800,50400,6500
+Nitrogen oxides,,2016,7200,199700,2000,1300,139100,12500,137900,200,299800,91800,1400
+PM10,,2016,17000,4600,1900,53200,18000,200,3900,200,19900,47600,4000
+PM2.5,,2016,4300,3600,1200,13900,17400,200,3700,100,13400,46600,3600
+Sulphur dioxide,,2016,,66800,2500,8600,38700,1500,13400,,1300,45800,700

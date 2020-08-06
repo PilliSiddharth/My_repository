@@ -1,0 +1,819 @@
+Entity,Code,Year,
+Australia,AUS,1946,31.61
+Australia,AUS,1947,33.1
+Australia,AUS,1948,32.77
+Australia,AUS,1949,32.82
+Australia,AUS,1950,31.53
+Australia,AUS,1951,26.65
+Australia,AUS,1952,26.31
+Australia,AUS,1953,26.1
+Australia,AUS,1954,25.77
+Australia,AUS,1955,25.53
+Australia,AUS,1956,25.69
+Australia,AUS,1957,23.99
+Australia,AUS,1958,29.77
+Australia,AUS,1959,28.26
+Australia,AUS,1960,28.13
+Australia,AUS,1961,28.29
+Australia,AUS,1962,28.73
+Australia,AUS,1963,28.96
+Australia,AUS,1964,28.13
+Australia,AUS,1965,27.91
+Australia,AUS,1966,27.32
+Australia,AUS,1967,27.42
+Australia,AUS,1968,27.07
+Australia,AUS,1969,26.34
+Australia,AUS,1970,26.27
+Australia,AUS,1971,26.8
+Australia,AUS,1972,26.44
+Australia,AUS,1973,25.6
+Australia,AUS,1974,24.79
+Australia,AUS,1975,24.48
+Australia,AUS,1976,24.18
+Australia,AUS,1977,24.18
+Australia,AUS,1978,24.06
+Australia,AUS,1979,24.2
+Australia,AUS,1980,24.4
+Australia,AUS,1981,24.39
+Australia,AUS,1982,24.96
+Australia,AUS,1983,24.47
+Australia,AUS,1984,24.55
+Australia,AUS,1985,25.04
+Australia,AUS,1986,25.68
+Australia,AUS,1987,27.11
+Australia,AUS,1988,27.97
+Australia,AUS,1989,26.32
+Australia,AUS,1990,26.02
+Australia,AUS,1991,26.85
+Australia,AUS,1992,27.01
+Australia,AUS,1993,27.25
+Australia,AUS,1994,27.49
+Australia,AUS,1995,27.03
+Australia,AUS,1996,26.7
+Australia,AUS,1997,27.37
+Australia,AUS,1998,27.35
+Australia,AUS,1999,28.36
+Australia,AUS,2000,28.65
+Australia,AUS,2001,27.54
+Australia,AUS,2002,28.05
+Australia,AUS,2003,27.49
+Australia,AUS,2004,27.52
+Australia,AUS,2005,27.95
+Australia,AUS,2006,28.27
+Australia,AUS,2007,27.74
+Australia,AUS,2008,27.44
+Australia,AUS,2009,28.57
+Australia,AUS,2010,28.76
+Australia,AUS,2011,28.76
+Australia,AUS,2012,29.8
+Australia,AUS,2013,30.52
+Canada,CAN,1946,37.74
+Canada,CAN,1947,38.14
+Canada,CAN,1948,36.68
+Canada,CAN,1949,38.22
+Canada,CAN,1950,38.24
+Canada,CAN,1951,36.31
+Canada,CAN,1952,36.44
+Canada,CAN,1953,37.36
+Canada,CAN,1954,38.68
+Canada,CAN,1955,38.08
+Canada,CAN,1956,37.22
+Canada,CAN,1957,37.76
+Canada,CAN,1958,38.39
+Canada,CAN,1959,38.44
+Canada,CAN,1960,38.78
+Canada,CAN,1961,39.35
+Canada,CAN,1962,37.77
+Canada,CAN,1963,37.37
+Canada,CAN,1964,37.77
+Canada,CAN,1965,37.23
+Canada,CAN,1966,36.76
+Canada,CAN,1967,37.06
+Canada,CAN,1968,37.3
+Canada,CAN,1969,37.34
+Canada,CAN,1970,37.92
+Canada,CAN,1971,37.83
+Canada,CAN,1972,37.55
+Canada,CAN,1973,37.02
+Canada,CAN,1974,37.38
+Canada,CAN,1975,37.27
+Canada,CAN,1976,36.74
+Canada,CAN,1977,36.17
+Canada,CAN,1978,35.77
+Canada,CAN,1979,35.57
+Canada,CAN,1980,36.23
+Canada,CAN,1981,35.39
+Canada,CAN,1982,36.24
+Canada,CAN,1983,36.19
+Canada,CAN,1984,35.78
+Canada,CAN,1985,35.25
+Canada,CAN,1986,35.22
+Canada,CAN,1987,35.05
+Canada,CAN,1988,35.66
+Canada,CAN,1989,36.36
+Canada,CAN,1990,35.54
+Canada,CAN,1991,36.31
+Canada,CAN,1992,36.72
+Canada,CAN,1993,37.31
+Canada,CAN,1994,37.48
+Canada,CAN,1995,37.85
+Canada,CAN,1996,38.77
+Canada,CAN,1997,39.78
+Canada,CAN,1998,40.61
+Canada,CAN,1999,41.17
+Canada,CAN,2000,42.34
+China,CHN,1986,17.37
+China,CHN,1987,17.8
+China,CHN,1988,19.2
+China,CHN,1989,19.74
+China,CHN,1990,19.34
+China,CHN,1991,19.5
+China,CHN,1992,20.63
+China,CHN,1993,22.65
+China,CHN,1994,23.57
+China,CHN,1995,23.3
+China,CHN,1996,23.98
+China,CHN,1997,24.78
+China,CHN,1998,24.72
+China,CHN,1999,24.94
+China,CHN,2000,25.53
+China,CHN,2001,25.91
+China,CHN,2002,26.7
+China,CHN,2003,27.94
+France,FRA,1963,36.41
+France,FRA,1964,36.84
+France,FRA,1965,37.15
+France,FRA,1966,36.46
+France,FRA,1967,36.21
+France,FRA,1968,34.8
+France,FRA,1969,33.96
+France,FRA,1970,33.14
+France,FRA,1971,33.35
+France,FRA,1972,33.03
+France,FRA,1973,33.9
+France,FRA,1974,33.33
+France,FRA,1975,33.41
+France,FRA,1976,33.19
+France,FRA,1977,31.68
+France,FRA,1978,31.38
+France,FRA,1979,31.03
+France,FRA,1980,30.69
+France,FRA,1981,30.73
+France,FRA,1982,29.93
+France,FRA,1983,30.43
+France,FRA,1984,30.52
+France,FRA,1985,31.05
+France,FRA,1986,31.39
+France,FRA,1987,31.73
+France,FRA,1988,32.09
+France,FRA,1989,32.42
+France,FRA,1990,32.64
+France,FRA,1991,32.44
+France,FRA,1992,32.23
+France,FRA,1993,32.22
+France,FRA,1994,32.37
+France,FRA,1995,32.41
+France,FRA,1996,32.04
+France,FRA,1997,32.17
+France,FRA,1998,32.59
+France,FRA,1999,33
+France,FRA,2000,33.05
+France,FRA,2001,33.09
+France,FRA,2002,33.03
+France,FRA,2003,33.11
+France,FRA,2004,33.45
+France,FRA,2005,32.89
+France,FRA,2006,32.81
+France,FRA,2007,33.12
+France,FRA,2008,32.6
+France,FRA,2009,31.86
+France,FRA,2010,32.29
+France,FRA,2011,32.52
+France,FRA,2012,32.34
+France (pre 1962),,1946,32.87
+France (pre 1962),,1947,33.2
+France (pre 1962),,1948,32.35
+France (pre 1962),,1949,32.2
+France (pre 1962),,1950,31.97
+France (pre 1962),,1951,32.93
+France (pre 1962),,1952,33.19
+France (pre 1962),,1953,32.89
+France (pre 1962),,1954,33.53
+France (pre 1962),,1955,34.42
+France (pre 1962),,1956,34.36
+France (pre 1962),,1957,34.74
+France (pre 1962),,1958,34.05
+France (pre 1962),,1959,35.88
+France (pre 1962),,1960,36.11
+France (pre 1962),,1961,36.82
+France (pre 1962),,1962,35.88
+Germany,DEU,1992,33.4
+Germany,DEU,1995,31.4
+Germany,DEU,1998,34.71
+Germany,DEU,2001,35.9
+Germany,DEU,2002,35.56
+Germany,DEU,2003,35.18
+Germany,DEU,2004,35.59
+Germany,DEU,2005,37.58
+Germany,DEU,2006,37.58
+Germany,DEU,2007,38.57
+Germany,DEU,2008,39.52
+Germany,DEU,2009,39.64
+Germany,DEU,2010,39.45
+Ireland,IRL,1975,28.62
+Ireland,IRL,1976,27.96
+Ireland,IRL,1977,27.29
+Ireland,IRL,1978,28.2
+Ireland,IRL,1979,31.32
+Ireland,IRL,1980,31.5
+Ireland,IRL,1981,30.85
+Ireland,IRL,1982,32.57
+Ireland,IRL,1983,33.29
+Ireland,IRL,1984,31.57
+Ireland,IRL,1985,31.28
+Ireland,IRL,1986,31.03
+Ireland,IRL,1987,31.16
+Ireland,IRL,1988,30.51
+Ireland,IRL,1989,30.52
+Ireland,IRL,1990,31.05
+Ireland,IRL,1991,32.46
+Ireland,IRL,1992,34
+Ireland,IRL,1993,33.39
+Ireland,IRL,1994,34.84
+Ireland,IRL,1995,35.33
+Ireland,IRL,1996,35.55
+Ireland,IRL,1997,35.51
+Ireland,IRL,1998,35.89
+Ireland,IRL,1999,34.93
+Ireland,IRL,2000,33.87
+Ireland,IRL,2001,32.96
+Ireland,IRL,2002,33.45
+Ireland,IRL,2003,34.35
+Ireland,IRL,2004,35.54
+Ireland,IRL,2005,36.43
+Ireland,IRL,2006,37.87
+Ireland,IRL,2007,36.67
+Ireland,IRL,2008,35.28
+Ireland,IRL,2009,36.13
+Italy,ITA,1974,30.5
+Italy,ITA,1975,31.2
+Italy,ITA,1976,28.5
+Italy,ITA,1977,27.53
+Italy,ITA,1978,27.15
+Italy,ITA,1979,27.21
+Italy,ITA,1980,27.17
+Italy,ITA,1981,26.31
+Italy,ITA,1982,26.14
+Italy,ITA,1983,26.04
+Italy,ITA,1984,26.4
+Italy,ITA,1985,26.83
+Italy,ITA,1986,27.2
+Italy,ITA,1987,28.12
+Italy,ITA,1988,28.91
+Italy,ITA,1989,29.34
+Italy,ITA,1990,29.5
+Italy,ITA,1991,29.53
+Italy,ITA,1992,29.81
+Italy,ITA,1993,30.19
+Italy,ITA,1994,30.41
+Italy,ITA,1995,30.57
+Italy,ITA,1998,32.01
+Italy,ITA,1999,32.44
+Italy,ITA,2000,32.94
+Italy,ITA,2001,33
+Italy,ITA,2002,33.03
+Italy,ITA,2003,33.02
+Italy,ITA,2004,33.09
+Italy,ITA,2005,33.19
+Italy,ITA,2006,33.7
+Italy,ITA,2007,34.12
+Italy,ITA,2008,34
+Italy,ITA,2009,33.87
+Japan,JPN,1947,26.81
+Japan,JPN,1948,29.59
+Japan,JPN,1949,32.11
+Japan,JPN,1950,31.66
+Japan,JPN,1951,30.27
+Japan,JPN,1952,32.23
+Japan,JPN,1953,30.5
+Japan,JPN,1954,30.2
+Japan,JPN,1955,28.89
+Japan,JPN,1956,29.59
+Japan,JPN,1957,30.38
+Japan,JPN,1958,30.38
+Japan,JPN,1959,30.73
+Japan,JPN,1960,30.75
+Japan,JPN,1961,30.46
+Japan,JPN,1962,31.09
+Japan,JPN,1963,30.97
+Japan,JPN,1964,30.39
+Japan,JPN,1965,29.82
+Japan,JPN,1966,29.18
+Japan,JPN,1967,29.76
+Japan,JPN,1968,29.4
+Japan,JPN,1969,30.68
+Japan,JPN,1970,31.9
+Japan,JPN,1971,32.93
+Japan,JPN,1972,32.68
+Japan,JPN,1973,32.18
+Japan,JPN,1974,30.96
+Japan,JPN,1975,30.52
+Japan,JPN,1976,30.64
+Japan,JPN,1977,30.59
+Japan,JPN,1978,30.98
+Japan,JPN,1979,31.63
+Japan,JPN,1980,31.34
+Japan,JPN,1981,31.24
+Japan,JPN,1982,31.12
+Japan,JPN,1983,31.34
+Japan,JPN,1984,31.5
+Japan,JPN,1985,31.92
+Japan,JPN,1986,32.36
+Japan,JPN,1987,33.31
+Japan,JPN,1988,33.62
+Japan,JPN,1989,33.77
+Japan,JPN,1990,33.7
+Japan,JPN,1991,32.95
+Japan,JPN,1992,32.32
+Japan,JPN,1993,32.68
+Japan,JPN,1994,33.14
+Japan,JPN,1995,34.02
+Japan,JPN,1996,34.33
+Japan,JPN,1997,34.69
+Japan,JPN,1998,35.51
+Japan,JPN,1999,36.15
+Japan,JPN,2000,37.15
+Japan,JPN,2001,38.69
+Japan,JPN,2002,39.65
+Japan,JPN,2003,40.17
+Japan,JPN,2004,40.77
+Japan,JPN,2005,40.56
+Japan,JPN,2006,40.81
+Japan,JPN,2007,41.03
+Japan,JPN,2008,40.94
+Japan,JPN,2009,40.32
+Japan,JPN,2010,40.5
+"Korea, South",,1979,27.03
+"Korea, South",,1980,28.8
+"Korea, South",,1981,28.63
+"Korea, South",,1982,29.66
+"Korea, South",,1983,30.18
+"Korea, South",,1984,29.19
+"Korea, South",,1985,28.84
+"Korea, South",,1995,29.2
+"Korea, South",,1996,32.64
+"Korea, South",,1997,33.37
+"Korea, South",,1998,31.43
+"Korea, South",,1999,33.45
+"Korea, South",,2000,35.39
+"Korea, South",,2001,36.25
+"Korea, South",,2002,38
+"Korea, South",,2003,38.69
+"Korea, South",,2004,39.53
+"Korea, South",,2005,37.78
+"Korea, South",,2006,41.91
+"Korea, South",,2007,42.39
+"Korea, South",,2008,42.86
+"Korea, South",,2009,42.6
+"Korea, South",,2010,43.3
+"Korea, South",,2011,44.22
+"Korea, South",,2012,44.87
+Malaysia,MYS,1984,26.93
+Malaysia,MYS,1985,29.54
+Malaysia,MYS,1986,32.01
+Malaysia,MYS,1988,26.34
+Malaysia,MYS,1993,27.61
+Malaysia,MYS,1994,27.02
+Malaysia,MYS,1995,26.95
+Malaysia,MYS,2000,22.53
+Malaysia,MYS,2001,23.42
+Malaysia,MYS,2002,24.69
+Malaysia,MYS,2003,27.17
+Malaysia,MYS,2005,24.73
+Malaysia,MYS,2009,24.91
+Malaysia,MYS,2010,24.63
+Malaysia,MYS,2011,21.28
+Malaysia,MYS,2012,22.32
+Mauritius,MUS,1980,21.55
+Mauritius,MUS,1981,21.72
+Mauritius,MUS,1982,20.95
+Mauritius,MUS,1983,20.1
+Mauritius,MUS,1987,16.44
+Mauritius,MUS,1988,15.72
+Mauritius,MUS,1989,15.35
+Mauritius,MUS,1990,15.55
+Mauritius,MUS,1991,16.31
+Mauritius,MUS,1993,15.03
+Mauritius,MUS,1994,15.47
+Mauritius,MUS,1995,15.27
+Mauritius,MUS,1997,14.45
+Mauritius,MUS,2000,14.21
+Mauritius,MUS,2004,15.17
+Mauritius,MUS,2005,13.96
+Mauritius,MUS,2008,19.09
+Mauritius,MUS,2011,18.33
+Netherlands,NLD,1946,40.82
+Netherlands,NLD,1950,36.74
+Netherlands,NLD,1952,36.95
+Netherlands,NLD,1953,36.76
+Netherlands,NLD,1957,33.98
+Netherlands,NLD,1958,34.88
+Netherlands,NLD,1959,34.2
+Netherlands,NLD,1962,34.12
+Netherlands,NLD,1964,33.25
+Netherlands,NLD,1966,33.05
+Netherlands,NLD,1967,32.64
+Netherlands,NLD,1970,31.34
+Netherlands,NLD,1973,28.37
+Netherlands,NLD,1975,27.47
+Netherlands,NLD,1977,27.81
+Netherlands,NLD,1981,28.46
+Netherlands,NLD,1985,29.1
+Netherlands,NLD,1989,28.48
+Netherlands,NLD,1990,28.2
+Netherlands,NLD,1991,28.11
+Netherlands,NLD,1992,27.99
+Netherlands,NLD,1993,27.96
+Netherlands,NLD,1994,28.28
+Netherlands,NLD,1995,28.45
+Netherlands,NLD,1996,28.24
+Netherlands,NLD,1997,28.21
+Netherlands,NLD,1998,28.03
+Netherlands,NLD,1999,28.09
+Netherlands,NLD,2000,28.02
+Netherlands,NLD,2001,29.69
+Netherlands,NLD,2002,29.82
+Netherlands,NLD,2003,29.84
+Netherlands,NLD,2004,30.44
+Netherlands,NLD,2005,30.69
+Netherlands,NLD,2006,30.84
+Netherlands,NLD,2007,31.72
+Netherlands,NLD,2008,30.69
+Netherlands,NLD,2009,30.56
+Netherlands,NLD,2010,30.71
+Netherlands,NLD,2011,30.6
+Netherlands,NLD,2012,30.9
+Norway,NOR,1961,31.77
+Norway,NOR,1962,32.2
+Norway,NOR,1963,32.03
+Norway,NOR,1964,31.45
+Norway,NOR,1965,30.65
+Norway,NOR,1966,31.05
+Norway,NOR,1967,30.38
+Norway,NOR,1968,30.77
+Norway,NOR,1969,30.96
+Norway,NOR,1970,29.84
+Norway,NOR,1971,30.4
+Norway,NOR,1972,29.94
+Norway,NOR,1973,29.24
+Norway,NOR,1974,28.58
+Norway,NOR,1975,29.03
+Norway,NOR,1976,29.36
+Norway,NOR,1977,29.63
+Norway,NOR,1978,27.22
+Norway,NOR,1979,26.58
+Norway,NOR,1980,25.26
+Norway,NOR,1981,24.67
+Norway,NOR,1982,24.36
+Norway,NOR,1983,24
+Norway,NOR,1984,23.57
+Norway,NOR,1985,23.64
+Norway,NOR,1986,23.11
+Norway,NOR,1987,23.11
+Norway,NOR,1988,22.73
+Norway,NOR,1989,21.83
+Norway,NOR,1990,22.19
+Norway,NOR,1991,22.27
+Norway,NOR,1992,23.27
+Norway,NOR,1993,25.57
+Norway,NOR,1994,26.91
+Norway,NOR,1995,26.86
+Norway,NOR,1996,27.84
+Norway,NOR,1997,29.09
+Norway,NOR,1998,27.96
+Norway,NOR,1999,28.31
+Norway,NOR,2000,30.45
+Norway,NOR,2001,26.87
+Norway,NOR,2002,28.9
+Norway,NOR,2003,29.82
+Norway,NOR,2004,31.7
+Norway,NOR,2005,37.06
+Norway,NOR,2006,28.22
+Norway,NOR,2007,28.97
+Norway,NOR,2008,27.11
+Norway,NOR,2009,26.95
+Norway,NOR,2010,27.99
+Norway,NOR,2011,28.33
+Portugal,PRT,1976,31.71
+Portugal,PRT,1977,26.84
+Portugal,PRT,1978,24.93
+Portugal,PRT,1979,20.32
+Portugal,PRT,1980,18.77
+Portugal,PRT,1981,18.84
+Portugal,PRT,1982,20.99
+Portugal,PRT,1989,30.2
+Portugal,PRT,1990,31.19
+Portugal,PRT,1991,32.43
+Portugal,PRT,1992,33.15
+Portugal,PRT,1993,34.68
+Portugal,PRT,1994,35.02
+Portugal,PRT,1995,35.38
+Portugal,PRT,1996,35.07
+Portugal,PRT,1997,35.76
+Portugal,PRT,1998,35.45
+Portugal,PRT,1999,36.18
+Portugal,PRT,2000,36.13
+Portugal,PRT,2001,37.84
+Portugal,PRT,2002,36.77
+Portugal,PRT,2003,36.41
+Portugal,PRT,2004,38.24
+Portugal,PRT,2005,38.25
+Singapore,SGP,1974,30.69
+Singapore,SGP,1975,31.4
+Singapore,SGP,1976,31.39
+Singapore,SGP,1977,30.58
+Singapore,SGP,1978,31.97
+Singapore,SGP,1979,34.46
+Singapore,SGP,1980,32.07
+Singapore,SGP,1981,32.14
+Singapore,SGP,1982,33.22
+Singapore,SGP,1983,32.12
+Singapore,SGP,1984,31.74
+Singapore,SGP,1985,33.8
+Singapore,SGP,1986,32.76
+Singapore,SGP,1987,36.01
+Singapore,SGP,1988,33.95
+Singapore,SGP,1989,34.67
+Singapore,SGP,1990,35.04
+Singapore,SGP,1991,33.09
+Singapore,SGP,1993,32.37
+Singapore,SGP,1994,30.41
+Singapore,SGP,1995,30.18
+Singapore,SGP,1996,30.91
+Singapore,SGP,1997,30.79
+Singapore,SGP,1998,32.64
+Singapore,SGP,1999,36.28
+Singapore,SGP,2000,38.06
+Singapore,SGP,2001,43.87
+Singapore,SGP,2002,43.53
+Singapore,SGP,2003,41.36
+Singapore,SGP,2004,38.92
+Singapore,SGP,2005,38.25
+Singapore,SGP,2006,39.24
+Singapore,SGP,2007,37.82
+Singapore,SGP,2008,43.6
+Singapore,SGP,2009,41.35
+Singapore,SGP,2010,39.62
+Singapore,SGP,2011,41.85
+Singapore,SGP,2012,41.81
+Spain,ESP,1981,32.61
+Spain,ESP,1982,32.96
+Spain,ESP,1983,33.29
+Spain,ESP,1984,33.56
+Spain,ESP,1985,33.72
+Spain,ESP,1986,34.66
+Spain,ESP,1987,34.84
+Spain,ESP,1988,35.05
+Spain,ESP,1989,35.66
+Spain,ESP,1990,35.35
+Spain,ESP,1991,34.58
+Spain,ESP,1992,33.93
+Spain,ESP,1993,33.19
+Spain,ESP,1994,33.55
+Spain,ESP,1995,33.37
+Spain,ESP,1996,33.3
+Spain,ESP,1997,32.82
+Spain,ESP,1998,33
+Spain,ESP,1999,33.51
+Spain,ESP,2000,33.45
+Spain,ESP,2001,33.36
+Spain,ESP,2002,32.93
+Spain,ESP,2003,33.2
+Spain,ESP,2004,33.24
+Spain,ESP,2005,33.32
+Spain,ESP,2006,33.85
+Spain,ESP,2007,33.33
+Spain,ESP,2008,32.84
+Spain,ESP,2009,32.46
+Spain,ESP,2010,32.09
+Spain,ESP,2011,32.42
+Spain,ESP,2012,31.64
+Sweden,SWE,1946,34.29
+Sweden,SWE,1947,32.09
+Sweden,SWE,1948,30.77
+Sweden,SWE,1949,30.35
+Sweden,SWE,1950,30.25
+Sweden,SWE,1951,29.84
+Sweden,SWE,1952,29.08
+Sweden,SWE,1953,29.6
+Sweden,SWE,1954,29.21
+Sweden,SWE,1955,28.82
+Sweden,SWE,1956,28.83
+Sweden,SWE,1957,29.21
+Sweden,SWE,1958,29.52
+Sweden,SWE,1959,30.06
+Sweden,SWE,1960,30.35
+Sweden,SWE,1961,30.36
+Sweden,SWE,1962,30.08
+Sweden,SWE,1963,29.95
+Sweden,SWE,1964,29.8
+Sweden,SWE,1965,29.69
+Sweden,SWE,1966,29.58
+Sweden,SWE,1967,30.33
+Sweden,SWE,1968,30.39
+Sweden,SWE,1969,30.02
+Sweden,SWE,1970,29.36
+Sweden,SWE,1971,28.36
+Sweden,SWE,1972,27.89
+Sweden,SWE,1973,27.56
+Sweden,SWE,1974,27.07
+Sweden,SWE,1975,26.38
+Sweden,SWE,1976,25.55
+Sweden,SWE,1977,24.72
+Sweden,SWE,1978,23.99
+Sweden,SWE,1979,23.47
+Sweden,SWE,1980,22.73
+Sweden,SWE,1981,22.4
+Sweden,SWE,1982,22.33
+Sweden,SWE,1983,22.42
+Sweden,SWE,1984,22.3
+Sweden,SWE,1985,22.33
+Sweden,SWE,1986,22.35
+Sweden,SWE,1987,22.54
+Sweden,SWE,1988,22.53
+Sweden,SWE,1989,22.55
+Sweden,SWE,1990,22.75
+Sweden,SWE,1991,24.33
+Sweden,SWE,1992,24.33
+Sweden,SWE,1993,24.63
+Sweden,SWE,1994,25.23
+Sweden,SWE,1995,24.93
+Sweden,SWE,1996,25.56
+Sweden,SWE,1997,25.82
+Sweden,SWE,1998,25.91
+Sweden,SWE,1999,26.12
+Sweden,SWE,2000,26.72
+Sweden,SWE,2001,26.76
+Sweden,SWE,2002,26.43
+Sweden,SWE,2003,26.12
+Sweden,SWE,2004,26.34
+Sweden,SWE,2005,26.96
+Sweden,SWE,2006,27.3
+Sweden,SWE,2007,27.76
+Sweden,SWE,2008,28.07
+Sweden,SWE,2009,27.93
+Sweden,SWE,2010,28.27
+Sweden,SWE,2011,28.33
+Sweden,SWE,2012,27.9
+Sweden,SWE,2013,28
+Switzerland,CHE,1947,31.58
+Switzerland,CHE,1949,32.29
+Switzerland,CHE,1951,31.29
+Switzerland,CHE,1953,30.33
+Switzerland,CHE,1955,29.72
+Switzerland,CHE,1957,30.99
+Switzerland,CHE,1959,31.47
+Switzerland,CHE,1961,31.56
+Switzerland,CHE,1963,31.72
+Switzerland,CHE,1965,31.6
+Switzerland,CHE,1967,32.29
+Switzerland,CHE,1969,32.7
+Switzerland,CHE,1971,32.49
+Switzerland,CHE,1973,30.96
+Switzerland,CHE,1975,30.29
+Switzerland,CHE,1977,29.93
+Switzerland,CHE,1979,29.89
+Switzerland,CHE,1981,29.87
+Switzerland,CHE,1983,29.88
+Switzerland,CHE,1985,30.35
+Switzerland,CHE,1987,30.78
+Switzerland,CHE,1989,30.78
+Switzerland,CHE,1991,29.99
+Switzerland,CHE,1993,29.65
+Switzerland,CHE,1995,29.94
+Switzerland,CHE,1996,30.46
+Switzerland,CHE,1997,30.37
+Switzerland,CHE,1998,30.91
+Switzerland,CHE,1999,31.9
+Switzerland,CHE,2000,32.32
+Switzerland,CHE,2001,31.87
+Switzerland,CHE,2002,31.22
+Switzerland,CHE,2003,31.07
+Switzerland,CHE,2004,31.58
+Switzerland,CHE,2005,31.88
+Switzerland,CHE,2006,32.65
+Switzerland,CHE,2007,33.25
+Switzerland,CHE,2008,33.63
+Switzerland,CHE,2009,33.15
+Switzerland,CHE,2010,33.48
+Taiwan,TWN,1977,25.21
+Taiwan,TWN,1978,25.28
+Taiwan,TWN,1979,24.29
+Taiwan,TWN,1980,23.43
+Taiwan,TWN,1981,23.64
+Taiwan,TWN,1982,24.91
+Taiwan,TWN,1983,24.92
+Taiwan,TWN,1984,25.89
+Taiwan,TWN,1985,27.08
+Taiwan,TWN,1986,27.06
+Taiwan,TWN,1987,28.03
+Taiwan,TWN,1988,27.41
+Taiwan,TWN,1989,28.91
+Taiwan,TWN,1990,29.38
+Taiwan,TWN,1991,29.29
+Taiwan,TWN,1992,28.95
+Taiwan,TWN,1993,27.77
+Taiwan,TWN,1994,28.63
+Taiwan,TWN,1995,28.79
+Taiwan,TWN,1996,29.16
+Taiwan,TWN,1997,29.32
+Taiwan,TWN,1998,30.68
+Taiwan,TWN,1999,29.7
+Taiwan,TWN,2000,31.29
+Taiwan,TWN,2001,32.54
+Taiwan,TWN,2002,30.43
+Taiwan,TWN,2003,30.99
+Taiwan,TWN,2004,31.68
+Taiwan,TWN,2005,33.4
+Taiwan,TWN,2006,33.5
+Taiwan,TWN,2007,35.28
+Taiwan,TWN,2008,36.85
+Taiwan,TWN,2009,33.71
+Taiwan,TWN,2010,36.4
+Taiwan,TWN,2011,37.64
+Taiwan,TWN,2012,38.22
+Taiwan,TWN,2013,36.39
+United States,USA,1946,34.62
+United States,USA,1947,33.02
+United States,USA,1948,33.72
+United States,USA,1949,33.76
+United States,USA,1950,33.87
+United States,USA,1951,32.82
+United States,USA,1952,32.07
+United States,USA,1953,31.38
+United States,USA,1954,32.12
+United States,USA,1955,31.77
+United States,USA,1956,31.81
+United States,USA,1957,31.69
+United States,USA,1958,32.11
+United States,USA,1959,32.03
+United States,USA,1960,31.66
+United States,USA,1961,31.9
+United States,USA,1962,32.04
+United States,USA,1963,32.01
+United States,USA,1964,31.64
+United States,USA,1965,31.52
+United States,USA,1966,31.98
+United States,USA,1967,32.05
+United States,USA,1968,31.98
+United States,USA,1969,31.82
+United States,USA,1970,31.51
+United States,USA,1971,31.75
+United States,USA,1972,31.62
+United States,USA,1973,31.85
+United States,USA,1974,32.36
+United States,USA,1975,32.62
+United States,USA,1976,32.42
+United States,USA,1977,32.43
+United States,USA,1978,32.44
+United States,USA,1979,32.35
+United States,USA,1980,32.87
+United States,USA,1981,32.72
+United States,USA,1982,33.22
+United States,USA,1983,33.69
+United States,USA,1984,33.95
+United States,USA,1985,34.25
+United States,USA,1986,34.57
+United States,USA,1987,36.48
+United States,USA,1988,38.63
+United States,USA,1989,38.47
+United States,USA,1990,38.84
+United States,USA,1991,38.38
+United States,USA,1992,39.82
+United States,USA,1993,39.48
+United States,USA,1994,39.6
+United States,USA,1995,40.54
+United States,USA,1996,41.16
+United States,USA,1997,41.73
+United States,USA,1998,42.12
+United States,USA,1999,42.67
+United States,USA,2000,43.11
+United States,USA,2001,42.23
+United States,USA,2002,42.36
+United States,USA,2003,42.76
+United States,USA,2004,43.64
+United States,USA,2005,44.94
+United States,USA,2006,45.5
+United States,USA,2007,45.67
+United States,USA,2008,45.96
+United States,USA,2009,45.47
+United States,USA,2010,46.35
+United States,USA,2011,46.63
+United States,USA,2012,47.76
+United States,USA,2013,46.7
+United States,USA,2014,47.34
+United States,USA,2015,47.81
+Uruguay,URY,2009,49.84
+Uruguay,URY,2010,50
+Uruguay,URY,2011,48.33
+Uruguay,URY,2012,45.18

@@ -1,0 +1,418 @@
+Entity,Code,Year,Number left homeless from natural disasters (homeless)
+All natural disasters,,1900,0
+All natural disasters,,1901,0
+All natural disasters,,1902,0
+All natural disasters,,1903,0
+All natural disasters,,1904,0
+All natural disasters,,1905,0
+All natural disasters,,1906,0
+All natural disasters,,1907,0
+All natural disasters,,1908,0
+All natural disasters,,1909,0
+All natural disasters,,1910,0
+All natural disasters,,1911,200
+All natural disasters,,1912,97320
+All natural disasters,,1913,0
+All natural disasters,,1914,0
+All natural disasters,,1915,0
+All natural disasters,,1916,0
+All natural disasters,,1917,0
+All natural disasters,,1918,0
+All natural disasters,,1919,0
+All natural disasters,,1920,0
+All natural disasters,,1921,0
+All natural disasters,,1922,11000
+All natural disasters,,1923,26300
+All natural disasters,,1924,11250
+All natural disasters,,1925,0
+All natural disasters,,1926,40000
+All natural disasters,,1927,0
+All natural disasters,,1928,2000
+All natural disasters,,1929,0
+All natural disasters,,1930,0
+All natural disasters,,1931,0
+All natural disasters,,1932,5460
+All natural disasters,,1933,3600000
+All natural disasters,,1934,0
+All natural disasters,,1935,0
+All natural disasters,,1936,150000
+All natural disasters,,1937,0
+All natural disasters,,1938,4710
+All natural disasters,,1939,3900
+All natural disasters,,1940,2000
+All natural disasters,,1941,0
+All natural disasters,,1942,0
+All natural disasters,,1943,0
+All natural disasters,,1944,28100
+All natural disasters,,1945,2000
+All natural disasters,,1946,0
+All natural disasters,,1947,0
+All natural disasters,,1948,0
+All natural disasters,,1949,0
+All natural disasters,,1950,40000
+All natural disasters,,1951,173500
+All natural disasters,,1952,0
+All natural disasters,,1953,4000
+All natural disasters,,1954,134716
+All natural disasters,,1955,377000
+All natural disasters,,1956,77000
+All natural disasters,,1957,0
+All natural disasters,,1958,0
+All natural disasters,,1959,0
+All natural disasters,,1960,2250
+All natural disasters,,1961,3171
+All natural disasters,,1962,0
+All natural disasters,,1963,2200
+All natural disasters,,1964,219900
+All natural disasters,,1965,5156414
+All natural disasters,,1966,2089319
+All natural disasters,,1967,315158
+All natural disasters,,1968,988408
+All natural disasters,,1969,149747
+All natural disasters,,1970,567090
+All natural disasters,,1971,2093865
+All natural disasters,,1972,1122502
+All natural disasters,,1973,154534
+All natural disasters,,1974,2106141
+All natural disasters,,1975,7084428
+All natural disasters,,1976,1710384
+All natural disasters,,1977,6155310
+All natural disasters,,1978,256729
+All natural disasters,,1979,622463
+All natural disasters,,1980,2704879
+All natural disasters,,1981,298043
+All natural disasters,,1982,1092909
+All natural disasters,,1983,1414541
+All natural disasters,,1984,1927890
+All natural disasters,,1985,2090008
+All natural disasters,,1986,4608139
+All natural disasters,,1987,1605691
+All natural disasters,,1988,5520981
+All natural disasters,,1989,2119659
+All natural disasters,,1990,1886098
+All natural disasters,,1991,6851375
+All natural disasters,,1992,4742349
+All natural disasters,,1993,1213331
+All natural disasters,,1994,9300428
+All natural disasters,,1995,5846375
+All natural disasters,,1996,6998121
+All natural disasters,,1997,3336485
+All natural disasters,,1998,29424866
+All natural disasters,,1999,6584276
+All natural disasters,,2000,1766425
+All natural disasters,,2001,3113696
+All natural disasters,,2002,354875
+All natural disasters,,2003,2900670
+All natural disasters,,2004,2577923
+All natural disasters,,2005,6266457
+All natural disasters,,2006,6203123
+All natural disasters,,2007,1169731
+All natural disasters,,2008,3242535
+All natural disasters,,2009,510312
+All natural disasters,,2010,2423997
+All natural disasters,,2011,1964972
+All natural disasters,,2012,950345
+All natural disasters,,2013,328923
+All natural disasters,,2014,1364787
+All natural disasters,,2015,619992
+All natural disasters,,2016,2459745
+All natural disasters,,2017,312859
+All natural disasters,,2019,58215
+Drought,,1969,20000
+Drought,,2017,0
+Drought,,2019,0
+Earthquake,,1924,11250
+Earthquake,,1932,2960
+Earthquake,,1938,4710
+Earthquake,,1950,40000
+Earthquake,,1954,129250
+Earthquake,,1960,1250
+Earthquake,,1964,23000
+Earthquake,,1965,60000
+Earthquake,,1966,49256
+Earthquake,,1967,100690
+Earthquake,,1968,4000
+Earthquake,,1969,85420
+Earthquake,,1970,27992
+Earthquake,,1971,27465
+Earthquake,,1972,375000
+Earthquake,,1973,84
+Earthquake,,1974,5200
+Earthquake,,1976,1374000
+Earthquake,,1977,215500
+Earthquake,,1978,2700
+Earthquake,,1979,33100
+Earthquake,,1980,478000
+Earthquake,,1982,9500
+Earthquake,,1983,71455
+Earthquake,,1984,34300
+Earthquake,,1985,619865
+Earthquake,,1986,266940
+Earthquake,,1987,163000
+Earthquake,,1988,799250
+Earthquake,,1989,200565
+Earthquake,,1990,185006
+Earthquake,,1991,250110
+Earthquake,,1992,257808
+Earthquake,,1993,47980
+Earthquake,,1994,61232
+Earthquake,,1995,375136
+Earthquake,,1996,1890015
+Earthquake,,1997,348545
+Earthquake,,1998,243410
+Earthquake,,1999,1418748
+Earthquake,,2000,377229
+Earthquake,,2001,2243015
+Earthquake,,2002,58534
+Earthquake,,2003,645314
+Earthquake,,2004,1177207
+Earthquake,,2005,5151700
+Earthquake,,2006,844990
+Earthquake,,2007,86833
+Earthquake,,2008,417140
+Earthquake,,2009,128960
+Earthquake,,2010,912204
+Earthquake,,2011,202752
+Earthquake,,2012,29002
+Earthquake,,2013,14540
+Earthquake,,2014,24070
+Earthquake,,2015,195230
+Earthquake,,2016,29741
+Earthquake,,2017,8066
+Earthquake,,2019,16809
+Extreme temperature,,1985,1340
+Extreme temperature,,1992,16000
+Extreme temperature,,2011,233000
+Extreme temperature,,2013,5247
+Extreme temperature,,2017,0
+Extreme temperature,,2019,0
+Extreme weather,,1912,97320
+Extreme weather,,1923,26300
+Extreme weather,,1926,40000
+Extreme weather,,1932,2500
+Extreme weather,,1936,150000
+Extreme weather,,1944,12000
+Extreme weather,,1945,2000
+Extreme weather,,1955,375000
+Extreme weather,,1960,1000
+Extreme weather,,1961,1171
+Extreme weather,,1963,2200
+Extreme weather,,1964,143000
+Extreme weather,,1965,5000200
+Extreme weather,,1966,423500
+Extreme weather,,1967,3500
+Extreme weather,,1968,79576
+Extreme weather,,1969,26943
+Extreme weather,,1970,77080
+Extreme weather,,1971,2049300
+Extreme weather,,1972,37000
+Extreme weather,,1973,55200
+Extreme weather,,1974,6441
+Extreme weather,,1975,4278
+Extreme weather,,1976,111384
+Extreme weather,,1977,5474450
+Extreme weather,,1978,112829
+Extreme weather,,1979,432631
+Extreme weather,,1980,2065379
+Extreme weather,,1981,59858
+Extreme weather,,1982,681983
+Extreme weather,,1983,686386
+Extreme weather,,1984,1443020
+Extreme weather,,1985,780356
+Extreme weather,,1986,397633
+Extreme weather,,1987,1157401
+Extreme weather,,1988,2208421
+Extreme weather,,1989,1046171
+Extreme weather,,1990,1351217
+Extreme weather,,1991,1035480
+Extreme weather,,1992,383391
+Extreme weather,,1993,671584
+Extreme weather,,1994,1940047
+Extreme weather,,1995,1619837
+Extreme weather,,1996,100860
+Extreme weather,,1997,1905545
+Extreme weather,,1998,11171165
+Extreme weather,,1999,1297706
+Extreme weather,,2000,445461
+Extreme weather,,2001,506905
+Extreme weather,,2002,46820
+Extreme weather,,2003,493057
+Extreme weather,,2004,940895
+Extreme weather,,2005,412268
+Extreme weather,,2006,620483
+Extreme weather,,2007,106209
+Extreme weather,,2008,273373
+Extreme weather,,2009,245872
+Extreme weather,,2010,777608
+Extreme weather,,2011,297752
+Extreme weather,,2012,694147
+Extreme weather,,2013,54882
+Extreme weather,,2014,74621
+Extreme weather,,2015,234269
+Extreme weather,,2016,163170
+Extreme weather,,2017,109013
+Flood,,1928,2000
+Flood,,1933,3600000
+Flood,,1940,2000
+Flood,,1951,173500
+Flood,,1953,4000
+Flood,,1956,77000
+Flood,,1961,2000
+Flood,,1964,53900
+Flood,,1965,88214
+Flood,,1966,1616563
+Flood,,1967,210800
+Flood,,1968,894584
+Flood,,1969,17384
+Flood,,1970,462018
+Flood,,1971,15000
+Flood,,1972,710502
+Flood,,1973,94250
+Flood,,1974,2093000
+Flood,,1975,7080150
+Flood,,1976,220000
+Flood,,1977,400260
+Flood,,1978,138200
+Flood,,1979,146732
+Flood,,1980,156000
+Flood,,1981,213185
+Flood,,1982,372410
+Flood,,1983,644600
+Flood,,1984,450570
+Flood,,1985,684447
+Flood,,1986,1443200
+Flood,,1987,282500
+Flood,,1988,2505125
+Flood,,1989,867158
+Flood,,1990,349875
+Flood,,1991,5533814
+Flood,,1992,3995510
+Flood,,1993,374335
+Flood,,1994,7214123
+Flood,,1995,2722507
+Flood,,1996,5006286
+Flood,,1997,1079851
+Flood,,1998,18003104
+Flood,,1999,3849227
+Flood,,2000,793068
+Flood,,2001,327831
+Flood,,2002,96952
+Flood,,2003,1760451
+Flood,,2004,457117
+Flood,,2005,700349
+Flood,,2006,4638942
+Flood,,2007,970247
+Flood,,2008,2547797
+Flood,,2009,112870
+Flood,,2010,670720
+Flood,,2011,1209286
+Flood,,2012,222538
+Flood,,2013,246991
+Flood,,2014,1257973
+Flood,,2015,165658
+Flood,,2016,2253027
+Flood,,2017,190054
+Flood,,2019,23465
+Landslide,,1954,5466
+Landslide,,1967,168
+Landslide,,1968,168
+Landslide,,1974,1500
+Landslide,,1977,100
+Landslide,,1980,3000
+Landslide,,1982,5016
+Landslide,,1985,4000
+Landslide,,1986,2500366
+Landslide,,1987,2040
+Landslide,,1988,5685
+Landslide,,1989,5765
+Landslide,,1991,23271
+Landslide,,1992,38700
+Landslide,,1993,62307
+Landslide,,1994,37996
+Landslide,,1995,1118395
+Landslide,,1996,360
+Landslide,,1997,2344
+Landslide,,1998,5839
+Landslide,,1999,4860
+Landslide,,2000,148290
+Landslide,,2001,35945
+Landslide,,2002,37482
+Landslide,,2003,513
+Landslide,,2004,150
+Landslide,,2005,390
+Landslide,,2006,98300
+Landslide,,2009,20743
+Landslide,,2010,59195
+Landslide,,2011,2000
+Landslide,,2012,3368
+Landslide,,2014,7865
+Landslide,,2015,11590
+Landslide,,2016,5000
+Landslide,,2017,2315
+Landslide,,2019,570
+Mass movement (dry),,1955,2000
+Mass movement (dry),,1971,1500
+Mass movement (dry),,1992,400
+Mass movement (dry),,1993,125
+Mass movement (dry),,2004,340
+Mass movement (dry),,2008,625
+Mass movement (dry),,2009,991
+Storm,,2019,10165
+Volcanic activity,,1944,14000
+Volcanic activity,,1965,8000
+Volcanic activity,,1968,9280
+Volcanic activity,,1971,600
+Volcanic activity,,1976,5000
+Volcanic activity,,1977,65000
+Volcanic activity,,1979,10000
+Volcanic activity,,1980,2500
+Volcanic activity,,1981,5000
+Volcanic activity,,1982,15000
+Volcanic activity,,1983,1100
+Volcanic activity,,1988,2500
+Volcanic activity,,1991,8400
+Volcanic activity,,1993,57000
+Volcanic activity,,1994,46000
+Volcanic activity,,1995,7500
+Volcanic activity,,1997,200
+Volcanic activity,,1999,2710
+Volcanic activity,,2002,110000
+Volcanic activity,,2011,6000
+Volcanic activity,,2017,0
+Volcanic activity,,2019,0
+Wildfire,,1911,200
+Wildfire,,1922,11000
+Wildfire,,1939,3900
+Wildfire,,1944,2100
+Wildfire,,1968,800
+Wildfire,,1973,5000
+Wildfire,,1978,3000
+Wildfire,,1981,20000
+Wildfire,,1982,9000
+Wildfire,,1983,11000
+Wildfire,,1987,750
+Wildfire,,1991,300
+Wildfire,,1992,50540
+Wildfire,,1994,1030
+Wildfire,,1995,3000
+Wildfire,,1996,600
+Wildfire,,1998,1348
+Wildfire,,1999,11025
+Wildfire,,2000,2377
+Wildfire,,2002,5087
+Wildfire,,2003,1335
+Wildfire,,2004,2214
+Wildfire,,2005,1750
+Wildfire,,2006,408
+Wildfire,,2007,6442
+Wildfire,,2008,3600
+Wildfire,,2009,876
+Wildfire,,2010,4270
+Wildfire,,2011,14182
+Wildfire,,2012,1290
+Wildfire,,2013,7263
+Wildfire,,2014,258
+Wildfire,,2015,13245
+Wildfire,,2016,8807
+Wildfire,,2017,3411
+Wildfire,,2019,7206

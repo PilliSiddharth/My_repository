@@ -1,0 +1,375 @@
+Entity,Code,Year,Does law prohibit or invalidate child or early marriage? ((where 1=yes; 0=no))
+Afghanistan,AFG,2015,1
+Afghanistan,AFG,2017,1
+Albania,ALB,2015,1
+Albania,ALB,2017,1
+Algeria,DZA,2015,1
+Algeria,DZA,2017,1
+Angola,AGO,2015,1
+Angola,AGO,2017,1
+Antigua and Barbuda,ATG,2015,1
+Antigua and Barbuda,ATG,2017,1
+Argentina,ARG,2015,1
+Argentina,ARG,2017,1
+Armenia,ARM,2015,1
+Armenia,ARM,2017,1
+Australia,AUS,2015,1
+Australia,AUS,2017,1
+Austria,AUT,2015,1
+Austria,AUT,2017,1
+Azerbaijan,AZE,2015,1
+Azerbaijan,AZE,2017,1
+Bahamas,BHS,2015,1
+Bahamas,BHS,2017,1
+Bahrain,BHR,2015,0
+Bahrain,BHR,2017,0
+Bangladesh,BGD,2015,0
+Bangladesh,BGD,2017,0
+Barbados,BRB,2015,1
+Barbados,BRB,2017,1
+Belarus,BLR,2015,1
+Belarus,BLR,2017,1
+Belgium,BEL,2015,1
+Belgium,BEL,2017,1
+Belize,BLZ,2015,1
+Belize,BLZ,2017,1
+Benin,BEN,2015,1
+Benin,BEN,2017,1
+Bhutan,BTN,2015,0
+Bhutan,BTN,2017,0
+Bolivia,BOL,2015,0
+Bolivia,BOL,2017,0
+Bosnia and Herzegovina,BIH,2015,1
+Bosnia and Herzegovina,BIH,2017,1
+Botswana,BWA,2015,0
+Botswana,BWA,2017,0
+Brazil,BRA,2015,0
+Brazil,BRA,2017,0
+Brunei,BRN,2015,1
+Brunei,BRN,2017,1
+Bulgaria,BGR,2015,1
+Bulgaria,BGR,2017,1
+Burkina Faso,BFA,2015,0
+Burkina Faso,BFA,2017,0
+Burundi,BDI,2015,1
+Burundi,BDI,2017,1
+Cambodia,KHM,2015,1
+Cambodia,KHM,2017,1
+Cameroon,CMR,2015,0
+Cameroon,CMR,2017,0
+Canada,CAN,2015,0
+Canada,CAN,2017,0
+Cape Verde,CPV,2015,1
+Cape Verde,CPV,2017,1
+Central African Republic,CAF,2015,1
+Central African Republic,CAF,2017,1
+Chad,TCD,2015,1
+Chad,TCD,2017,1
+Chile,CHL,2015,1
+Chile,CHL,2017,1
+China,CHN,2015,1
+China,CHN,2017,1
+Colombia,COL,2015,1
+Colombia,COL,2017,1
+Comoros,COM,2015,0
+Comoros,COM,2017,0
+Congo,COG,2015,1
+Congo,COG,2017,1
+Costa Rica,CRI,2015,1
+Costa Rica,CRI,2017,1
+Cote d'Ivoire,CIV,2015,1
+Cote d'Ivoire,CIV,2017,1
+Croatia,HRV,2015,1
+Croatia,HRV,2017,1
+Cyprus,CYP,2015,1
+Cyprus,CYP,2017,1
+Czech Republic,CZE,2015,0
+Czech Republic,CZE,2017,0
+Democratic Republic of Congo,COD,2015,0
+Democratic Republic of Congo,COD,2017,0
+Denmark,DNK,2015,0
+Denmark,DNK,2017,1
+Djibouti,DJI,2015,1
+Djibouti,DJI,2017,1
+Dominica,DMA,2015,1
+Dominica,DMA,2017,1
+Dominican Republic,DOM,2015,1
+Dominican Republic,DOM,2017,1
+Ecuador,ECU,2015,1
+Ecuador,ECU,2017,1
+Egypt,EGY,2015,0
+Egypt,EGY,2017,0
+El Salvador,SLV,2015,1
+El Salvador,SLV,2017,1
+Equatorial Guinea,GNQ,2015,1
+Equatorial Guinea,GNQ,2017,1
+Eritrea,ERI,2015,1
+Eritrea,ERI,2017,0
+Estonia,EST,2015,1
+Estonia,EST,2017,1
+Ethiopia,ETH,2015,1
+Ethiopia,ETH,2017,1
+Fiji,FJI,2015,1
+Fiji,FJI,2017,1
+Finland,FIN,2015,0
+Finland,FIN,2017,0
+France,FRA,2015,1
+France,FRA,2017,1
+Gabon,GAB,2015,0
+Gabon,GAB,2017,0
+Gambia,GMB,2015,1
+Gambia,GMB,2017,1
+Georgia,GEO,2015,1
+Georgia,GEO,2017,1
+Germany,DEU,2015,1
+Germany,DEU,2017,1
+Ghana,GHA,2015,0
+Ghana,GHA,2017,0
+Greece,GRC,2015,1
+Greece,GRC,2017,1
+Grenada,GRD,2015,1
+Grenada,GRD,2017,1
+Guatemala,GTM,2015,0
+Guatemala,GTM,2017,0
+Guinea,GIN,2015,1
+Guinea,GIN,2017,1
+Guinea-Bissau,GNB,2015,1
+Guinea-Bissau,GNB,2017,1
+Guyana,GUY,2015,1
+Guyana,GUY,2017,1
+Haiti,HTI,2015,1
+Haiti,HTI,2017,1
+Honduras,HND,2015,1
+Honduras,HND,2017,1
+Hong Kong,HKG,2015,1
+Hong Kong,HKG,2017,1
+Hungary,HUN,2015,1
+Hungary,HUN,2017,1
+Iceland,ISL,2015,0
+Iceland,ISL,2017,0
+India,IND,2015,1
+India,IND,2017,1
+Indonesia,IDN,2015,1
+Indonesia,IDN,2017,1
+Iran,IRN,2015,0
+Iran,IRN,2017,0
+Iraq,IRQ,2015,0
+Iraq,IRQ,2017,0
+Ireland,IRL,2015,1
+Ireland,IRL,2017,1
+Israel,ISR,2015,1
+Israel,ISR,2017,1
+Italy,ITA,2015,1
+Italy,ITA,2017,1
+Jamaica,JAM,2015,1
+Jamaica,JAM,2017,1
+Japan,JPN,2015,1
+Japan,JPN,2017,1
+Jordan,JOR,2015,1
+Jordan,JOR,2017,1
+Kazakhstan,KAZ,2015,1
+Kazakhstan,KAZ,2017,1
+Kenya,KEN,2015,1
+Kenya,KEN,2017,1
+Kiribati,KIR,2015,1
+Kiribati,KIR,2017,1
+Kosovo,OWID_KOS,2015,1
+Kosovo,OWID_KOS,2017,1
+Kuwait,KWT,2015,0
+Kuwait,KWT,2017,0
+Kyrgyzstan,KGZ,2015,1
+Kyrgyzstan,KGZ,2017,1
+Laos,LAO,2015,1
+Laos,LAO,2017,1
+Latvia,LVA,2015,1
+Latvia,LVA,2017,1
+Lesotho,LSO,2015,0
+Lesotho,LSO,2017,0
+Liberia,LBR,2015,1
+Liberia,LBR,2017,1
+Libya,LBY,2015,0
+Libya,LBY,2017,0
+Lithuania,LTU,2015,1
+Lithuania,LTU,2017,1
+Luxembourg,LUX,2015,0
+Luxembourg,LUX,2017,0
+Macedonia,MKD,2015,1
+Macedonia,MKD,2017,1
+Madagascar,MDG,2015,0
+Madagascar,MDG,2017,1
+Malawi,MWI,2015,0
+Malawi,MWI,2017,0
+Malaysia,MYS,2015,1
+Malaysia,MYS,2017,1
+Maldives,MDV,2015,1
+Maldives,MDV,2017,1
+Mali,MLI,2015,1
+Mali,MLI,2017,1
+Malta,MLT,2015,1
+Malta,MLT,2017,1
+Marshall Islands,MHL,2015,1
+Marshall Islands,MHL,2017,1
+Mauritania,MRT,2015,0
+Mauritania,MRT,2017,0
+Mauritius,MUS,2015,1
+Mauritius,MUS,2017,1
+Mexico,MEX,2015,1
+Mexico,MEX,2017,1
+Micronesia (country),FSM,2015,0
+Micronesia (country),FSM,2017,0
+Moldova,MDA,2015,1
+Moldova,MDA,2017,1
+Mongolia,MNG,2015,1
+Mongolia,MNG,2017,1
+Montenegro,MNE,2015,1
+Montenegro,MNE,2017,1
+Morocco,MAR,2015,0
+Morocco,MAR,2017,0
+Mozambique,MOZ,2015,1
+Mozambique,MOZ,2017,1
+Myanmar,MMR,2015,0
+Myanmar,MMR,2017,0
+Namibia,NAM,2015,0
+Namibia,NAM,2017,0
+Nepal,NPL,2015,0
+Nepal,NPL,2017,0
+Netherlands,NLD,2015,1
+Netherlands,NLD,2017,1
+New Zealand,NZL,2015,0
+New Zealand,NZL,2017,0
+Nicaragua,NIC,2015,1
+Nicaragua,NIC,2017,1
+Niger,NER,2015,1
+Niger,NER,2017,1
+Nigeria,NGA,2015,1
+Nigeria,NGA,2017,1
+Norway,NOR,2015,0
+Norway,NOR,2017,0
+Oman,OMN,2015,0
+Oman,OMN,2017,0
+Pakistan,PAK,2015,0
+Pakistan,PAK,2017,0
+Palau,PLW,2015,1
+Palau,PLW,2017,1
+Palestine,PSE,2015,1
+Palestine,PSE,2017,1
+Panama,PAN,2015,1
+Panama,PAN,2017,1
+Papua New Guinea,PNG,2015,1
+Papua New Guinea,PNG,2017,1
+Paraguay,PRY,2015,1
+Paraguay,PRY,2017,1
+Peru,PER,2015,1
+Peru,PER,2017,1
+Philippines,PHL,2015,1
+Philippines,PHL,2017,1
+Poland,POL,2015,1
+Poland,POL,2017,1
+Portugal,PRT,2015,1
+Portugal,PRT,2017,1
+Puerto Rico,PRI,2015,1
+Puerto Rico,PRI,2017,1
+Qatar,QAT,2015,1
+Qatar,QAT,2017,1
+Romania,ROU,2015,1
+Romania,ROU,2017,1
+Russia,RUS,2015,1
+Russia,RUS,2017,1
+Rwanda,RWA,2015,1
+Rwanda,RWA,2017,1
+Saint Kitts and Nevis,KNA,2015,1
+Saint Kitts and Nevis,KNA,2017,1
+Saint Lucia,LCA,2015,1
+Saint Lucia,LCA,2017,1
+Saint Vincent and the Grenadines,VCT,2015,1
+Saint Vincent and the Grenadines,VCT,2017,1
+Samoa,WSM,2015,0
+Samoa,WSM,2017,0
+San Marino,SMR,2015,1
+San Marino,SMR,2017,1
+Sao Tome and Principe,STP,2015,1
+Sao Tome and Principe,STP,2017,1
+Saudi Arabia,SAU,2015,0
+Saudi Arabia,SAU,2017,0
+Senegal,SEN,2015,1
+Senegal,SEN,2017,1
+Serbia,SRB,2015,1
+Serbia,SRB,2017,1
+Seychelles,SYC,2015,1
+Seychelles,SYC,2017,1
+Sierra Leone,SLE,2015,0
+Sierra Leone,SLE,2017,0
+Singapore,SGP,2015,1
+Singapore,SGP,2017,1
+Slovakia,SVK,2015,1
+Slovakia,SVK,2017,1
+Slovenia,SVN,2015,1
+Slovenia,SVN,2017,1
+Solomon Islands,SLB,2015,0
+Solomon Islands,SLB,2017,0
+South Africa,ZAF,2015,0
+South Africa,ZAF,2017,0
+South Korea,KOR,2015,1
+South Korea,KOR,2017,1
+South Sudan,SSD,2015,0
+South Sudan,SSD,2017,0
+Spain,ESP,2015,1
+Spain,ESP,2017,1
+Sri Lanka,LKA,2015,1
+Sri Lanka,LKA,2017,1
+Sudan,SDN,2015,0
+Sudan,SDN,2017,0
+Suriname,SUR,2015,1
+Suriname,SUR,2017,1
+Swaziland,SWZ,2015,0
+Swaziland,SWZ,2017,0
+Sweden,SWE,2015,1
+Sweden,SWE,2017,1
+Switzerland,CHE,2015,1
+Switzerland,CHE,2017,1
+Syrian Arab Republic,,2015,0
+Syrian Arab Republic,,2017,0
+Tajikistan,TJK,2015,1
+Tajikistan,TJK,2017,1
+Tanzania,TZA,2015,1
+Tanzania,TZA,2017,1
+Thailand,THA,2015,1
+Thailand,THA,2017,1
+Timor,TLS,2015,1
+Timor,TLS,2017,1
+Togo,TGO,2015,0
+Togo,TGO,2017,0
+Tonga,TON,2015,0
+Tonga,TON,2017,0
+Trinidad and Tobago,TTO,2015,0
+Trinidad and Tobago,TTO,2017,0
+Tunisia,TUN,2015,1
+Tunisia,TUN,2017,1
+Turkey,TUR,2015,0
+Turkey,TUR,2017,0
+Uganda,UGA,2015,0
+Uganda,UGA,2017,0
+Ukraine,UKR,2015,1
+Ukraine,UKR,2017,1
+United Arab Emirates,ARE,2015,0
+United Arab Emirates,ARE,2017,0
+United Kingdom,GBR,2015,1
+United Kingdom,GBR,2017,1
+United States,USA,2015,1
+United States,USA,2017,1
+Uruguay,URY,2015,0
+Uruguay,URY,2017,0
+Uzbekistan,UZB,2015,1
+Uzbekistan,UZB,2017,1
+Vanuatu,VUT,2015,0
+Vanuatu,VUT,2017,0
+Venezuela,VEN,2015,0
+Venezuela,VEN,2017,0
+Vietnam,VNM,2015,1
+Vietnam,VNM,2017,1
+Yemen,YEM,2015,0
+Yemen,YEM,2017,0
+Zambia,ZMB,2015,1
+Zambia,ZMB,2017,1
+Zimbabwe,ZWE,2015,0
+Zimbabwe,ZWE,2017,0

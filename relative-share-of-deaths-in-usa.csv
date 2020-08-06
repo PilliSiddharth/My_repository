@@ -1,0 +1,235 @@
+Entity,Code,Year,Share of deaths (%)
+Accidents,,1999,5.06
+Accidents,,2000,5.07
+Accidents,,2001,5.24
+Accidents,,2002,5.46
+Accidents,,2003,5.6
+Accidents,,2004,5.87
+Accidents,,2005,6.08
+Accidents,,2006,6.37
+Accidents,,2007,6.5
+Accidents,,2008,6.3
+Accidents,,2009,6.21
+Accidents,,2010,6.32
+Accidents,,2011,6.53
+Accidents,,2012,6.58
+Accidents,,2013,6.61
+Accidents,,2014,6.78
+Accidents,,2015,7.05
+Accidents,,2016,7.64
+Alzheimer's Disease,,1999,2.34
+Alzheimer's Disease,,2000,2.6
+Alzheimer's Disease,,2001,2.82
+Alzheimer's Disease,,2002,3.06
+Alzheimer's Disease,,2003,3.3
+Alzheimer's Disease,,2004,3.51
+Alzheimer's Disease,,2005,3.75
+Alzheimer's Disease,,2006,3.85
+Alzheimer's Disease,,2007,3.98
+Alzheimer's Disease,,2008,4.33
+Alzheimer's Disease,,2009,4.22
+Alzheimer's Disease,,2010,4.42
+Alzheimer's Disease,,2011,4.46
+Alzheimer's Disease,,2012,4.37
+Alzheimer's Disease,,2013,4.34
+Alzheimer's Disease,,2014,4.73
+Alzheimer's Disease,,2015,5.38
+Alzheimer's Disease,,2016,5.57
+Cancer,,1999,29.49
+Cancer,,2000,29.72
+Cancer,,2001,29.72
+Cancer,,2002,29.59
+Cancer,,2003,29.65
+Cancer,,2004,30.22
+Cancer,,2005,30.03
+Cancer,,2006,30.51
+Cancer,,2007,30.77
+Cancer,,2008,30.45
+Cancer,,2009,31.1
+Cancer,,2010,31.24
+Cancer,,2011,31.03
+Cancer,,2012,31.23
+Cancer,,2013,30.8
+Cancer,,2014,30.74
+Cancer,,2015,29.82
+Cancer,,2016,29.45
+Diabetes,,1999,3.58
+Diabetes,,2000,3.64
+Diabetes,,2001,3.74
+Diabetes,,2002,3.8
+Diabetes,,2003,3.85
+Diabetes,,2004,3.9
+Diabetes,,2005,3.94
+Diabetes,,2006,3.85
+Diabetes,,2007,3.81
+Diabetes,,2008,3.7
+Diabetes,,2009,3.68
+Diabetes,,2010,3.66
+Diabetes,,2011,3.87
+Diabetes,,2012,3.86
+Diabetes,,2013,3.87
+Diabetes,,2014,3.87
+Diabetes,,2015,3.87
+Diabetes,,2016,3.84
+Drug overdose,,1999,0.63
+Drug overdose,,2000,0.67
+Drug overdose,,2001,0.74
+Drug overdose,,2002,0.91
+Drug overdose,,2003,1.02
+Drug overdose,,2004,1.11
+Drug overdose,,2005,1.24
+Drug overdose,,2006,1.47
+Drug overdose,,2007,1.6
+Drug overdose,,2008,1.64
+Drug overdose,,2009,1.7
+Drug overdose,,2010,1.76
+Drug overdose,,2011,1.9
+Drug overdose,,2012,1.9
+Drug overdose,,2013,1.99
+Drug overdose,,2014,2.12
+Drug overdose,,2015,2.31
+Drug overdose,,2016,2.8
+Heart disease,,1999,37.81
+Heart disease,,2000,37.13
+Heart disease,,2001,36.51
+Heart disease,,2002,35.99
+Heart disease,,2003,35.44
+Heart disease,,2004,34.57
+Heart disease,,2005,34
+Heart disease,,2006,33.41
+Heart disease,,2007,32.69
+Heart disease,,2008,32.23
+Heart disease,,2009,31.86
+Heart disease,,2010,31.5
+Heart disease,,2011,31.1
+Heart disease,,2012,31.13
+Heart disease,,2013,31.15
+Heart disease,,2014,30.84
+Heart disease,,2015,30.63
+Heart disease,,2016,30.2
+Homicide,,1999,0.88
+Homicide,,2000,0.87
+Homicide,,2001,0.9
+Homicide,,2002,0.9
+Homicide,,2003,0.91
+Homicide,,2004,0.91
+Homicide,,2005,0.94
+Homicide,,2006,0.97
+Homicide,,2007,0.97
+Homicide,,2008,0.92
+Homicide,,2009,0.88
+Homicide,,2010,0.84
+Homicide,,2011,0.84
+Homicide,,2012,0.86
+Homicide,,2013,0.82
+Homicide,,2014,0.79
+Homicide,,2015,0.86
+Homicide,,2016,0.91
+Kidney disease,,1999,1.97
+Kidney disease,,2000,2.07
+Kidney disease,,2001,2.18
+Kidney disease,,2002,2.24
+Kidney disease,,2003,2.32
+Kidney disease,,2004,2.38
+Kidney disease,,2005,2.41
+Kidney disease,,2006,2.52
+Kidney disease,,2007,2.59
+Kidney disease,,2008,2.65
+Kidney disease,,2009,2.74
+Kidney disease,,2010,2.82
+Kidney disease,,2011,2.56
+Kidney disease,,2012,2.57
+Kidney disease,,2013,2.62
+Kidney disease,,2014,2.66
+Kidney disease,,2015,2.69
+Kidney disease,,2016,2.69
+Lower respiratory disease,,1999,6.51
+Lower respiratory disease,,2000,6.39
+Lower respiratory disease,,2001,6.44
+Lower respiratory disease,,2002,6.47
+Lower respiratory disease,,2003,6.57
+Lower respiratory disease,,2004,6.5
+Lower respiratory disease,,2005,6.86
+Lower respiratory disease,,2006,6.62
+Lower respiratory disease,,2007,6.83
+Lower respiratory disease,,2008,7.41
+Lower respiratory disease,,2009,7.34
+Lower respiratory disease,,2010,7.31
+Lower respiratory disease,,2011,7.5
+Lower respiratory disease,,2012,7.5
+Lower respiratory disease,,2013,7.65
+Lower respiratory disease,,2014,7.44
+Lower respiratory disease,,2015,7.55
+Lower respiratory disease,,2016,7.41
+Pneumonia & influenza,,1999,3.34
+Pneumonia & influenza,,2000,3.43
+Pneumonia & influenza,,2001,3.25
+Pneumonia & influenza,,2002,3.4
+Pneumonia & influenza,,2003,3.38
+Pneumonia & influenza,,2004,3.18
+Pneumonia & influenza,,2005,3.3
+Pneumonia & influenza,,2006,3
+Pneumonia & influenza,,2007,2.81
+Pneumonia & influenza,,2008,2.95
+Pneumonia & influenza,,2009,2.87
+Pneumonia & influenza,,2010,2.66
+Pneumonia & influenza,,2011,2.82
+Pneumonia & influenza,,2012,2.65
+Pneumonia & influenza,,2013,2.92
+Pneumonia & influenza,,2014,2.79
+Pneumonia & influenza,,2015,2.78
+Pneumonia & influenza,,2016,2.47
+Stroke,,1999,6.87
+Stroke,,2000,6.9
+Stroke,,2001,6.7
+Stroke,,2002,6.54
+Stroke,,2003,6.32
+Stroke,,2004,6.13
+Stroke,,2005,5.75
+Stroke,,2006,5.67
+Stroke,,2007,5.61
+Stroke,,2008,5.52
+Stroke,,2009,5.45
+Stroke,,2010,5.44
+Stroke,,2011,5.3
+Stroke,,2012,5.22
+Stroke,,2013,5.13
+Stroke,,2014,5.08
+Stroke,,2015,4.91
+Stroke,,2016,4.86
+Suicide,,1999,1.53
+Suicide,,2000,1.53
+Suicide,,2001,1.6
+Suicide,,2002,1.64
+Suicide,,2003,1.64
+Suicide,,2004,1.72
+Suicide,,2005,1.71
+Suicide,,2006,1.77
+Suicide,,2007,1.84
+Suicide,,2008,1.89
+Suicide,,2009,1.96
+Suicide,,2010,2.03
+Suicide,,2011,2.07
+Suicide,,2012,2.12
+Suicide,,2013,2.1
+Suicide,,2014,2.17
+Suicide,,2015,2.15
+Suicide,,2016,2.15
+Terrorism,,1999,0
+Terrorism,,2000,0
+Terrorism,,2001,0.15
+Terrorism,,2002,0
+Terrorism,,2003,0
+Terrorism,,2004,0
+Terrorism,,2005,0
+Terrorism,,2006,0
+Terrorism,,2007,0
+Terrorism,,2008,0
+Terrorism,,2009,0
+Terrorism,,2010,0
+Terrorism,,2011,0
+Terrorism,,2012,0
+Terrorism,,2013,0
+Terrorism,,2014,0
+Terrorism,,2015,0
+Terrorism,,2016,0

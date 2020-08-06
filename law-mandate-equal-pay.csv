@@ -1,0 +1,331 @@
+Entity,Code,Year,Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no) (1=yes; 0=no)
+Afghanistan,AFG,2015,0
+Albania,ALB,2013,0
+Albania,ALB,2015,0
+Algeria,DZA,2013,1
+Algeria,DZA,2015,1
+Angola,AGO,2013,1
+Angola,AGO,2015,1
+Antigua and Barbuda,ATG,2015,0
+Argentina,ARG,2013,1
+Argentina,ARG,2015,1
+Armenia,ARM,2013,1
+Armenia,ARM,2015,1
+Australia,AUS,2013,1
+Australia,AUS,2015,1
+Austria,AUT,2013,1
+Austria,AUT,2015,1
+Azerbaijan,AZE,2013,1
+Azerbaijan,AZE,2015,1
+Bahamas,BHS,2015,0
+Bahrain,BHR,2015,0
+Bangladesh,BGD,2013,1
+Bangladesh,BGD,2015,1
+Barbados,BRB,2015,0
+Belarus,BLR,2013,1
+Belarus,BLR,2015,1
+Belgium,BEL,2013,1
+Belgium,BEL,2015,1
+Belize,BLZ,2015,0
+Benin,BEN,2013,0
+Benin,BEN,2015,0
+Bhutan,BTN,2015,0
+Bolivia,BOL,2013,1
+Bolivia,BOL,2015,1
+Bosnia and Herzegovina,BIH,2013,1
+Bosnia and Herzegovina,BIH,2015,1
+Botswana,BWA,2013,0
+Botswana,BWA,2015,0
+Brazil,BRA,2013,0
+Brazil,BRA,2015,0
+Brunei,BRN,2015,0
+Bulgaria,BGR,2013,1
+Bulgaria,BGR,2015,1
+Burkina Faso,BFA,2013,0
+Burkina Faso,BFA,2015,0
+Burundi,BDI,2013,0
+Burundi,BDI,2015,0
+Cambodia,KHM,2013,1
+Cambodia,KHM,2015,1
+Cameroon,CMR,2013,0
+Cameroon,CMR,2015,0
+Canada,CAN,2013,0
+Canada,CAN,2015,0
+Cape Verde,CPV,2015,0
+Central African Republic,CAF,2015,0
+Chad,TCD,2013,1
+Chad,TCD,2015,1
+Chile,CHL,2013,0
+Chile,CHL,2015,0
+China,CHN,2013,0
+China,CHN,2015,0
+Colombia,COL,2013,1
+Colombia,COL,2015,1
+Comoros,COM,2015,1
+Congo,COG,2013,0
+Congo,COG,2015,0
+Costa Rica,CRI,2013,0
+Costa Rica,CRI,2015,0
+Cote d'Ivoire,CIV,2013,1
+Cote d'Ivoire,CIV,2015,1
+Croatia,HRV,2013,1
+Croatia,HRV,2015,1
+Cyprus,CYP,2015,1
+Czech Republic,CZE,2013,1
+Czech Republic,CZE,2015,1
+Democratic Republic of Congo,COD,2013,0
+Democratic Republic of Congo,COD,2015,0
+Denmark,DNK,2013,1
+Denmark,DNK,2015,1
+Djibouti,DJI,2015,1
+Dominica,DMA,2015,0
+Dominican Republic,DOM,2013,0
+Dominican Republic,DOM,2015,0
+Ecuador,ECU,2013,1
+Ecuador,ECU,2015,1
+Egypt,EGY,2013,0
+Egypt,EGY,2015,0
+El Salvador,SLV,2013,0
+El Salvador,SLV,2015,0
+Equatorial Guinea,GNQ,2015,1
+Eritrea,ERI,2015,0
+Estonia,EST,2013,0
+Estonia,EST,2015,0
+Ethiopia,ETH,2013,0
+Ethiopia,ETH,2015,0
+Fiji,FJI,2013,1
+Fiji,FJI,2015,1
+Finland,FIN,2013,1
+Finland,FIN,2015,1
+France,FRA,2013,1
+France,FRA,2015,1
+Gabon,GAB,2013,0
+Gabon,GAB,2015,0
+Gambia,GMB,2015,0
+Georgia,GEO,2013,0
+Georgia,GEO,2015,0
+Germany,DEU,2013,0
+Germany,DEU,2015,0
+Ghana,GHA,2013,0
+Ghana,GHA,2015,0
+Greece,GRC,2013,1
+Greece,GRC,2015,1
+Grenada,GRD,2015,1
+Guatemala,GTM,2013,0
+Guatemala,GTM,2015,0
+Guinea,GIN,2013,1
+Guinea,GIN,2015,1
+Guinea-Bissau,GNB,2015,0
+Guyana,GUY,2015,1
+Haiti,HTI,2013,0
+Haiti,HTI,2015,0
+Honduras,HND,2013,0
+Honduras,HND,2015,0
+Hong Kong,HKG,2013,0
+Hong Kong,HKG,2015,0
+Hungary,HUN,2013,1
+Hungary,HUN,2015,1
+Iceland,ISL,2013,1
+Iceland,ISL,2015,1
+India,IND,2013,0
+India,IND,2015,0
+Indonesia,IDN,2013,0
+Indonesia,IDN,2015,0
+Iran,IRN,2013,0
+Iran,IRN,2015,0
+Iraq,IRQ,2015,0
+Ireland,IRL,2013,1
+Ireland,IRL,2015,1
+Israel,ISR,2013,1
+Israel,ISR,2015,1
+Italy,ITA,2013,1
+Italy,ITA,2015,1
+Jamaica,JAM,2013,0
+Jamaica,JAM,2015,0
+Japan,JPN,2013,0
+Japan,JPN,2015,0
+Jordan,JOR,2013,0
+Jordan,JOR,2015,0
+Kazakhstan,KAZ,2013,0
+Kazakhstan,KAZ,2015,0
+Kenya,KEN,2013,1
+Kenya,KEN,2015,1
+Kiribati,KIR,2015,1
+Kosovo,OWID_KOS,2013,1
+Kosovo,OWID_KOS,2015,1
+Kuwait,KWT,2013,0
+Kuwait,KWT,2015,0
+Kyrgyzstan,KGZ,2013,0
+Kyrgyzstan,KGZ,2015,0
+Laos,LAO,2013,1
+Laos,LAO,2015,0
+Latvia,LVA,2013,1
+Latvia,LVA,2015,1
+Lebanon,LBN,2013,0
+Lebanon,LBN,2015,0
+Lesotho,LSO,2013,1
+Lesotho,LSO,2015,1
+Liberia,LBR,2013,0
+Liberia,LBR,2015,0
+Libya,LBY,2015,1
+Lithuania,LTU,2013,1
+Lithuania,LTU,2015,1
+Luxembourg,LUX,2015,1
+Macedonia,MKD,2013,0
+Macedonia,MKD,2015,0
+Madagascar,MDG,2013,0
+Madagascar,MDG,2015,0
+Malawi,MWI,2013,1
+Malawi,MWI,2015,1
+Malaysia,MYS,2013,0
+Malaysia,MYS,2015,0
+Maldives,MDV,2015,0
+Mali,MLI,2013,0
+Mali,MLI,2015,0
+Malta,MLT,2015,1
+Marshall Islands,MHL,2015,0
+Mauritania,MRT,2013,0
+Mauritania,MRT,2015,0
+Mauritius,MUS,2013,0
+Mauritius,MUS,2015,1
+Mexico,MEX,2013,0
+Mexico,MEX,2015,0
+Micronesia (country),FSM,2015,0
+Moldova,MDA,2013,0
+Moldova,MDA,2015,0
+Mongolia,MNG,2013,0
+Mongolia,MNG,2015,0
+Montenegro,MNE,2013,1
+Montenegro,MNE,2015,1
+Morocco,MAR,2013,1
+Morocco,MAR,2015,1
+Mozambique,MOZ,2013,0
+Mozambique,MOZ,2015,0
+Myanmar,MMR,2015,0
+Namibia,NAM,2013,1
+Namibia,NAM,2015,1
+Nepal,NPL,2013,0
+Nepal,NPL,2015,0
+Netherlands,NLD,2013,1
+Netherlands,NLD,2015,1
+New Zealand,NZL,2013,0
+New Zealand,NZL,2015,0
+Nicaragua,NIC,2013,0
+Nicaragua,NIC,2015,0
+Niger,NER,2013,1
+Niger,NER,2015,1
+Nigeria,NGA,2013,0
+Nigeria,NGA,2015,0
+Norway,NOR,2013,1
+Norway,NOR,2015,1
+Oman,OMN,2013,0
+Oman,OMN,2015,0
+Pakistan,PAK,2013,0
+Pakistan,PAK,2015,0
+Palau,PLW,2015,0
+Palestine,PSE,2013,0
+Palestine,PSE,2015,0
+Panama,PAN,2013,0
+Panama,PAN,2015,0
+Papua New Guinea,PNG,2013,0
+Papua New Guinea,PNG,2015,0
+Paraguay,PRY,2013,1
+Paraguay,PRY,2015,1
+Peru,PER,2013,1
+Peru,PER,2015,1
+Philippines,PHL,2013,1
+Philippines,PHL,2015,1
+Poland,POL,2013,1
+Poland,POL,2015,1
+Portugal,PRT,2013,1
+Portugal,PRT,2015,1
+Puerto Rico,PRI,2013,0
+Puerto Rico,PRI,2015,0
+Qatar,QAT,2015,0
+Romania,ROU,2013,1
+Romania,ROU,2015,1
+Russia,RUS,2013,0
+Russia,RUS,2015,0
+Rwanda,RWA,2013,0
+Rwanda,RWA,2015,0
+Saint Kitts and Nevis,KNA,2015,0
+Saint Lucia,LCA,2015,1
+Saint Vincent and the Grenadines,VCT,2015,0
+Samoa,WSM,2015,1
+San Marino,SMR,2015,0
+Sao Tome and Principe,STP,2015,0
+Saudi Arabia,SAU,2013,0
+Saudi Arabia,SAU,2015,0
+Senegal,SEN,2013,0
+Senegal,SEN,2015,0
+Serbia,SRB,2013,0
+Serbia,SRB,2015,0
+Seychelles,SYC,2015,0
+Sierra Leone,SLE,2013,0
+Sierra Leone,SLE,2015,0
+Singapore,SGP,2013,0
+Singapore,SGP,2015,0
+Slovakia,SVK,2013,1
+Slovakia,SVK,2015,1
+Slovenia,SVN,2013,1
+Slovenia,SVN,2015,1
+Solomon Islands,SLB,2015,0
+South Africa,ZAF,2013,0
+South Africa,ZAF,2015,1
+South Korea,KOR,2013,0
+South Korea,KOR,2015,0
+South Sudan,SSD,2015,0
+Spain,ESP,2013,1
+Spain,ESP,2015,1
+Sri Lanka,LKA,2013,0
+Sri Lanka,LKA,2015,0
+Sudan,SDN,2013,0
+Sudan,SDN,2015,0
+Suriname,SUR,2015,0
+Swaziland,SWZ,2015,0
+Sweden,SWE,2013,0
+Sweden,SWE,2015,0
+Switzerland,CHE,2013,1
+Switzerland,CHE,2015,1
+Syria,SYR,2013,0
+Syria,SYR,2015,0
+Tajikistan,TJK,2013,1
+Tajikistan,TJK,2015,1
+Tanzania,TZA,2013,1
+Tanzania,TZA,2015,1
+Thailand,THA,2013,0
+Thailand,THA,2015,0
+Timor,TLS,2015,0
+Togo,TGO,2013,1
+Togo,TGO,2015,1
+Tonga,TON,2015,0
+Trinidad and Tobago,TTO,2015,0
+Tunisia,TUN,2013,0
+Tunisia,TUN,2015,0
+Turkey,TUR,2013,1
+Turkey,TUR,2015,1
+Uganda,UGA,2013,1
+Uganda,UGA,2015,1
+Ukraine,UKR,2013,0
+Ukraine,UKR,2015,0
+United Arab Emirates,ARE,2013,0
+United Arab Emirates,ARE,2015,0
+United Kingdom,GBR,2013,1
+United Kingdom,GBR,2015,1
+United States,USA,2013,0
+United States,USA,2015,0
+Uruguay,URY,2013,0
+Uruguay,URY,2015,0
+Uzbekistan,UZB,2013,0
+Uzbekistan,UZB,2015,0
+Vanuatu,VUT,2015,0
+Venezuela,VEN,2013,0
+Venezuela,VEN,2015,0
+Vietnam,VNM,2013,1
+Vietnam,VNM,2015,1
+Yemen,YEM,2013,0
+Yemen,YEM,2015,0
+Zambia,ZMB,2013,0
+Zambia,ZMB,2015,0
+Zimbabwe,ZWE,2013,1
+Zimbabwe,ZWE,2015,1

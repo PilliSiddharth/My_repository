@@ -1,0 +1,718 @@
+Entity,Code,Year,Geothermal Capacity (megawatts)
+Austria,AUT,1990,0
+Austria,AUT,1995,0
+Austria,AUT,2000,0
+Austria,AUT,2001,0
+Austria,AUT,2002,2
+Austria,AUT,2003,2
+Austria,AUT,2004,2
+Austria,AUT,2005,0.9
+Austria,AUT,2006,0.9
+Austria,AUT,2007,0.9
+Austria,AUT,2008,0.9
+Austria,AUT,2009,0.9
+Austria,AUT,2010,0.9
+Austria,AUT,2011,0.9
+Austria,AUT,2012,0.9
+Austria,AUT,2013,0.9
+Austria,AUT,2014,0.9
+Austria,AUT,2015,0.9
+Austria,AUT,2016,0.9
+Austria,AUT,2017,0.9
+Austria,AUT,2018,0.9
+Chile,CHL,1990,0
+Chile,CHL,1995,0
+Chile,CHL,2000,0
+Chile,CHL,2001,0
+Chile,CHL,2002,0
+Chile,CHL,2003,0
+Chile,CHL,2004,0
+Chile,CHL,2005,0
+Chile,CHL,2006,0
+Chile,CHL,2007,0
+Chile,CHL,2008,0
+Chile,CHL,2009,0
+Chile,CHL,2010,0
+Chile,CHL,2011,0
+Chile,CHL,2012,0
+Chile,CHL,2013,0
+Chile,CHL,2014,0
+Chile,CHL,2015,0
+Chile,CHL,2016,0
+Chile,CHL,2017,24
+Chile,CHL,2018,48
+China,CHN,1990,29.3
+China,CHN,1995,26.3
+China,CHN,2000,21.7
+China,CHN,2001,21.7
+China,CHN,2002,21.7
+China,CHN,2003,21.7
+China,CHN,2004,21.7
+China,CHN,2005,21.7
+China,CHN,2006,21.7
+China,CHN,2007,21.7
+China,CHN,2008,24.8
+China,CHN,2009,24.8
+China,CHN,2010,24.1
+China,CHN,2011,26.2
+China,CHN,2012,26.2
+China,CHN,2013,26
+China,CHN,2014,26
+China,CHN,2015,25.8
+China,CHN,2016,25.8
+China,CHN,2017,25.8
+China,CHN,2018,25.8
+Costa Rica,CRI,1990,0
+Costa Rica,CRI,1995,55
+Costa Rica,CRI,2000,145
+Costa Rica,CRI,2001,145
+Costa Rica,CRI,2002,144.7
+Costa Rica,CRI,2003,162.7
+Costa Rica,CRI,2004,165.7
+Costa Rica,CRI,2005,165.7
+Costa Rica,CRI,2006,165.7
+Costa Rica,CRI,2007,165.7
+Costa Rica,CRI,2008,165.7
+Costa Rica,CRI,2009,165.7
+Costa Rica,CRI,2010,165.7
+Costa Rica,CRI,2011,217.5
+Costa Rica,CRI,2012,217.5
+Costa Rica,CRI,2013,217.5
+Costa Rica,CRI,2014,217.5
+Costa Rica,CRI,2015,217.4
+Costa Rica,CRI,2016,206.9
+Costa Rica,CRI,2017,206.9
+Costa Rica,CRI,2018,206.9
+El Salvador,SLV,1990,95
+El Salvador,SLV,1995,105
+El Salvador,SLV,2000,161.2
+El Salvador,SLV,2001,161.2
+El Salvador,SLV,2002,161.2
+El Salvador,SLV,2003,161.2
+El Salvador,SLV,2004,151.2
+El Salvador,SLV,2005,151.2
+El Salvador,SLV,2006,151.2
+El Salvador,SLV,2007,204.4
+El Salvador,SLV,2008,204.4
+El Salvador,SLV,2009,204.4
+El Salvador,SLV,2010,204.4
+El Salvador,SLV,2011,151.2
+El Salvador,SLV,2012,204.4
+El Salvador,SLV,2013,204.4
+El Salvador,SLV,2014,204.4
+El Salvador,SLV,2015,204.4
+El Salvador,SLV,2016,204.4
+El Salvador,SLV,2017,204.4
+El Salvador,SLV,2018,204.4
+Ethiopia,ETH,1990,0
+Ethiopia,ETH,1995,0
+Ethiopia,ETH,2000,7.3
+Ethiopia,ETH,2001,7.3
+Ethiopia,ETH,2002,7.3
+Ethiopia,ETH,2003,7.3
+Ethiopia,ETH,2004,7.3
+Ethiopia,ETH,2005,7.3
+Ethiopia,ETH,2006,7.3
+Ethiopia,ETH,2007,7.3
+Ethiopia,ETH,2008,7.3
+Ethiopia,ETH,2009,7.3
+Ethiopia,ETH,2010,7.3
+Ethiopia,ETH,2011,7.3
+Ethiopia,ETH,2012,7.3
+Ethiopia,ETH,2013,7.3
+Ethiopia,ETH,2014,7.3
+Ethiopia,ETH,2015,7.3
+Ethiopia,ETH,2016,7.3
+Ethiopia,ETH,2017,7.3
+Ethiopia,ETH,2018,7.3
+France,FRA,1990,4.2
+France,FRA,1995,4.2
+France,FRA,2000,0
+France,FRA,2001,0
+France,FRA,2002,0
+France,FRA,2003,0
+France,FRA,2004,0
+France,FRA,2005,0
+France,FRA,2006,0
+France,FRA,2007,0
+France,FRA,2008,0
+France,FRA,2009,0
+France,FRA,2010,0
+France,FRA,2011,16.3
+France,FRA,2012,15.3
+France,FRA,2013,16.3
+France,FRA,2014,16.3
+France,FRA,2015,16.3
+France,FRA,2016,15.5
+France,FRA,2017,15.9
+France,FRA,2018,15.9
+Germany,DEU,1990,0
+Germany,DEU,1995,0
+Germany,DEU,2000,0
+Germany,DEU,2001,0
+Germany,DEU,2002,0
+Germany,DEU,2003,0
+Germany,DEU,2004,0.2
+Germany,DEU,2005,0.2
+Germany,DEU,2006,0.2
+Germany,DEU,2007,3
+Germany,DEU,2008,3
+Germany,DEU,2009,8
+Germany,DEU,2010,8
+Germany,DEU,2011,8
+Germany,DEU,2012,12
+Germany,DEU,2013,24
+Germany,DEU,2014,24
+Germany,DEU,2015,26
+Germany,DEU,2016,29
+Germany,DEU,2017,32
+Germany,DEU,2018,32
+Guadeloupe,GLP,1990,0
+Guadeloupe,GLP,1995,0
+Guadeloupe,GLP,2000,4
+Guadeloupe,GLP,2001,4
+Guadeloupe,GLP,2002,4
+Guadeloupe,GLP,2003,4
+Guadeloupe,GLP,2004,4
+Guadeloupe,GLP,2005,15
+Guadeloupe,GLP,2006,15
+Guadeloupe,GLP,2007,15
+Guadeloupe,GLP,2008,15
+Guadeloupe,GLP,2009,15
+Guadeloupe,GLP,2010,15
+Guadeloupe,GLP,2011,15
+Guadeloupe,GLP,2012,15
+Guadeloupe,GLP,2013,15
+Guadeloupe,GLP,2014,11.5
+Guadeloupe,GLP,2015,14.5
+Guadeloupe,GLP,2016,14.5
+Guadeloupe,GLP,2017,15
+Guadeloupe,GLP,2018,15
+Guatemala,GTM,1990,0
+Guatemala,GTM,1995,0
+Guatemala,GTM,2000,29
+Guatemala,GTM,2001,29
+Guatemala,GTM,2002,29
+Guatemala,GTM,2003,29
+Guatemala,GTM,2004,29
+Guatemala,GTM,2005,29
+Guatemala,GTM,2006,54.2
+Guatemala,GTM,2007,54.2
+Guatemala,GTM,2008,54.2
+Guatemala,GTM,2009,54.2
+Guatemala,GTM,2010,54.2
+Guatemala,GTM,2011,54.2
+Guatemala,GTM,2012,54.2
+Guatemala,GTM,2013,49.2
+Guatemala,GTM,2014,49.2
+Guatemala,GTM,2015,49.2
+Guatemala,GTM,2016,49.2
+Guatemala,GTM,2017,49.2
+Guatemala,GTM,2018,49.2
+Honduras,HND,1990,0
+Honduras,HND,1995,0
+Honduras,HND,2000,0
+Honduras,HND,2001,0
+Honduras,HND,2002,0
+Honduras,HND,2003,0
+Honduras,HND,2004,0
+Honduras,HND,2005,0
+Honduras,HND,2006,0
+Honduras,HND,2007,0
+Honduras,HND,2008,0
+Honduras,HND,2009,0
+Honduras,HND,2010,0
+Honduras,HND,2011,0
+Honduras,HND,2012,0
+Honduras,HND,2013,0
+Honduras,HND,2014,0
+Honduras,HND,2015,0
+Honduras,HND,2016,0
+Honduras,HND,2017,35
+Honduras,HND,2018,35
+Hungary,HUN,1990,0
+Hungary,HUN,1995,0
+Hungary,HUN,2000,0
+Hungary,HUN,2001,0
+Hungary,HUN,2002,0
+Hungary,HUN,2003,0
+Hungary,HUN,2004,0
+Hungary,HUN,2005,0
+Hungary,HUN,2006,0
+Hungary,HUN,2007,0
+Hungary,HUN,2008,0
+Hungary,HUN,2009,0
+Hungary,HUN,2010,0
+Hungary,HUN,2011,0
+Hungary,HUN,2012,0
+Hungary,HUN,2013,0
+Hungary,HUN,2014,0
+Hungary,HUN,2015,0
+Hungary,HUN,2016,0
+Hungary,HUN,2017,3
+Hungary,HUN,2018,3
+Iceland,ISL,1990,44.8
+Iceland,ISL,1995,49.6
+Iceland,ISL,2000,172
+Iceland,ISL,2001,202
+Iceland,ISL,2002,202
+Iceland,ISL,2003,202
+Iceland,ISL,2004,202
+Iceland,ISL,2005,232
+Iceland,ISL,2006,422
+Iceland,ISL,2007,485
+Iceland,ISL,2008,575
+Iceland,ISL,2009,575
+Iceland,ISL,2010,575
+Iceland,ISL,2011,665
+Iceland,ISL,2012,665
+Iceland,ISL,2013,665
+Iceland,ISL,2014,665
+Iceland,ISL,2015,665
+Iceland,ISL,2016,663
+Iceland,ISL,2017,708
+Iceland,ISL,2018,753
+Indonesia,IDN,1990,144.8
+Indonesia,IDN,1995,309.8
+Indonesia,IDN,2000,525
+Indonesia,IDN,2001,785
+Indonesia,IDN,2002,785
+Indonesia,IDN,2003,805
+Indonesia,IDN,2004,820
+Indonesia,IDN,2005,850
+Indonesia,IDN,2006,850
+Indonesia,IDN,2007,980
+Indonesia,IDN,2008,1052
+Indonesia,IDN,2009,1189
+Indonesia,IDN,2010,1189
+Indonesia,IDN,2011,1226
+Indonesia,IDN,2012,1336
+Indonesia,IDN,2013,1343.5
+Indonesia,IDN,2014,1403.5
+Indonesia,IDN,2015,1438.5
+Indonesia,IDN,2016,1643.5
+Indonesia,IDN,2017,1808.5
+Indonesia,IDN,2018,1945.5
+Italy,ITA,1990,545
+Italy,ITA,1995,631.7
+Italy,ITA,2000,590
+Italy,ITA,2001,573
+Italy,ITA,2002,666
+Italy,ITA,2003,707
+Italy,ITA,2004,642
+Italy,ITA,2005,671
+Italy,ITA,2006,671
+Italy,ITA,2007,671
+Italy,ITA,2008,671
+Italy,ITA,2009,695
+Italy,ITA,2010,728
+Italy,ITA,2011,728
+Italy,ITA,2012,728
+Italy,ITA,2013,729
+Italy,ITA,2014,768
+Italy,ITA,2015,768
+Italy,ITA,2016,767
+Italy,ITA,2017,767.2
+Italy,ITA,2018,767.2
+Japan,JPN,1990,214.6
+Japan,JPN,1995,413.7
+Japan,JPN,2000,533
+Japan,JPN,2001,533
+Japan,JPN,2002,533
+Japan,JPN,2003,535
+Japan,JPN,2004,535
+Japan,JPN,2005,535
+Japan,JPN,2006,532
+Japan,JPN,2007,532
+Japan,JPN,2008,532
+Japan,JPN,2009,535
+Japan,JPN,2010,537
+Japan,JPN,2011,537
+Japan,JPN,2012,512
+Japan,JPN,2013,512
+Japan,JPN,2014,508
+Japan,JPN,2015,516
+Japan,JPN,2016,526
+Japan,JPN,2017,531
+Japan,JPN,2018,536
+Kenya,KEN,1990,45
+Kenya,KEN,1995,45
+Kenya,KEN,2000,58
+Kenya,KEN,2001,58
+Kenya,KEN,2002,58
+Kenya,KEN,2003,58
+Kenya,KEN,2004,128
+Kenya,KEN,2005,128
+Kenya,KEN,2006,128
+Kenya,KEN,2007,128
+Kenya,KEN,2008,128
+Kenya,KEN,2009,163
+Kenya,KEN,2010,198
+Kenya,KEN,2011,198
+Kenya,KEN,2012,205.5
+Kenya,KEN,2013,205.5
+Kenya,KEN,2014,366.1
+Kenya,KEN,2015,618.9
+Kenya,KEN,2016,662.9
+Kenya,KEN,2017,672.9
+Kenya,KEN,2018,663
+Mexico,MEX,1990,743
+Mexico,MEX,1995,743
+Mexico,MEX,2000,855
+Mexico,MEX,2001,838
+Mexico,MEX,2002,843
+Mexico,MEX,2003,960
+Mexico,MEX,2004,960
+Mexico,MEX,2005,960
+Mexico,MEX,2006,960
+Mexico,MEX,2007,960
+Mexico,MEX,2008,963
+Mexico,MEX,2009,965
+Mexico,MEX,2010,965
+Mexico,MEX,2011,887
+Mexico,MEX,2012,824
+Mexico,MEX,2013,823
+Mexico,MEX,2014,813
+Mexico,MEX,2015,906
+Mexico,MEX,2016,926
+Mexico,MEX,2017,925.7
+Mexico,MEX,2018,950.6
+New Zealand,NZL,1990,261
+New Zealand,NZL,1995,265
+New Zealand,NZL,2000,418
+New Zealand,NZL,2001,417
+New Zealand,NZL,2002,373
+New Zealand,NZL,2003,378
+New Zealand,NZL,2004,378
+New Zealand,NZL,2005,433
+New Zealand,NZL,2006,433
+New Zealand,NZL,2007,451
+New Zealand,NZL,2008,593
+New Zealand,NZL,2009,633
+New Zealand,NZL,2010,731
+New Zealand,NZL,2011,731
+New Zealand,NZL,2012,731
+New Zealand,NZL,2013,813
+New Zealand,NZL,2014,979
+New Zealand,NZL,2015,986
+New Zealand,NZL,2016,971
+New Zealand,NZL,2017,971
+New Zealand,NZL,2018,996
+Nicaragua,NIC,1990,35
+Nicaragua,NIC,1995,70
+Nicaragua,NIC,2000,21
+Nicaragua,NIC,2001,26
+Nicaragua,NIC,2002,77.5
+Nicaragua,NIC,2003,77.5
+Nicaragua,NIC,2004,77.5
+Nicaragua,NIC,2005,87.5
+Nicaragua,NIC,2006,87.5
+Nicaragua,NIC,2007,87.5
+Nicaragua,NIC,2008,87.5
+Nicaragua,NIC,2009,87.5
+Nicaragua,NIC,2010,87.5
+Nicaragua,NIC,2011,87.5
+Nicaragua,NIC,2012,164.5
+Nicaragua,NIC,2013,154.5
+Nicaragua,NIC,2014,154.5
+Nicaragua,NIC,2015,154.5
+Nicaragua,NIC,2016,154.5
+Nicaragua,NIC,2017,154.5
+Nicaragua,NIC,2018,154.5
+Other Asia & Pacific,,1990,0
+Other Asia & Pacific,,1995,0
+Other Asia & Pacific,,2000,0.5
+Other Asia & Pacific,,2001,0.5
+Other Asia & Pacific,,2002,0.5
+Other Asia & Pacific,,2003,0.400000000000091
+Other Asia & Pacific,,2004,0.400000000000091
+Other Asia & Pacific,,2005,0.5
+Other Asia & Pacific,,2006,0.400000000000091
+Other Asia & Pacific,,2007,0.400000000000091
+Other Asia & Pacific,,2008,0.399999999999636
+Other Asia & Pacific,,2009,0.399999999999636
+Other Asia & Pacific,,2010,0.399999999999636
+Other Asia & Pacific,,2011,0.400000000000546
+Other Asia & Pacific,,2012,0.400000000000546
+Other Asia & Pacific,,2013,0.400000000000546
+Other Asia & Pacific,,2014,0.399999999999636
+Other Asia & Pacific,,2015,0.399999999999636
+Other Asia & Pacific,,2016,0.399999999999636
+Other Asia & Pacific,,2017,0.399999999999636
+Other Asia & Pacific,,2018,0.399999999999636
+Papua New Guinea,PNG,1990,0
+Papua New Guinea,PNG,1995,0
+Papua New Guinea,PNG,2000,0
+Papua New Guinea,PNG,2001,0
+Papua New Guinea,PNG,2002,0
+Papua New Guinea,PNG,2003,6
+Papua New Guinea,PNG,2004,6
+Papua New Guinea,PNG,2005,36
+Papua New Guinea,PNG,2006,36
+Papua New Guinea,PNG,2007,56
+Papua New Guinea,PNG,2008,56
+Papua New Guinea,PNG,2009,56
+Papua New Guinea,PNG,2010,56
+Papua New Guinea,PNG,2011,56
+Papua New Guinea,PNG,2012,56
+Papua New Guinea,PNG,2013,56
+Papua New Guinea,PNG,2014,56
+Papua New Guinea,PNG,2015,56
+Papua New Guinea,PNG,2016,56
+Papua New Guinea,PNG,2017,56
+Papua New Guinea,PNG,2018,56
+Philippines,PHL,1990,888
+Philippines,PHL,1995,1154
+Philippines,PHL,2000,1846.5
+Philippines,PHL,2001,1846.5
+Philippines,PHL,2002,1846.5
+Philippines,PHL,2003,1846.5
+Philippines,PHL,2004,1846.5
+Philippines,PHL,2005,1846.5
+Philippines,PHL,2006,1846.5
+Philippines,PHL,2007,1846.5
+Philippines,PHL,2008,1846.5
+Philippines,PHL,2009,1846.5
+Philippines,PHL,2010,1846.5
+Philippines,PHL,2011,1846.5
+Philippines,PHL,2012,1846.5
+Philippines,PHL,2013,1846.5
+Philippines,PHL,2014,1915.9
+Philippines,PHL,2015,1915.9
+Philippines,PHL,2016,1915.9
+Philippines,PHL,2017,1915.9
+Philippines,PHL,2018,1927.9
+Portugal,PRT,1990,3
+Portugal,PRT,1995,5
+Portugal,PRT,2000,14
+Portugal,PRT,2001,14
+Portugal,PRT,2002,14
+Portugal,PRT,2003,14
+Portugal,PRT,2004,14
+Portugal,PRT,2005,14
+Portugal,PRT,2006,25
+Portugal,PRT,2007,25
+Portugal,PRT,2008,25
+Portugal,PRT,2009,25
+Portugal,PRT,2010,25
+Portugal,PRT,2011,25
+Portugal,PRT,2012,25
+Portugal,PRT,2013,25
+Portugal,PRT,2014,25
+Portugal,PRT,2015,25
+Portugal,PRT,2016,25
+Portugal,PRT,2017,29.1
+Portugal,PRT,2018,29.1
+Russia,RUS,1990,11
+Russia,RUS,1995,11
+Russia,RUS,2000,23
+Russia,RUS,2001,21
+Russia,RUS,2002,70
+Russia,RUS,2003,70
+Russia,RUS,2004,56
+Russia,RUS,2005,79
+Russia,RUS,2006,87
+Russia,RUS,2007,90
+Russia,RUS,2008,80
+Russia,RUS,2009,81
+Russia,RUS,2010,81
+Russia,RUS,2011,81
+Russia,RUS,2012,81
+Russia,RUS,2013,79
+Russia,RUS,2014,78
+Russia,RUS,2015,78
+Russia,RUS,2016,78
+Russia,RUS,2017,78
+Russia,RUS,2018,78
+Total Africa,,1990,45
+Total Africa,,1995,45
+Total Africa,,2000,65.3
+Total Africa,,2001,65.3
+Total Africa,,2002,65.3
+Total Africa,,2003,65.3
+Total Africa,,2004,135.3
+Total Africa,,2005,135.3
+Total Africa,,2006,135.3
+Total Africa,,2007,135.3
+Total Africa,,2008,135.3
+Total Africa,,2009,170.3
+Total Africa,,2010,205.3
+Total Africa,,2011,205.3
+Total Africa,,2012,212.8
+Total Africa,,2013,212.8
+Total Africa,,2014,373.4
+Total Africa,,2015,626.2
+Total Africa,,2016,670.2
+Total Africa,,2017,680.2
+Total Africa,,2018,670.3
+Total Asia Pacific,,1990,1537.7
+Total Asia Pacific,,1995,2168.8
+Total Asia Pacific,,2000,3344.7
+Total Asia Pacific,,2001,3603.7
+Total Asia Pacific,,2002,3559.7
+Total Asia Pacific,,2003,3592.6
+Total Asia Pacific,,2004,3607.6
+Total Asia Pacific,,2005,3722.7
+Total Asia Pacific,,2006,3719.6
+Total Asia Pacific,,2007,3887.6
+Total Asia Pacific,,2008,4104.7
+Total Asia Pacific,,2009,4284.7
+Total Asia Pacific,,2010,4384
+Total Asia Pacific,,2011,4423.1
+Total Asia Pacific,,2012,4508.1
+Total Asia Pacific,,2013,4597.4
+Total Asia Pacific,,2014,4888.8
+Total Asia Pacific,,2015,4938.6
+Total Asia Pacific,,2016,5138.6
+Total Asia Pacific,,2017,5308.6
+Total Asia Pacific,,2018,5487.6
+Total CIS,,1990,11
+Total CIS,,1995,11
+Total CIS,,2000,23
+Total CIS,,2001,21
+Total CIS,,2002,70
+Total CIS,,2003,70
+Total CIS,,2004,56
+Total CIS,,2005,79
+Total CIS,,2006,87
+Total CIS,,2007,90
+Total CIS,,2008,80
+Total CIS,,2009,81
+Total CIS,,2010,81
+Total CIS,,2011,81
+Total CIS,,2012,81
+Total CIS,,2013,79
+Total CIS,,2014,78
+Total CIS,,2015,78
+Total CIS,,2016,78
+Total CIS,,2017,78
+Total CIS,,2018,78
+Total Europe,,1990,617.6
+Total Europe,,1995,710.9
+Total Europe,,2000,794
+Total Europe,,2001,807
+Total Europe,,2002,902
+Total Europe,,2003,940
+Total Europe,,2004,875.2
+Total Europe,,2005,933.1
+Total Europe,,2006,1142.1
+Total Europe,,2007,1207.9
+Total Europe,,2008,1304.9
+Total Europe,,2009,1380.9
+Total Europe,,2010,1430.9
+Total Europe,,2011,1557.2
+Total Europe,,2012,1608.2
+Total Europe,,2013,1771.2
+Total Europe,,2014,1904.3
+Total Europe,,2015,2125.3
+Total Europe,,2016,2321.5
+Total Europe,,2017,2619.9
+Total Europe,,2018,2883.7
+Total North America,,1990,3656.5
+Total North America,,1995,3913.96
+Total North America,,2000,3797
+Total North America,,2001,3841
+Total North America,,2002,3872
+Total North America,,2003,3996
+Total North America,,2004,4054
+Total North America,,2005,4089
+Total North America,,2006,4131
+Total North America,,2007,4193
+Total North America,,2008,4206
+Total North America,,2009,4386
+Total North America,,2010,4463
+Total North America,,2011,4386.8
+Total North America,,2012,4548
+Total North America,,2013,4588
+Total North America,,2014,4570
+Total North America,,2015,4717.8
+Total North America,,2016,4730.6
+Total North America,,2017,4658.1
+Total North America,,2018,4768.8452
+Total S. & Cent. America,,1990,130
+Total S. & Cent. America,,1995,230
+Total S. & Cent. America,,2000,360.8
+Total S. & Cent. America,,2001,365.8
+Total S. & Cent. America,,2002,417
+Total S. & Cent. America,,2003,435
+Total S. & Cent. America,,2004,428
+Total S. & Cent. America,,2005,449
+Total S. & Cent. America,,2006,474.2
+Total S. & Cent. America,,2007,527.4
+Total S. & Cent. America,,2008,527.4
+Total S. & Cent. America,,2009,526.8
+Total S. & Cent. America,,2010,526.8
+Total S. & Cent. America,,2011,525.4
+Total S. & Cent. America,,2012,655.6
+Total S. & Cent. America,,2013,640.6
+Total S. & Cent. America,,2014,637.1
+Total S. & Cent. America,,2015,640
+Total S. & Cent. America,,2016,629.5
+Total S. & Cent. America,,2017,689
+Total S. & Cent. America,,2018,713
+Turkey,TUR,1990,20.6
+Turkey,TUR,1995,20.4
+Turkey,TUR,2000,18
+Turkey,TUR,2001,18
+Turkey,TUR,2002,18
+Turkey,TUR,2003,15
+Turkey,TUR,2004,15
+Turkey,TUR,2005,15
+Turkey,TUR,2006,23
+Turkey,TUR,2007,23
+Turkey,TUR,2008,30
+Turkey,TUR,2009,77
+Turkey,TUR,2010,94
+Turkey,TUR,2011,114
+Turkey,TUR,2012,162
+Turkey,TUR,2013,311
+Turkey,TUR,2014,405
+Turkey,TUR,2015,624
+Turkey,TUR,2016,821
+Turkey,TUR,2017,1063.7
+Turkey,TUR,2018,1282.5
+United States,USA,1990,2913.5
+United States,USA,1995,3170.96
+United States,USA,2000,2942
+United States,USA,2001,3003
+United States,USA,2002,3029
+United States,USA,2003,3036
+United States,USA,2004,3094
+United States,USA,2005,3129
+United States,USA,2006,3171
+United States,USA,2007,3233
+United States,USA,2008,3243
+United States,USA,2009,3421
+United States,USA,2010,3498
+United States,USA,2011,3499.8
+United States,USA,2012,3724
+United States,USA,2013,3765
+United States,USA,2014,3757
+United States,USA,2015,3811.8
+United States,USA,2016,3804.6
+United States,USA,2017,3732.4
+United States,USA,2018,3801
+World,OWID_WRL,1975,1300
+World,OWID_WRL,1980,3887
+World,OWID_WRL,1985,4764
+World,OWID_WRL,1990,5998.25
+World,OWID_WRL,1995,7080.11
+World,OWID_WRL,2000,8384.8
+World,OWID_WRL,2001,8703.8
+World,OWID_WRL,2002,8886
+World,OWID_WRL,2003,9098.9
+World,OWID_WRL,2004,9156.1
+World,OWID_WRL,2005,9408.1
+World,OWID_WRL,2006,9689.2
+World,OWID_WRL,2007,10041.2
+World,OWID_WRL,2008,10358.3
+World,OWID_WRL,2009,10829.7
+World,OWID_WRL,2010,11091
+World,OWID_WRL,2011,11178.8
+World,OWID_WRL,2012,11613.7
+World,OWID_WRL,2013,11889
+World,OWID_WRL,2014,12451.5
+World,OWID_WRL,2015,13125.8
+World,OWID_WRL,2016,13568.3
+World,OWID_WRL,2017,14033.7
+World,OWID_WRL,2018,14601.3452

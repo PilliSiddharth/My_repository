@@ -1,0 +1,540 @@
+Entity,Code,Year,Press Freedom Score
+Afghanistan,AFG,2017,39.46
+Afghanistan,AFG,2018,37.28
+Afghanistan,AFG,2019,36.55
+Albania,ALB,2017,29.92
+Albania,ALB,2018,29.49
+Albania,ALB,2019,29.84
+Algeria,DZA,2017,42.83
+Algeria,DZA,2018,43.13
+Algeria,DZA,2019,45.75
+Andorra,AND,2017,21.03
+Andorra,AND,2018,22.21
+Andorra,AND,2019,24.63
+Angola,AGO,2017,40.42
+Angola,AGO,2018,38.35
+Angola,AGO,2019,34.96
+Argentina,ARG,2017,25.07
+Argentina,ARG,2018,26.05
+Argentina,ARG,2019,28.3
+Armenia,ARM,2017,30.38
+Armenia,ARM,2018,29.99
+Armenia,ARM,2019,28.98
+Australia,AUS,2017,16.02
+Australia,AUS,2018,15.46
+Australia,AUS,2019,16.55
+Austria,AUT,2017,13.47
+Austria,AUT,2018,14.04
+Austria,AUT,2019,15.33
+Azerbaijan,AZE,2017,56.4
+Azerbaijan,AZE,2018,59.73
+Azerbaijan,AZE,2019,59.13
+Bahrain,BHR,2017,58.88
+Bahrain,BHR,2018,60.85
+Bahrain,BHR,2019,61.31
+Bangladesh,BGD,2017,48.36
+Bangladesh,BGD,2018,48.62
+Bangladesh,BGD,2019,50.74
+Belarus,BLR,2017,52.43
+Belarus,BLR,2018,52.59
+Belarus,BLR,2019,51.66
+Belgium,BEL,2017,12.75
+Belgium,BEL,2018,13.16
+Belgium,BEL,2019,12.07
+Belize,BLZ,2017,23.43
+Belize,BLZ,2018,24.55
+Belize,BLZ,2019,27.5
+Benin,BEN,2017,30.32
+Benin,BEN,2018,30.16
+Benin,BEN,2019,31.74
+Bhutan,BTN,2017,30.73
+Bhutan,BTN,2018,30.73
+Bhutan,BTN,2019,29.81
+Bolivia,BOL,2017,33.88
+Bolivia,BOL,2018,32.45
+Bolivia,BOL,2019,35.38
+Bosnia and Herzegovina,BIH,2017,27.83
+Bosnia and Herzegovina,BIH,2018,27.37
+Bosnia and Herzegovina,BIH,2019,29.02
+Botswana,BWA,2017,24.93
+Botswana,BWA,2018,25.29
+Botswana,BWA,2019,25.09
+Brazil,BRA,2017,33.58
+Brazil,BRA,2018,31.2
+Brazil,BRA,2019,32.79
+Brunei,BRN,2017,53.72
+Brunei,BRN,2018,51.48
+Brunei,BRN,2019,51.48
+Bulgaria,BGR,2017,35.01
+Bulgaria,BGR,2018,35.22
+Bulgaria,BGR,2019,35.11
+Burkina Faso,BFA,2017,23.85
+Burkina Faso,BFA,2018,23.33
+Burkina Faso,BFA,2019,24.53
+Burundi,BDI,2017,55.78
+Burundi,BDI,2018,55.26
+Burundi,BDI,2019,52.89
+Cambodia,KHM,2017,42.07
+Cambodia,KHM,2018,45.9
+Cambodia,KHM,2019,45.9
+Cameroon,CMR,2017,41.59
+Cameroon,CMR,2018,40.92
+Cameroon,CMR,2019,43.32
+Canada,CAN,2017,16.53
+Canada,CAN,2018,15.28
+Canada,CAN,2019,15.69
+Cape Verde,CPV,2017,18.02
+Cape Verde,CPV,2018,20.39
+Cape Verde,CPV,2019,19.81
+Central African Republic,CAF,2017,36.12
+Central African Republic,CAF,2018,35.25
+Central African Republic,CAF,2019,47.27
+Chad,TCD,2017,39.66
+Chad,TCD,2018,38.45
+Chad,TCD,2019,36.71
+Chile,CHL,2017,20.53
+Chile,CHL,2018,22.69
+Chile,CHL,2019,25.65
+China,CHN,2017,77.66
+China,CHN,2018,78.29
+China,CHN,2019,78.92
+Colombia,COL,2017,41.47
+Colombia,COL,2018,41.03
+Colombia,COL,2019,42.82
+Comoros,COM,2017,24.33
+Comoros,COM,2018,25.3
+Comoros,COM,2019,27.91
+Congo,COG,2017,36.73
+Congo,COG,2018,35.42
+Congo,COG,2019,36.04
+Costa Rica,CRI,2017,11.93
+Costa Rica,CRI,2018,14.01
+Costa Rica,CRI,2019,12.24
+Cote d'Ivoire,CIV,2017,30.42
+Cote d'Ivoire,CIV,2018,30.08
+Cote d'Ivoire,CIV,2019,29.52
+Croatia,HRV,2017,29.59
+Croatia,HRV,2018,28.94
+Croatia,HRV,2019,29.03
+Cuba,CUB,2017,71.75
+Cuba,CUB,2018,68.9
+Cuba,CUB,2019,63.81
+Cyprus,CYP,2017,19.79
+Cyprus,CYP,2018,19.85
+Cyprus,CYP,2019,21.74
+Czech Republic,CZE,2017,16.91
+Czech Republic,CZE,2018,21.89
+Czech Republic,CZE,2019,24.89
+Democratic Republic of Congo,COD,2017,52.67
+Democratic Republic of Congo,COD,2018,51.6
+Democratic Republic of Congo,COD,2019,51.71
+Denmark,DNK,2017,10.36
+Denmark,DNK,2018,13.99
+Denmark,DNK,2019,9.87
+Djibouti,DJI,2017,70.54
+Djibouti,DJI,2018,70.77
+Djibouti,DJI,2019,71.36
+Dominican Republic,DOM,2017,26.76
+Dominican Republic,DOM,2018,26.79
+Dominican Republic,DOM,2019,27.9
+Ecuador,ECU,2017,33.64
+Ecuador,ECU,2018,30.56
+Ecuador,ECU,2019,31.88
+Egypt,EGY,2017,55.78
+Egypt,EGY,2018,56.72
+Egypt,EGY,2019,56.47
+El Salvador,SLV,2017,27.24
+El Salvador,SLV,2018,27.78
+El Salvador,SLV,2019,29.81
+Equatorial Guinea,GNQ,2017,66.47
+Equatorial Guinea,GNQ,2018,66.47
+Equatorial Guinea,GNQ,2019,58.35
+Eritrea,ERI,2017,84.24
+Eritrea,ERI,2018,84.24
+Eritrea,ERI,2019,80.26
+Estonia,EST,2017,13.55
+Estonia,EST,2018,14.08
+Estonia,EST,2019,12.27
+Ethiopia,ETH,2017,50.34
+Ethiopia,ETH,2018,50.17
+Ethiopia,ETH,2019,35.11
+Fiji,FJI,2017,28.64
+Fiji,FJI,2018,26.55
+Fiji,FJI,2019,27.18
+Finland,FIN,2017,8.92
+Finland,FIN,2018,10.26
+Finland,FIN,2019,7.9
+France,FRA,2017,22.24
+France,FRA,2018,21.87
+France,FRA,2019,22.21
+Gabon,GAB,2017,34.83
+Gabon,GAB,2018,32.37
+Gabon,GAB,2019,35.6
+Gambia,GMB,2017,46.7
+Gambia,GMB,2018,38.36
+Gambia,GMB,2019,31.35
+Georgia,GEO,2017,27.76
+Georgia,GEO,2018,27.34
+Georgia,GEO,2019,28.98
+Germany,DEU,2017,14.97
+Germany,DEU,2018,14.39
+Germany,DEU,2019,14.6
+Ghana,GHA,2017,17.95
+Ghana,GHA,2018,18.41
+Ghana,GHA,2019,20.81
+Greece,GRC,2017,30.89
+Greece,GRC,2018,29.19
+Greece,GRC,2019,29.08
+Guatemala,GTM,2017,39.33
+Guatemala,GTM,2018,36.17
+Guatemala,GTM,2019,35.94
+Guinea,GIN,2017,33.15
+Guinea,GIN,2018,31.9
+Guinea,GIN,2019,33.49
+Guinea-Bissau,GNB,2017,30.09
+Guinea-Bissau,GNB,2018,30.09
+Guinea-Bissau,GNB,2019,30.95
+Guyana,GUY,2017,26.8
+Guyana,GUY,2018,26.25
+Guyana,GUY,2019,26.63
+Haiti,HTI,2017,26.36
+Haiti,HTI,2018,26.82
+Haiti,HTI,2019,29
+Honduras,HND,2017,43.75
+Honduras,HND,2018,45.23
+Honduras,HND,2019,48.53
+Hong Kong,HKG,2017,29.46
+Hong Kong,HKG,2018,29.04
+Hong Kong,HKG,2019,29.65
+Hungary,HUN,2017,29.01
+Hungary,HUN,2018,29.11
+Hungary,HUN,2019,30.44
+Iceland,ISL,2017,13.03
+Iceland,ISL,2018,14.1
+Iceland,ISL,2019,14.71
+India,IND,2017,42.94
+India,IND,2018,43.24
+India,IND,2019,45.67
+Indonesia,IDN,2017,39.93
+Indonesia,IDN,2018,39.68
+Indonesia,IDN,2019,36.77
+Iran,IRN,2017,65.12
+Iran,IRN,2018,60.71
+Iran,IRN,2019,64.41
+Iraq,IRQ,2017,54.03
+Iraq,IRQ,2018,56.56
+Iraq,IRQ,2019,52.6
+Ireland,IRL,2017,14.08
+Ireland,IRL,2018,14.59
+Ireland,IRL,2019,15
+Israel,ISR,2017,31.01
+Israel,ISR,2018,30.26
+Israel,ISR,2019,30.8
+Italy,ITA,2017,26.26
+Italy,ITA,2018,24.12
+Italy,ITA,2019,24.98
+Jamaica,JAM,2017,12.73
+Jamaica,JAM,2018,11.33
+Jamaica,JAM,2019,11.13
+Japan,JPN,2017,29.44
+Japan,JPN,2018,28.64
+Japan,JPN,2019,29.36
+Jordan,JOR,2017,43.24
+Jordan,JOR,2018,41.71
+Jordan,JOR,2019,43.11
+Kazakhstan,KAZ,2017,54.01
+Kazakhstan,KAZ,2018,54.41
+Kazakhstan,KAZ,2019,52.82
+Kenya,KEN,2017,31.2
+Kenya,KEN,2018,30.82
+Kenya,KEN,2019,32.44
+Kosovo,OWID_KOS,2017,30.45
+Kosovo,OWID_KOS,2018,29.61
+Kosovo,OWID_KOS,2019,29.68
+Kuwait,KWT,2017,33.61
+Kuwait,KWT,2018,31.91
+Kuwait,KWT,2019,33.86
+Kyrgyzstan,KGZ,2017,30.92
+Kyrgyzstan,KGZ,2018,31
+Kyrgyzstan,KGZ,2019,29.92
+Laos,LAO,2017,66.41
+Laos,LAO,2018,66.41
+Laos,LAO,2019,64.49
+Latvia,LVA,2017,18.62
+Latvia,LVA,2018,19.63
+Latvia,LVA,2019,19.53
+Lebanon,LBN,2017,33.01
+Lebanon,LBN,2018,31.15
+Lebanon,LBN,2019,32.44
+Lesotho,LSO,2017,28.78
+Lesotho,LSO,2018,28.78
+Lesotho,LSO,2019,29.74
+Liberia,LBR,2017,31.12
+Liberia,LBR,2018,30.33
+Liberia,LBR,2019,31.49
+Libya,LBY,2017,56.81
+Libya,LBY,2018,56.79
+Libya,LBY,2019,55.77
+Liechtenstein,LIE,2017,20.31
+Liechtenstein,LIE,2018,20.49
+Liechtenstein,LIE,2019,20.49
+Lithuania,LTU,2017,21.37
+Lithuania,LTU,2018,22.2
+Lithuania,LTU,2019,22.06
+Luxembourg,LUX,2017,14.72
+Luxembourg,LUX,2018,14.72
+Luxembourg,LUX,2019,15.66
+Macedonia,MKD,2017,35.74
+Macedonia,MKD,2018,32.43
+Macedonia,MKD,2019,31.66
+Madagascar,MDG,2017,26.71
+Madagascar,MDG,2018,26.2
+Madagascar,MDG,2019,27.76
+Malawi,MWI,2017,28.97
+Malawi,MWI,2018,27.43
+Malawi,MWI,2019,29.36
+Malaysia,MYS,2017,46.89
+Malaysia,MYS,2018,47.41
+Malaysia,MYS,2019,36.74
+Maldives,MDV,2017,39.3
+Maldives,MDV,2018,37.95
+Maldives,MDV,2019,32.16
+Mali,MLI,2017,38.27
+Mali,MLI,2018,36.15
+Mali,MLI,2019,35.23
+Malta,MLT,2017,24.76
+Malta,MLT,2018,27.44
+Malta,MLT,2019,29.74
+Martinique,MTQ,2017,22.1
+Martinique,MTQ,2018,22.11
+Martinique,MTQ,2019,26.04
+Mauritania,MRT,2017,26.49
+Mauritania,MRT,2018,29.09
+Mauritania,MRT,2019,31.65
+Mauritius,MUS,2017,26.67
+Mauritius,MUS,2018,26.45
+Mauritius,MUS,2019,28.46
+Mexico,MEX,2017,48.97
+Mexico,MEX,2018,48.91
+Mexico,MEX,2019,46.78
+Moldova,MDA,2017,30.41
+Moldova,MDA,2018,30.01
+Moldova,MDA,2019,31.21
+Mongolia,MNG,2017,28.95
+Mongolia,MNG,2018,29.05
+Mongolia,MNG,2019,29.51
+Montenegro,MNE,2017,33.65
+Montenegro,MNE,2018,31.21
+Montenegro,MNE,2019,32.74
+Morocco,MAR,2017,42.42
+Morocco,MAR,2018,43.13
+Morocco,MAR,2019,43.98
+Mozambique,MOZ,2017,31.05
+Mozambique,MOZ,2018,31.12
+Mozambique,MOZ,2019,32.66
+Myanmar,MMR,2017,41.82
+Myanmar,MMR,2018,43.15
+Myanmar,MMR,2019,44.92
+Namibia,NAM,2017,17.08
+Namibia,NAM,2018,20.24
+Namibia,NAM,2019,18.95
+Nepal,NPL,2017,33.02
+Nepal,NPL,2018,32.05
+Nepal,NPL,2019,33.4
+Netherlands,NLD,2017,11.28
+Netherlands,NLD,2018,10.01
+Netherlands,NLD,2019,8.63
+New Zealand,NZL,2017,13.98
+New Zealand,NZL,2018,13.62
+New Zealand,NZL,2019,10.75
+Nicaragua,NIC,2017,31.01
+Nicaragua,NIC,2018,30.41
+Nicaragua,NIC,2019,35.53
+Niger,NER,2017,27.21
+Niger,NER,2018,27.4
+Niger,NER,2019,29.26
+Nigeria,NGA,2017,39.69
+Nigeria,NGA,2018,37.41
+Nigeria,NGA,2019,36.5
+North Korea,PRK,2018,88.87
+North Korea,PRK,2019,83.4
+Northern Cyprus,OWID_CYN,2017,29.88
+Northern Cyprus,OWID_CYN,2018,29.59
+Northern Cyprus,OWID_CYN,2019,29.67
+Norway,NOR,2017,7.6
+Norway,NOR,2018,7.63
+Norway,NOR,2019,7.82
+Oman,OMN,2017,40.46
+Oman,OMN,2018,40.67
+Oman,OMN,2019,43.42
+Pakistan,PAK,2017,43.55
+Pakistan,PAK,2018,43.24
+Pakistan,PAK,2019,45.83
+Palestine,PSE,2017,42.9
+Palestine,PSE,2018,42.96
+Palestine,PSE,2019,44.68
+Panama,PAN,2017,32.12
+Panama,PAN,2018,30.56
+Panama,PAN,2019,29.78
+Papua New Guinea,PNG,2017,25.07
+Papua New Guinea,PNG,2018,26.19
+Papua New Guinea,PNG,2019,24.7
+Paraguay,PRY,2017,35.64
+Paraguay,PRY,2018,32.32
+Paraguay,PRY,2019,32.4
+Peru,PER,2017,30.98
+Peru,PER,2018,30.27
+Peru,PER,2019,30.22
+Philippines,PHL,2017,41.08
+Philippines,PHL,2018,42.53
+Philippines,PHL,2019,43.91
+Poland,POL,2017,26.47
+Poland,POL,2018,26.59
+Poland,POL,2019,28.89
+Portugal,PRT,2017,15.77
+Portugal,PRT,2018,14.17
+Portugal,PRT,2019,12.63
+Qatar,QAT,2017,39.83
+Qatar,QAT,2018,40.16
+Qatar,QAT,2019,42.51
+Romania,ROU,2017,24.46
+Romania,ROU,2018,23.65
+Romania,ROU,2019,25.67
+Russia,RUS,2017,49.45
+Russia,RUS,2018,49.96
+Russia,RUS,2019,50.31
+Rwanda,RWA,2017,54.11
+Rwanda,RWA,2018,52.9
+Rwanda,RWA,2019,52.43
+Samoa,WSM,2017,16.41
+Samoa,WSM,2018,16.69
+Samoa,WSM,2019,18.25
+Saudi Arabia,SAU,2017,66.02
+Saudi Arabia,SAU,2018,63.13
+Saudi Arabia,SAU,2019,65.88
+Senegal,SEN,2017,26.72
+Senegal,SEN,2018,25.61
+Senegal,SEN,2019,25.81
+Serbia,SRB,2017,28.05
+Serbia,SRB,2018,29.58
+Serbia,SRB,2019,31.18
+Seychelles,SYC,2017,30.86
+Seychelles,SYC,2018,30.17
+Seychelles,SYC,2019,29.41
+Sierra Leone,SLE,2017,30.73
+Sierra Leone,SLE,2018,29.98
+Sierra Leone,SLE,2019,30.36
+Singapore,SGP,2017,51.1
+Singapore,SGP,2018,50.95
+Singapore,SGP,2019,51.41
+Slovakia,SVK,2017,15.51
+Slovakia,SVK,2018,20.26
+Slovakia,SVK,2019,23.58
+Slovenia,SVN,2017,21.7
+Slovenia,SVN,2018,21.69
+Slovenia,SVN,2019,22.31
+Somalia,SOM,2017,65.95
+Somalia,SOM,2018,63.04
+Somalia,SOM,2019,57.24
+South Africa,ZAF,2017,20.12
+South Africa,ZAF,2018,20.39
+South Africa,ZAF,2019,22.19
+South Korea,KOR,2017,27.61
+South Korea,KOR,2018,23.51
+South Korea,KOR,2019,24.94
+South Sudan,SSD,2017,48.16
+South Sudan,SSD,2018,46.88
+South Sudan,SSD,2019,45.65
+Spain,ESP,2017,18.69
+Spain,ESP,2018,20.51
+Spain,ESP,2019,21.99
+Sri Lanka,LKA,2017,44.34
+Sri Lanka,LKA,2018,41.37
+Sri Lanka,LKA,2019,39.61
+Sudan,SDN,2017,73.56
+Sudan,SDN,2018,71.13
+Sudan,SDN,2019,72.45
+Suriname,SUR,2017,16.07
+Suriname,SUR,2018,16.44
+Suriname,SUR,2019,16.38
+Swaziland,SWZ,2017,51.27
+Swaziland,SWZ,2018,51.46
+Swaziland,SWZ,2019,49.09
+Sweden,SWE,2017,8.27
+Sweden,SWE,2018,8.31
+Sweden,SWE,2019,8.31
+Switzerland,CHE,2017,12.13
+Switzerland,CHE,2018,11.27
+Switzerland,CHE,2019,10.52
+Syria,SYR,2017,81.49
+Syria,SYR,2018,79.22
+Syria,SYR,2019,71.78
+Taiwan,TWN,2017,24.37
+Taiwan,TWN,2018,23.36
+Taiwan,TWN,2019,24.98
+Tajikistan,TJK,2017,50.27
+Tajikistan,TJK,2018,50.06
+Tajikistan,TJK,2019,54.02
+Tanzania,TZA,2017,30.65
+Tanzania,TZA,2018,30.65
+Tanzania,TZA,2019,36.28
+Thailand,THA,2017,44.69
+Thailand,THA,2018,44.31
+Thailand,THA,2019,44.1
+Timor,TLS,2017,32.82
+Timor,TLS,2018,30.81
+Timor,TLS,2019,29.93
+Togo,TGO,2017,30.75
+Togo,TGO,2018,30.23
+Togo,TGO,2019,29.69
+Tonga,TON,2017,24.97
+Tonga,TON,2018,25.68
+Tonga,TON,2019,25.41
+Trinidad and Tobago,TTO,2017,20.62
+Trinidad and Tobago,TTO,2018,22.79
+Trinidad and Tobago,TTO,2019,24.74
+Tunisia,TUN,2017,32.22
+Tunisia,TUN,2018,30.91
+Tunisia,TUN,2019,29.61
+Turkey,TUR,2017,52.98
+Turkey,TUR,2018,53.5
+Turkey,TUR,2019,52.81
+Turkmenistan,TKM,2017,84.19
+Turkmenistan,TKM,2018,84.2
+Turkmenistan,TKM,2019,85.44
+Uganda,UGA,2017,35.94
+Uganda,UGA,2018,36.77
+Uganda,UGA,2019,39.42
+Ukraine,UKR,2017,33.19
+Ukraine,UKR,2018,31.16
+Ukraine,UKR,2019,32.46
+United Arab Emirates,ARE,2017,39.39
+United Arab Emirates,ARE,2018,40.86
+United Arab Emirates,ARE,2019,43.63
+United Kingdom,GBR,2017,22.26
+United Kingdom,GBR,2018,23.25
+United Kingdom,GBR,2019,22.23
+United States,USA,2017,23.88
+United States,USA,2018,23.73
+United States,USA,2019,25.69
+Uruguay,URY,2017,17.43
+Uruguay,URY,2018,15.56
+Uruguay,URY,2019,16.06
+Uzbekistan,UZB,2017,66.11
+Uzbekistan,UZB,2018,60.84
+Uzbekistan,UZB,2019,53.52
+Venezuela,VEN,2017,42.94
+Venezuela,VEN,2018,46.03
+Venezuela,VEN,2019,49.1
+Vietnam,VNM,2017,73.96
+Vietnam,VNM,2018,75.05
+Vietnam,VNM,2019,74.93
+Yemen,YEM,2017,65.8
+Yemen,YEM,2018,62.23
+Yemen,YEM,2019,61.66
+Zambia,ZMB,2017,36.48
+Zambia,ZMB,2018,35.36
+Zambia,ZMB,2019,36.38
+Zimbabwe,ZWE,2017,41.44
+Zimbabwe,ZWE,2018,40.53
+Zimbabwe,ZWE,2019,42.23

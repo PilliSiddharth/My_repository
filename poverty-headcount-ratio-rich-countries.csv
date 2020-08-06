@@ -1,0 +1,200 @@
+Entity,Code,Year, (%)
+Australia,AUS,1981,1
+Australia,AUS,1985,1
+Australia,AUS,1989,0.68
+Australia,AUS,1995,1.34
+Australia,AUS,2001,1.35
+Australia,AUS,2003,1.36
+Australia,AUS,2008,0.67
+Australia,AUS,2010,0.67
+Austria,AUT,2004,0.1
+Austria,AUT,2005,0.16
+Austria,AUT,2006,0.1
+Austria,AUT,2007,0.37
+Austria,AUT,2008,0.48
+Austria,AUT,2009,0.66
+Austria,AUT,2010,0.49
+Austria,AUT,2011,0.42
+Austria,AUT,2012,0.62
+Belgium,BEL,2004,0.11
+Belgium,BEL,2005,0.36
+Belgium,BEL,2006,0.38
+Belgium,BEL,2007,0.34
+Belgium,BEL,2008,0.43
+Belgium,BEL,2009,0.22
+Belgium,BEL,2010,0.24
+Belgium,BEL,2011,0.44
+Belgium,BEL,2012,0.22
+Canada,CAN,1981,0.68
+Canada,CAN,1987,0.37
+Canada,CAN,1991,0.33
+Canada,CAN,1994,0.33
+Canada,CAN,1997,0.36
+Canada,CAN,1998,0.68
+Canada,CAN,2000,0.67
+Canada,CAN,2004,0.34
+Canada,CAN,2007,0.34
+Canada,CAN,2010,0.34
+Cyprus,CYP,2004,0.09
+Cyprus,CYP,2005,0.05
+Cyprus,CYP,2006,0.03
+Cyprus,CYP,2007,0.03
+Cyprus,CYP,2008,0.01
+Cyprus,CYP,2009,0.12
+Cyprus,CYP,2010,0.1
+Cyprus,CYP,2011,0.03
+Cyprus,CYP,2012,0.02
+Denmark,DNK,2004,0.82
+Denmark,DNK,2005,0.71
+Denmark,DNK,2006,0.78
+Denmark,DNK,2007,0.62
+Denmark,DNK,2008,1.45
+Denmark,DNK,2009,1.29
+Denmark,DNK,2010,1.13
+Denmark,DNK,2011,1.22
+Denmark,DNK,2012,1.05
+Finland,FIN,2004,0.06
+Finland,FIN,2005,0.09
+Finland,FIN,2006,0.1
+Finland,FIN,2007,0.07
+Finland,FIN,2008,0.06
+Finland,FIN,2009,0.07
+Finland,FIN,2010,0.09
+Finland,FIN,2011,0.08
+Finland,FIN,2012,0.08
+France,FRA,2004,0.09
+France,FRA,2005,0.13
+France,FRA,2006,0.23
+France,FRA,2007,0.03
+France,FRA,2008,0.06
+France,FRA,2010,0.15
+France,FRA,2011,0.09
+France,FRA,2012,0.08
+Germany,DEU,2006,0.84
+Germany,DEU,2007,0.51
+Germany,DEU,2008,0.27
+Germany,DEU,2009,0.18
+Germany,DEU,2010,0.4
+Germany,DEU,2011,0.19
+Greece,GRC,2004,0.99
+Greece,GRC,2005,0.71
+Greece,GRC,2006,0.85
+Greece,GRC,2007,1.01
+Greece,GRC,2008,0.88
+Greece,GRC,2009,0.88
+Greece,GRC,2010,1.47
+Greece,GRC,2011,2.28
+Greece,GRC,2012,2.1
+Iceland,ISL,2004,0.3
+Iceland,ISL,2005,0.28
+Iceland,ISL,2006,0.15
+Iceland,ISL,2007,0.12
+Iceland,ISL,2008,0.19
+Iceland,ISL,2009,0.19
+Iceland,ISL,2010,0.39
+Iceland,ISL,2011,0.32
+Iceland,ISL,2012,0.2
+Ireland,IRL,2004,0.15
+Ireland,IRL,2005,0.03
+Ireland,IRL,2006,0.4
+Ireland,IRL,2007,0.09
+Ireland,IRL,2008,0.18
+Ireland,IRL,2009,0.65
+Ireland,IRL,2010,0.54
+Ireland,IRL,2011,0.5
+Ireland,IRL,2012,0.29
+Israel,ISR,1986,0.34
+Israel,ISR,1992,0
+Israel,ISR,1997,0.36
+Israel,ISR,2001,0.33
+Israel,ISR,2005,0.67
+Israel,ISR,2007,0.69
+Israel,ISR,2010,0.39
+Italy,ITA,2004,0.83
+Italy,ITA,2005,0.9
+Italy,ITA,2006,1.01
+Italy,ITA,2007,0.91
+Italy,ITA,2008,0.81
+Italy,ITA,2009,1.11
+Italy,ITA,2010,1.41
+Italy,ITA,2011,1.23
+Italy,ITA,2012,1.48
+Japan,JPN,2008,0.35
+Luxembourg,LUX,2004,0.05
+Luxembourg,LUX,2005,0.14
+Luxembourg,LUX,2006,0.02
+Luxembourg,LUX,2007,0.14
+Luxembourg,LUX,2008,0.05
+Luxembourg,LUX,2009,0.27
+Luxembourg,LUX,2010,0.19
+Luxembourg,LUX,2011,0.32
+Luxembourg,LUX,2012,0.39
+Netherlands,NLD,2004,0.79
+Netherlands,NLD,2005,0.75
+Netherlands,NLD,2006,0.62
+Netherlands,NLD,2007,0.54
+Netherlands,NLD,2008,0.47
+Netherlands,NLD,2009,0.55
+Netherlands,NLD,2010,0.49
+Netherlands,NLD,2011,0.38
+Netherlands,NLD,2012,0.35
+Norway,NOR,2004,0.39
+Norway,NOR,2005,0.4
+Norway,NOR,2006,0.69
+Norway,NOR,2007,0.56
+Norway,NOR,2008,0.33
+Norway,NOR,2009,0.13
+Norway,NOR,2010,0.26
+Norway,NOR,2011,0.21
+Norway,NOR,2012,0.27
+Portugal,PRT,2004,0.54
+Portugal,PRT,2005,0.54
+Portugal,PRT,2006,0.09
+Portugal,PRT,2007,0.26
+Portugal,PRT,2008,0.14
+Portugal,PRT,2009,0.17
+Portugal,PRT,2010,0.14
+Portugal,PRT,2011,0.51
+Portugal,PRT,2012,0.7
+Spain,ESP,2004,0.93
+Spain,ESP,2005,0.84
+Spain,ESP,2006,0.8
+Spain,ESP,2007,1.21
+Spain,ESP,2008,0.97
+Spain,ESP,2009,1.25
+Spain,ESP,2010,1.08
+Spain,ESP,2011,1.57
+Spain,ESP,2012,1.34
+Sweden,SWE,2004,0.48
+Sweden,SWE,2005,1.33
+Sweden,SWE,2006,0.48
+Sweden,SWE,2007,0.53
+Sweden,SWE,2008,0.67
+Sweden,SWE,2009,0.49
+Sweden,SWE,2010,0.53
+Sweden,SWE,2011,0.64
+Sweden,SWE,2012,0.61
+Switzerland,CHE,2007,0.25
+Switzerland,CHE,2008,0.24
+Switzerland,CHE,2009,0.15
+Switzerland,CHE,2010,0.21
+Switzerland,CHE,2011,0.1
+Switzerland,CHE,2012,0.06
+United Kingdom,GBR,2004,0.68
+United Kingdom,GBR,2005,0.9
+United Kingdom,GBR,2006,0.52
+United Kingdom,GBR,2007,0.54
+United Kingdom,GBR,2008,0.6
+United Kingdom,GBR,2009,0.64
+United Kingdom,GBR,2010,0.65
+United Kingdom,GBR,2011,0.82
+United Kingdom,GBR,2012,0.46
+United States,USA,1986,0.67
+United States,USA,1991,0.67
+United States,USA,1994,0.67
+United States,USA,1997,1
+United States,USA,2000,1
+United States,USA,2004,1.33
+United States,USA,2007,1.33
+United States,USA,2010,1.33
+United States,USA,2013,1

@@ -1,0 +1,651 @@
+Entity,Code,Year,Suite of Food Security Indicators - Prevalence of undernourishment (percent) (annual value) - 210040 - Value - 6121 - % (%)
+Africa,,2000,24.5
+Africa,,2001,24
+Africa,,2002,23.5
+Africa,,2003,23.1
+Africa,,2004,22
+Africa,,2005,21.2
+Africa,,2006,20.5
+Africa,,2007,20.3
+Africa,,2008,20
+Africa,,2009,19.6
+Africa,,2010,19.1
+Africa,,2011,18.8
+Africa,,2012,18.5
+Africa,,2013,18.3
+Africa,,2014,18.2
+Africa,,2015,18.3
+Africa,,2016,19.2
+Africa,,2017,19.8
+Africa,,2018,19.9
+Asia,,2000,16.9
+Asia,,2001,17.3
+Asia,,2002,17.7
+Asia,,2003,17.8
+Asia,,2004,17.7
+Asia,,2005,17.4
+Asia,,2006,16.5
+Asia,,2007,15.5
+Asia,,2008,14.8
+Asia,,2009,14.2
+Asia,,2010,13.6
+Asia,,2011,13.3
+Asia,,2012,12.9
+Asia,,2013,12.6
+Asia,,2014,12.1
+Asia,,2015,11.7
+Asia,,2016,11.5
+Asia,,2017,11.4
+Asia,,2018,11.3
+"Asia, Central",,2000,12.6
+"Asia, Central",,2001,14.3
+"Asia, Central",,2002,14.6
+"Asia, Central",,2003,13.8
+"Asia, Central",,2004,12.3
+"Asia, Central",,2005,11.1
+"Asia, Central",,2006,9.6
+"Asia, Central",,2007,8.6
+"Asia, Central",,2008,8.2
+"Asia, Central",,2009,7.8
+"Asia, Central",,2010,7.3
+"Asia, Central",,2011,6.6
+"Asia, Central",,2012,6.1
+"Asia, Central",,2013,5.8
+"Asia, Central",,2014,5.6
+"Asia, Central",,2015,5.5
+"Asia, Central",,2016,5.5
+"Asia, Central",,2017,5.7
+"Asia, Central",,2018,5.7
+Caribbean,,2000,23.7
+Caribbean,,2001,23.2
+Caribbean,,2002,24.1
+Caribbean,,2003,24.5
+Caribbean,,2004,24.5
+Caribbean,,2005,23.3
+Caribbean,,2006,22.4
+Caribbean,,2007,22.1
+Caribbean,,2008,21.8
+Caribbean,,2009,20.9
+Caribbean,,2010,19.8
+Caribbean,,2011,19.3
+Caribbean,,2012,19.3
+Caribbean,,2013,19.1
+Caribbean,,2014,18.7
+Caribbean,,2015,18.3
+Caribbean,,2016,18
+Caribbean,,2017,18
+Caribbean,,2018,18.4
+Central America,,2000,8.1
+Central America,,2001,7.8
+Central America,,2002,7.7
+Central America,,2003,8.2
+Central America,,2004,8.9
+Central America,,2005,8.4
+Central America,,2006,7.6
+Central America,,2007,7.4
+Central America,,2008,7.4
+Central America,,2009,7.4
+Central America,,2010,7.2
+Central America,,2011,7.3
+Central America,,2012,7.1
+Central America,,2013,6.9
+Central America,,2014,6.6
+Central America,,2015,6.3
+Central America,,2016,6.1
+Central America,,2017,6.1
+Central America,,2018,6.1
+Central and Southern Asia,,2000,18
+Central and Southern Asia,,2001,19.6
+Central and Southern Asia,,2002,20.7
+Central and Southern Asia,,2003,21.5
+Central and Southern Asia,,2004,21.6
+Central and Southern Asia,,2005,21.1
+Central and Southern Asia,,2006,19.6
+Central and Southern Asia,,2007,18
+Central and Southern Asia,,2008,17.2
+Central and Southern Asia,,2009,16.9
+Central and Southern Asia,,2010,16.8
+Central and Southern Asia,,2011,16.8
+Central and Southern Asia,,2012,16.7
+Central and Southern Asia,,2013,16.4
+Central and Southern Asia,,2014,15.9
+Central and Southern Asia,,2015,15.3
+Central and Southern Asia,,2016,14.7
+Central and Southern Asia,,2017,14.5
+Central and Southern Asia,,2018,14.4
+East Asia (exc China),,2000,5.8
+East Asia (exc China),,2001,5.7
+East Asia (exc China),,2002,5.7
+East Asia (exc China),,2003,5.5
+East Asia (exc China),,2004,5.5
+East Asia (exc China),,2005,5.7
+East Asia (exc China),,2006,6
+East Asia (exc China),,2007,6.4
+East Asia (exc China),,2008,6.7
+East Asia (exc China),,2009,7
+East Asia (exc China),,2010,7
+East Asia (exc China),,2011,6.8
+East Asia (exc China),,2012,6.7
+East Asia (exc China),,2013,6.8
+East Asia (exc China),,2014,6.8
+East Asia (exc China),,2015,6.9
+East Asia (exc China),,2016,6.9
+East Asia (exc China),,2017,7.2
+East Asia (exc China),,2018,7.4
+Eastern Africa,,2000,39.1
+Eastern Africa,,2001,38.2
+Eastern Africa,,2002,37.5
+Eastern Africa,,2003,37.1
+Eastern Africa,,2004,35.6
+Eastern Africa,,2005,34.3
+Eastern Africa,,2006,33.3
+Eastern Africa,,2007,33.3
+Eastern Africa,,2008,32.9
+Eastern Africa,,2009,32.2
+Eastern Africa,,2010,31.2
+Eastern Africa,,2011,30.6
+Eastern Africa,,2012,30.8
+Eastern Africa,,2013,30.2
+Eastern Africa,,2014,30
+Eastern Africa,,2015,29.9
+Eastern Africa,,2016,31
+Eastern Africa,,2017,30.8
+Eastern Africa,,2018,30.8
+Eastern Asia,,2000,14.7
+Eastern Asia,,2001,14.4
+Eastern Asia,,2002,14.4
+Eastern Asia,,2003,14.4
+Eastern Asia,,2004,14.2
+Eastern Asia,,2005,14.1
+Eastern Asia,,2006,13.7
+Eastern Asia,,2007,13.2
+Eastern Asia,,2008,12.5
+Eastern Asia,,2009,11.8
+Eastern Asia,,2010,11.2
+Eastern Asia,,2011,10.5
+Eastern Asia,,2012,10
+Eastern Asia,,2013,9.4
+Eastern Asia,,2014,8.8
+Eastern Asia,,2015,8.4
+Eastern Asia,,2016,8.4
+Eastern Asia,,2017,8.4
+Eastern Asia,,2018,8.3
+Eastern Europe,,2000,3.9
+Eastern Europe,,2001,3.4
+Eastern Europe,,2002,2.9
+Eastern Europe,,2003,2.5
+Eastern and South-Eastern Asia,,2000,16.6
+Eastern and South-Eastern Asia,,2001,16.2
+Eastern and South-Eastern Asia,,2002,16.1
+Eastern and South-Eastern Asia,,2003,15.8
+Eastern and South-Eastern Asia,,2004,15.5
+Eastern and South-Eastern Asia,,2005,15.3
+Eastern and South-Eastern Asia,,2006,14.8
+Eastern and South-Eastern Asia,,2007,14.1
+Eastern and South-Eastern Asia,,2008,13.4
+Eastern and South-Eastern Asia,,2009,12.6
+Eastern and South-Eastern Asia,,2010,11.6
+Eastern and South-Eastern Asia,,2011,10.8
+Eastern and South-Eastern Asia,,2012,10.2
+Eastern and South-Eastern Asia,,2013,9.7
+Eastern and South-Eastern Asia,,2014,9.1
+Eastern and South-Eastern Asia,,2015,8.8
+Eastern and South-Eastern Asia,,2016,8.7
+Eastern and South-Eastern Asia,,2017,8.7
+Eastern and South-Eastern Asia,,2018,8.6
+Land Locked Developing Countries,,2000,31.7
+Land Locked Developing Countries,,2001,31.2
+Land Locked Developing Countries,,2002,30.2
+Land Locked Developing Countries,,2003,29
+Land Locked Developing Countries,,2004,27.3
+Land Locked Developing Countries,,2005,26.3
+Land Locked Developing Countries,,2006,25.5
+Land Locked Developing Countries,,2007,24.9
+Land Locked Developing Countries,,2008,24.2
+Land Locked Developing Countries,,2009,23.3
+Land Locked Developing Countries,,2010,22.4
+Land Locked Developing Countries,,2011,21.9
+Land Locked Developing Countries,,2012,21.7
+Land Locked Developing Countries,,2013,21.3
+Land Locked Developing Countries,,2014,21.2
+Land Locked Developing Countries,,2015,21.2
+Land Locked Developing Countries,,2016,21.8
+Land Locked Developing Countries,,2017,21.9
+Land Locked Developing Countries,,2018,21.9
+Latin America and the Caribbean	,,2000,11.9
+Latin America and the Caribbean	,,2001,11.4
+Latin America and the Caribbean	,,2002,10.8
+Latin America and the Caribbean	,,2003,10.4
+Latin America and the Caribbean	,,2004,9.8
+Latin America and the Caribbean	,,2005,9.1
+Latin America and the Caribbean	,,2006,8.4
+Latin America and the Caribbean	,,2007,7.7
+Latin America and the Caribbean	,,2008,7.3
+Latin America and the Caribbean	,,2009,7.1
+Latin America and the Caribbean	,,2010,6.8
+Latin America and the Caribbean	,,2011,6.6
+Latin America and the Caribbean	,,2012,6.4
+Latin America and the Caribbean	,,2013,6.2
+Latin America and the Caribbean	,,2014,6.1
+Latin America and the Caribbean	,,2015,6.2
+Latin America and the Caribbean	,,2016,6.3
+Latin America and the Caribbean	,,2017,6.5
+Latin America and the Caribbean	,,2018,6.5
+Least Developed Countries,,2000,34.1
+Least Developed Countries,,2001,33.2
+Least Developed Countries,,2002,32.1
+Least Developed Countries,,2003,31
+Least Developed Countries,,2004,29.7
+Least Developed Countries,,2005,28.6
+Least Developed Countries,,2006,27.5
+Least Developed Countries,,2007,26.8
+Least Developed Countries,,2008,26.1
+Least Developed Countries,,2009,25.5
+Least Developed Countries,,2010,24.7
+Least Developed Countries,,2011,24.3
+Least Developed Countries,,2012,24
+Least Developed Countries,,2013,23.5
+Least Developed Countries,,2014,23.2
+Least Developed Countries,,2015,23.2
+Least Developed Countries,,2016,23.6
+Least Developed Countries,,2017,23.6
+Least Developed Countries,,2018,23.6
+Low Income Food Deficit Countries,,2000,21.9
+Low Income Food Deficit Countries,,2001,22.9
+Low Income Food Deficit Countries,,2002,23.5
+Low Income Food Deficit Countries,,2003,23.9
+Low Income Food Deficit Countries,,2004,23.6
+Low Income Food Deficit Countries,,2005,22.9
+Low Income Food Deficit Countries,,2006,21.5
+Low Income Food Deficit Countries,,2007,20.4
+Low Income Food Deficit Countries,,2008,19.7
+Low Income Food Deficit Countries,,2009,19.4
+Low Income Food Deficit Countries,,2010,19.2
+Low Income Food Deficit Countries,,2011,19.1
+Low Income Food Deficit Countries,,2012,19.1
+Low Income Food Deficit Countries,,2013,18.9
+Low Income Food Deficit Countries,,2014,18.6
+Low Income Food Deficit Countries,,2015,18.3
+Low Income Food Deficit Countries,,2016,18.3
+Low Income Food Deficit Countries,,2017,18.4
+Low Income Food Deficit Countries,,2018,18.5
+Low income,,2000,35.1
+Low income,,2001,34.5
+Low income,,2002,33.7
+Low income,,2003,32.7
+Low income,,2004,31.3
+Low income,,2005,30.3
+Low income,,2006,29.4
+Low income,,2007,29
+Low income,,2008,28.3
+Low income,,2009,27.6
+Low income,,2010,26.8
+Low income,,2011,26.6
+Low income,,2012,26.4
+Low income,,2013,26.3
+Low income,,2014,26.5
+Low income,,2015,26.8
+Low income,,2016,27.6
+Low income,,2017,27.8
+Low income,,2018,27.7
+Lower middle income,,2000,18.8
+Lower middle income,,2001,19.6
+Lower middle income,,2002,20.2
+Lower middle income,,2003,20.5
+Lower middle income,,2004,20.4
+Lower middle income,,2005,19.8
+Lower middle income,,2006,18.6
+Lower middle income,,2007,17.3
+Lower middle income,,2008,16.6
+Lower middle income,,2009,16.1
+Lower middle income,,2010,15.6
+Lower middle income,,2011,15.4
+Lower middle income,,2012,15.2
+Lower middle income,,2013,14.9
+Lower middle income,,2014,14.4
+Lower middle income,,2015,14
+Lower middle income,,2016,13.7
+Lower middle income,,2017,13.8
+Lower middle income,,2018,13.8
+Middle Africa,,2000,39.2
+Middle Africa,,2001,38.2
+Middle Africa,,2002,37
+Middle Africa,,2003,35.7
+Middle Africa,,2004,33.9
+Middle Africa,,2005,32.4
+Middle Africa,,2006,31.2
+Middle Africa,,2007,30.6
+Middle Africa,,2008,29.7
+Middle Africa,,2009,28.9
+Middle Africa,,2010,27.8
+Middle Africa,,2011,27.1
+Middle Africa,,2012,26.1
+Middle Africa,,2013,25.1
+Middle Africa,,2014,24.6
+Middle Africa,,2015,24.7
+Middle Africa,,2016,25.9
+Middle Africa,,2017,26.4
+Middle Africa,,2018,26.5
+North Africa (exc Sudan),,2000,6.7
+North Africa (exc Sudan),,2001,6.5
+North Africa (exc Sudan),,2002,6.2
+North Africa (exc Sudan),,2003,6.2
+North Africa (exc Sudan),,2004,6.3
+North Africa (exc Sudan),,2005,6.2
+North Africa (exc Sudan),,2006,5.9
+North Africa (exc Sudan),,2007,5.5
+North Africa (exc Sudan),,2008,5.3
+North Africa (exc Sudan),,2009,5.2
+North Africa (exc Sudan),,2010,5
+North Africa (exc Sudan),,2011,5
+North Africa (exc Sudan),,2012,4.8
+North Africa (exc Sudan),,2013,4.6
+North Africa (exc Sudan),,2014,4.4
+North Africa (exc Sudan),,2015,4.2
+North Africa (exc Sudan),,2016,4.3
+North Africa (exc Sudan),,2017,4.3
+North Africa (exc Sudan),,2018,4.3
+Northern Africa,,2000,6.7
+Northern Africa,,2001,6.5
+Northern Africa,,2002,6.2
+Northern Africa,,2003,6.2
+Northern Africa,,2004,6.3
+Northern Africa,,2005,6.2
+Northern Africa,,2006,5.9
+Northern Africa,,2007,5.5
+Northern Africa,,2008,5.3
+Northern Africa,,2009,5.2
+Northern Africa,,2010,5
+Northern Africa,,2011,5
+Northern Africa,,2012,8.1
+Northern Africa,,2013,7.6
+Northern Africa,,2014,7.2
+Northern Africa,,2015,6.9
+Northern Africa,,2016,7
+Northern Africa,,2017,7
+Northern Africa,,2018,7.1
+Northern Africa and Western Asia,,2000,8.7
+Northern Africa and Western Asia,,2001,8.4
+Northern Africa and Western Asia,,2002,8.3
+Northern Africa and Western Asia,,2003,8.3
+Northern Africa and Western Asia,,2004,8.2
+Northern Africa and Western Asia,,2005,8
+Northern Africa and Western Asia,,2006,7.8
+Northern Africa and Western Asia,,2007,7.7
+Northern Africa and Western Asia,,2008,7.5
+Northern Africa and Western Asia,,2009,7.4
+Northern Africa and Western Asia,,2010,7.1
+Northern Africa and Western Asia,,2011,7.5
+Northern Africa and Western Asia,,2012,8.8
+Northern Africa and Western Asia,,2013,8.8
+Northern Africa and Western Asia,,2014,8.9
+Northern Africa and Western Asia,,2015,9.2
+Northern Africa and Western Asia,,2016,9.5
+Northern Africa and Western Asia,,2017,9.8
+Northern Africa and Western Asia,,2018,9.9
+Oceania,,2000,5.4
+Oceania,,2001,5.3
+Oceania,,2002,5.3
+Oceania,,2003,5.5
+Oceania,,2004,5.7
+Oceania,,2005,5.5
+Oceania,,2006,5.3
+Oceania,,2007,5.1
+Oceania,,2008,5.1
+Oceania,,2009,5.1
+Oceania,,2010,5.2
+Oceania,,2011,5.3
+Oceania,,2012,5.4
+Oceania,,2013,5.7
+Oceania,,2014,5.8
+Oceania,,2015,5.9
+Oceania,,2016,6
+Oceania,,2017,6.1
+Oceania,,2018,6.2
+Polynesia,OWID_PYA,2000,4.6
+Polynesia,OWID_PYA,2001,4.2
+Polynesia,OWID_PYA,2002,4.1
+Polynesia,OWID_PYA,2003,3.9
+Polynesia,OWID_PYA,2004,3.7
+Polynesia,OWID_PYA,2005,3.7
+Polynesia,OWID_PYA,2006,3.8
+Polynesia,OWID_PYA,2007,3.9
+Polynesia,OWID_PYA,2008,3.9
+Polynesia,OWID_PYA,2009,3.8
+Polynesia,OWID_PYA,2010,3.9
+Polynesia,OWID_PYA,2011,3.8
+Polynesia,OWID_PYA,2012,3.7
+Polynesia,OWID_PYA,2013,3.6
+Polynesia,OWID_PYA,2014,3.6
+Polynesia,OWID_PYA,2015,3.6
+Polynesia,OWID_PYA,2016,3.5
+Polynesia,OWID_PYA,2017,3.6
+Polynesia,OWID_PYA,2018,3.7
+Small island developing States,,2000,21.7
+Small island developing States,,2001,21.2
+Small island developing States,,2002,21.7
+Small island developing States,,2003,21.9
+Small island developing States,,2004,21.9
+Small island developing States,,2005,21
+Small island developing States,,2006,20.3
+Small island developing States,,2007,20
+Small island developing States,,2008,19.8
+Small island developing States,,2009,19
+Small island developing States,,2010,18.2
+Small island developing States,,2011,17.8
+Small island developing States,,2012,17.9
+Small island developing States,,2013,17.8
+Small island developing States,,2014,17.7
+Small island developing States,,2015,17.5
+Small island developing States,,2016,17.3
+Small island developing States,,2017,17.4
+Small island developing States,,2018,17.6
+South America,,2000,12.2
+South America,,2001,11.6
+South America,,2002,10.7
+South America,,2003,9.8
+South America,,2004,8.6
+South America,,2005,7.9
+South America,,2006,7.2
+South America,,2007,6.3
+South America,,2008,5.7
+South America,,2009,5.6
+South America,,2010,5.3
+South America,,2011,5
+South America,,2012,4.7
+South America,,2013,4.6
+South America,,2014,4.6
+South America,,2015,4.9
+South America,,2016,5.3
+South America,,2017,5.5
+South America,,2018,5.5
+South Asia (exc India),,2000,19.6
+South Asia (exc India),,2001,20.5
+South Asia (exc India),,2002,20.5
+South Asia (exc India),,2003,19.9
+South Asia (exc India),,2004,18.9
+South Asia (exc India),,2005,18.3
+South Asia (exc India),,2006,17.7
+South Asia (exc India),,2007,17.2
+South Asia (exc India),,2008,16.7
+South Asia (exc India),,2009,16.5
+South Asia (exc India),,2010,16.4
+South Asia (exc India),,2011,16.4
+South Asia (exc India),,2012,16.4
+South Asia (exc India),,2013,16.3
+South Asia (exc India),,2014,16.3
+South Asia (exc India),,2015,16.3
+South Asia (exc India),,2016,15.9
+South Asia (exc India),,2017,15.7
+South Asia (exc India),,2018,15.6
+South Eastern Asia,,2000,22.2
+South Eastern Asia,,2001,21.6
+South Eastern Asia,,2002,20.8
+South Eastern Asia,,2003,19.8
+South Eastern Asia,,2004,19.2
+South Eastern Asia,,2005,18.5
+South Eastern Asia,,2006,17.7
+South Eastern Asia,,2007,16.6
+South Eastern Asia,,2008,15.7
+South Eastern Asia,,2009,14.6
+South Eastern Asia,,2010,12.7
+South Eastern Asia,,2011,11.6
+South Eastern Asia,,2012,10.9
+South Eastern Asia,,2013,10.5
+South Eastern Asia,,2014,10.1
+South Eastern Asia,,2015,9.8
+South Eastern Asia,,2016,9.6
+South Eastern Asia,,2017,9.4
+South Eastern Asia,,2018,9.2
+Southern Africa,,2000,7.3
+Southern Africa,,2001,7
+Southern Africa,,2002,6.8
+Southern Africa,,2003,6.6
+Southern Africa,,2004,6.4
+Southern Africa,,2005,6.5
+Southern Africa,,2006,6.7
+Southern Africa,,2007,7.1
+Southern Africa,,2008,7.2
+Southern Africa,,2009,7.3
+Southern Africa,,2010,7.1
+Southern Africa,,2011,6.9
+Southern Africa,,2012,7
+Southern Africa,,2013,7.2
+Southern Africa,,2014,7.5
+Southern Africa,,2015,7.8
+Southern Africa,,2016,8.5
+Southern Africa,,2017,8.3
+Southern Africa,,2018,8
+Southern Asia,,2000,18.2
+Southern Asia,,2001,19.8
+Southern Asia,,2002,20.9
+Southern Asia,,2003,21.8
+Southern Asia,,2004,21.9
+Southern Asia,,2005,21.5
+Southern Asia,,2006,19.9
+Southern Asia,,2007,18.4
+Southern Asia,,2008,17.6
+Southern Asia,,2009,17.3
+Southern Asia,,2010,17.2
+Southern Asia,,2011,17.2
+Southern Asia,,2012,17.1
+Southern Asia,,2013,16.8
+Southern Asia,,2014,16.3
+Southern Asia,,2015,15.7
+Southern Asia,,2016,15.1
+Southern Asia,,2017,14.8
+Southern Asia,,2018,14.7
+Sub-Saharan Africa,,2000,28.4
+Sub-Saharan Africa,,2001,27.9
+Sub-Saharan Africa,,2002,27.3
+Sub-Saharan Africa,,2003,26.7
+Sub-Saharan Africa,,2004,25.3
+Sub-Saharan Africa,,2005,24.3
+Sub-Saharan Africa,,2006,23.5
+Sub-Saharan Africa,,2007,23.3
+Sub-Saharan Africa,,2008,22.9
+Sub-Saharan Africa,,2009,22.3
+Sub-Saharan Africa,,2010,21.7
+Sub-Saharan Africa,,2011,21.2
+Sub-Saharan Africa,,2012,21
+Sub-Saharan Africa,,2013,20.8
+Sub-Saharan Africa,,2014,20.8
+Sub-Saharan Africa,,2015,20.9
+Sub-Saharan Africa,,2016,22
+Sub-Saharan Africa,,2017,22.7
+Sub-Saharan Africa,,2018,22.8
+Sub-Saharan Africa (inc. Sudan),,2000,28.3
+Sub-Saharan Africa (inc. Sudan),,2001,27.7
+Sub-Saharan Africa (inc. Sudan),,2002,27.2
+Sub-Saharan Africa (inc. Sudan),,2003,26.6
+Sub-Saharan Africa (inc. Sudan),,2004,25.3
+Sub-Saharan Africa (inc. Sudan),,2005,24.3
+Sub-Saharan Africa (inc. Sudan),,2006,23.5
+Sub-Saharan Africa (inc. Sudan),,2007,23.3
+Sub-Saharan Africa (inc. Sudan),,2008,22.9
+Sub-Saharan Africa (inc. Sudan),,2009,22.4
+Sub-Saharan Africa (inc. Sudan),,2010,21.8
+Sub-Saharan Africa (inc. Sudan),,2011,21.4
+Sub-Saharan Africa (inc. Sudan),,2012,21.1
+Sub-Saharan Africa (inc. Sudan),,2013,20.9
+Sub-Saharan Africa (inc. Sudan),,2014,20.8
+Sub-Saharan Africa (inc. Sudan),,2015,20.9
+Sub-Saharan Africa (inc. Sudan),,2016,21.9
+Sub-Saharan Africa (inc. Sudan),,2017,22.6
+Sub-Saharan Africa (inc. Sudan),,2018,22.7
+Upper middle income,,2000,13.2
+Upper middle income,,2001,12.8
+Upper middle income,,2002,12.6
+Upper middle income,,2003,12.4
+Upper middle income,,2004,12.1
+Upper middle income,,2005,11.7
+Upper middle income,,2006,11.2
+Upper middle income,,2007,10.6
+Upper middle income,,2008,10.1
+Upper middle income,,2009,9.5
+Upper middle income,,2010,8.9
+Upper middle income,,2011,8.5
+Upper middle income,,2012,8
+Upper middle income,,2013,7.7
+Upper middle income,,2014,7.2
+Upper middle income,,2015,7.1
+Upper middle income,,2016,7.1
+Upper middle income,,2017,7.1
+Upper middle income,,2018,7
+Western Africa,,2000,15.3
+Western Africa,,2001,15.2
+Western Africa,,2002,14.9
+Western Africa,,2003,14.3
+Western Africa,,2004,13.1
+Western Africa,,2005,12.3
+Western Africa,,2006,11.6
+Western Africa,,2007,11
+Western Africa,,2008,10.7
+Western Africa,,2009,10.5
+Western Africa,,2010,10.4
+Western Africa,,2011,10.3
+Western Africa,,2012,10.5
+Western Africa,,2013,10.8
+Western Africa,,2014,11.3
+Western Africa,,2015,11.4
+Western Africa,,2016,12.4
+Western Africa,,2017,14.4
+Western Africa,,2018,14.7
+Western Asia,,2000,10.3
+Western Asia,,2001,9.9
+Western Asia,,2002,10
+Western Asia,,2003,9.8
+Western Asia,,2004,9.7
+Western Asia,,2005,9.4
+Western Asia,,2006,9.2
+Western Asia,,2007,9.3
+Western Asia,,2008,9.1
+Western Asia,,2009,9
+Western Asia,,2010,8.6
+Western Asia,,2011,9.4
+Western Asia,,2012,9.5
+Western Asia,,2013,9.8
+Western Asia,,2014,10.3
+Western Asia,,2015,11.2
+Western Asia,,2016,11.6
+Western Asia,,2017,12.2
+Western Asia,,2018,12.4
+World,OWID_WRL,2000,14.8
+World,OWID_WRL,2001,14.9
+World,OWID_WRL,2002,15.1
+World,OWID_WRL,2003,15.1
+World,OWID_WRL,2004,14.9
+World,OWID_WRL,2005,14.5
+World,OWID_WRL,2006,13.8
+World,OWID_WRL,2007,13.1
+World,OWID_WRL,2008,12.6
+World,OWID_WRL,2009,12.3
+World,OWID_WRL,2010,11.8
+World,OWID_WRL,2011,11.6
+World,OWID_WRL,2012,11.3
+World,OWID_WRL,2013,11.1
+World,OWID_WRL,2014,10.8
+World,OWID_WRL,2015,10.6
+World,OWID_WRL,2016,10.7
+World,OWID_WRL,2017,10.8
+World,OWID_WRL,2018,10.8

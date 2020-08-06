@@ -1,0 +1,762 @@
+Entity,Code,Year,Average real GDP per capita across Maddison's definitions (Maddison Project Database (2018))
+Africa,,1950,1596
+Africa,,1951,1606
+Africa,,1952,1618
+Africa,,1953,1658
+Africa,,1954,1717
+Africa,,1955,1748
+Africa,,1956,1762
+Africa,,1957,1794
+Africa,,1958,1786
+Africa,,1959,1840
+Africa,,1960,1852
+Africa,,1961,1883
+Africa,,1962,1971
+Africa,,1963,2053
+Africa,,1964,2117
+Africa,,1965,2251
+Africa,,1966,2256
+Africa,,1967,2225
+Africa,,1968,2306
+Africa,,1969,2556
+Africa,,1970,2963
+Africa,,1971,3023
+Africa,,1972,3082
+Africa,,1973,3238
+Africa,,1974,3525
+Africa,,1975,3523
+Africa,,1976,3629
+Africa,,1977,3772
+Africa,,1978,3781
+Africa,,1979,3852
+Africa,,1980,3862
+Africa,,1981,3697
+Africa,,1982,3721
+Africa,,1983,3656
+Africa,,1984,3547
+Africa,,1985,3620
+Africa,,1986,3395
+Africa,,1987,3245
+Africa,,1988,3249
+Africa,,1989,3230
+Africa,,1990,3170
+Africa,,1991,3068
+Africa,,1992,3011
+Africa,,1993,2902
+Africa,,1994,2870
+Africa,,1995,2869
+Africa,,1996,2934
+Africa,,1997,2913
+Africa,,1998,2875
+Africa,,1999,2858
+Africa,,2000,2889
+Africa,,2001,2919
+Africa,,2002,2980
+Africa,,2003,3045
+Africa,,2004,3140
+Africa,,2005,3320
+Africa,,2006,3494
+Africa,,2007,3790
+Africa,,2008,4016
+Africa,,2009,3998
+Africa,,2010,4340
+Africa,,2011,4487
+Africa,,2012,4614
+Africa,,2013,4577
+Africa,,2014,4638
+Africa,,2015,4684
+Africa,,2016,4680
+East Asia,,1870,811
+East Asia,,1890,942
+East Asia,,1913,1130
+East Asia,,1929,1314
+East Asia,,1938,1342
+East Asia,,1950,1147
+East Asia,,1951,1231
+East Asia,,1952,1276
+East Asia,,1953,1353
+East Asia,,1954,1324
+East Asia,,1955,1366
+East Asia,,1956,1409
+East Asia,,1957,1407
+East Asia,,1958,1412
+East Asia,,1959,1394
+East Asia,,1960,1419
+East Asia,,1961,1411
+East Asia,,1962,1465
+East Asia,,1963,1520
+East Asia,,1964,1607
+East Asia,,1965,1649
+East Asia,,1966,1673
+East Asia,,1967,1731
+East Asia,,1968,1774
+East Asia,,1969,1888
+East Asia,,1970,2010
+East Asia,,1971,2077
+East Asia,,1972,2128
+East Asia,,1973,2249
+East Asia,,1974,2243
+East Asia,,1975,2322
+East Asia,,1976,2363
+East Asia,,1977,2434
+East Asia,,1978,2565
+East Asia,,1979,2623
+East Asia,,1980,2703
+East Asia,,1981,2681
+East Asia,,1982,2708
+East Asia,,1983,2723
+East Asia,,1984,2810
+East Asia,,1985,2881
+East Asia,,1986,3013
+East Asia,,1987,3155
+East Asia,,1988,3310
+East Asia,,1989,3409
+East Asia,,1990,3521
+East Asia,,1991,3677
+East Asia,,1992,3841
+East Asia,,1993,4044
+East Asia,,1994,4201
+East Asia,,1995,4416
+East Asia,,1996,4586
+East Asia,,1997,4624
+East Asia,,1998,4511
+East Asia,,1999,4626
+East Asia,,2000,4860
+East Asia,,2001,4985
+East Asia,,2002,5213
+East Asia,,2003,5424
+East Asia,,2004,5751
+East Asia,,2005,6233
+East Asia,,2006,6617
+East Asia,,2007,7015
+East Asia,,2008,7257
+East Asia,,2009,7510
+East Asia,,2010,8283
+East Asia,,2011,8829
+East Asia,,2012,9105
+East Asia,,2013,9354
+East Asia,,2014,9710
+East Asia,,2015,9998
+East Asia,,2016,10287
+Eastern Europe,,1890,1622
+Eastern Europe,,1900,2132
+Eastern Europe,,1913,2502
+Eastern Europe,,1929,2628
+Eastern Europe,,1950,4716
+Eastern Europe,,1951,4725
+Eastern Europe,,1952,4904
+Eastern Europe,,1953,5041
+Eastern Europe,,1954,5195
+Eastern Europe,,1955,5555
+Eastern Europe,,1956,5964
+Eastern Europe,,1957,6125
+Eastern Europe,,1958,6525
+Eastern Europe,,1959,6502
+Eastern Europe,,1960,7050
+Eastern Europe,,1961,7414
+Eastern Europe,,1962,7576
+Eastern Europe,,1963,7465
+Eastern Europe,,1964,8318
+Eastern Europe,,1965,8761
+Eastern Europe,,1966,9207
+Eastern Europe,,1967,9616
+Eastern Europe,,1968,10154
+Eastern Europe,,1969,10325
+Eastern Europe,,1970,11061
+Eastern Europe,,1971,11409
+Eastern Europe,,1972,11570
+Eastern Europe,,1973,12492
+Eastern Europe,,1974,12886
+Eastern Europe,,1975,13000
+Eastern Europe,,1976,13545
+Eastern Europe,,1977,13868
+Eastern Europe,,1978,14235
+Eastern Europe,,1979,14216
+Eastern Europe,,1980,14249
+Eastern Europe,,1981,14363
+Eastern Europe,,1982,14725
+Eastern Europe,,1983,15177
+Eastern Europe,,1984,15418
+Eastern Europe,,1985,15593
+Eastern Europe,,1986,16220
+Eastern Europe,,1987,16438
+Eastern Europe,,1988,16794
+Eastern Europe,,1989,17069
+Eastern Europe,,1990,16606
+Eastern Europe,,1991,15361
+Eastern Europe,,1992,13993
+Eastern Europe,,1993,11978
+Eastern Europe,,1994,10305
+Eastern Europe,,1995,10118
+Eastern Europe,,1996,8800
+Eastern Europe,,1997,8470
+Eastern Europe,,1998,7890
+Eastern Europe,,1999,7982
+Eastern Europe,,2000,8771
+Eastern Europe,,2001,9166
+Eastern Europe,,2002,9543
+Eastern Europe,,2003,10196
+Eastern Europe,,2004,10979
+Eastern Europe,,2005,12146
+Eastern Europe,,2006,13533
+Eastern Europe,,2007,15397
+Eastern Europe,,2008,16521
+Eastern Europe,,2009,15125
+Eastern Europe,,2010,16267
+Eastern Europe,,2011,17939
+Eastern Europe,,2012,18684
+Eastern Europe,,2013,19073
+Eastern Europe,,2014,19129
+Eastern Europe,,2015,19187
+Eastern Europe,,2016,19355
+Latin America,,1870,943
+Latin America,,1890,1259
+Latin America,,1900,1365
+Latin America,,1901,1417
+Latin America,,1902,1375
+Latin America,,1903,1455
+Latin America,,1904,1508
+Latin America,,1905,1586
+Latin America,,1906,1627
+Latin America,,1907,1653
+Latin America,,1908,1699
+Latin America,,1909,1740
+Latin America,,1910,1792
+Latin America,,1911,1794
+Latin America,,1912,1853
+Latin America,,1913,1822
+Latin America,,1914,1679
+Latin America,,1915,1663
+Latin America,,1916,1694
+Latin America,,1917,1672
+Latin America,,1918,1772
+Latin America,,1919,1817
+Latin America,,1920,1901
+Latin America,,1921,1887
+Latin America,,1922,1969
+Latin America,,1923,2095
+Latin America,,1924,2144
+Latin America,,1925,2139
+Latin America,,1926,2196
+Latin America,,1927,2246
+Latin America,,1928,2373
+Latin America,,1929,2381
+Latin America,,1930,2228
+Latin America,,1931,2068
+Latin America,,1932,1932
+Latin America,,1933,2038
+Latin America,,1934,2166
+Latin America,,1935,2254
+Latin America,,1936,2313
+Latin America,,1937,2392
+Latin America,,1938,2410
+Latin America,,1939,2447
+Latin America,,1940,2440
+Latin America,,1941,2509
+Latin America,,1942,2460
+Latin America,,1943,2485
+Latin America,,1944,2629
+Latin America,,1945,2615
+Latin America,,1946,2785
+Latin America,,1947,2857
+Latin America,,1948,2986
+Latin America,,1949,3003
+Latin America,,1950,3048
+Latin America,,1951,3073
+Latin America,,1952,3069
+Latin America,,1953,3114
+Latin America,,1954,3243
+Latin America,,1955,3338
+Latin America,,1956,3360
+Latin America,,1957,3477
+Latin America,,1958,3583
+Latin America,,1959,3512
+Latin America,,1960,3621
+Latin America,,1961,3762
+Latin America,,1962,3860
+Latin America,,1963,3887
+Latin America,,1964,4083
+Latin America,,1965,4189
+Latin America,,1966,4334
+Latin America,,1967,4475
+Latin America,,1968,4653
+Latin America,,1969,4846
+Latin America,,1970,5126
+Latin America,,1971,5369
+Latin America,,1972,5636
+Latin America,,1973,6014
+Latin America,,1974,6419
+Latin America,,1975,6490
+Latin America,,1976,6648
+Latin America,,1977,6766
+Latin America,,1978,6876
+Latin America,,1979,7239
+Latin America,,1980,7436
+Latin America,,1981,7497
+Latin America,,1982,7255
+Latin America,,1983,6955
+Latin America,,1984,7015
+Latin America,,1985,6933
+Latin America,,1986,7064
+Latin America,,1987,7091
+Latin America,,1988,7010
+Latin America,,1989,6937
+Latin America,,1990,6984
+Latin America,,1991,7177
+Latin America,,1992,7437
+Latin America,,1993,7583
+Latin America,,1994,7963
+Latin America,,1995,8159
+Latin America,,1996,8712
+Latin America,,1997,8762
+Latin America,,1998,8663
+Latin America,,1999,8447
+Latin America,,2000,8728
+Latin America,,2001,8604
+Latin America,,2002,8483
+Latin America,,2003,8555
+Latin America,,2004,9065
+Latin America,,2005,9666
+Latin America,,2006,10394
+Latin America,,2007,11135
+Latin America,,2008,11841
+Latin America,,2009,11573
+Latin America,,2010,12813
+Latin America,,2011,13899
+Latin America,,2012,13949
+Latin America,,2013,14193
+Latin America,,2014,14140
+Latin America,,2015,14400
+Latin America,,2016,13470
+Western Asia,,1950,2386
+Western Asia,,1951,2520
+Western Asia,,1952,2662
+Western Asia,,1953,2897
+Western Asia,,1954,3016
+Western Asia,,1955,3023
+Western Asia,,1956,3144
+Western Asia,,1957,3271
+Western Asia,,1958,3375
+Western Asia,,1959,3491
+Western Asia,,1960,3635
+Western Asia,,1961,3816
+Western Asia,,1962,3963
+Western Asia,,1963,4140
+Western Asia,,1964,4331
+Western Asia,,1965,4563
+Western Asia,,1966,4906
+Western Asia,,1967,5069
+Western Asia,,1968,5546
+Western Asia,,1969,5856
+Western Asia,,1970,6179
+Western Asia,,1971,6646
+Western Asia,,1972,7370
+Western Asia,,1973,7608
+Western Asia,,1974,10115
+Western Asia,,1975,10407
+Western Asia,,1976,10877
+Western Asia,,1977,10429
+Western Asia,,1978,10015
+Western Asia,,1979,10391
+Western Asia,,1980,10296
+Western Asia,,1981,10062
+Western Asia,,1982,9625
+Western Asia,,1983,9142
+Western Asia,,1984,9050
+Western Asia,,1985,9495
+Western Asia,,1986,8393
+Western Asia,,1987,8667
+Western Asia,,1988,8141
+Western Asia,,1989,7923
+Western Asia,,1990,8282
+Western Asia,,1991,7666
+Western Asia,,1992,8553
+Western Asia,,1993,9502
+Western Asia,,1994,9126
+Western Asia,,1995,9335
+Western Asia,,1996,9882
+Western Asia,,1997,9957
+Western Asia,,1998,9719
+Western Asia,,1999,9939
+Western Asia,,2000,11246
+Western Asia,,2001,11154
+Western Asia,,2002,11700
+Western Asia,,2003,11989
+Western Asia,,2004,13446
+Western Asia,,2005,15144
+Western Asia,,2006,16480
+Western Asia,,2007,17557
+Western Asia,,2008,19010
+Western Asia,,2009,17742
+Western Asia,,2010,19020
+Western Asia,,2011,21298
+Western Asia,,2012,21359
+Western Asia,,2013,21498
+Western Asia,,2014,21071
+Western Asia,,2015,21226
+Western Asia,,2016,20891
+Western Europe,,1870,2480
+Western Europe,,1871,2503
+Western Europe,,1872,2626
+Western Europe,,1873,2654
+Western Europe,,1874,2761
+Western Europe,,1875,2809
+Western Europe,,1876,2764
+Western Europe,,1877,2816
+Western Europe,,1878,2834
+Western Europe,,1879,2760
+Western Europe,,1880,2866
+Western Europe,,1881,2941
+Western Europe,,1882,3008
+Western Europe,,1883,3071
+Western Europe,,1884,3088
+Western Europe,,1885,3092
+Western Europe,,1886,3121
+Western Europe,,1887,3190
+Western Europe,,1888,3272
+Western Europe,,1889,3341
+Western Europe,,1890,3387
+Western Europe,,1891,3400
+Western Europe,,1892,3459
+Western Europe,,1893,3505
+Western Europe,,1894,3614
+Western Europe,,1895,3673
+Western Europe,,1896,3756
+Western Europe,,1897,3797
+Western Europe,,1898,3937
+Western Europe,,1899,4056
+Western Europe,,1900,4092
+Western Europe,,1901,4075
+Western Europe,,1902,4108
+Western Europe,,1903,4168
+Western Europe,,1904,4226
+Western Europe,,1905,4299
+Western Europe,,1906,4418
+Western Europe,,1907,4537
+Western Europe,,1908,4516
+Western Europe,,1909,4605
+Western Europe,,1910,4624
+Western Europe,,1911,4756
+Western Europe,,1912,4840
+Western Europe,,1913,4904
+Western Europe,,1914,4511
+Western Europe,,1915,4447
+Western Europe,,1916,4543
+Western Europe,,1917,4337
+Western Europe,,1918,4133
+Western Europe,,1919,3956
+Western Europe,,1920,4080
+Western Europe,,1921,4058
+Western Europe,,1922,4388
+Western Europe,,1923,4279
+Western Europe,,1924,4545
+Western Europe,,1925,4710
+Western Europe,,1926,4671
+Western Europe,,1927,4845
+Western Europe,,1928,4938
+Western Europe,,1929,5031
+Western Europe,,1930,4960
+Western Europe,,1931,4737
+Western Europe,,1932,4635
+Western Europe,,1933,4805
+Western Europe,,1934,5030
+Western Europe,,1935,5229
+Western Europe,,1936,5318
+Western Europe,,1937,5555
+Western Europe,,1938,5687
+Western Europe,,1939,6003
+Western Europe,,1940,5931
+Western Europe,,1941,6022
+Western Europe,,1942,5971
+Western Europe,,1943,5992
+Western Europe,,1944,5821
+Western Europe,,1945,5085
+Western Europe,,1946,4783
+Western Europe,,1947,5038
+Western Europe,,1948,5337
+Western Europe,,1949,5728
+Western Europe,,1950,6078
+Western Europe,,1951,6435
+Western Europe,,1952,6696
+Western Europe,,1953,7056
+Western Europe,,1954,7422
+Western Europe,,1955,7883
+Western Europe,,1956,8229
+Western Europe,,1957,8562
+Western Europe,,1958,8779
+Western Europe,,1959,9164
+Western Europe,,1960,9570
+Western Europe,,1961,9983
+Western Europe,,1962,10428
+Western Europe,,1963,10822
+Western Europe,,1964,11435
+Western Europe,,1965,11815
+Western Europe,,1966,12260
+Western Europe,,1967,12674
+Western Europe,,1968,13297
+Western Europe,,1969,14111
+Western Europe,,1970,14709
+Western Europe,,1971,15127
+Western Europe,,1972,15791
+Western Europe,,1973,16629
+Western Europe,,1974,16901
+Western Europe,,1975,16850
+Western Europe,,1976,17678
+Western Europe,,1977,18255
+Western Europe,,1978,18879
+Western Europe,,1979,19725
+Western Europe,,1980,20199
+Western Europe,,1981,19640
+Western Europe,,1982,19403
+Western Europe,,1983,19336
+Western Europe,,1984,19358
+Western Europe,,1985,19499
+Western Europe,,1986,20527
+Western Europe,,1987,21310
+Western Europe,,1988,22318
+Western Europe,,1989,23154
+Western Europe,,1990,23525
+Western Europe,,1991,24158
+Western Europe,,1992,24584
+Western Europe,,1993,24686
+Western Europe,,1994,25593
+Western Europe,,1995,26512
+Western Europe,,1996,26984
+Western Europe,,1997,28554
+Western Europe,,1998,30016
+Western Europe,,1999,31238
+Western Europe,,2000,32956
+Western Europe,,2001,33574
+Western Europe,,2002,33813
+Western Europe,,2003,33460
+Western Europe,,2004,34185
+Western Europe,,2005,35438
+Western Europe,,2006,36669
+Western Europe,,2007,38281
+Western Europe,,2008,38397
+Western Europe,,2009,37097
+Western Europe,,2010,37406
+Western Europe,,2011,38046
+Western Europe,,2012,38345
+Western Europe,,2013,39154
+Western Europe,,2014,39664
+Western Europe,,2015,40175
+Western Europe,,2016,40364
+Western Offshoots,,1870,3692
+Western Offshoots,,1871,3779
+Western Offshoots,,1872,3839
+Western Offshoots,,1873,3960
+Western Offshoots,,1874,3860
+Western Offshoots,,1875,3961
+Western Offshoots,,1876,3899
+Western Offshoots,,1877,3951
+Western Offshoots,,1878,4025
+Western Offshoots,,1879,4384
+Western Offshoots,,1880,4767
+Western Offshoots,,1881,4849
+Western Offshoots,,1882,5001
+Western Offshoots,,1883,5022
+Western Offshoots,,1884,5011
+Western Offshoots,,1885,4932
+Western Offshoots,,1886,4962
+Western Offshoots,,1887,5086
+Western Offshoots,,1888,4979
+Western Offshoots,,1889,5174
+Western Offshoots,,1890,5146
+Western Offshoots,,1891,5265
+Western Offshoots,,1892,5572
+Western Offshoots,,1893,5215
+Western Offshoots,,1894,5005
+Western Offshoots,,1895,5429
+Western Offshoots,,1896,5251
+Western Offshoots,,1897,5615
+Western Offshoots,,1898,5668
+Western Offshoots,,1899,6055
+Western Offshoots,,1900,6135
+Western Offshoots,,1901,6647
+Western Offshoots,,1902,6614
+Western Offshoots,,1903,6810
+Western Offshoots,,1904,6625
+Western Offshoots,,1905,6969
+Western Offshoots,,1906,7607
+Western Offshoots,,1907,7597
+Western Offshoots,,1908,6884
+Western Offshoots,,1909,7545
+Western Offshoots,,1910,7518
+Western Offshoots,,1911,7646
+Western Offshoots,,1912,7875
+Western Offshoots,,1913,8027
+Western Offshoots,,1914,7307
+Western Offshoots,,1915,7417
+Western Offshoots,,1916,8266
+Western Offshoots,,1917,8001
+Western Offshoots,,1918,8504
+Western Offshoots,,1919,8503
+Western Offshoots,,1920,8327
+Western Offshoots,,1921,7971
+Western Offshoots,,1922,8329
+Western Offshoots,,1923,9209
+Western Offshoots,,1924,9328
+Western Offshoots,,1925,9461
+Western Offshoots,,1926,9911
+Western Offshoots,,1927,9923
+Western Offshoots,,1928,9962
+Western Offshoots,,1929,10380
+Western Offshoots,,1930,9372
+Western Offshoots,,1931,8681
+Western Offshoots,,1932,7487
+Western Offshoots,,1933,7252
+Western Offshoots,,1934,7839
+Western Offshoots,,1935,8740
+Western Offshoots,,1936,9543
+Western Offshoots,,1937,10243
+Western Offshoots,,1938,9700
+Western Offshoots,,1939,10296
+Western Offshoots,,1940,11130
+Western Offshoots,,1941,12599
+Western Offshoots,,1942,13946
+Western Offshoots,,1943,15047
+Western Offshoots,,1944,15910
+Western Offshoots,,1945,15473
+Western Offshoots,,1946,14096
+Western Offshoots,,1947,13768
+Western Offshoots,,1948,14206
+Western Offshoots,,1949,13844
+Western Offshoots,,1950,14867
+Western Offshoots,,1951,15597
+Western Offshoots,,1952,15938
+Western Offshoots,,1953,16379
+Western Offshoots,,1954,16018
+Western Offshoots,,1955,16819
+Western Offshoots,,1956,16901
+Western Offshoots,,1957,16875
+Western Offshoots,,1958,16512
+Western Offshoots,,1959,17373
+Western Offshoots,,1960,17475
+Western Offshoots,,1961,17594
+Western Offshoots,,1962,18360
+Western Offshoots,,1963,18898
+Western Offshoots,,1964,19702
+Western Offshoots,,1965,20646
+Western Offshoots,,1966,21697
+Western Offshoots,,1967,22005
+Western Offshoots,,1968,22813
+Western Offshoots,,1969,23339
+Western Offshoots,,1970,23192
+Western Offshoots,,1971,23677
+Western Offshoots,,1972,24627
+Western Offshoots,,1973,25787
+Western Offshoots,,1974,25522
+Western Offshoots,,1975,25236
+Western Offshoots,,1976,26287
+Western Offshoots,,1977,27104
+Western Offshoots,,1978,28241
+Western Offshoots,,1979,28934
+Western Offshoots,,1980,28666
+Western Offshoots,,1981,29090
+Western Offshoots,,1982,28254
+Western Offshoots,,1983,29103
+Western Offshoots,,1984,30890
+Western Offshoots,,1985,31822
+Western Offshoots,,1986,32532
+Western Offshoots,,1987,33484
+Western Offshoots,,1988,34626
+Western Offshoots,,1989,35480
+Western Offshoots,,1990,35634
+Western Offshoots,,1991,34995
+Western Offshoots,,1992,35808
+Western Offshoots,,1993,36266
+Western Offshoots,,1994,37323
+Western Offshoots,,1995,37969
+Western Offshoots,,1996,38884
+Western Offshoots,,1997,40153
+Western Offshoots,,1998,41389
+Western Offshoots,,1999,42939
+Western Offshoots,,2000,44331
+Western Offshoots,,2001,44289
+Western Offshoots,,2002,44696
+Western Offshoots,,2003,45554
+Western Offshoots,,2004,46853
+Western Offshoots,,2005,48125
+Western Offshoots,,2006,48884
+Western Offshoots,,2007,49375
+Western Offshoots,,2008,49054
+Western Offshoots,,2009,47061
+Western Offshoots,,2010,48028
+Western Offshoots,,2011,48569
+Western Offshoots,,2012,49033
+Western Offshoots,,2013,49399
+Western Offshoots,,2014,50151
+Western Offshoots,,2015,50951
+Western Offshoots,,2016,51342
+World,OWID_WRL,1870,1263
+World,OWID_WRL,1890,1694
+World,OWID_WRL,1913,2446
+World,OWID_WRL,1929,2846
+World,OWID_WRL,1950,3277
+World,OWID_WRL,1951,3417
+World,OWID_WRL,1952,3512
+World,OWID_WRL,1953,3645
+World,OWID_WRL,1954,3671
+World,OWID_WRL,1955,3841
+World,OWID_WRL,1956,3947
+World,OWID_WRL,1957,4001
+World,OWID_WRL,1958,4039
+World,OWID_WRL,1959,4121
+World,OWID_WRL,1960,4254
+World,OWID_WRL,1961,4363
+World,OWID_WRL,1962,4521
+World,OWID_WRL,1963,4611
+World,OWID_WRL,1964,4868
+World,OWID_WRL,1965,5041
+World,OWID_WRL,1966,5207
+World,OWID_WRL,1967,5321
+World,OWID_WRL,1968,5512
+World,OWID_WRL,1969,5716
+World,OWID_WRL,1970,5935
+World,OWID_WRL,1971,6077
+World,OWID_WRL,1972,6255
+World,OWID_WRL,1973,6571
+World,OWID_WRL,1974,6708
+World,OWID_WRL,1975,6719
+World,OWID_WRL,1976,6936
+World,OWID_WRL,1977,7084
+World,OWID_WRL,1978,7278
+World,OWID_WRL,1979,7436
+World,OWID_WRL,1980,7489
+World,OWID_WRL,1981,7416
+World,OWID_WRL,1982,7333
+World,OWID_WRL,1983,7331
+World,OWID_WRL,1984,7461
+World,OWID_WRL,1985,7560
+World,OWID_WRL,1986,7714
+World,OWID_WRL,1987,7879
+World,OWID_WRL,1988,8068
+World,OWID_WRL,1989,8198
+World,OWID_WRL,1990,8234
+World,OWID_WRL,1991,8182
+World,OWID_WRL,1992,8261
+World,OWID_WRL,1993,8259
+World,OWID_WRL,1994,8330
+World,OWID_WRL,1995,8532
+World,OWID_WRL,1996,8663
+World,OWID_WRL,1997,8816
+World,OWID_WRL,1998,8830
+World,OWID_WRL,1999,9029
+World,OWID_WRL,2000,9456
+World,OWID_WRL,2001,9554
+World,OWID_WRL,2002,9737
+World,OWID_WRL,2003,9923
+World,OWID_WRL,2004,10364
+World,OWID_WRL,2005,10975
+World,OWID_WRL,2006,11511
+World,OWID_WRL,2007,12101
+World,OWID_WRL,2008,12424
+World,OWID_WRL,2009,12189
+World,OWID_WRL,2010,12937
+World,OWID_WRL,2011,13587
+World,OWID_WRL,2012,13821
+World,OWID_WRL,2013,14038
+World,OWID_WRL,2014,14261
+World,OWID_WRL,2015,14500
+World,OWID_WRL,2016,14574

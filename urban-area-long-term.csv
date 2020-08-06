@@ -1,0 +1,313 @@
+Entity,Code,Year,Total urban area per world region (HYDE 3.1 (2010)) (km²)
+Asia-Stan,,"10,000 BCE",0
+Asia-Stan,,"5,000 BCE",0
+Asia-Stan,,0,0
+Asia-Stan,,500,0
+Asia-Stan,,1000,0
+Asia-Stan,,1500,3
+Asia-Stan,,1600,10
+Asia-Stan,,1700,29
+Asia-Stan,,1800,40
+Asia-Stan,,1900,373
+Asia-Stan,,1950,1499
+Asia-Stan,,2000,5791
+Brazil,BRA,"10,000 BCE",0
+Brazil,BRA,"5,000 BCE",0
+Brazil,BRA,0,0
+Brazil,BRA,500,0
+Brazil,BRA,1000,0
+Brazil,BRA,1500,9
+Brazil,BRA,1600,22
+Brazil,BRA,1700,72
+Brazil,BRA,1800,163
+Brazil,BRA,1900,843
+Brazil,BRA,1950,3145
+Brazil,BRA,2000,22168
+Canada,CAN,"10,000 BCE",0
+Canada,CAN,"5,000 BCE",0
+Canada,CAN,0,0
+Canada,CAN,500,0
+Canada,CAN,1000,0
+Canada,CAN,1500,0
+Canada,CAN,1600,0
+Canada,CAN,1700,1
+Canada,CAN,1800,7
+Canada,CAN,1900,193
+Canada,CAN,1950,1126
+Canada,CAN,2000,6030
+Central Europe,,"10,000 BCE",0
+Central Europe,,"5,000 BCE",0
+Central Europe,,0,0
+Central Europe,,500,0
+Central Europe,,1000,10
+Central Europe,,1500,1657
+Central Europe,,1600,2286
+Central Europe,,1700,1419
+Central Europe,,1800,1403
+Central Europe,,1900,4182
+Central Europe,,1950,6495
+Central Europe,,2000,17088
+China,CHN,"10,000 BCE",0
+China,CHN,"5,000 BCE",52
+China,CHN,0,1310
+China,CHN,500,2300
+China,CHN,1000,2861
+China,CHN,1500,4013
+China,CHN,1600,5762
+China,CHN,1700,3916
+China,CHN,1800,3923
+China,CHN,1900,2846
+China,CHN,1950,7005
+China,CHN,2000,43199
+Eastern Africa,,"10,000 BCE",0
+Eastern Africa,,"5,000 BCE",0
+Eastern Africa,,0,0
+Eastern Africa,,500,0
+Eastern Africa,,1000,0
+Eastern Africa,,1500,8
+Eastern Africa,,1600,24
+Eastern Africa,,1700,69
+Eastern Africa,,1800,73
+Eastern Africa,,1900,181
+Eastern Africa,,1950,395
+Eastern Africa,,2000,5853
+Greenland,GRL,"10,000 BCE",0
+Greenland,GRL,"5,000 BCE",0
+Greenland,GRL,0,0
+Greenland,GRL,500,0
+Greenland,GRL,1000,0
+Greenland,GRL,1500,0
+Greenland,GRL,1600,0
+Greenland,GRL,1700,0
+Greenland,GRL,1800,0
+Greenland,GRL,1900,0
+Greenland,GRL,1950,0
+Greenland,GRL,2000,24
+India,IND,"10,000 BCE",0
+India,IND,"5,000 BCE",0
+India,IND,0,931
+India,IND,500,1012
+India,IND,1000,1110
+India,IND,1500,942
+India,IND,1600,1154
+India,IND,1700,1419
+India,IND,1800,1729
+India,IND,1900,2615
+India,IND,1950,4953
+India,IND,2000,23854
+Indonesia,IDN,"10,000 BCE",0
+Indonesia,IDN,"5,000 BCE",0
+Indonesia,IDN,0,0
+Indonesia,IDN,500,0
+Indonesia,IDN,1000,0
+Indonesia,IDN,1500,11
+Indonesia,IDN,1600,34
+Indonesia,IDN,1700,101
+Indonesia,IDN,1800,134
+Indonesia,IDN,1900,479
+Indonesia,IDN,1950,1181
+Indonesia,IDN,2000,8772
+Japan,JPN,"10,000 BCE",0
+Japan,JPN,"5,000 BCE",0
+Japan,JPN,0,12
+Japan,JPN,500,80
+Japan,JPN,1000,445
+Japan,JPN,1500,468
+Japan,JPN,1600,747
+Japan,JPN,1700,1104
+Japan,JPN,1800,504
+Japan,JPN,1900,1887
+Japan,JPN,1950,5049
+Japan,JPN,2000,13450
+Korea,,"10,000 BCE",0
+Korea,,"5,000 BCE",0
+Korea,,0,0
+Korea,,500,0
+Korea,,1000,0
+Korea,,1500,4
+Korea,,1600,13
+Korea,,1700,43
+Korea,,1800,81
+Korea,,1900,144
+Korea,,1950,420
+Korea,,2000,2919
+Mexico,MEX,"10,000 BCE",0
+Mexico,MEX,"5,000 BCE",0
+Mexico,MEX,0,0
+Mexico,MEX,500,0
+Mexico,MEX,1000,0
+Mexico,MEX,1500,102
+Mexico,MEX,1600,11
+Mexico,MEX,1700,112
+Mexico,MEX,1800,308
+Mexico,MEX,1900,669
+Mexico,MEX,1950,1884
+Mexico,MEX,2000,10520
+Middle East,,"10,000 BCE",0
+Middle East,,"5,000 BCE",99
+Middle East,,0,977
+Middle East,,500,861
+Middle East,,1000,666
+Middle East,,1500,355
+Middle East,,1600,421
+Middle East,,1700,417
+Middle East,,1800,521
+Middle East,,1900,765
+Middle East,,1950,1507
+Middle East,,2000,15497
+Northern Africa,,"10,000 BCE",0
+Northern Africa,,"5,000 BCE",5
+Northern Africa,,0,295
+Northern Africa,,500,231
+Northern Africa,,1000,239
+Northern Africa,,1500,150
+Northern Africa,,1600,193
+Northern Africa,,1700,170
+Northern Africa,,1800,158
+Northern Africa,,1900,560
+Northern Africa,,1950,1383
+Northern Africa,,2000,13038
+Oceania,,"10,000 BCE",0
+Oceania,,"5,000 BCE",0
+Oceania,,0,0
+Oceania,,500,0
+Oceania,,1000,0
+Oceania,,1500,3
+Oceania,,1600,14
+Oceania,,1700,49
+Oceania,,1800,801
+Oceania,,1900,2035
+Oceania,,1950,4433
+Oceania,,2000,13871
+Rest Central America,,"10,000 BCE",0
+Rest Central America,,"5,000 BCE",0
+Rest Central America,,0,0
+Rest Central America,,500,0
+Rest Central America,,1000,0
+Rest Central America,,1500,20
+Rest Central America,,1600,41
+Rest Central America,,1700,129
+Rest Central America,,1800,200
+Rest Central America,,1900,596
+Rest Central America,,1950,1927
+Rest Central America,,2000,8383
+Rest South America,,"10,000 BCE",0
+Rest South America,,"5,000 BCE",0
+Rest South America,,0,0
+Rest South America,,500,0
+Rest South America,,1000,1
+Rest South America,,1500,122
+Rest South America,,1600,125
+Rest South America,,1700,367
+Rest South America,,1800,311
+Rest South America,,1900,1029
+Rest South America,,1950,3579
+Rest South America,,2000,16232
+Russia,RUS,"10,000 BCE",0
+Russia,RUS,"5,000 BCE",0
+Russia,RUS,0,0
+Russia,RUS,500,0
+Russia,RUS,1000,0
+Russia,RUS,1500,19
+Russia,RUS,1600,64
+Russia,RUS,1700,189
+Russia,RUS,1800,203
+Russia,RUS,1900,2416
+Russia,RUS,1950,9177
+Russia,RUS,2000,21064
+Southeastern Asia,,"10,000 BCE",0
+Southeastern Asia,,"5,000 BCE",0
+Southeastern Asia,,0,0
+Southeastern Asia,,500,0
+Southeastern Asia,,1000,0
+Southeastern Asia,,1500,24
+Southeastern Asia,,1600,83
+Southeastern Asia,,1700,290
+Southeastern Asia,,1800,398
+Southeastern Asia,,1900,877
+Southeastern Asia,,1950,2309
+Southeastern Asia,,2000,13989
+Southern Africa,,"10,000 BCE",0
+Southern Africa,,"5,000 BCE",0
+Southern Africa,,0,0
+Southern Africa,,500,0
+Southern Africa,,1000,0
+Southern Africa,,1500,8
+Southern Africa,,1600,24
+Southern Africa,,1700,79
+Southern Africa,,1800,66
+Southern Africa,,1900,257
+Southern Africa,,1950,1288
+Southern Africa,,2000,9108
+Turkey,TUR,"10,000 BCE",0
+Turkey,TUR,"5,000 BCE",0
+Turkey,TUR,0,371
+Turkey,TUR,500,250
+Turkey,TUR,1000,220
+Turkey,TUR,1500,120
+Turkey,TUR,1600,140
+Turkey,TUR,1700,134
+Turkey,TUR,1800,165
+Turkey,TUR,1900,292
+Turkey,TUR,1950,663
+Turkey,TUR,2000,5203
+Ukraine,UKR,"10,000 BCE",0
+Ukraine,UKR,"5,000 BCE",0
+Ukraine,UKR,0,0
+Ukraine,UKR,500,0
+Ukraine,UKR,1000,0
+Ukraine,UKR,1500,2
+Ukraine,UKR,1600,6
+Ukraine,UKR,1700,22
+Ukraine,UKR,1800,33
+Ukraine,UKR,1900,691
+Ukraine,UKR,1950,3096
+Ukraine,UKR,2000,8126
+United States,USA,"10,000 BCE",0
+United States,USA,"5,000 BCE",0
+United States,USA,0,0
+United States,USA,500,0
+United States,USA,1000,0
+United States,USA,1500,4
+United States,USA,1600,4
+United States,USA,1700,15
+United States,USA,1800,139
+United States,USA,1900,10766
+United States,USA,1950,46336
+United States,USA,2000,156919
+Western Africa,,"10,000 BCE",0
+Western Africa,,"5,000 BCE",0
+Western Africa,,0,0
+Western Africa,,500,0
+Western Africa,,1000,1
+Western Africa,,1500,120
+Western Africa,,1600,362
+Western Africa,,1700,1096
+Western Africa,,1800,978
+Western Africa,,1900,565
+Western Africa,,1950,1235
+Western Africa,,2000,13680
+Western Europe,,"10,000 BCE",0
+Western Europe,,"5,000 BCE",2
+Western Europe,,0,342
+Western Europe,,500,230
+Western Europe,,1000,619
+Western Europe,,1500,2072
+Western Europe,,1600,3070
+Western Europe,,1700,2864
+Western Europe,,1800,3905
+Western Europe,,1900,11438
+Western Europe,,1950,30307
+Western Europe,,2000,83617
+World,OWID_WRL,"10,000 BCE",0
+World,OWID_WRL,"5,000 BCE",158
+World,OWID_WRL,0,4237
+World,OWID_WRL,500,4964
+World,OWID_WRL,1000,6172
+World,OWID_WRL,1500,10238
+World,OWID_WRL,1600,14609
+World,OWID_WRL,1700,14104
+World,OWID_WRL,1800,16243
+World,OWID_WRL,1900,46697
+World,OWID_WRL,1950,140391
+World,OWID_WRL,2000,538395

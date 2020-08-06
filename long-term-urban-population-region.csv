@@ -1,0 +1,325 @@
+Entity,Code,Year,Historical urban fraction estimate per region (HYDE 3.1 (2010)) (%)
+Antarctica,ATA,"10,000 BCE",0
+Antarctica,ATA,"5,000 BCE",0
+Antarctica,ATA,0,0
+Antarctica,ATA,500,0
+Antarctica,ATA,1000,0
+Antarctica,ATA,1500,0
+Antarctica,ATA,1600,0
+Antarctica,ATA,1700,0
+Antarctica,ATA,1800,0
+Antarctica,ATA,1900,0
+Antarctica,ATA,1950,0
+Antarctica,ATA,2000,0
+Asia-Stan,,"10,000 BCE",0
+Asia-Stan,,"5,000 BCE",0
+Asia-Stan,,0,0
+Asia-Stan,,500,0
+Asia-Stan,,1000,0
+Asia-Stan,,1500,0.1
+Asia-Stan,,1600,0.30000001
+Asia-Stan,,1700,0.80000001
+Asia-Stan,,1800,1.6
+Asia-Stan,,1900,11.8
+Asia-Stan,,1950,33.599998
+Asia-Stan,,2000,41.700001
+Brazil,BRA,"10,000 BCE",0
+Brazil,BRA,"5,000 BCE",0
+Brazil,BRA,0,0
+Brazil,BRA,500,0
+Brazil,BRA,1000,0
+Brazil,BRA,1500,0.40000001
+Brazil,BRA,1600,1.2
+Brazil,BRA,1700,3.5999999
+Brazil,BRA,1800,9.1999998
+Brazil,BRA,1900,22.9
+Brazil,BRA,1950,36.200001
+Brazil,BRA,2000,81.199997
+Canada,CAN,"10,000 BCE",0
+Canada,CAN,"5,000 BCE",0
+Canada,CAN,0,0
+Canada,CAN,500,0
+Canada,CAN,1000,0
+Canada,CAN,1500,0.2
+Canada,CAN,1600,0.69999999
+Canada,CAN,1700,2
+Canada,CAN,1800,7.9000001
+Canada,CAN,1900,37.5
+Canada,CAN,1950,60.900002
+Canada,CAN,2000,79.5
+Central Europe,,"10,000 BCE",0
+Central Europe,,"5,000 BCE",0
+Central Europe,,0,0
+Central Europe,,500,0
+Central Europe,,1000,0
+Central Europe,,1500,3.2
+Central Europe,,1600,3.9000001
+Central Europe,,1700,3.2
+Central Europe,,1800,4.3000002
+Central Europe,,1900,18.700001
+Central Europe,,1950,34.599998
+Central Europe,,2000,60
+China,CHN,"10,000 BCE",0
+China,CHN,"5,000 BCE",0.30000001
+China,CHN,0,1
+China,CHN,500,3.2
+China,CHN,1000,5
+China,CHN,1500,6.5
+China,CHN,1600,7
+China,CHN,1700,5.9000001
+China,CHN,1800,6
+China,CHN,1900,6.5999999
+China,CHN,1950,13.4
+China,CHN,2000,36.900002
+Eastern Africa,,"10,000 BCE",0
+Eastern Africa,,"5,000 BCE",0
+Eastern Africa,,0,0
+Eastern Africa,,500,0
+Eastern Africa,,1000,0
+Eastern Africa,,1500,0
+Eastern Africa,,1600,0.1
+Eastern Africa,,1700,0.40000001
+Eastern Africa,,1800,1.2
+Eastern Africa,,1900,3.2
+Eastern Africa,,1950,5
+Eastern Africa,,2000,17.9
+Greenland,GRL,"10,000 BCE",0
+Greenland,GRL,"5,000 BCE",0
+Greenland,GRL,0,0
+Greenland,GRL,500,0
+Greenland,GRL,1000,0
+Greenland,GRL,1500,0.1
+Greenland,GRL,1600,0.2
+Greenland,GRL,1700,0.5
+Greenland,GRL,1800,3.2
+Greenland,GRL,1900,19.700001
+Greenland,GRL,1950,49
+Greenland,GRL,2000,81.599998
+India,IND,"10,000 BCE",0
+India,IND,"5,000 BCE",0
+India,IND,0,1.7
+India,IND,500,2.5
+India,IND,1000,3.4000001
+India,IND,1500,4.4000001
+India,IND,1600,4.5999999
+India,IND,1700,4.9000001
+India,IND,1800,6.4000001
+India,IND,1900,10
+India,IND,1950,15.5
+India,IND,2000,27.5
+Indonesia,IDN,"10,000 BCE",0
+Indonesia,IDN,"5,000 BCE",0
+Indonesia,IDN,0,0
+Indonesia,IDN,500,0
+Indonesia,IDN,1000,0
+Indonesia,IDN,1500,0.1
+Indonesia,IDN,1600,0.40000001
+Indonesia,IDN,1700,1.1
+Indonesia,IDN,1800,2.9000001
+Indonesia,IDN,1900,7.5999999
+Indonesia,IDN,1950,12.2
+Indonesia,IDN,2000,41.299999
+Japan,JPN,"10,000 BCE",0
+Japan,JPN,"5,000 BCE",0
+Japan,JPN,0,0.1
+Japan,JPN,500,0.40000001
+Japan,JPN,1000,2.9000001
+Japan,JPN,1500,2.9000001
+Japan,JPN,1600,4.4000001
+Japan,JPN,1700,5
+Japan,JPN,1800,5
+Japan,JPN,1900,20.9
+Japan,JPN,1950,34.900002
+Japan,JPN,2000,65.199997
+Korea,,"10,000 BCE",0
+Korea,,"5,000 BCE",0
+Korea,,0,0
+Korea,,500,0
+Korea,,1000,0
+Korea,,1500,0.2
+Korea,,1600,0.60000002
+Korea,,1700,1.7
+Korea,,1800,4.6999998
+Korea,,1900,13.8
+Korea,,1950,24.6
+Korea,,2000,73.199997
+Mexico,MEX,"10,000 BCE",0
+Mexico,MEX,"5,000 BCE",0
+Mexico,MEX,0,0
+Mexico,MEX,500,0
+Mexico,MEX,1000,0
+Mexico,MEX,1500,0.2
+Mexico,MEX,1600,0.5
+Mexico,MEX,1700,1.6
+Mexico,MEX,1800,5.8000002
+Mexico,MEX,1900,21.9
+Mexico,MEX,1950,42.700001
+Mexico,MEX,2000,74.699997
+Middle East,,"10,000 BCE",0
+Middle East,,"5,000 BCE",0.30000001
+Middle East,,0,0.69999999
+Middle East,,500,0.89999998
+Middle East,,1000,1.2
+Middle East,,1500,1.5
+Middle East,,1600,1.7
+Middle East,,1700,2.0999999
+Middle East,,1800,5.6999998
+Middle East,,1900,15.8
+Middle East,,1950,28
+Middle East,,2000,64.400002
+Northern Africa,,"10,000 BCE",0
+Northern Africa,,"5,000 BCE",0.1
+Northern Africa,,0,0.60000002
+Northern Africa,,500,0.89999998
+Northern Africa,,1000,1.4
+Northern Africa,,1500,2
+Northern Africa,,1600,2.3
+Northern Africa,,1700,2.8
+Northern Africa,,1800,7
+Northern Africa,,1900,17.700001
+Northern Africa,,1950,28.6
+Northern Africa,,2000,51.299999
+Oceania,,"10,000 BCE",0
+Oceania,,"5,000 BCE",0
+Oceania,,0,0
+Oceania,,500,0
+Oceania,,1000,0
+Oceania,,1500,0.1
+Oceania,,1600,0.40000001
+Oceania,,1700,1
+Oceania,,1800,8.3000002
+Oceania,,1900,35
+Oceania,,1950,71.900002
+Oceania,,2000,82.400002
+Rest Central America,,"10,000 BCE",0
+Rest Central America,,"5,000 BCE",0
+Rest Central America,,0,0
+Rest Central America,,500,0
+Rest Central America,,1000,0
+Rest Central America,,1500,0.30000001
+Rest Central America,,1600,0.89999998
+Rest Central America,,1700,2.7
+Rest Central America,,1800,7.5
+Rest Central America,,1900,20
+Rest Central America,,1950,34.299999
+Rest Central America,,2000,57
+Rest South America,,"10,000 BCE",0
+Rest South America,,"5,000 BCE",0
+Rest South America,,0,0
+Rest South America,,500,0
+Rest South America,,1000,0
+Rest South America,,1500,0.2
+Rest South America,,1600,1.3
+Rest South America,,1700,3.9000001
+Rest South America,,1800,10.1
+Rest South America,,1900,29.799999
+Rest South America,,1950,48.799999
+Rest South America,,2000,77.699997
+Russia,RUS,"10,000 BCE",0
+Russia,RUS,"5,000 BCE",0
+Russia,RUS,0,0
+Russia,RUS,500,0
+Russia,RUS,1000,0
+Russia,RUS,1500,0.2
+Russia,RUS,1600,0.60000002
+Russia,RUS,1700,1.9
+Russia,RUS,1800,1.9
+Russia,RUS,1900,14.4
+Russia,RUS,1950,43.900002
+Russia,RUS,2000,71.5
+Southeastern Asia,,"10,000 BCE",0
+Southeastern Asia,,"5,000 BCE",0
+Southeastern Asia,,0,0
+Southeastern Asia,,500,0
+Southeastern Asia,,1000,0
+Southeastern Asia,,1500,0.2
+Southeastern Asia,,1600,0.5
+Southeastern Asia,,1700,1.5
+Southeastern Asia,,1800,3.9000001
+Southeastern Asia,,1900,10.2
+Southeastern Asia,,1950,17.9
+Southeastern Asia,,2000,38.200001
+Southern Africa,,"10,000 BCE",0
+Southern Africa,,"5,000 BCE",0
+Southern Africa,,0,0
+Southern Africa,,500,0
+Southern Africa,,1000,0
+Southern Africa,,1500,0.1
+Southern Africa,,1600,0.40000001
+Southern Africa,,1700,1.3
+Southern Africa,,1800,2.4000001
+Southern Africa,,1900,7.4000001
+Southern Africa,,1950,21.299999
+Southern Africa,,2000,48.5
+Turkey,TUR,"10,000 BCE",0
+Turkey,TUR,"5,000 BCE",0
+Turkey,TUR,0,1
+Turkey,TUR,500,1.4
+Turkey,TUR,1000,1.9
+Turkey,TUR,1500,2.3
+Turkey,TUR,1600,2.4000001
+Turkey,TUR,1700,2.5
+Turkey,TUR,1800,6.3000002
+Turkey,TUR,1900,15.7
+Turkey,TUR,1950,24.799999
+Turkey,TUR,2000,64.699997
+Ukraine,UKR,"10,000 BCE",0
+Ukraine,UKR,"5,000 BCE",0
+Ukraine,UKR,0,0
+Ukraine,UKR,500,0
+Ukraine,UKR,1000,0
+Ukraine,UKR,1500,0.1
+Ukraine,UKR,1600,0.30000001
+Ukraine,UKR,1700,0.89999998
+Ukraine,UKR,1800,1.1
+Ukraine,UKR,1900,10.3
+Ukraine,UKR,1950,33
+Ukraine,UKR,2000,66.099998
+United States,USA,"10,000 BCE",0
+United States,USA,"5,000 BCE",0
+United States,USA,0,0
+United States,USA,500,0
+United States,USA,1000,0
+United States,USA,1500,0.2
+United States,USA,1600,0.69999999
+United States,USA,1700,2
+United States,USA,1800,6.0999999
+United States,USA,1900,39.599998
+United States,USA,1950,64.199997
+United States,USA,2000,79.099998
+Western Africa,,"10,000 BCE",0
+Western Africa,,"5,000 BCE",0
+Western Africa,,0,0
+Western Africa,,500,0
+Western Africa,,1000,0
+Western Africa,,1500,0.1
+Western Africa,,1600,0.2
+Western Africa,,1700,0.69999999
+Western Africa,,1800,2
+Western Africa,,1900,5.8000002
+Western Africa,,1950,11.2
+Western Africa,,2000,37.900002
+Western Europe,,"10,000 BCE",0
+Western Europe,,"5,000 BCE",0
+Western Europe,,0,1.5
+Western Europe,,500,1.4
+Western Europe,,1000,3.5
+Western Europe,,1500,10.6
+Western Europe,,1600,12.2
+Western Europe,,1700,12.8
+Western Europe,,1800,21.4
+Western Europe,,1900,40.599998
+Western Europe,,1950,61.5
+Western Europe,,2000,75.300003
+World,OWID_WRL,"10,000 BCE",0
+World,OWID_WRL,"5,000 BCE",0.1
+World,OWID_WRL,0,1
+World,OWID_WRL,500,1.7
+World,OWID_WRL,1000,2.5999999
+World,OWID_WRL,1500,4.0999999
+World,OWID_WRL,1600,5.1999998
+World,OWID_WRL,1700,5.0999999
+World,OWID_WRL,1800,7.3000002
+World,OWID_WRL,1900,16.4
+World,OWID_WRL,1950,29.1
+World,OWID_WRL,2000,46.799999

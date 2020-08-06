@@ -1,0 +1,128 @@
+Entity,Code,Year,Human Capital Index (in males) ((0 to 1)),Human Capital Index (in females) ((0 to 1))
+Afghanistan,AFG,2016,0.39,0.36
+Albania,ALB,2016,0.61,0.64
+Algeria,DZA,2016,0.5,0.54
+Angola,AGO,2016,0.37,0.36
+Argentina,ARG,2016,0.59,0.63
+Armenia,ARM,2016,0.55,0.59
+Australia,AUS,2016,0.78,0.81
+Austria,AUT,2016,0.79,0.8
+Bahrain,BHR,2016,0.64,0.7
+Bangladesh,BGD,2016,0.46,0.49
+Belgium,BEL,2016,0.75,0.77
+Benin,BEN,2016,0.41,0.4
+Bosnia and Herzegovina,BIH,2016,0.61,0.63
+Botswana,BWA,2016,0.39,0.45
+Bulgaria,BGR,2016,0.65,0.71
+Burkina Faso,BFA,2016,0.35,0.36
+Burundi,BDI,2016,0.37,0.39
+Cameroon,CMR,2016,0.4,0.39
+Canada,CAN,2016,0.79,0.81
+Chad,TCD,2016,0.3,0.29
+Chile,CHL,2016,0.67,0.68
+China,CHN,2016,0.66,0.67
+Colombia,COL,2016,0.58,0.61
+Comoros,COM,2016,0.41,0.41
+Congo,COG,2016,0.39,0.41
+Costa Rica,CRI,2016,0.6,0.62
+Cote d'Ivoire,CIV,2016,0.32,0.32
+Croatia,HRV,2016,0.7,0.75
+Cyprus,CYP,2016,0.74,0.76
+Czech Republic,CZE,2016,0.76,0.8
+Democratic Republic of Congo,COD,2016,0.37,0.37
+Denmark,DNK,2016,0.76,0.79
+Dominican Republic,DOM,2016,0.48,0.51
+Ecuador,ECU,2016,0.59,0.62
+Egypt,EGY,2016,0.47,0.51
+El Salvador,SLV,2016,0.49,0.51
+Estonia,EST,2016,0.71,0.78
+Ethiopia,ETH,2016,0.38,0.39
+Finland,FIN,2016,0.78,0.85
+Gabon,GAB,2016,0.44,0.47
+Gambia,GMB,2016,,0.41
+Georgia,GEO,2016,0.55,0.64
+Germany,DEU,2016,0.78,0.8
+Ghana,GHA,2016,0.43,0.45
+Greece,GRC,2016,0.66,0.69
+Guatemala,GTM,2016,0.45,0.47
+Guinea,GIN,2016,0.38,0.35
+Guyana,GUY,2016,0.47,0.52
+Haiti,HTI,2016,0.43,0.46
+Honduras,HND,2016,0.48,0.5
+Hong Kong,HKG,2016,0.81,0.83
+Hungary,HUN,2016,0.68,0.73
+Iceland,ISL,2016,0.72,0.76
+India,IND,2016,0.43,0.45
+Indonesia,IDN,2016,0.52,0.55
+Iran,IRN,2016,0.56,0.6
+Iraq,IRQ,2016,0.39,0.41
+Italy,ITA,2016,0.76,0.77
+Jamaica,JAM,2016,0.5,0.56
+Jordan,JOR,2016,0.54,0.59
+Kazakhstan,KAZ,2016,0.71,0.78
+Kosovo,OWID_KOS,2016,0.55,0.57
+Kuwait,KWT,2016,0.54,0.6
+Kyrgyzstan,KGZ,2016,0.56,0.6
+Laos,LAO,2016,0.44,0.46
+Latvia,LVA,2016,0.68,0.77
+Lebanon,LBN,2016,0.54,0.54
+Liberia,LBR,2016,0.31,0.32
+Lithuania,LTU,2016,0.67,0.76
+Luxembourg,LUX,2016,0.68,0.71
+Macao,MAC,2016,0.73,0.79
+Macedonia,MKD,2016,0.52,0.55
+Madagascar,MDG,2016,0.37,0.39
+Malaysia,MYS,2016,0.6,0.65
+Mali,MLI,2016,0.32,0.32
+Malta,MLT,2016,0.67,0.73
+Mauritania,MRT,2016,0.34,0.36
+Mexico,MEX,2016,0.59,0.62
+Moldova,MDA,2016,0.56,0.6
+Morocco,MAR,2016,0.49,0.51
+Myanmar,MMR,2016,0.46,0.49
+Netherlands,NLD,2016,0.79,0.81
+New Zealand,NZL,2016,0.75,0.78
+Nicaragua,NIC,2016,0.51,0.55
+Niger,NER,2016,0.32,0.31
+Nigeria,NGA,2016,0.34,0.34
+Norway,NOR,2016,0.76,0.79
+Oman,OMN,2016,0.59,0.66
+Pakistan,PAK,2016,0.39,0.38
+Palestine,PSE,2016,0.53,0.58
+Panama,PAN,2016,0.52,0.54
+Papua New Guinea,PNG,2016,0.39,0.39
+Paraguay,PRY,2016,0.53,0.54
+Peru,PER,2016,0.56,0.59
+Philippines,PHL,2016,0.52,0.58
+Poland,POL,2016,0.72,0.78
+Portugal,PRT,2016,0.77,0.79
+Qatar,QAT,2016,0.59,0.65
+Romania,ROU,2016,0.58,0.63
+Russia,RUS,2016,0.68,0.78
+Rwanda,RWA,2016,0.36,0.39
+Saudi Arabia,SAU,2016,0.56,0.61
+Senegal,SEN,2016,0.41,0.43
+Serbia,SRB,2016,0.74,0.77
+Sierra Leone,SLE,2016,0.35,0.35
+Singapore,SGP,2016,0.87,0.9
+Slovak Republic,,2016,0.67,0.72
+Slovenia,SVN,2016,0.77,0.81
+Solomon Islands,SLB,2016,0.43,0.45
+South Africa,ZAF,2016,0.36,0.41
+South Korea,KOR,2016,0.81,0.85
+Spain,ESP,2016,0.73,0.76
+Sweden,SWE,2016,0.79,0.81
+Switzerland,CHE,2016,0.76,0.77
+Tajikistan,TJK,2016,0.54,0.53
+Tanzania,TZA,2016,0.39,0.41
+Thailand,THA,2016,0.59,0.61
+Timor,TLS,2016,0.43,0.47
+Togo,TGO,2016,0.42,0.41
+Tonga,TON,2016,0.48,0.52
+Tunisia,TUN,2016,0.49,0.53
+Turkey,TUR,2016,0.6,0.63
+Ukraine,UKR,2016,0.61,0.69
+United Kingdom,GBR,2016,0.77,0.79
+United States,USA,2016,0.73,0.76
+Vanuatu,VUT,2016,0.46,0.49
+Yemen,YEM,2016,0.37,0.36

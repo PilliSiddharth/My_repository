@@ -1,0 +1,451 @@
+Entity,Code,Year,Number of observations in Poval per decade (survey observations per decade)
+Albania,ALB,1994,0
+Albania,ALB,2004,2
+Albania,ALB,2014,3
+Angola,AGO,1994,0
+Angola,AGO,2004,1
+Angola,AGO,2014,1
+Argentina,ARG,1994,6
+Argentina,ARG,2004,10
+Argentina,ARG,2014,10
+Armenia,ARM,1994,0
+Armenia,ARM,2004,6
+Armenia,ARM,2014,10
+Azerbaijan,AZE,1994,0
+Azerbaijan,AZE,2004,5
+Azerbaijan,AZE,2014,2
+Bangladesh,BGD,1994,3
+Bangladesh,BGD,2004,2
+Bangladesh,BGD,2014,2
+Belarus,BLR,1994,2
+Belarus,BLR,2004,8
+Belarus,BLR,2014,10
+Belize,BLZ,1994,2
+Belize,BLZ,2004,5
+Belize,BLZ,2014,0
+Benin,BEN,1994,0
+Benin,BEN,2004,1
+Benin,BEN,2014,1
+Bhutan,BTN,1994,0
+Bhutan,BTN,2004,1
+Bhutan,BTN,2014,2
+Bolivia,BOL,1994,2
+Bolivia,BOL,2004,6
+Bolivia,BOL,2014,9
+Bosnia and Herzegovina,BIH,1994,0
+Bosnia and Herzegovina,BIH,2004,2
+Bosnia and Herzegovina,BIH,2014,2
+Botswana,BWA,1994,2
+Botswana,BWA,2004,1
+Botswana,BWA,2014,1
+Brazil,BRA,1994,8
+Brazil,BRA,2004,9
+Brazil,BRA,2014,9
+Bulgaria,BGR,1994,3
+Bulgaria,BGR,2004,4
+Bulgaria,BGR,2014,7
+Burkina Faso,BFA,1994,1
+Burkina Faso,BFA,2004,2
+Burkina Faso,BFA,2014,2
+Burundi,BDI,1994,1
+Burundi,BDI,2004,1
+Burundi,BDI,2014,1
+Cambodia,KHM,1994,1
+Cambodia,KHM,2004,1
+Cambodia,KHM,2014,6
+Cameroon,CMR,1994,0
+Cameroon,CMR,2004,2
+Cameroon,CMR,2014,2
+Cape Verde,CPV,1994,0
+Cape Verde,CPV,2004,1
+Cape Verde,CPV,2014,1
+Central African Republic,CAF,1994,1
+Central African Republic,CAF,2004,1
+Central African Republic,CAF,2014,1
+Chad,TCD,1994,0
+Chad,TCD,2004,1
+Chad,TCD,2014,1
+Chile,CHL,1994,4
+Chile,CHL,2004,4
+Chile,CHL,2014,4
+China,CHN,1994,3
+China,CHN,2004,3
+China,CHN,2014,6
+Colombia,COL,1994,4
+Colombia,COL,2004,7
+Colombia,COL,2014,8
+Comoros,COM,1994,0
+Comoros,COM,2004,1
+Comoros,COM,2014,0
+Congo,COG,1994,0
+Congo,COG,2004,0
+Congo,COG,2014,2
+Costa Rica,CRI,1994,7
+Costa Rica,CRI,2004,10
+Costa Rica,CRI,2014,10
+Cote d'Ivoire,CIV,1994,5
+Cote d'Ivoire,CIV,2004,3
+Cote d'Ivoire,CIV,2014,1
+Croatia,HRV,1994,1
+Croatia,HRV,2004,5
+Croatia,HRV,2014,5
+Czech Republic,CZE,1994,2
+Czech Republic,CZE,2004,2
+Czech Republic,CZE,2014,8
+Democratic Republic of Congo,COD,1994,0
+Democratic Republic of Congo,COD,2004,1
+Democratic Republic of Congo,COD,2014,1
+Djibouti,DJI,1994,0
+Djibouti,DJI,2004,1
+Djibouti,DJI,2014,2
+Dominican Republic,DOM,1994,3
+Dominican Republic,DOM,2004,7
+Dominican Republic,DOM,2014,9
+East Asia & Pacific,,1994,3
+East Asia & Pacific,,2004,3
+East Asia & Pacific,,2014,6
+Ecuador,ECU,1994,2
+Ecuador,ECU,2004,6
+Ecuador,ECU,2014,10
+El Salvador,SLV,1994,2
+El Salvador,SLV,2004,9
+El Salvador,SLV,2014,10
+Estonia,EST,1994,2
+Estonia,EST,2004,7
+Estonia,EST,2014,8
+Ethiopia,ETH,1994,0
+Ethiopia,ETH,2004,3
+Ethiopia,ETH,2014,1
+Europe & Central Asia,,1994,3
+Europe & Central Asia,,2004,3
+Europe & Central Asia,,2014,6
+Fiji,FJI,1994,0
+Fiji,FJI,2004,1
+Fiji,FJI,2014,1
+Fragile and conflict affected situations,,1994,3
+Fragile and conflict affected situations,,2004,3
+Fragile and conflict affected situations,,2014,6
+Gabon,GAB,1994,0
+Gabon,GAB,2004,0
+Gabon,GAB,2014,1
+Gambia,GMB,1994,0
+Gambia,GMB,2004,2
+Gambia,GMB,2014,0
+Georgia,GEO,1994,0
+Georgia,GEO,2004,9
+Georgia,GEO,2014,10
+Ghana,GHA,1994,3
+Ghana,GHA,2004,1
+Ghana,GHA,2014,1
+Guatemala,GTM,1994,2
+Guatemala,GTM,2004,2
+Guatemala,GTM,2014,3
+Guinea,GIN,1994,2
+Guinea,GIN,2004,1
+Guinea,GIN,2014,2
+Guinea-Bissau,GNB,1994,2
+Guinea-Bissau,GNB,2004,1
+Guinea-Bissau,GNB,2014,1
+Guyana,GUY,1994,1
+Guyana,GUY,2004,1
+Guyana,GUY,2014,0
+Haiti,HTI,1994,0
+Haiti,HTI,2004,1
+Haiti,HTI,2014,1
+High income,,1994,3
+High income,,2004,3
+High income,,2014,6
+Honduras,HND,1994,7
+Honduras,HND,2004,9
+Honduras,HND,2014,10
+Hungary,HUN,1994,3
+Hungary,HUN,2004,7
+Hungary,HUN,2014,7
+IBRD only,,1994,3
+IBRD only,,2004,3
+IBRD only,,2014,6
+IDA & IBRD total,,1994,3
+IDA & IBRD total,,2004,3
+IDA & IBRD total,,2014,6
+IDA blend,,1994,3
+IDA blend,,2004,3
+IDA blend,,2014,6
+IDA only,,1994,3
+IDA only,,2004,3
+IDA only,,2014,6
+IDA total,,1994,3
+IDA total,,2004,3
+IDA total,,2014,6
+India,IND,1994,2
+India,IND,2004,1
+India,IND,2014,2
+Indonesia,IDN,1994,3
+Indonesia,IDN,2004,8
+Indonesia,IDN,2014,10
+Iran,IRN,1994,3
+Iran,IRN,2004,1
+Iran,IRN,2014,3
+Jamaica,JAM,1994,3
+Jamaica,JAM,2004,4
+Jamaica,JAM,2014,0
+Kazakhstan,KAZ,1994,2
+Kazakhstan,KAZ,2004,5
+Kazakhstan,KAZ,2014,9
+Kenya,KEN,1994,2
+Kenya,KEN,2004,1
+Kenya,KEN,2014,1
+Kiribati,KIR,1994,0
+Kiribati,KIR,2004,0
+Kiribati,KIR,2014,1
+Kosovo,OWID_KOS,1994,0
+Kosovo,OWID_KOS,2004,1
+Kosovo,OWID_KOS,2014,7
+Kyrgyzstan,KGZ,1994,2
+Kyrgyzstan,KGZ,2004,6
+Kyrgyzstan,KGZ,2014,10
+Laos,LAO,1994,1
+Laos,LAO,2004,2
+Laos,LAO,2014,2
+Latin America & Caribbean,,1994,3
+Latin America & Caribbean,,2004,3
+Latin America & Caribbean,,2014,6
+Latvia,LVA,1994,2
+Latvia,LVA,2004,7
+Latvia,LVA,2014,8
+Lesotho,LSO,1994,2
+Lesotho,LSO,2004,1
+Lesotho,LSO,2014,1
+Liberia,LBR,1994,0
+Liberia,LBR,2004,0
+Liberia,LBR,2014,1
+Lithuania,LTU,1994,2
+Lithuania,LTU,2004,8
+Lithuania,LTU,2014,8
+Low & middle income,,1994,3
+Low & middle income,,2004,3
+Low & middle income,,2014,6
+Low income,,1994,3
+Low income,,2004,3
+Low income,,2014,6
+Lower middle income,,1994,3
+Lower middle income,,2004,3
+Lower middle income,,2014,6
+Macedonia,MKD,1994,0
+Macedonia,MKD,2004,5
+Macedonia,MKD,2014,3
+Madagascar,MDG,1994,1
+Madagascar,MDG,2004,3
+Madagascar,MDG,2014,3
+Malawi,MWI,1994,0
+Malawi,MWI,2004,2
+Malawi,MWI,2014,1
+Malaysia,MYS,1994,3
+Malaysia,MYS,2004,3
+Malaysia,MYS,2014,2
+Maldives,MDV,1994,0
+Maldives,MDV,2004,1
+Maldives,MDV,2014,1
+Mali,MLI,1994,1
+Mali,MLI,2004,1
+Mali,MLI,2014,2
+Mauritania,MRT,1994,2
+Mauritania,MRT,2004,3
+Mauritania,MRT,2014,2
+Mauritius,MUS,1994,0
+Mauritius,MUS,2004,0
+Mauritius,MUS,2014,2
+Mexico,MEX,1994,3
+Mexico,MEX,2004,5
+Mexico,MEX,2014,5
+Micronesia (country),FSM,1994,0
+Micronesia (country),FSM,2004,1
+Micronesia (country),FSM,2014,2
+Middle East & North Africa,,1994,3
+Middle East & North Africa,,2004,2
+Middle East & North Africa,,2014,2
+Middle income,,1994,3
+Middle income,,2004,3
+Middle income,,2014,6
+Moldova,MDA,1994,2
+Moldova,MDA,2004,8
+Moldova,MDA,2014,10
+Mongolia,MNG,1994,0
+Mongolia,MNG,2004,3
+Mongolia,MNG,2014,5
+Montenegro,MNE,1994,0
+Montenegro,MNE,2004,0
+Montenegro,MNE,2014,10
+Morocco,MAR,1994,1
+Morocco,MAR,2004,2
+Morocco,MAR,2014,1
+Mozambique,MOZ,1994,0
+Mozambique,MOZ,2004,2
+Mozambique,MOZ,2014,1
+Namibia,NAM,1994,1
+Namibia,NAM,2004,1
+Namibia,NAM,2014,1
+Nepal,NPL,1994,0
+Nepal,NPL,2004,2
+Nepal,NPL,2014,1
+Nicaragua,NIC,1994,1
+Nicaragua,NIC,2004,2
+Nicaragua,NIC,2014,3
+Niger,NER,1994,2
+Niger,NER,2004,0
+Niger,NER,2014,4
+Nigeria,NGA,1994,2
+Nigeria,NGA,2004,2
+Nigeria,NGA,2014,1
+Pakistan,PAK,1994,2
+Pakistan,PAK,2004,4
+Pakistan,PAK,2014,5
+Palestine,PSE,1994,0
+Palestine,PSE,2004,1
+Palestine,PSE,2014,4
+Panama,PAN,1994,2
+Panama,PAN,2004,9
+Panama,PAN,2014,10
+Papua New Guinea,PNG,1994,0
+Papua New Guinea,PNG,2004,1
+Papua New Guinea,PNG,2014,1
+Paraguay,PRY,1994,1
+Paraguay,PRY,2004,7
+Paraguay,PRY,2014,10
+Peru,PER,1994,2
+Peru,PER,2004,8
+Peru,PER,2014,10
+Philippines,PHL,1994,4
+Philippines,PHL,2004,3
+Philippines,PHL,2014,3
+Poland,POL,1994,4
+Poland,POL,2004,8
+Poland,POL,2014,10
+Romania,ROU,1994,3
+Romania,ROU,2004,7
+Romania,ROU,2014,7
+Russia,RUS,1994,2
+Russia,RUS,2004,9
+Russia,RUS,2014,8
+Rwanda,RWA,1994,0
+Rwanda,RWA,2004,1
+Rwanda,RWA,2014,3
+Saint Lucia,LCA,1994,0
+Saint Lucia,LCA,2004,1
+Saint Lucia,LCA,2014,0
+Samoa,WSM,1994,0
+Samoa,WSM,2004,0
+Samoa,WSM,2014,1
+Sao Tome and Principe,STP,1994,0
+Sao Tome and Principe,STP,2004,1
+Sao Tome and Principe,STP,2014,1
+Senegal,SEN,1994,2
+Senegal,SEN,2004,1
+Senegal,SEN,2014,2
+Serbia,SRB,1994,0
+Serbia,SRB,2004,3
+Serbia,SRB,2014,7
+Seychelles,SYC,1994,0
+Seychelles,SYC,2004,1
+Seychelles,SYC,2014,2
+Sierra Leone,SLE,1994,1
+Sierra Leone,SLE,2004,1
+Sierra Leone,SLE,2014,1
+Slovakia,SVK,1994,2
+Slovakia,SVK,2004,2
+Slovakia,SVK,2014,8
+Slovenia,SVN,1994,2
+Slovenia,SVN,2004,4
+Slovenia,SVN,2014,8
+Solomon Islands,SLB,1994,0
+Solomon Islands,SLB,2004,0
+Solomon Islands,SLB,2014,1
+South Africa,ZAF,1994,1
+South Africa,ZAF,2004,2
+South Africa,ZAF,2014,3
+South Asia,,1994,3
+South Asia,,2004,2
+South Asia,,2014,6
+South Sudan,SSD,1994,0
+South Sudan,SSD,2004,0
+South Sudan,SSD,2014,1
+Sri Lanka,LKA,1994,2
+Sri Lanka,LKA,2004,2
+Sri Lanka,LKA,2014,3
+Sub-Saharan Africa,,1994,2
+Sub-Saharan Africa,,2004,3
+Sub-Saharan Africa,,2014,6
+Sudan,SDN,1994,0
+Sudan,SDN,2004,0
+Sudan,SDN,2014,1
+Suriname,SUR,1994,0
+Suriname,SUR,2004,1
+Suriname,SUR,2014,0
+Swaziland,SWZ,1994,1
+Swaziland,SWZ,2004,1
+Swaziland,SWZ,2014,1
+Tajikistan,TJK,1994,0
+Tajikistan,TJK,2004,3
+Tajikistan,TJK,2014,5
+Tanzania,TZA,1994,1
+Tanzania,TZA,2004,1
+Tanzania,TZA,2014,2
+Thailand,THA,1994,4
+Thailand,THA,2004,6
+Thailand,THA,2014,8
+Timor,TLS,1994,0
+Timor,TLS,2004,1
+Timor,TLS,2014,1
+Togo,TGO,1994,0
+Togo,TGO,2004,0
+Togo,TGO,2014,2
+Tonga,TON,1994,0
+Tonga,TON,2004,1
+Tonga,TON,2014,1
+Trinidad and Tobago,TTO,1994,2
+Trinidad and Tobago,TTO,2004,0
+Trinidad and Tobago,TTO,2014,0
+Tunisia,TUN,1994,2
+Tunisia,TUN,2004,2
+Tunisia,TUN,2014,2
+Turkey,TUR,1994,2
+Turkey,TUR,2004,3
+Turkey,TUR,2014,9
+Turkmenistan,TKM,1994,2
+Turkmenistan,TKM,2004,1
+Turkmenistan,TKM,2014,0
+Tuvalu,TUV,1994,0
+Tuvalu,TUV,2004,0
+Tuvalu,TUV,2014,1
+Uganda,UGA,1994,2
+Uganda,UGA,2004,3
+Uganda,UGA,2014,3
+Ukraine,UKR,1994,3
+Ukraine,UKR,2004,6
+Ukraine,UKR,2014,10
+Upper middle income,,1994,3
+Upper middle income,,2004,3
+Upper middle income,,2014,6
+Uruguay,URY,1994,2
+Uruguay,URY,2004,9
+Uruguay,URY,2014,10
+Uzbekistan,UZB,1994,1
+Uzbekistan,UZB,2004,4
+Uzbekistan,UZB,2014,0
+Vanuatu,VUT,1994,0
+Vanuatu,VUT,2004,0
+Vanuatu,VUT,2014,1
+Venezuela,VEN,1994,3
+Venezuela,VEN,2004,7
+Venezuela,VEN,2014,2
+Vietnam,VNM,1994,1
+Vietnam,VNM,2004,3
+Vietnam,VNM,2014,5
+World,OWID_WRL,1994,3
+World,OWID_WRL,2004,3
+World,OWID_WRL,2014,6
+Zambia,ZMB,1994,2
+Zambia,ZMB,2004,4
+Zambia,ZMB,2014,2
+Zimbabwe,ZWE,1994,0
+Zimbabwe,ZWE,2004,0
+Zimbabwe,ZWE,2014,1

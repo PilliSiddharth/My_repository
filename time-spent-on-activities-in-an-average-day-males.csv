@@ -1,0 +1,6 @@
+Entity,Code,Year,Education (minutes),Household work (minutes),Personal needs (minutes),Leisure (minutes),Income producing work (minutes),Other activities (minutes)
+Norway,NOR,1970,23,133,619,321,329,15
+Norway,NOR,1980,30,146,611,368,280,5
+Norway,NOR,1990,29,156,598,381,270,6
+Norway,NOR,2000,22.015287,161.11188,586.40717,388.26962,274.1904,8.005559
+Norway,NOR,2010,27,180,599,378,250,6

@@ -1,0 +1,369 @@
+Entity,Code,Year,Tax Revenue (% national income)
+France,FRA,1870,8
+France,FRA,1880,8
+France,FRA,1890,8
+France,FRA,1896,8.9
+France,FRA,1897,9.5
+France,FRA,1898,9.1
+France,FRA,1899,8.7
+France,FRA,1900,8.7
+France,FRA,1901,8.8
+France,FRA,1902,9
+France,FRA,1903,8.9
+France,FRA,1904,8.8
+France,FRA,1905,8.7
+France,FRA,1906,9
+France,FRA,1907,8.6
+France,FRA,1908,8.7
+France,FRA,1909,8.7
+France,FRA,1910,9.2
+France,FRA,1911,9.2
+France,FRA,1912,8.2
+France,FRA,1913,8.6
+France,FRA,1914,7.1
+France,FRA,1915,6.3
+France,FRA,1916,6.3
+France,FRA,1917,6.7
+France,FRA,1918,6.2
+France,FRA,1919,8.1
+France,FRA,1920,9.3
+France,FRA,1921,11.8
+France,FRA,1922,12.1
+France,FRA,1923,12.4
+France,FRA,1924,13.2
+France,FRA,1925,13.5
+France,FRA,1926,15.7
+France,FRA,1927,17
+France,FRA,1928,16.8
+France,FRA,1929,17
+France,FRA,1930,17
+France,FRA,1931,18.9
+France,FRA,1932,20.9
+France,FRA,1933,19.7
+France,FRA,1934,20.7
+France,FRA,1935,20.4
+France,FRA,1936,17.3
+France,FRA,1937,16.4
+France,FRA,1938,18.4
+France,FRA,1939,17.7
+France,FRA,1940,17.5
+France,FRA,1941,17.9
+France,FRA,1942,18.3
+France,FRA,1943,18.4
+France,FRA,1944,18.1
+France,FRA,1945,20.8
+France,FRA,1946,23.8
+France,FRA,1947,25.4
+France,FRA,1948,25.2
+France,FRA,1949,27.4
+France,FRA,1950,28.5
+France,FRA,1951,29.2
+France,FRA,1952,30.7
+France,FRA,1953,31.8
+France,FRA,1954,31.1
+France,FRA,1955,30.1
+France,FRA,1956,30.9
+France,FRA,1957,31.4
+France,FRA,1958,32.6
+France,FRA,1959,34
+France,FRA,1960,32.9
+France,FRA,1961,33.8
+France,FRA,1962,33.7
+France,FRA,1963,34.6
+France,FRA,1964,35.9
+France,FRA,1965,36.2
+France,FRA,1966,36.1
+France,FRA,1967,35.9
+France,FRA,1968,36.2
+France,FRA,1969,36.9
+France,FRA,1970,36.6
+France,FRA,1971,36.3
+France,FRA,1972,36.7
+France,FRA,1973,36.3
+France,FRA,1974,37
+France,FRA,1975,38.8
+France,FRA,1976,41
+France,FRA,1977,41
+France,FRA,1978,41.8
+France,FRA,1979,43.9
+France,FRA,1980,44.7
+France,FRA,1981,44.8
+France,FRA,1982,46.1
+France,FRA,1983,47
+France,FRA,1984,47.7
+France,FRA,1985,47.4
+France,FRA,1986,46.1
+France,FRA,1987,46.6
+France,FRA,1988,46.2
+France,FRA,1989,46.2
+France,FRA,1990,46.6
+France,FRA,1991,46.9
+France,FRA,1992,46.8
+France,FRA,1993,47.4
+France,FRA,1994,48.2
+France,FRA,1995,48.2
+France,FRA,1996,49.6
+France,FRA,1997,49.8
+France,FRA,1998,49.6
+France,FRA,1999,50.1
+France,FRA,2000,49.6
+France,FRA,2001,49.4
+France,FRA,2002,49
+France,FRA,2003,48.6
+France,FRA,2004,49.2
+France,FRA,2005,49.8
+France,FRA,2006,50.1
+France,FRA,2007,49.3
+France,FRA,2008,49.3
+Sweden,SWE,1880,7
+Sweden,SWE,1890,8.6
+Sweden,SWE,1900,8.2
+Sweden,SWE,1910,9.1
+Sweden,SWE,1913,8.2
+Sweden,SWE,1918,11.7
+Sweden,SWE,1923,12.2
+Sweden,SWE,1928,10.5
+Sweden,SWE,1933,13
+Sweden,SWE,1938,13.9
+Sweden,SWE,1943,17.8
+Sweden,SWE,1949,20.43
+Sweden,SWE,1950,21.27
+Sweden,SWE,1951,22.21
+Sweden,SWE,1952,23.15
+Sweden,SWE,1953,24.11
+Sweden,SWE,1954,24.71
+Sweden,SWE,1955,26.45
+Sweden,SWE,1956,25.88
+Sweden,SWE,1957,27.5
+Sweden,SWE,1958,27.07
+Sweden,SWE,1959,27.29
+Sweden,SWE,1960,30.03
+Sweden,SWE,1961,30.13
+Sweden,SWE,1962,31.93
+Sweden,SWE,1963,32.4
+Sweden,SWE,1964,33.63
+Sweden,SWE,1965,33.26
+Sweden,SWE,1966,33.99
+Sweden,SWE,1967,34.91
+Sweden,SWE,1968,36.92
+Sweden,SWE,1969,37.88
+Sweden,SWE,1970,37.81
+Sweden,SWE,1971,38.59
+Sweden,SWE,1972,39.91
+Sweden,SWE,1973,39.12
+Sweden,SWE,1974,40.25
+Sweden,SWE,1975,41.24
+Sweden,SWE,1976,45.29
+Sweden,SWE,1977,47.43
+Sweden,SWE,1978,47.81
+Sweden,SWE,1979,46.56
+Sweden,SWE,1980,46.38
+Sweden,SWE,1981,47.72
+Sweden,SWE,1982,46.71
+Sweden,SWE,1983,47.35
+Sweden,SWE,1984,46.96
+Sweden,SWE,1985,47.36
+Sweden,SWE,1986,49.56
+Sweden,SWE,1987,52.08
+Sweden,SWE,1988,51.4
+Sweden,SWE,1989,51.86
+Sweden,SWE,1990,52.23
+Sweden,SWE,1991,49.82
+Sweden,SWE,1992,47.26
+Sweden,SWE,1993,46.07
+Sweden,SWE,1994,46.33
+Sweden,SWE,1995,47.48
+Sweden,SWE,1996,49.42
+Sweden,SWE,1997,50.63
+Sweden,SWE,1998,51.05
+Sweden,SWE,1999,51.42
+Sweden,SWE,2000,51.79
+Sweden,SWE,2001,49.85
+Sweden,SWE,2002,47.91
+Sweden,SWE,2003,48.34
+Sweden,SWE,2004,48.72
+Sweden,SWE,2005,49.48
+Sweden,SWE,2006,49.06
+Sweden,SWE,2007,48.27
+United Kingdom,GBR,1868,7.4
+United Kingdom,GBR,1872,6.8
+United Kingdom,GBR,1875,6.7
+United Kingdom,GBR,1880,7.5
+United Kingdom,GBR,1885,8.5
+United Kingdom,GBR,1890,7.4
+United Kingdom,GBR,1895,7.8
+United Kingdom,GBR,1900,7.9
+United Kingdom,GBR,1905,9.6
+United Kingdom,GBR,1910,8.8
+United Kingdom,GBR,1915,10.6
+United Kingdom,GBR,1920,20.1
+United Kingdom,GBR,1925,18.4
+United Kingdom,GBR,1930,18.3
+United Kingdom,GBR,1935,18.7
+United Kingdom,GBR,1940,17.6
+United Kingdom,GBR,1945,35.5
+United Kingdom,GBR,1950,36.86
+United Kingdom,GBR,1951,33.82
+United Kingdom,GBR,1952,34.55
+United Kingdom,GBR,1953,32.46
+United Kingdom,GBR,1954,31.3
+United Kingdom,GBR,1955,30.8
+United Kingdom,GBR,1956,30.19
+United Kingdom,GBR,1957,33.84
+United Kingdom,GBR,1958,30.75
+United Kingdom,GBR,1959,31.2
+United Kingdom,GBR,1960,29.95
+United Kingdom,GBR,1961,29.56
+United Kingdom,GBR,1962,31.65
+United Kingdom,GBR,1963,30.99
+United Kingdom,GBR,1964,29.78
+United Kingdom,GBR,1965,30.86
+United Kingdom,GBR,1966,31.55
+United Kingdom,GBR,1967,33.28
+United Kingdom,GBR,1968,34.76
+United Kingdom,GBR,1969,36.77
+United Kingdom,GBR,1970,36.69
+United Kingdom,GBR,1971,34.77
+United Kingdom,GBR,1972,33.06
+United Kingdom,GBR,1973,31.22
+United Kingdom,GBR,1974,34.17
+United Kingdom,GBR,1975,34.94
+United Kingdom,GBR,1976,34.77
+United Kingdom,GBR,1977,34.26
+United Kingdom,GBR,1978,32.66
+United Kingdom,GBR,1979,31.89
+United Kingdom,GBR,1980,34.8
+United Kingdom,GBR,1981,36.24
+United Kingdom,GBR,1982,38.51
+United Kingdom,GBR,1983,36.9
+United Kingdom,GBR,1984,37.01
+United Kingdom,GBR,1985,36.96
+United Kingdom,GBR,1986,37.45
+United Kingdom,GBR,1987,36.14
+United Kingdom,GBR,1988,36.17
+United Kingdom,GBR,1989,35.6
+United Kingdom,GBR,1990,35.52
+United Kingdom,GBR,1991,34.33
+United Kingdom,GBR,1992,33.42
+United Kingdom,GBR,1993,32.37
+United Kingdom,GBR,1994,32.96
+United Kingdom,GBR,1995,34.04
+United Kingdom,GBR,1996,33.84
+United Kingdom,GBR,1997,34.28
+United Kingdom,GBR,1998,35.47
+United Kingdom,GBR,1999,35.75
+United Kingdom,GBR,2000,36.39
+United Kingdom,GBR,2001,36.14
+United Kingdom,GBR,2002,34.6
+United Kingdom,GBR,2003,34.34
+United Kingdom,GBR,2004,34.91
+United Kingdom,GBR,2005,35.76
+United Kingdom,GBR,2006,36.62
+United Kingdom,GBR,2007,36.08
+United States,USA,1902,5.61
+United States,USA,1903,5.52
+United States,USA,1904,5.7
+United States,USA,1905,5.31
+United States,USA,1906,5.26
+United States,USA,1907,5.1
+United States,USA,1908,5.84
+United States,USA,1909,5.74
+United States,USA,1910,5.88
+United States,USA,1911,5.92
+United States,USA,1912,5.66
+United States,USA,1913,5.78
+United States,USA,1914,6.62
+United States,USA,1915,6.54
+United States,USA,1916,5.85
+United States,USA,1917,6.08
+United States,USA,1918,8.37
+United States,USA,1919,8.19
+United States,USA,1920,9.31
+United States,USA,1921,11.03
+United States,USA,1922,10.44
+United States,USA,1923,8.79
+United States,USA,1924,9.09
+United States,USA,1925,9.07
+United States,USA,1926,9.37
+United States,USA,1927,11.13
+United States,USA,1928,11.29
+United States,USA,1929,11.35
+United States,USA,1930,11.51
+United States,USA,1931,12.7
+United States,USA,1932,15.09
+United States,USA,1933,16.5
+United States,USA,1934,14.75
+United States,USA,1935,14.74
+United States,USA,1936,14.15
+United States,USA,1937,14.85
+United States,USA,1938,17.92
+United States,USA,1939,16.82
+United States,USA,1940,15.37
+United States,USA,1941,14.98
+United States,USA,1942,15.72
+United States,USA,1943,19.1
+United States,USA,1944,27.52
+United States,USA,1945,27.67
+United States,USA,1946,25.43
+United States,USA,1947,23.4
+United States,USA,1948,22.9
+United States,USA,1949,22.55
+United States,USA,1950,20.63
+United States,USA,1951,21.59
+United States,USA,1952,24.52
+United States,USA,1953,25.56
+United States,USA,1954,26.25
+United States,USA,1955,23.46
+United States,USA,1956,25.1
+United States,USA,1957,25.71
+United States,USA,1958,25.5
+United States,USA,1959,23.87
+United States,USA,1960,26.53
+United States,USA,1961,26.5
+United States,USA,1962,25.01
+United States,USA,1963,25.32
+United States,USA,1964,25.09
+United States,USA,1965,24.21
+United States,USA,1966,24.59
+United States,USA,1967,26.01
+United States,USA,1968,24.99
+United States,USA,1969,27.48
+United States,USA,1970,26.69
+United States,USA,1971,25.77
+United States,USA,1972,26.35
+United States,USA,1973,26.4
+United States,USA,1974,27.17
+United States,USA,1975,26.68
+United States,USA,1976,26.38
+United States,USA,1977,27.62
+United States,USA,1978,27.11
+United States,USA,1979,27.28
+United States,USA,1980,27.69
+United States,USA,1981,28.27
+United States,USA,1982,28.42
+United States,USA,1983,26.58
+United States,USA,1984,26.44
+United States,USA,1985,27.09
+United States,USA,1986,27.27
+United States,USA,1987,28.44
+United States,USA,1988,28.05
+United States,USA,1989,28.32
+United States,USA,1990,28.12
+United States,USA,1991,27.98
+United States,USA,1992,26.18
+United States,USA,1993,26.61
+United States,USA,1994,26.88
+United States,USA,1995,27.45
+United States,USA,1996,27.64
+United States,USA,1997,28.01
+United States,USA,1998,28.53
+United States,USA,1999,28.48
+United States,USA,2000,29.4
+United States,USA,2001,28.65
+United States,USA,2002,26.33
+United States,USA,2003,24.98
+United States,USA,2004,24.93
+United States,USA,2005,26.4
+United States,USA,2006,27.46
+United States,USA,2007,28.02
+United States,USA,2008,27.51

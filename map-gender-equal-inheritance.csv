@@ -1,0 +1,317 @@
+Entity,Code,Year,"Gender-equal inheritance for women (How Was Life (2014)) (1=yes, 0=no)"
+Afghanistan,AFG,1920,0
+Albania,ALB,1920,0
+Algeria,DZA,1920,0
+Algeria,DZA,1980,0
+Algeria,DZA,2000,0
+Angola,AGO,1920,1
+Angola,AGO,1980,1
+Angola,AGO,2000,1
+Argentina,ARG,1920,0
+Argentina,ARG,1980,1
+Argentina,ARG,2000,1
+Armenia,ARM,1920,0
+Australia,AUS,1920,1
+Australia,AUS,1980,1
+Australia,AUS,2000,1
+Austria,AUT,1980,1
+Austria,AUT,2000,1
+Azerbaijan,AZE,1920,0
+Bangladesh,BGD,1920,0
+Bangladesh,BGD,1980,0
+Bangladesh,BGD,2000,0
+Belarus,BLR,1920,0
+Belarus,BLR,1980,1
+Belarus,BLR,2000,1
+Belgium,BEL,1980,1
+Belgium,BEL,2000,1
+Belize,BLZ,1920,0
+Benin,BEN,1920,0
+Benin,BEN,1980,0
+Benin,BEN,2000,0
+Bhutan,BTN,1920,0
+Bolivia,BOL,1920,0
+Bolivia,BOL,1980,1
+Bolivia,BOL,2000,1
+Botswana,BWA,1920,0
+Brazil,BRA,1920,1
+Brazil,BRA,1980,1
+Brazil,BRA,2000,1
+Brunei,BRN,1920,0
+Bulgaria,BGR,1920,0
+Bulgaria,BGR,1980,1
+Bulgaria,BGR,2000,1
+Burkina Faso,BFA,1920,0
+Burkina Faso,BFA,1980,1
+Burkina Faso,BFA,2000,1
+Burundi,BDI,1920,0
+Cambodia,KHM,1980,1
+Cambodia,KHM,2000,1
+Cameroon,CMR,1920,0
+Cameroon,CMR,1980,1
+Cameroon,CMR,2000,1
+Canada,CAN,1920,0
+Cape Verde,CPV,1920,0
+Central African Republic,CAF,1920,0
+Central African Republic,CAF,1980,1
+Central African Republic,CAF,2000,1
+Chad,TCD,1920,0
+Chile,CHL,1920,0
+Chile,CHL,1980,1
+Chile,CHL,2000,1
+China,CHN,1920,0
+China,CHN,1980,0
+China,CHN,2000,1
+Cocos Islands,CCK,1920,1
+Colombia,COL,1980,1
+Colombia,COL,2000,1
+Comoros,COM,1920,1
+Congo,COG,1920,1
+Cook Islands,COK,1920,1
+Costa Rica,CRI,1980,1
+Costa Rica,CRI,2000,1
+Cote d'Ivoire,CIV,1920,0
+Cote d'Ivoire,CIV,1980,1
+Cote d'Ivoire,CIV,2000,1
+Cyprus,CYP,1920,1
+Czech Republic,CZE,1920,0
+Democratic Republic of Congo,COD,1920,0
+Democratic Republic of Congo,COD,2000,1
+Djibouti,DJI,1920,0
+Dominican Republic,DOM,1980,1
+Dominican Republic,DOM,2000,1
+Egypt,EGY,1920,0
+Egypt,EGY,1980,0
+Egypt,EGY,2000,0
+Equatorial Guinea,GNQ,1920,0
+Estonia,EST,1920,0
+Ethiopia,ETH,1920,0
+Ethiopia,ETH,1980,1
+Ethiopia,ETH,2000,1
+Fiji,FJI,1920,0
+Fiji,FJI,1980,1
+Fiji,FJI,2000,1
+France,FRA,1920,0
+France,FRA,1980,1
+France,FRA,2000,1
+French Guiana,GUF,1920,0
+French Polynesia,PYF,1920,0
+Gabon,GAB,1920,0
+Gabon,GAB,1980,1
+Gabon,GAB,2000,1
+Gambia,GMB,1920,0
+Georgia,GEO,1920,0
+Georgia,GEO,1980,1
+Georgia,GEO,2000,1
+Germany,DEU,1980,1
+Germany,DEU,2000,1
+Ghana,GHA,1920,1
+Ghana,GHA,1980,0
+Ghana,GHA,2000,1
+Greece,GRC,1920,1
+Guam,GUM,1920,1
+Guatemala,GTM,1920,0
+Guatemala,GTM,1980,1
+Guatemala,GTM,2000,1
+Guinea,GIN,1920,0
+Guinea-Bissau,GNB,1920,0
+Haiti,HTI,1920,1
+Honduras,HND,1980,1
+Honduras,HND,2000,1
+Hungary,HUN,1980,1
+Hungary,HUN,2000,1
+Iceland,ISL,1920,0
+India,IND,1920,0
+India,IND,1980,0
+India,IND,2000,1
+Indonesia,IDN,1920,1
+Indonesia,IDN,1980,0
+Indonesia,IDN,2000,0
+Iran,IRN,1920,0
+Iran,IRN,1980,0
+Iran,IRN,2000,0
+Iraq,IRQ,1920,0
+Ireland,IRL,1920,0
+Israel,ISR,1920,0
+Italy,ITA,1920,0
+Italy,ITA,1980,1
+Italy,ITA,2000,1
+Jamaica,JAM,1980,1
+Jamaica,JAM,2000,1
+Japan,JPN,1920,0
+Japan,JPN,1980,1
+Japan,JPN,2000,1
+Jordan,JOR,1920,0
+Jordan,JOR,1980,0
+Jordan,JOR,2000,0
+Kazakhstan,KAZ,1920,0
+Kazakhstan,KAZ,1980,1
+Kazakhstan,KAZ,2000,1
+Kenya,KEN,1920,0
+Kenya,KEN,2000,1
+Kuwait,KWT,1920,0
+Kyrgyzstan,KGZ,1920,0
+Kyrgyzstan,KGZ,1980,1
+Kyrgyzstan,KGZ,2000,1
+Laos,LAO,1920,1
+Laos,LAO,2000,1
+Latvia,LVA,1920,0
+Lebanon,LBN,1920,0
+Lesotho,LSO,1920,0
+Lesotho,LSO,1980,0
+Lesotho,LSO,2000,0
+Liberia,LBR,1920,0
+Liberia,LBR,1980,1
+Liberia,LBR,2000,1
+Libya,LBY,1920,0
+Lithuania,LTU,1920,0
+Madagascar,MDG,1920,1
+Madagascar,MDG,1980,0
+Madagascar,MDG,2000,0
+Malawi,MWI,1920,1
+Malawi,MWI,1980,1
+Malawi,MWI,2000,1
+Malaysia,MYS,1920,0
+Malaysia,MYS,1980,0
+Malaysia,MYS,2000,0
+Mali,MLI,1920,0
+Mali,MLI,2000,0
+Malta,MLT,1920,1
+Mauritania,MRT,1920,0
+Mexico,MEX,1980,1
+Mexico,MEX,2000,1
+Moldova,MDA,1920,0
+Monaco,MCO,1920,0
+Mongolia,MNG,1920,0
+Mongolia,MNG,1980,1
+Mongolia,MNG,2000,1
+Morocco,MAR,1920,0
+Morocco,MAR,1980,0
+Morocco,MAR,2000,0
+Mozambique,MOZ,1920,1
+Mozambique,MOZ,1980,1
+Mozambique,MOZ,2000,1
+Myanmar,MMR,1920,1
+Namibia,NAM,1920,0
+Namibia,NAM,1980,1
+Namibia,NAM,2000,1
+Nepal,NPL,1980,0
+Nepal,NPL,2000,0
+Netherlands,NLD,1920,1
+Netherlands,NLD,1980,1
+Netherlands,NLD,2000,1
+New Caledonia,NCL,1920,0
+New Zealand,NZL,1920,1
+Nicaragua,NIC,1980,1
+Nicaragua,NIC,2000,1
+Niger,NER,1920,0
+Niger,NER,1980,0
+Niger,NER,2000,0
+Nigeria,NGA,1920,0
+Norfolk Island,NFK,1920,1
+North Korea,PRK,1920,0
+Norway,NOR,1980,1
+Norway,NOR,2000,1
+Pakistan,PAK,1920,0
+Pakistan,PAK,1980,0
+Pakistan,PAK,2000,0
+Papua New Guinea,PNG,1980,1
+Papua New Guinea,PNG,2000,1
+Paraguay,PRY,1980,1
+Paraguay,PRY,2000,1
+Peru,PER,1920,0
+Peru,PER,1980,1
+Peru,PER,2000,1
+Philippines,PHL,1980,1
+Philippines,PHL,2000,1
+Portugal,PRT,1980,1
+Portugal,PRT,2000,1
+Qatar,QAT,1920,0
+Russia,RUS,1920,0
+Rwanda,RWA,1920,0
+Rwanda,RWA,2000,1
+Saint Helena,SHN,1920,1
+San Marino,SMR,1920,0
+Senegal,SEN,1920,0
+Senegal,SEN,1980,0
+Senegal,SEN,2000,0
+Sierra Leone,SLE,1920,0
+Sierra Leone,SLE,1980,1
+Sierra Leone,SLE,2000,1
+Singapore,SGP,1920,0
+Singapore,SGP,1980,1
+Singapore,SGP,2000,1
+Slovakia,SVK,1920,0
+Somalia,SOM,1920,0
+South Africa,ZAF,1920,0
+South Africa,ZAF,1980,0
+South Africa,ZAF,2000,1
+South Korea,KOR,1920,0
+South Korea,KOR,1980,0
+South Korea,KOR,2000,1
+Spain,ESP,1920,1
+Spain,ESP,1980,1
+Spain,ESP,2000,1
+Sri Lanka,LKA,1920,1
+Sri Lanka,LKA,1980,1
+Sri Lanka,LKA,2000,1
+Sudan,SDN,1920,0
+Sudan,SDN,2000,0
+Suriname,SUR,1920,1
+Swaziland,SWZ,1920,0
+Sweden,SWE,1980,1
+Sweden,SWE,2000,1
+Switzerland,CHE,1920,0
+Switzerland,CHE,1980,1
+Switzerland,CHE,2000,1
+Syria,SYR,1920,0
+Syria,SYR,1980,0
+Syria,SYR,2000,0
+Tajikistan,TJK,1920,0
+Tajikistan,TJK,1980,1
+Tajikistan,TJK,2000,1
+Tanzania,TZA,1920,0
+Tanzania,TZA,1980,0
+Tanzania,TZA,2000,0
+Thailand,THA,1920,1
+Thailand,THA,1980,1
+Thailand,THA,2000,1
+Timor,TLS,1920,0
+Togo,TGO,1920,0
+Tonga,TON,1920,0
+Tunisia,TUN,1980,0
+Tunisia,TUN,2000,0
+Turkey,TUR,1920,0
+Turkey,TUR,1980,1
+Turkey,TUR,2000,1
+Turkmenistan,TKM,1920,0
+Tuvalu,TUV,1920,0
+Uganda,UGA,1920,0
+Uganda,UGA,1980,0
+Uganda,UGA,2000,0
+Ukraine,UKR,1920,0
+Ukraine,UKR,1980,1
+Ukraine,UKR,2000,1
+United Arab Emirates,ARE,1920,0
+United Kingdom,GBR,1920,1
+United Kingdom,GBR,1980,1
+United Kingdom,GBR,2000,1
+United States,USA,1920,1
+United States,USA,1980,1
+United States,USA,2000,1
+Uruguay,URY,1920,0
+Uzbekistan,UZB,1920,0
+Uzbekistan,UZB,1980,1
+Uzbekistan,UZB,2000,1
+Vatican,VAT,1920,0
+Venezuela,VEN,1980,1
+Venezuela,VEN,2000,1
+Vietnam,VNM,1920,1
+Vietnam,VNM,2000,1
+Western Sahara,ESH,1920,0
+Yemen,YEM,1980,0
+Yemen,YEM,2000,0
+Zambia,ZMB,1920,1
+Zambia,ZMB,2000,1
+Zimbabwe,ZWE,1920,0
+Zimbabwe,ZWE,2000,1

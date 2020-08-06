@@ -1,0 +1,493 @@
+Entity,Code,Year,Waste Recycling Rates - Glass (%)
+Australia,AUS,1983,17
+Australia,AUS,1992,36.0136
+Australia,AUS,1995,42
+Australia,AUS,2000,40
+Australia,AUS,2004,38
+Austria,AUT,1981,20
+Austria,AUT,1982,20
+Austria,AUT,1983,20
+Austria,AUT,1984,30
+Austria,AUT,1985,38
+Austria,AUT,1986,39
+Austria,AUT,1987,44
+Austria,AUT,1990,60.46
+Austria,AUT,1991,60
+Austria,AUT,1992,64
+Austria,AUT,1993,68
+Austria,AUT,1994,76
+Austria,AUT,1997,88
+Austria,AUT,1998,86
+Austria,AUT,1999,84
+Austria,AUT,2000,84
+Austria,AUT,2001,83
+Austria,AUT,2002,87
+Austria,AUT,2003,86
+Austria,AUT,2004,88
+Austria,AUT,2005,83
+Belgium,BEL,1981,33
+Belgium,BEL,1982,32
+Belgium,BEL,1983,32
+Belgium,BEL,1984,36
+Belgium,BEL,1985,42
+Belgium,BEL,1986,44
+Belgium,BEL,1987,39
+Belgium,BEL,1991,55
+Belgium,BEL,1992,54
+Belgium,BEL,1993,55
+Belgium,BEL,1994,67
+Belgium,BEL,1995,67
+Belgium,BEL,1996,66
+Belgium,BEL,1997,75
+Belgium,BEL,2000,87
+Belgium,BEL,2001,88
+Belgium,BEL,2002,95
+Belgium,BEL,2003,88
+Belgium,BEL,2004,90
+Belgium,BEL,2005,92
+Canada,CAN,1980,12
+Canada,CAN,1985,12
+Canada,CAN,1992,17
+Denmark,DNK,1981,8
+Denmark,DNK,1982,10
+Denmark,DNK,1983,10
+Denmark,DNK,1984,20
+Denmark,DNK,1985,19
+Denmark,DNK,1986,32
+Denmark,DNK,1987,32
+Denmark,DNK,1991,35
+Denmark,DNK,1992,48
+Denmark,DNK,1993,64
+Denmark,DNK,1994,67
+Denmark,DNK,1995,63
+Denmark,DNK,1996,66
+Denmark,DNK,1997,70
+Denmark,DNK,1998,63
+Denmark,DNK,1999,63
+Denmark,DNK,2000,65
+Denmark,DNK,2001,65
+Denmark,DNK,2002,76
+Denmark,DNK,2003,71
+Denmark,DNK,2004,75
+Denmark,DNK,2005,70
+Finland,FIN,1980,10
+Finland,FIN,1985,21
+Finland,FIN,1987,25
+Finland,FIN,1990,35.7143
+Finland,FIN,1991,31
+Finland,FIN,1992,44
+Finland,FIN,1993,46
+Finland,FIN,1994,50
+Finland,FIN,1995,50
+Finland,FIN,1996,63
+Finland,FIN,1997,62
+Finland,FIN,1998,69
+Finland,FIN,1999,78
+Finland,FIN,2000,89
+Finland,FIN,2001,91
+Finland,FIN,2002,92
+Finland,FIN,2003,73
+Finland,FIN,2004,72
+Finland,FIN,2005,72
+France,FRA,1981,20
+France,FRA,1982,20
+France,FRA,1983,24
+France,FRA,1984,25
+France,FRA,1985,26
+France,FRA,1986,28
+France,FRA,1987,26
+France,FRA,1991,41
+France,FRA,1992,44
+France,FRA,1993,46
+France,FRA,1994,48
+France,FRA,1995,50
+France,FRA,1996,50
+France,FRA,1997,52
+France,FRA,1998,55
+France,FRA,1999,55
+France,FRA,2000,55
+France,FRA,2001,55
+France,FRA,2002,55
+France,FRA,2003,58
+France,FRA,2004,58
+France,FRA,2005,62
+Germany,DEU,1980,23.0506
+Germany,DEU,1981,27.9542
+Germany,DEU,1982,32.3939
+Germany,DEU,1983,36.0787
+Germany,DEU,1984,37.6234
+Germany,DEU,1985,43.4699
+Germany,DEU,1986,44.7762
+Germany,DEU,1987,48.9435
+Germany,DEU,1988,49.2784
+Germany,DEU,1989,53.4623
+Germany,DEU,1990,53.8836
+Germany,DEU,1991,61.0389
+Germany,DEU,1992,60.2667
+Germany,DEU,1993,64.9977
+Germany,DEU,1994,74.7849
+Germany,DEU,1995,75.1851
+Germany,DEU,1996,79
+Germany,DEU,1997,78.8761
+Germany,DEU,1998,80.8071
+Germany,DEU,1999,80.573
+Germany,DEU,2000,83.12
+Germany,DEU,2001,86.6058
+Germany,DEU,2002,89.7254
+Germany,DEU,2003,87.67
+Germany,DEU,2004,91.21
+Germany,DEU,2005,85.5
+Greece,GRC,1980,15
+Greece,GRC,1985,15
+Greece,GRC,1990,15.0021
+Greece,GRC,1991,22
+Greece,GRC,1992,20
+Greece,GRC,1993,27
+Greece,GRC,1994,29
+Greece,GRC,1995,35
+Greece,GRC,1996,29
+Greece,GRC,1997,26
+Greece,GRC,1998,27
+Greece,GRC,1999,25
+Greece,GRC,2000,26
+Greece,GRC,2001,27
+Greece,GRC,2002,27
+Greece,GRC,2003,30
+Greece,GRC,2004,24
+Greece,GRC,2005,17
+Hungary,HUN,1999,14
+Iceland,ISL,2000,80
+Iceland,ISL,2001,80
+Iceland,ISL,2002,85
+Iceland,ISL,2003,85
+Iceland,ISL,2004,85
+Ireland,IRL,1980,8
+Ireland,IRL,1981,8
+Ireland,IRL,1982,8
+Ireland,IRL,1983,8
+Ireland,IRL,1984,7
+Ireland,IRL,1985,7
+Ireland,IRL,1986,8
+Ireland,IRL,1987,8
+Ireland,IRL,1990,23
+Ireland,IRL,1991,23
+Ireland,IRL,1992,27
+Ireland,IRL,1993,29
+Ireland,IRL,1994,31
+Ireland,IRL,1995,39
+Ireland,IRL,1996,46
+Ireland,IRL,1997,38
+Ireland,IRL,1998,37
+Ireland,IRL,1999,35
+Ireland,IRL,2000,35
+Ireland,IRL,2001,40
+Ireland,IRL,2002,49
+Ireland,IRL,2003,67
+Ireland,IRL,2004,69
+Ireland,IRL,2005,81
+Italy,ITA,1980,20
+Italy,ITA,1981,20
+Italy,ITA,1982,21
+Italy,ITA,1983,22
+Italy,ITA,1984,24
+Italy,ITA,1985,25
+Italy,ITA,1986,26
+Italy,ITA,1987,38
+Italy,ITA,1991,53
+Italy,ITA,1992,53
+Italy,ITA,1993,52
+Italy,ITA,1994,54
+Italy,ITA,1995,53
+Italy,ITA,1996,53
+Italy,ITA,1997,34
+Italy,ITA,1998,37
+Italy,ITA,1999,41
+Italy,ITA,2000,40
+Italy,ITA,2001,55
+Italy,ITA,2002,52
+Italy,ITA,2003,59
+Italy,ITA,2004,61
+Italy,ITA,2005,62
+Japan,JPN,1980,35
+Japan,JPN,1982,42.0031
+Japan,JPN,1983,41.36
+Japan,JPN,1984,42.3661
+Japan,JPN,1985,47.179
+Japan,JPN,1986,55.1885
+Japan,JPN,1987,54.3597
+Japan,JPN,1988,49.1775
+Japan,JPN,1989,47.5504
+Japan,JPN,1990,47.931
+Japan,JPN,1991,51.7791
+Japan,JPN,1992,56.2025
+Japan,JPN,1993,55.5
+Japan,JPN,1994,55.6
+Japan,JPN,1995,61.3
+Japan,JPN,1996,65
+Japan,JPN,1997,67.4
+Japan,JPN,1998,73.9
+Japan,JPN,1999,78.6
+Japan,JPN,2000,78
+Japan,JPN,2001,82
+Japan,JPN,2002,83
+Japan,JPN,2003,90.3
+Mexico,MEX,1992,13.25
+Mexico,MEX,1993,13.2401
+Mexico,MEX,1994,13.2433
+Mexico,MEX,1995,13.3569
+Mexico,MEX,1996,13.3524
+Mexico,MEX,1997,13.3507
+Mexico,MEX,1998,13.3549
+Mexico,MEX,1999,13.3517
+Mexico,MEX,2000,13.3601
+Mexico,MEX,2001,13.3491
+Mexico,MEX,2003,12.7087
+Mexico,MEX,2004,13
+Mexico,MEX,2005,13
+Netherlands,NLD,1980,17.4419
+Netherlands,NLD,1981,27
+Netherlands,NLD,1982,35
+Netherlands,NLD,1983,42
+Netherlands,NLD,1984,47
+Netherlands,NLD,1985,48.8372
+Netherlands,NLD,1986,49
+Netherlands,NLD,1987,50
+Netherlands,NLD,1988,51.7241
+Netherlands,NLD,1989,55.4545
+Netherlands,NLD,1990,66.6667
+Netherlands,NLD,1991,70.1149
+Netherlands,NLD,1992,72.8889
+Netherlands,NLD,1993,76.1364
+Netherlands,NLD,1994,77.4713
+Netherlands,NLD,1995,79.5349
+Netherlands,NLD,1996,81
+Netherlands,NLD,1997,82
+Netherlands,NLD,1998,84
+Netherlands,NLD,1999,80
+Netherlands,NLD,2000,78
+Netherlands,NLD,2001,78
+Netherlands,NLD,2002,78
+Netherlands,NLD,2003,76
+Netherlands,NLD,2004,76
+Netherlands,NLD,2005,78
+New Zealand,NZL,1994,36.1019
+New Zealand,NZL,1995,29.8575
+New Zealand,NZL,1996,34.6371
+New Zealand,NZL,1997,37.1291
+New Zealand,NZL,1998,40.4867
+New Zealand,NZL,1999,41.62
+New Zealand,NZL,2000,41.6067
+New Zealand,NZL,2001,44.5803
+New Zealand,NZL,2002,44.9723
+New Zealand,NZL,2003,47.8756
+New Zealand,NZL,2004,49.6998
+New Zealand,NZL,2005,49.1125
+Norway,NOR,1991,22
+Norway,NOR,1992,44
+Norway,NOR,1993,67
+Norway,NOR,1994,72
+Norway,NOR,1995,75
+Norway,NOR,1996,75
+Norway,NOR,1997,76
+Norway,NOR,1998,81
+Norway,NOR,1999,83
+Norway,NOR,2000,85
+Norway,NOR,2001,88
+Norway,NOR,2002,88
+Norway,NOR,2003,86
+Norway,NOR,2004,90
+Norway,NOR,2005,90
+Portugal,PRT,1983,12
+Portugal,PRT,1984,10
+Portugal,PRT,1985,10
+Portugal,PRT,1986,13
+Portugal,PRT,1987,14
+Portugal,PRT,1988,16.4427
+Portugal,PRT,1989,29.6033
+Portugal,PRT,1990,26.7598
+Portugal,PRT,1991,29.2647
+Portugal,PRT,1992,31
+Portugal,PRT,1993,29
+Portugal,PRT,1994,32
+Portugal,PRT,1995,42
+Portugal,PRT,1996,42
+Portugal,PRT,1997,44
+Portugal,PRT,1998,42
+Portugal,PRT,1999,43.6797
+Portugal,PRT,2000,40.5432
+Portugal,PRT,2001,34
+Portugal,PRT,2002,35
+Portugal,PRT,2003,38
+Portugal,PRT,2004,39
+Portugal,PRT,2005,41
+Slovakia,SVK,1997,40
+South Korea,KOR,1988,47.0377
+South Korea,KOR,1989,48.6529
+South Korea,KOR,1990,45.7386
+South Korea,KOR,1991,45.098
+South Korea,KOR,1992,42.8377
+South Korea,KOR,1993,44
+South Korea,KOR,1994,45.8198
+South Korea,KOR,1995,56.599
+South Korea,KOR,1996,60.3
+South Korea,KOR,1997,68
+South Korea,KOR,1998,65.5791
+South Korea,KOR,1999,66
+South Korea,KOR,2000,67.3051
+South Korea,KOR,2001,69
+South Korea,KOR,2002,73.9295
+South Korea,KOR,2003,70.1058
+South Korea,KOR,2004,72
+Spain,ESP,1983,12
+Spain,ESP,1984,13
+Spain,ESP,1985,26
+Spain,ESP,1986,20
+Spain,ESP,1987,22
+Spain,ESP,1988,23
+Spain,ESP,1989,24
+Spain,ESP,1990,27
+Spain,ESP,1991,27
+Spain,ESP,1992,27
+Spain,ESP,1993,29
+Spain,ESP,1994,31
+Spain,ESP,1995,32
+Spain,ESP,1996,35
+Spain,ESP,1997,37
+Spain,ESP,1998,41
+Spain,ESP,1999,40
+Spain,ESP,2000,31
+Spain,ESP,2001,33
+Spain,ESP,2002,36
+Spain,ESP,2003,38
+Spain,ESP,2004,41
+Spain,ESP,2005,45
+Sweden,SWE,1985,20
+Sweden,SWE,1988,22
+Sweden,SWE,1989,22
+Sweden,SWE,1991,44
+Sweden,SWE,1992,58
+Sweden,SWE,1993,59
+Sweden,SWE,1994,56
+Sweden,SWE,1995,61
+Sweden,SWE,1996,72
+Sweden,SWE,1997,76
+Sweden,SWE,1998,84
+Sweden,SWE,1999,84
+Sweden,SWE,2000,86
+Sweden,SWE,2001,84
+Sweden,SWE,2002,88
+Sweden,SWE,2003,92
+Sweden,SWE,2004,96
+Sweden,SWE,2005,96
+Switzerland,CHE,1981,36
+Switzerland,CHE,1982,42
+Switzerland,CHE,1983,42
+Switzerland,CHE,1984,45
+Switzerland,CHE,1985,46
+Switzerland,CHE,1986,46
+Switzerland,CHE,1987,47
+Switzerland,CHE,1989,55.0044
+Switzerland,CHE,1990,64.9995
+Switzerland,CHE,1991,71
+Switzerland,CHE,1992,72
+Switzerland,CHE,1993,78
+Switzerland,CHE,1994,84
+Switzerland,CHE,1995,85
+Switzerland,CHE,1996,89
+Switzerland,CHE,1997,91.2
+Switzerland,CHE,1998,91
+Switzerland,CHE,1999,93
+Switzerland,CHE,2000,91
+Switzerland,CHE,2001,92
+Switzerland,CHE,2002,94
+Switzerland,CHE,2003,96
+Switzerland,CHE,2004,96
+Switzerland,CHE,2005,95
+Turkey,TUR,1985,33
+Turkey,TUR,1986,25
+Turkey,TUR,1987,27
+Turkey,TUR,1988,27
+Turkey,TUR,1989,33
+Turkey,TUR,1990,31
+Turkey,TUR,1991,28
+Turkey,TUR,1992,40
+Turkey,TUR,1993,29.4248
+Turkey,TUR,1994,25.8475
+Turkey,TUR,1995,24.2678
+Turkey,TUR,1996,25.3378
+Turkey,TUR,1997,32.3529
+Turkey,TUR,1998,30.8642
+Turkey,TUR,1999,31.875
+Turkey,TUR,2000,31.2139
+Turkey,TUR,2001,33.3333
+Turkey,TUR,2002,35.5014
+Turkey,TUR,2003,32.1185
+United Kingdom,GBR,1980,5
+United Kingdom,GBR,1981,5
+United Kingdom,GBR,1982,6
+United Kingdom,GBR,1983,8
+United Kingdom,GBR,1984,9
+United Kingdom,GBR,1985,12
+United Kingdom,GBR,1986,14
+United Kingdom,GBR,1987,13
+United Kingdom,GBR,1988,13.5
+United Kingdom,GBR,1989,17.0833
+United Kingdom,GBR,1990,20.5525
+United Kingdom,GBR,1991,21.2155
+United Kingdom,GBR,1992,25.3889
+United Kingdom,GBR,1993,27.4033
+United Kingdom,GBR,1994,27.3056
+United Kingdom,GBR,1995,26.4211
+United Kingdom,GBR,1996,25.95
+United Kingdom,GBR,1997,24.7619
+United Kingdom,GBR,1998,26.0909
+United Kingdom,GBR,1999,31.3667
+United Kingdom,GBR,2000,36.0106
+United Kingdom,GBR,2001,36.3313
+United Kingdom,GBR,2002,36.6541
+United Kingdom,GBR,2003,42.3192
+United Kingdom,GBR,2004,47.8312
+United States,USA,1980,4.95704
+United States,USA,1985,7.57576
+United States,USA,1990,20.0763
+United States,USA,1991,20.3336
+United States,USA,1992,22.0107
+United States,USA,1993,22.0999
+United States,USA,1994,23.2959
+United States,USA,1995,24.4739
+United States,USA,1996,25.668
+United States,USA,1997,24.3131
+United States,USA,1998,23.2595
+United States,USA,1999,23.2378
+United States,USA,2000,22.8209
+United States,USA,2001,19.0779
+United States,USA,2002,19.0959
+United States,USA,2003,21.4749
+United States,USA,2004,21.53
+United States,USA,2005,21.6471
+World,OWID_WRL,1980,150.44954
+World,OWID_WRL,1981,204.9542
+World,OWID_WRL,1982,268.397
+World,OWID_WRL,1983,326.4387
+World,OWID_WRL,1984,345.9895
+World,OWID_WRL,1985,499.06186
+World,OWID_WRL,1986,443.9647
+World,OWID_WRL,1987,488.3032
+World,OWID_WRL,1988,299.1604
+World,OWID_WRL,1989,385.8111
+World,OWID_WRL,1990,538.7844
+World,OWID_WRL,1991,810.8447
+World,OWID_WRL,1992,971.859
+World,OWID_WRL,1993,981.8022
+World,OWID_WRL,1994,1076.4702
+World,OWID_WRL,1995,1084.9962
+World,OWID_WRL,1996,1096.2453
+World,OWID_WRL,1997,1237.3838
+World,OWID_WRL,1998,1151.3424
+World,OWID_WRL,1999,1185.3039
+World,OWID_WRL,2000,1385.9805
+World,OWID_WRL,2001,1377.2777
+World,OWID_WRL,2002,1419.8786
+World,OWID_WRL,2003,1447.5727
+World,OWID_WRL,2004,1393.271
+World,OWID_WRL,2005,1153.2596

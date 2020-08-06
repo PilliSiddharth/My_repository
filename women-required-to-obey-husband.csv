@@ -1,0 +1,612 @@
+Entity,Code,Year,Married women are required by law to obey their husbands (1=yes; 0=no) (1=yes; 0=no)
+Afghanistan,AFG,2015,1
+Albania,ALB,2009,0
+Albania,ALB,2011,0
+Albania,ALB,2013,0
+Albania,ALB,2015,0
+Algeria,DZA,2009,0
+Algeria,DZA,2011,0
+Algeria,DZA,2013,0
+Algeria,DZA,2015,0
+Angola,AGO,2009,0
+Angola,AGO,2011,0
+Angola,AGO,2013,0
+Angola,AGO,2015,0
+Antigua and Barbuda,ATG,2015,0
+Argentina,ARG,2009,0
+Argentina,ARG,2011,0
+Argentina,ARG,2013,0
+Argentina,ARG,2015,0
+Armenia,ARM,2009,0
+Armenia,ARM,2011,0
+Armenia,ARM,2013,0
+Armenia,ARM,2015,0
+Australia,AUS,2009,0
+Australia,AUS,2011,0
+Australia,AUS,2013,0
+Australia,AUS,2015,0
+Austria,AUT,2009,0
+Austria,AUT,2011,0
+Austria,AUT,2013,0
+Austria,AUT,2015,0
+Azerbaijan,AZE,2009,0
+Azerbaijan,AZE,2011,0
+Azerbaijan,AZE,2013,0
+Azerbaijan,AZE,2015,0
+Bahamas,BHS,2015,0
+Bahrain,BHR,2015,1
+Bangladesh,BGD,2009,0
+Bangladesh,BGD,2011,0
+Bangladesh,BGD,2013,0
+Bangladesh,BGD,2015,0
+Barbados,BRB,2015,0
+Belarus,BLR,2009,0
+Belarus,BLR,2011,0
+Belarus,BLR,2013,0
+Belarus,BLR,2015,0
+Belgium,BEL,2009,0
+Belgium,BEL,2011,0
+Belgium,BEL,2013,0
+Belgium,BEL,2015,0
+Belize,BLZ,2015,0
+Benin,BEN,2009,0
+Benin,BEN,2011,0
+Benin,BEN,2013,0
+Benin,BEN,2015,0
+Bhutan,BTN,2015,0
+Bolivia,BOL,2009,0
+Bolivia,BOL,2011,0
+Bolivia,BOL,2013,0
+Bolivia,BOL,2015,0
+Bosnia and Herzegovina,BIH,2009,0
+Bosnia and Herzegovina,BIH,2011,0
+Bosnia and Herzegovina,BIH,2013,0
+Bosnia and Herzegovina,BIH,2015,0
+Botswana,BWA,2009,0
+Botswana,BWA,2011,0
+Botswana,BWA,2013,0
+Botswana,BWA,2015,0
+Brazil,BRA,2009,0
+Brazil,BRA,2011,0
+Brazil,BRA,2013,0
+Brazil,BRA,2015,0
+Brunei,BRN,2015,1
+Bulgaria,BGR,2009,0
+Bulgaria,BGR,2011,0
+Bulgaria,BGR,2013,0
+Bulgaria,BGR,2015,0
+Burkina Faso,BFA,2009,0
+Burkina Faso,BFA,2011,0
+Burkina Faso,BFA,2013,0
+Burkina Faso,BFA,2015,0
+Burundi,BDI,2009,0
+Burundi,BDI,2011,0
+Burundi,BDI,2013,0
+Burundi,BDI,2015,0
+Cambodia,KHM,2009,0
+Cambodia,KHM,2011,0
+Cambodia,KHM,2013,0
+Cambodia,KHM,2015,0
+Cameroon,CMR,2009,0
+Cameroon,CMR,2011,0
+Cameroon,CMR,2013,0
+Cameroon,CMR,2015,0
+Canada,CAN,2009,0
+Canada,CAN,2011,0
+Canada,CAN,2013,0
+Canada,CAN,2015,0
+Cape Verde,CPV,2015,0
+Central African Republic,CAF,2015,0
+Chad,TCD,2009,0
+Chad,TCD,2011,0
+Chad,TCD,2013,0
+Chad,TCD,2015,0
+Chile,CHL,2009,0
+Chile,CHL,2011,0
+Chile,CHL,2013,0
+Chile,CHL,2015,0
+China,CHN,2009,0
+China,CHN,2011,0
+China,CHN,2013,0
+China,CHN,2015,0
+Colombia,COL,2009,0
+Colombia,COL,2011,0
+Colombia,COL,2013,0
+Colombia,COL,2015,0
+Comoros,COM,2015,0
+Congo,COG,2009,0
+Congo,COG,2011,0
+Congo,COG,2013,0
+Congo,COG,2015,0
+Costa Rica,CRI,2009,0
+Costa Rica,CRI,2011,0
+Costa Rica,CRI,2013,0
+Costa Rica,CRI,2015,0
+Cote d'Ivoire,CIV,2009,0
+Cote d'Ivoire,CIV,2011,0
+Cote d'Ivoire,CIV,2013,0
+Cote d'Ivoire,CIV,2015,0
+Croatia,HRV,2009,0
+Croatia,HRV,2011,0
+Croatia,HRV,2013,0
+Croatia,HRV,2015,0
+Cyprus,CYP,2015,0
+Czech Republic,CZE,2009,0
+Czech Republic,CZE,2011,0
+Czech Republic,CZE,2013,0
+Czech Republic,CZE,2015,0
+Democratic Republic of Congo,COD,2009,1
+Democratic Republic of Congo,COD,2011,1
+Democratic Republic of Congo,COD,2013,1
+Democratic Republic of Congo,COD,2015,1
+Denmark,DNK,2009,0
+Denmark,DNK,2011,0
+Denmark,DNK,2013,0
+Denmark,DNK,2015,0
+Djibouti,DJI,2015,1
+Dominica,DMA,2015,0
+Dominican Republic,DOM,2009,0
+Dominican Republic,DOM,2011,0
+Dominican Republic,DOM,2013,0
+Dominican Republic,DOM,2015,0
+Ecuador,ECU,2009,0
+Ecuador,ECU,2011,0
+Ecuador,ECU,2013,0
+Ecuador,ECU,2015,0
+Egypt,EGY,2009,1
+Egypt,EGY,2011,1
+Egypt,EGY,2013,1
+Egypt,EGY,2015,1
+El Salvador,SLV,2009,0
+El Salvador,SLV,2011,0
+El Salvador,SLV,2013,0
+El Salvador,SLV,2015,0
+Equatorial Guinea,GNQ,2015,1
+Eritrea,ERI,2015,0
+Estonia,EST,2009,0
+Estonia,EST,2011,0
+Estonia,EST,2013,0
+Estonia,EST,2015,0
+Ethiopia,ETH,2009,0
+Ethiopia,ETH,2011,0
+Ethiopia,ETH,2013,0
+Ethiopia,ETH,2015,0
+Fiji,FJI,2009,0
+Fiji,FJI,2011,0
+Fiji,FJI,2013,0
+Fiji,FJI,2015,0
+Finland,FIN,2009,0
+Finland,FIN,2011,0
+Finland,FIN,2013,0
+Finland,FIN,2015,0
+France,FRA,2009,0
+France,FRA,2011,0
+France,FRA,2013,0
+France,FRA,2015,0
+Gabon,GAB,2009,1
+Gabon,GAB,2011,1
+Gabon,GAB,2013,1
+Gabon,GAB,2015,1
+Gambia,GMB,2015,0
+Georgia,GEO,2009,0
+Georgia,GEO,2011,0
+Georgia,GEO,2013,0
+Georgia,GEO,2015,0
+Germany,DEU,2009,0
+Germany,DEU,2011,0
+Germany,DEU,2013,0
+Germany,DEU,2015,0
+Ghana,GHA,2009,0
+Ghana,GHA,2011,0
+Ghana,GHA,2013,0
+Ghana,GHA,2015,0
+Greece,GRC,2009,0
+Greece,GRC,2011,0
+Greece,GRC,2013,0
+Greece,GRC,2015,0
+Grenada,GRD,2015,0
+Guatemala,GTM,2009,0
+Guatemala,GTM,2011,0
+Guatemala,GTM,2013,0
+Guatemala,GTM,2015,0
+Guinea,GIN,2009,0
+Guinea,GIN,2011,0
+Guinea,GIN,2013,0
+Guinea,GIN,2015,0
+Guinea-Bissau,GNB,2015,0
+Guyana,GUY,2015,0
+Haiti,HTI,2013,0
+Haiti,HTI,2015,0
+Honduras,HND,2009,0
+Honduras,HND,2011,0
+Honduras,HND,2013,0
+Honduras,HND,2015,0
+Hong Kong,HKG,2009,0
+Hong Kong,HKG,2011,0
+Hong Kong,HKG,2013,0
+Hong Kong,HKG,2015,0
+Hungary,HUN,2009,0
+Hungary,HUN,2011,0
+Hungary,HUN,2013,0
+Hungary,HUN,2015,0
+Iceland,ISL,2009,0
+Iceland,ISL,2011,0
+Iceland,ISL,2013,0
+Iceland,ISL,2015,0
+India,IND,2009,0
+India,IND,2011,0
+India,IND,2013,0
+India,IND,2015,0
+Indonesia,IDN,2009,0
+Indonesia,IDN,2011,0
+Indonesia,IDN,2013,0
+Indonesia,IDN,2015,0
+Iran,IRN,2009,1
+Iran,IRN,2011,1
+Iran,IRN,2013,1
+Iran,IRN,2015,1
+Iraq,IRQ,2015,1
+Ireland,IRL,2009,0
+Ireland,IRL,2011,0
+Ireland,IRL,2013,0
+Ireland,IRL,2015,0
+Israel,ISR,2009,0
+Israel,ISR,2011,0
+Israel,ISR,2013,0
+Israel,ISR,2015,0
+Italy,ITA,2009,0
+Italy,ITA,2011,0
+Italy,ITA,2013,0
+Italy,ITA,2015,0
+Jamaica,JAM,2009,0
+Jamaica,JAM,2011,0
+Jamaica,JAM,2013,0
+Jamaica,JAM,2015,0
+Japan,JPN,2009,0
+Japan,JPN,2011,0
+Japan,JPN,2013,0
+Japan,JPN,2015,0
+Jordan,JOR,2009,1
+Jordan,JOR,2011,1
+Jordan,JOR,2013,1
+Jordan,JOR,2015,1
+Kazakhstan,KAZ,2009,0
+Kazakhstan,KAZ,2011,0
+Kazakhstan,KAZ,2013,0
+Kazakhstan,KAZ,2015,0
+Kenya,KEN,2009,0
+Kenya,KEN,2011,0
+Kenya,KEN,2013,0
+Kenya,KEN,2015,0
+Kiribati,KIR,2015,0
+Kosovo,OWID_KOS,2009,0
+Kosovo,OWID_KOS,2011,0
+Kosovo,OWID_KOS,2013,0
+Kosovo,OWID_KOS,2015,0
+Kuwait,KWT,2009,0
+Kuwait,KWT,2011,0
+Kuwait,KWT,2013,0
+Kuwait,KWT,2015,0
+Kyrgyzstan,KGZ,2009,0
+Kyrgyzstan,KGZ,2011,0
+Kyrgyzstan,KGZ,2013,0
+Kyrgyzstan,KGZ,2015,0
+Laos,LAO,2009,0
+Laos,LAO,2011,0
+Laos,LAO,2013,0
+Laos,LAO,2015,0
+Latvia,LVA,2009,0
+Latvia,LVA,2011,0
+Latvia,LVA,2013,0
+Latvia,LVA,2015,0
+Lebanon,LBN,2009,0
+Lebanon,LBN,2011,0
+Lebanon,LBN,2013,0
+Lebanon,LBN,2015,0
+Lesotho,LSO,2009,0
+Lesotho,LSO,2011,0
+Lesotho,LSO,2013,0
+Lesotho,LSO,2015,0
+Liberia,LBR,2009,0
+Liberia,LBR,2011,0
+Liberia,LBR,2013,0
+Liberia,LBR,2015,0
+Libya,LBY,2015,0
+Lithuania,LTU,2009,0
+Lithuania,LTU,2011,0
+Lithuania,LTU,2013,0
+Lithuania,LTU,2015,0
+Luxembourg,LUX,2015,0
+Macedonia,MKD,2009,0
+Macedonia,MKD,2011,0
+Macedonia,MKD,2013,0
+Macedonia,MKD,2015,0
+Madagascar,MDG,2009,0
+Madagascar,MDG,2011,0
+Madagascar,MDG,2013,0
+Madagascar,MDG,2015,0
+Malawi,MWI,2009,0
+Malawi,MWI,2011,0
+Malawi,MWI,2013,0
+Malawi,MWI,2015,0
+Malaysia,MYS,2009,1
+Malaysia,MYS,2011,1
+Malaysia,MYS,2013,1
+Malaysia,MYS,2015,1
+Maldives,MDV,2015,0
+Mali,MLI,2009,1
+Mali,MLI,2011,1
+Mali,MLI,2013,1
+Mali,MLI,2015,1
+Malta,MLT,2015,0
+Marshall Islands,MHL,2015,0
+Mauritania,MRT,2009,0
+Mauritania,MRT,2011,0
+Mauritania,MRT,2013,0
+Mauritania,MRT,2015,0
+Mauritius,MUS,2009,0
+Mauritius,MUS,2011,0
+Mauritius,MUS,2013,0
+Mauritius,MUS,2015,0
+Mexico,MEX,2009,0
+Mexico,MEX,2011,0
+Mexico,MEX,2013,0
+Mexico,MEX,2015,0
+Micronesia (country),FSM,2015,0
+Moldova,MDA,2009,0
+Moldova,MDA,2011,0
+Moldova,MDA,2013,0
+Moldova,MDA,2015,0
+Mongolia,MNG,2009,0
+Mongolia,MNG,2011,0
+Mongolia,MNG,2013,0
+Mongolia,MNG,2015,0
+Montenegro,MNE,2009,0
+Montenegro,MNE,2011,0
+Montenegro,MNE,2013,0
+Montenegro,MNE,2015,0
+Morocco,MAR,2009,0
+Morocco,MAR,2011,0
+Morocco,MAR,2013,0
+Morocco,MAR,2015,0
+Mozambique,MOZ,2009,0
+Mozambique,MOZ,2011,0
+Mozambique,MOZ,2013,0
+Mozambique,MOZ,2015,0
+Myanmar,MMR,2015,0
+Namibia,NAM,2009,0
+Namibia,NAM,2011,0
+Namibia,NAM,2013,0
+Namibia,NAM,2015,0
+Nepal,NPL,2009,0
+Nepal,NPL,2011,0
+Nepal,NPL,2013,0
+Nepal,NPL,2015,0
+Netherlands,NLD,2009,0
+Netherlands,NLD,2011,0
+Netherlands,NLD,2013,0
+Netherlands,NLD,2015,0
+New Zealand,NZL,2009,0
+New Zealand,NZL,2011,0
+New Zealand,NZL,2013,0
+New Zealand,NZL,2015,0
+Nicaragua,NIC,2009,0
+Nicaragua,NIC,2011,0
+Nicaragua,NIC,2013,0
+Nicaragua,NIC,2015,0
+Niger,NER,2009,0
+Niger,NER,2011,0
+Niger,NER,2013,0
+Niger,NER,2015,0
+Nigeria,NGA,2009,0
+Nigeria,NGA,2011,0
+Nigeria,NGA,2013,0
+Nigeria,NGA,2015,0
+Norway,NOR,2009,0
+Norway,NOR,2011,0
+Norway,NOR,2013,0
+Norway,NOR,2015,0
+Oman,OMN,2009,0
+Oman,OMN,2011,0
+Oman,OMN,2013,0
+Oman,OMN,2015,0
+Pakistan,PAK,2009,0
+Pakistan,PAK,2011,0
+Pakistan,PAK,2013,0
+Pakistan,PAK,2015,0
+Palau,PLW,2015,0
+Palestine,PSE,2009,1
+Palestine,PSE,2011,1
+Palestine,PSE,2013,1
+Palestine,PSE,2015,1
+Panama,PAN,2009,0
+Panama,PAN,2011,0
+Panama,PAN,2013,0
+Panama,PAN,2015,0
+Papua New Guinea,PNG,2009,0
+Papua New Guinea,PNG,2011,0
+Papua New Guinea,PNG,2013,0
+Papua New Guinea,PNG,2015,0
+Paraguay,PRY,2009,0
+Paraguay,PRY,2011,0
+Paraguay,PRY,2013,0
+Paraguay,PRY,2015,0
+Peru,PER,2009,0
+Peru,PER,2011,0
+Peru,PER,2013,0
+Peru,PER,2015,0
+Philippines,PHL,2009,0
+Philippines,PHL,2011,0
+Philippines,PHL,2013,0
+Philippines,PHL,2015,0
+Poland,POL,2009,0
+Poland,POL,2011,0
+Poland,POL,2013,0
+Poland,POL,2015,0
+Portugal,PRT,2009,0
+Portugal,PRT,2011,0
+Portugal,PRT,2013,0
+Portugal,PRT,2015,0
+Puerto Rico,PRI,2009,0
+Puerto Rico,PRI,2011,0
+Puerto Rico,PRI,2013,0
+Puerto Rico,PRI,2015,0
+Qatar,QAT,2015,1
+Romania,ROU,2009,0
+Romania,ROU,2011,0
+Romania,ROU,2013,0
+Romania,ROU,2015,0
+Russia,RUS,2009,0
+Russia,RUS,2011,0
+Russia,RUS,2013,0
+Russia,RUS,2015,0
+Rwanda,RWA,2009,0
+Rwanda,RWA,2011,0
+Rwanda,RWA,2013,0
+Rwanda,RWA,2015,0
+Saint Kitts and Nevis,KNA,2015,0
+Saint Lucia,LCA,2015,0
+Saint Vincent and the Grenadines,VCT,2015,0
+Samoa,WSM,2015,0
+San Marino,SMR,2015,0
+Sao Tome and Principe,STP,2015,0
+Saudi Arabia,SAU,2009,1
+Saudi Arabia,SAU,2011,1
+Saudi Arabia,SAU,2013,1
+Saudi Arabia,SAU,2015,1
+Senegal,SEN,2009,0
+Senegal,SEN,2011,0
+Senegal,SEN,2013,0
+Senegal,SEN,2015,0
+Serbia,SRB,2009,0
+Serbia,SRB,2011,0
+Serbia,SRB,2013,0
+Serbia,SRB,2015,0
+Seychelles,SYC,2015,0
+Sierra Leone,SLE,2011,0
+Sierra Leone,SLE,2013,0
+Sierra Leone,SLE,2015,0
+Singapore,SGP,2009,0
+Singapore,SGP,2011,0
+Singapore,SGP,2013,0
+Singapore,SGP,2015,0
+Slovakia,SVK,2009,0
+Slovakia,SVK,2011,0
+Slovakia,SVK,2013,0
+Slovakia,SVK,2015,0
+Slovenia,SVN,2009,0
+Slovenia,SVN,2011,0
+Slovenia,SVN,2013,0
+Slovenia,SVN,2015,0
+Solomon Islands,SLB,2015,0
+South Africa,ZAF,2009,0
+South Africa,ZAF,2011,0
+South Africa,ZAF,2013,0
+South Africa,ZAF,2015,0
+South Korea,KOR,2009,0
+South Korea,KOR,2011,0
+South Korea,KOR,2013,0
+South Korea,KOR,2015,0
+South Sudan,SSD,2015,0
+Spain,ESP,2009,0
+Spain,ESP,2011,0
+Spain,ESP,2013,0
+Spain,ESP,2015,0
+Sri Lanka,LKA,2009,0
+Sri Lanka,LKA,2011,0
+Sri Lanka,LKA,2013,0
+Sri Lanka,LKA,2015,0
+Sudan,SDN,2009,1
+Sudan,SDN,2011,1
+Sudan,SDN,2013,1
+Sudan,SDN,2015,1
+Suriname,SUR,2015,0
+Swaziland,SWZ,2015,0
+Sweden,SWE,2009,0
+Sweden,SWE,2011,0
+Sweden,SWE,2013,0
+Sweden,SWE,2015,0
+Switzerland,CHE,2009,0
+Switzerland,CHE,2011,0
+Switzerland,CHE,2013,0
+Switzerland,CHE,2015,0
+Syria,SYR,2009,0
+Syria,SYR,2011,0
+Syria,SYR,2013,0
+Syria,SYR,2015,0
+Tajikistan,TJK,2009,0
+Tajikistan,TJK,2011,0
+Tajikistan,TJK,2013,0
+Tajikistan,TJK,2015,0
+Tanzania,TZA,2009,0
+Tanzania,TZA,2011,0
+Tanzania,TZA,2013,0
+Tanzania,TZA,2015,0
+Thailand,THA,2009,0
+Thailand,THA,2011,0
+Thailand,THA,2013,0
+Thailand,THA,2015,0
+Timor,TLS,2015,0
+Togo,TGO,2009,0
+Togo,TGO,2011,0
+Togo,TGO,2013,0
+Togo,TGO,2015,0
+Tonga,TON,2015,0
+Trinidad and Tobago,TTO,2015,0
+Tunisia,TUN,2009,0
+Tunisia,TUN,2011,0
+Tunisia,TUN,2013,0
+Tunisia,TUN,2015,0
+Turkey,TUR,2009,0
+Turkey,TUR,2011,0
+Turkey,TUR,2013,0
+Turkey,TUR,2015,0
+Uganda,UGA,2009,0
+Uganda,UGA,2011,0
+Uganda,UGA,2013,0
+Uganda,UGA,2015,0
+Ukraine,UKR,2009,0
+Ukraine,UKR,2011,0
+Ukraine,UKR,2013,0
+Ukraine,UKR,2015,0
+United Arab Emirates,ARE,2009,1
+United Arab Emirates,ARE,2011,1
+United Arab Emirates,ARE,2013,1
+United Arab Emirates,ARE,2015,1
+United Kingdom,GBR,2009,0
+United Kingdom,GBR,2011,0
+United Kingdom,GBR,2013,0
+United Kingdom,GBR,2015,0
+United States,USA,2009,0
+United States,USA,2011,0
+United States,USA,2013,0
+United States,USA,2015,0
+Uruguay,URY,2009,0
+Uruguay,URY,2011,0
+Uruguay,URY,2013,0
+Uruguay,URY,2015,0
+Uzbekistan,UZB,2009,0
+Uzbekistan,UZB,2011,0
+Uzbekistan,UZB,2013,0
+Uzbekistan,UZB,2015,0
+Vanuatu,VUT,2015,0
+Venezuela,VEN,2009,0
+Venezuela,VEN,2011,0
+Venezuela,VEN,2013,0
+Venezuela,VEN,2015,0
+Vietnam,VNM,2009,0
+Vietnam,VNM,2011,0
+Vietnam,VNM,2013,0
+Vietnam,VNM,2015,0
+Yemen,YEM,2009,1
+Yemen,YEM,2011,1
+Yemen,YEM,2013,1
+Yemen,YEM,2015,1
+Zambia,ZMB,2009,0
+Zambia,ZMB,2011,0
+Zambia,ZMB,2013,0
+Zambia,ZMB,2015,0
+Zimbabwe,ZWE,2009,0
+Zimbabwe,ZWE,2011,0
+Zimbabwe,ZWE,2013,0
+Zimbabwe,ZWE,2015,0

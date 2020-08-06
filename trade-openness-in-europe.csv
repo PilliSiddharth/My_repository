@@ -1,0 +1,513 @@
+Entity,Code,Year,Year,Historical European trade (%)
+France,FRA,1815,8
+France,FRA,1816,9
+France,FRA,1817,8
+France,FRA,1818,9
+France,FRA,1819,9
+France,FRA,1820,10
+France,FRA,1821,9
+France,FRA,1822,9
+France,FRA,1823,7
+France,FRA,1824,9
+France,FRA,1825,12
+France,FRA,1826,9
+France,FRA,1827,9
+France,FRA,1828,9
+France,FRA,1829,9
+France,FRA,1830,8
+France,FRA,1831,7
+France,FRA,1832,9
+France,FRA,1833,9
+France,FRA,1834,9
+France,FRA,1835,9
+France,FRA,1836,10
+France,FRA,1837,9
+France,FRA,1838,10
+France,FRA,1839,11
+France,FRA,1840,11
+France,FRA,1841,11
+France,FRA,1842,11
+France,FRA,1843,11
+France,FRA,1844,12
+France,FRA,1845,12
+France,FRA,1846,12
+France,FRA,1847,10
+France,FRA,1848,9
+France,FRA,1849,12
+France,FRA,1850,13
+France,FRA,1851,14
+France,FRA,1852,14
+France,FRA,1853,17
+France,FRA,1854,15
+France,FRA,1855,17
+France,FRA,1856,19
+France,FRA,1857,19
+France,FRA,1858,19
+France,FRA,1859,22
+France,FRA,1860,20
+France,FRA,1861,21
+France,FRA,1862,20
+France,FRA,1863,23
+France,FRA,1864,25
+France,FRA,1865,27
+France,FRA,1866,26
+France,FRA,1867,26
+France,FRA,1868,24
+France,FRA,1869,25
+France,FRA,1870,24
+France,FRA,1871,27
+France,FRA,1872,29
+France,FRA,1873,30
+France,FRA,1874,28
+France,FRA,1875,28
+France,FRA,1876,31
+France,FRA,1877,28
+France,FRA,1878,29
+France,FRA,1879,34
+France,FRA,1880,33
+France,FRA,1881,32
+France,FRA,1882,30
+France,FRA,1883,30
+France,FRA,1884,29
+France,FRA,1885,29
+France,FRA,1886,30
+France,FRA,1887,29
+France,FRA,1888,29
+France,FRA,1889,29
+France,FRA,1890,28
+France,FRA,1891,28
+France,FRA,1892,27
+France,FRA,1893,25
+France,FRA,1894,24
+France,FRA,1895,26
+France,FRA,1896,25
+France,FRA,1897,25
+France,FRA,1898,25
+France,FRA,1899,27
+France,FRA,1900,27
+France,FRA,1901,27
+France,FRA,1902,27
+France,FRA,1903,27
+France,FRA,1904,27
+France,FRA,1905,29
+France,FRA,1906,31
+France,FRA,1907,31
+France,FRA,1908,29
+France,FRA,1909,30
+France,FRA,1910,33
+France,FRA,1911,31
+France,FRA,1912,30
+France,FRA,1913,31
+France,FRA,1920,44
+France,FRA,1921,32
+France,FRA,1922,29
+France,FRA,1923,34
+France,FRA,1924,38
+France,FRA,1925,36
+France,FRA,1926,37
+France,FRA,1927,35
+France,FRA,1928,32
+France,FRA,1929,31
+France,FRA,1930,29
+France,FRA,1931,24
+France,FRA,1932,19
+France,FRA,1933,19
+France,FRA,1934,18
+France,FRA,1935,18
+France,FRA,1936,17
+France,FRA,1937,19
+France,FRA,1938,19
+France,FRA,1949,19
+Germany,DEU,1880,34
+Germany,DEU,1881,35
+Germany,DEU,1882,36
+Germany,DEU,1883,36
+Germany,DEU,1884,35
+Germany,DEU,1885,31
+Germany,DEU,1886,31
+Germany,DEU,1887,32
+Germany,DEU,1888,31
+Germany,DEU,1889,32
+Germany,DEU,1890,32
+Germany,DEU,1891,32
+Germany,DEU,1892,29
+Germany,DEU,1893,29
+Germany,DEU,1894,28
+Germany,DEU,1895,29
+Germany,DEU,1896,29
+Germany,DEU,1897,29
+Germany,DEU,1898,31
+Germany,DEU,1899,30
+Germany,DEU,1900,32
+Germany,DEU,1901,31
+Germany,DEU,1902,32
+Germany,DEU,1903,32
+Germany,DEU,1904,32
+Germany,DEU,1905,33
+Germany,DEU,1906,35
+Germany,DEU,1907,36
+Germany,DEU,1908,33
+Germany,DEU,1909,34
+Germany,DEU,1910,36
+Germany,DEU,1911,37
+Germany,DEU,1912,38
+Germany,DEU,1913,40
+Germany,DEU,1925,32
+Germany,DEU,1926,31
+Germany,DEU,1927,31
+Germany,DEU,1928,31
+Germany,DEU,1929,34
+Germany,DEU,1930,31
+Germany,DEU,1931,28
+Germany,DEU,1932,20
+Germany,DEU,1933,16
+Germany,DEU,1934,13
+Germany,DEU,1935,12
+Germany,DEU,1936,11
+Germany,DEU,1937,13
+Germany,DEU,1938,11
+Italy,ITA,1900,23
+Italy,ITA,1901,23
+Italy,ITA,1902,25
+Italy,ITA,1903,24
+Italy,ITA,1904,25
+Italy,ITA,1905,26
+Italy,ITA,1906,29
+Italy,ITA,1907,28
+Italy,ITA,1908,28
+Italy,ITA,1909,28
+Italy,ITA,1910,30
+Italy,ITA,1911,28
+Italy,ITA,1912,30
+Italy,ITA,1913,29
+Italy,ITA,1914,25
+Italy,ITA,1915,31
+Italy,ITA,1916,36
+Italy,ITA,1917,41
+Italy,ITA,1918,37
+Italy,ITA,1919,35
+Italy,ITA,1920,41
+Italy,ITA,1921,26
+Italy,ITA,1922,23
+Italy,ITA,1923,24
+Italy,ITA,1924,28
+Italy,ITA,1925,30
+Italy,ITA,1926,28
+Italy,ITA,1927,26
+Italy,ITA,1928,26
+Italy,ITA,1929,26
+Italy,ITA,1930,24
+Italy,ITA,1931,20
+Italy,ITA,1932,14
+Italy,ITA,1933,14
+Italy,ITA,1934,13
+Italy,ITA,1935,12
+Italy,ITA,1936,10
+Italy,ITA,1937,17
+Italy,ITA,1938,14
+Italy,ITA,1939,13
+Italy,ITA,1940,13
+Italy,ITA,1941,11
+Italy,ITA,1942,11
+Netherlands,NLD,1900,204
+Netherlands,NLD,1901,203
+Netherlands,NLD,1902,210
+Netherlands,NLD,1903,217
+Netherlands,NLD,1904,221
+Netherlands,NLD,1905,222
+Netherlands,NLD,1906,214
+Netherlands,NLD,1907,223
+Netherlands,NLD,1908,222
+Netherlands,NLD,1909,241
+Netherlands,NLD,1910,245
+Netherlands,NLD,1911,242
+Netherlands,NLD,1912,250
+Netherlands,NLD,1913,249
+Netherlands,NLD,1914,198
+Netherlands,NLD,1915,120
+Netherlands,NLD,1916,87
+Netherlands,NLD,1917,49
+Netherlands,NLD,1918,24
+Netherlands,NLD,1919,77
+Netherlands,NLD,1920,81
+Netherlands,NLD,1921,63
+Netherlands,NLD,1922,61
+Netherlands,NLD,1923,63
+Netherlands,NLD,1924,73
+Netherlands,NLD,1925,74
+Netherlands,NLD,1926,72
+Netherlands,NLD,1927,75
+Netherlands,NLD,1928,74
+Netherlands,NLD,1929,73
+Netherlands,NLD,1930,67
+Netherlands,NLD,1931,58
+Netherlands,NLD,1932,44
+Netherlands,NLD,1933,42
+Netherlands,NLD,1934,38
+Netherlands,NLD,1935,36
+Netherlands,NLD,1936,39
+Netherlands,NLD,1937,53
+Netherlands,NLD,1938,47
+Netherlands,NLD,1939,45
+Netherlands,NLD,1940,32
+Netherlands,NLD,1941,23
+Netherlands,NLD,1942,20
+Netherlands,NLD,1943,19
+Netherlands,NLD,1946,32
+Netherlands,NLD,1947,51
+Netherlands,NLD,1948,54
+Netherlands,NLD,1949,55
+Spain,ESP,1901,23
+Spain,ESP,1902,21
+Spain,ESP,1903,22
+Spain,ESP,1904,22
+Spain,ESP,1905,22
+Spain,ESP,1906,21
+Spain,ESP,1907,20
+Spain,ESP,1908,18
+Spain,ESP,1909,17
+Spain,ESP,1910,20
+Spain,ESP,1911,21
+Spain,ESP,1912,23
+Spain,ESP,1913,24
+Spain,ESP,1914,14
+Spain,ESP,1915,16
+Spain,ESP,1916,15
+Spain,ESP,1917,16
+Spain,ESP,1918,15
+Spain,ESP,1919,16
+Spain,ESP,1920,22
+Spain,ESP,1921,17
+Spain,ESP,1922,17
+Spain,ESP,1923,20
+Spain,ESP,1924,20
+Spain,ESP,1925,18
+Spain,ESP,1926,16
+Spain,ESP,1927,16
+Spain,ESP,1928,18
+Spain,ESP,1929,20
+Spain,ESP,1930,23
+Spain,ESP,1931,17
+Spain,ESP,1932,14
+Spain,ESP,1933,12
+Spain,ESP,1934,12
+Spain,ESP,1935,13
+Spain,ESP,1940,8
+Spain,ESP,1941,7
+Spain,ESP,1942,7
+Spain,ESP,1943,9
+Spain,ESP,1944,9
+Spain,ESP,1945,3
+Spain,ESP,1946,5
+Spain,ESP,1947,6
+Spain,ESP,1948,6
+Spain,ESP,1949,6
+Sweden,SWE,1861,24
+Sweden,SWE,1862,23
+Sweden,SWE,1863,23
+Sweden,SWE,1864,24
+Sweden,SWE,1865,27
+Sweden,SWE,1866,26
+Sweden,SWE,1867,30
+Sweden,SWE,1868,30
+Sweden,SWE,1869,30
+Sweden,SWE,1870,32
+Sweden,SWE,1871,33
+Sweden,SWE,1872,37
+Sweden,SWE,1873,37
+Sweden,SWE,1874,38
+Sweden,SWE,1875,36
+Sweden,SWE,1876,36
+Sweden,SWE,1877,38
+Sweden,SWE,1878,33
+Sweden,SWE,1879,32
+Sweden,SWE,1880,39
+Sweden,SWE,1881,37
+Sweden,SWE,1882,41
+Sweden,SWE,1883,42
+Sweden,SWE,1884,41
+Sweden,SWE,1885,43
+Sweden,SWE,1886,41
+Sweden,SWE,1887,44
+Sweden,SWE,1888,46
+Sweden,SWE,1889,49
+Sweden,SWE,1890,47
+Sweden,SWE,1891,46
+Sweden,SWE,1892,45
+Sweden,SWE,1893,43
+Sweden,SWE,1894,42
+Sweden,SWE,1895,40
+Sweden,SWE,1896,41
+Sweden,SWE,1897,41
+Sweden,SWE,1898,40
+Sweden,SWE,1899,40
+Sweden,SWE,1900,41
+Sweden,SWE,1901,37
+Sweden,SWE,1902,41
+Sweden,SWE,1903,41
+Sweden,SWE,1904,41
+Sweden,SWE,1905,41
+Sweden,SWE,1906,41
+Sweden,SWE,1907,40
+Sweden,SWE,1908,36
+Sweden,SWE,1909,36
+Sweden,SWE,1910,35
+Sweden,SWE,1911,40
+Sweden,SWE,1912,43
+Sweden,SWE,1913,42
+Sweden,SWE,1914,38
+Sweden,SWE,1915,52
+Sweden,SWE,1916,45
+Sweden,SWE,1917,30
+Sweden,SWE,1918,28
+Sweden,SWE,1919,38
+Sweden,SWE,1920,45
+Sweden,SWE,1921,25
+Sweden,SWE,1922,30
+Sweden,SWE,1923,32
+Sweden,SWE,1924,34
+Sweden,SWE,1925,33
+Sweden,SWE,1926,34
+Sweden,SWE,1927,36
+Sweden,SWE,1928,36
+Sweden,SWE,1929,37
+Sweden,SWE,1930,33
+Sweden,SWE,1931,30
+Sweden,SWE,1932,26
+Sweden,SWE,1933,27
+Sweden,SWE,1934,30
+Sweden,SWE,1935,30
+Sweden,SWE,1936,31
+Sweden,SWE,1937,37
+Sweden,SWE,1938,33
+Sweden,SWE,1939,34
+Sweden,SWE,1940,24
+Sweden,SWE,1941,19
+Sweden,SWE,1942,18
+Sweden,SWE,1943,16
+Sweden,SWE,1944,13
+Sweden,SWE,1945,14
+Sweden,SWE,1946,26
+Sweden,SWE,1947,34
+Sweden,SWE,1948,32
+Sweden,SWE,1949,29
+United Kingdom,GBR,1830,23
+United Kingdom,GBR,1831,24
+United Kingdom,GBR,1832,23
+United Kingdom,GBR,1833,26
+United Kingdom,GBR,1834,26
+United Kingdom,GBR,1835,26
+United Kingdom,GBR,1836,29
+United Kingdom,GBR,1837,25
+United Kingdom,GBR,1838,27
+United Kingdom,GBR,1839,28
+United Kingdom,GBR,1840,30
+United Kingdom,GBR,1841,30
+United Kingdom,GBR,1842,29
+United Kingdom,GBR,1843,29
+United Kingdom,GBR,1844,29
+United Kingdom,GBR,1845,29
+United Kingdom,GBR,1846,27
+United Kingdom,GBR,1847,30
+United Kingdom,GBR,1848,26
+United Kingdom,GBR,1849,30
+United Kingdom,GBR,1850,35
+United Kingdom,GBR,1851,35
+United Kingdom,GBR,1852,35
+United Kingdom,GBR,1853,41
+United Kingdom,GBR,1854,39
+United Kingdom,GBR,1855,37
+United Kingdom,GBR,1856,43
+United Kingdom,GBR,1857,45
+United Kingdom,GBR,1858,43
+United Kingdom,GBR,1859,44
+United Kingdom,GBR,1860,49
+United Kingdom,GBR,1861,46
+United Kingdom,GBR,1862,47
+United Kingdom,GBR,1863,45
+United Kingdom,GBR,1864,52
+United Kingdom,GBR,1865,50
+United Kingdom,GBR,1866,52
+United Kingdom,GBR,1867,50
+United Kingdom,GBR,1868,69
+United Kingdom,GBR,1869,52
+United Kingdom,GBR,1870,51
+United Kingdom,GBR,1871,54
+United Kingdom,GBR,1872,56
+United Kingdom,GBR,1873,54
+United Kingdom,GBR,1874,51
+United Kingdom,GBR,1875,53
+United Kingdom,GBR,1876,53
+United Kingdom,GBR,1877,56
+United Kingdom,GBR,1878,50
+United Kingdom,GBR,1879,57
+United Kingdom,GBR,1880,54
+United Kingdom,GBR,1881,57
+United Kingdom,GBR,1882,58
+United Kingdom,GBR,1883,56
+United Kingdom,GBR,1884,53
+United Kingdom,GBR,1885,52
+United Kingdom,GBR,1886,50
+United Kingdom,GBR,1887,51
+United Kingdom,GBR,1888,54
+United Kingdom,GBR,1889,56
+United Kingdom,GBR,1890,55
+United Kingdom,GBR,1891,53
+United Kingdom,GBR,1892,51
+United Kingdom,GBR,1893,50
+United Kingdom,GBR,1894,48
+United Kingdom,GBR,1895,49
+United Kingdom,GBR,1896,49
+United Kingdom,GBR,1897,49
+United Kingdom,GBR,1898,47
+United Kingdom,GBR,1899,46
+United Kingdom,GBR,1900,49
+United Kingdom,GBR,1901,45
+United Kingdom,GBR,1902,47
+United Kingdom,GBR,1903,49
+United Kingdom,GBR,1904,49
+United Kingdom,GBR,1905,50
+United Kingdom,GBR,1906,55
+United Kingdom,GBR,1907,58
+United Kingdom,GBR,1908,53
+United Kingdom,GBR,1909,54
+United Kingdom,GBR,1910,59
+United Kingdom,GBR,1911,57
+United Kingdom,GBR,1912,61
+United Kingdom,GBR,1913,60
+United Kingdom,GBR,1914,51
+United Kingdom,GBR,1915,45
+United Kingdom,GBR,1916,45
+United Kingdom,GBR,1917,38
+United Kingdom,GBR,1918,35
+United Kingdom,GBR,1919,47
+United Kingdom,GBR,1920,58
+United Kingdom,GBR,1921,40
+United Kingdom,GBR,1922,44
+United Kingdom,GBR,1923,50
+United Kingdom,GBR,1924,56
+United Kingdom,GBR,1925,53
+United Kingdom,GBR,1926,51
+United Kingdom,GBR,1927,50
+United Kingdom,GBR,1928,49
+United Kingdom,GBR,1929,48
+United Kingdom,GBR,1930,40
+United Kingdom,GBR,1931,32
+United Kingdom,GBR,1932,14
+United Kingdom,GBR,1933,29
+United Kingdom,GBR,1934,29
+United Kingdom,GBR,1935,29
+United Kingdom,GBR,1936,31
+United Kingdom,GBR,1937,35
+United Kingdom,GBR,1938,29
+United Kingdom,GBR,1939,26
+United Kingdom,GBR,1940,24
+United Kingdom,GBR,1941,20
+United Kingdom,GBR,1942,19
+United Kingdom,GBR,1943,25
+United Kingdom,GBR,1944,30
+United Kingdom,GBR,1945,23
+United Kingdom,GBR,1946,26
+United Kingdom,GBR,1947,32
+United Kingdom,GBR,1948,36
+United Kingdom,GBR,1949,38

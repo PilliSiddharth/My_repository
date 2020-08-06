@@ -1,0 +1,814 @@
+Entity,Code,Year,15.2.1 - Forest area net change rate (%) - AG_LND_FRSTCHG (%)
+Afghanistan,AFG,2005,0
+Afghanistan,AFG,2010,0
+Afghanistan,AFG,2015,0
+Africa,,2005,-0.49606
+Africa,,2010,-0.52834
+Africa,,2015,-0.47105
+Albania,ALB,2005,0.33827
+Albania,ALB,2010,-0.15642
+Albania,ALB,2015,-0.12397
+Algeria,DZA,2005,-0.55068
+Algeria,DZA,2010,4.54216
+Algeria,DZA,2015,0.39314
+American Samoa,ASM,2005,-0.18796
+American Samoa,ASM,2010,-0.18975
+American Samoa,ASM,2015,-0.19156
+Americas,,2005,-0.27986
+Americas,,2010,-0.1757
+Americas,,2015,-0.12197
+Andorra,AND,2005,0
+Andorra,AND,2010,0
+Andorra,AND,2015,0
+Angola,AGO,2005,-0.20983
+Angola,AGO,2010,-0.21205
+Angola,AGO,2015,-0.21432
+Anguilla,AIA,2005,0
+Anguilla,AIA,2010,0
+Anguilla,AIA,2015,0
+Antigua and Barbuda,ATG,2005,-0.40324
+Antigua and Barbuda,ATG,2010,0
+Antigua and Barbuda,ATG,2015,0
+Argentina,ARG,2005,-1.07366
+Argentina,ARG,2010,-1.07639
+Argentina,ARG,2015,-1.06015
+Armenia,ARM,2005,-0.06013
+Armenia,ARM,2010,-0.06031
+Armenia,ARM,2015,0.06035
+Aruba,ABW,2005,0
+Aruba,ABW,2010,0
+Aruba,ABW,2015,0
+Asia,,2005,0.52306
+Asia,,2010,0.29225
+Asia,,2015,0.13389
+"Asia, Central",,2005,0.11001
+"Asia, Central",,2010,-0.40161
+"Asia, Central",,2015,-0.15917
+Australia,AUS,2005,-0.18697
+Australia,AUS,2010,-0.70398
+Australia,AUS,2015,0.24874
+Australia and New Zealand,,2005,-0.16691
+Australia and New Zealand,,2010,-0.65604
+Australia and New Zealand,,2015,0.23004
+Austria,AUT,2005,0.06765
+Austria,AUT,2010,0.0467
+Austria,AUT,2015,0.04659
+Azerbaijan,AZE,2005,0.12358
+Azerbaijan,AZE,2010,2.82488
+Azerbaijan,AZE,2015,2.47485
+Bahamas,BHS,2005,0
+Bahamas,BHS,2010,0
+Bahamas,BHS,2015,0
+Bahrain,BHR,2005,3.84386
+Bahrain,BHR,2010,3.26224
+Bahrain,BHR,2015,2.80405
+Bangladesh,BGD,2005,-0.17774
+Bangladesh,BGD,2010,-0.17934
+Bangladesh,BGD,2015,-0.18096
+Barbados,BRB,2005,0
+Barbados,BRB,2010,0
+Barbados,BRB,2015,0
+Belarus,BLR,2005,0.39098
+Belarus,BLR,2010,0.23127
+Belarus,BLR,2015,0.2321
+Belgium,BEL,2005,0.20595
+Belgium,BEL,2010,0.2068
+Belgium,BEL,2015,0.06451
+Belize,BLZ,2005,-0.59318
+Belize,BLZ,2010,-0.35748
+Belize,BLZ,2015,-0.36329
+Benin,BEN,2005,-1.00807
+Benin,BEN,2010,-1.06159
+Benin,BEN,2015,-1.12111
+Bermuda,BMU,2005,0
+Bermuda,BMU,2010,0
+Bermuda,BMU,2015,0
+Bhutan,BTN,2005,0.37813
+Bhutan,BTN,2010,0.37111
+Bhutan,BTN,2015,0.36435
+Bolivia,BOL,2005,-0.45578
+Bolivia,BOL,2010,-0.87499
+Bolivia,BOL,2015,-0.51952
+Bonaire Sint Eustatius and Saba,BES,2005,0
+Bonaire Sint Eustatius and Saba,BES,2010,0
+Bonaire Sint Eustatius and Saba,BES,2015,0
+Bosnia and Herzegovina,BIH,2005,0
+Bosnia and Herzegovina,BIH,2010,0
+Bosnia and Herzegovina,BIH,2015,0
+Botswana,BWA,2005,-0.96292
+Botswana,BWA,2010,-1.01164
+Botswana,BWA,2015,-0.91703
+Brazil,BRA,2005,-0.56419
+Brazil,BRA,2010,-0.3288
+Brazil,BRA,2015,-0.19819
+British Virgin Islands,VGB,2005,-0.05456
+British Virgin Islands,VGB,2010,-0.10953
+British Virgin Islands,VGB,2015,-0.11013
+Brunei,BRN,2005,-0.40631
+Brunei,BRN,2010,-0.46707
+Brunei,BRN,2015,0
+Bulgaria,BGR,2005,1.58454
+Bulgaria,BGR,2010,0.46673
+Bulgaria,BGR,2015,0.45608
+Burkina Faso,BFA,2005,-0.97597
+Burkina Faso,BFA,2010,-1.02956
+Burkina Faso,BFA,2015,-1.08175
+Burundi,BDI,2005,-1.77938
+Burundi,BDI,2010,6.92725
+Burundi,BDI,2015,1.75546
+Cambodia,KHM,2005,-1.45338
+Cambodia,KHM,2010,-1.21645
+Cambodia,KHM,2015,-1.29526
+Cameroon,CMR,2005,-1.01516
+Cameroon,CMR,2010,-1.06945
+Cameroon,CMR,2015,-1.12989
+Canada,CAN,2005,-0.013
+Canada,CAN,2010,-0.01577
+Canada,CAN,2015,-0.01342
+Cape Verde,CPV,2005,0.36281
+Cape Verde,CPV,2010,0.35635
+Cape Verde,CPV,2015,1.10651
+Caribbean,,2005,1.40658
+Caribbean,,2010,1.24426
+Caribbean,,2015,1.3009
+Caucasus and Central Asia,,2005,0.10306
+Caucasus and Central Asia,,2010,-0.07477
+Caucasus and Central Asia,,2015,0.0482
+Cayman Islands,CYM,2005,0
+Cayman Islands,CYM,2010,0
+Cayman Islands,CYM,2015,0
+Central African Republic,CAF,2005,-0.06973
+Central African Republic,CAF,2010,-0.06997
+Central African Republic,CAF,2015,-0.07022
+Central America,,2005,-0.4484
+Central America,,2010,-0.39906
+Central America,,2015,-0.27996
+Central and Southern Asia,,2005,0.63696
+Central and Southern Asia,,2010,0.31624
+Central and Southern Asia,,2015,0.11135
+Chad,TCD,2005,-0.59185
+Chad,TCD,2010,-2.15222
+Chad,TCD,2015,-2.41206
+Chile,CHL,2005,0.26136
+Chile,CHL,2010,0.23453
+Chile,CHL,2015,1.78814
+China,CHN,2005,1.75045
+China,CHN,2010,0.7719
+China,CHN,2015,0.7572
+Colombia,COL,2005,-0.52229
+Colombia,COL,2010,-0.52577
+Colombia,COL,2015,-0.0456
+Comoros,COM,2005,-1.37038
+Comoros,COM,2010,-1.47123
+Comoros,COM,2015,-1.04735
+Congo,COG,2005,-0.07548
+Congo,COG,2010,-0.05346
+Congo,COG,2015,-0.06881
+Cook Islands,COK,2005,0
+Cook Islands,COK,2010,0
+Cook Islands,COK,2015,0
+Costa Rica,CRI,2005,0.9498
+Costa Rica,CRI,2010,0.89899
+Costa Rica,CRI,2015,1.13333
+Cote d'Ivoire,CIV,2005,-2.32114
+Cote d'Ivoire,CIV,2010,-2.62638
+Cote d'Ivoire,CIV,2015,-3.0241
+Croatia,HRV,2005,0.19026
+Croatia,HRV,2010,0.17803
+Croatia,HRV,2015,0.02082
+Cuba,CUB,2005,2.0649
+Cuba,CUB,2010,1.68493
+Cuba,CUB,2015,1.76471
+Curacao,CUW,2005,0
+Curacao,CUW,2010,0
+Curacao,CUW,2015,0
+Cyprus,CYP,2005,0.14421
+Cyprus,CYP,2010,-0.00116
+Cyprus,CYP,2015,-0.01632
+Czech Republic,CZE,2005,0.07573
+Czech Republic,CZE,2010,0.07544
+Czech Republic,CZE,2015,0.07516
+Democratic Republic of Congo,COD,2005,-0.19882
+Democratic Republic of Congo,COD,2010,-0.20082
+Democratic Republic of Congo,COD,2015,-0.20285
+Denmark,DNK,2005,-0.96818
+Denmark,DNK,2010,1.03278
+Denmark,DNK,2015,0.84079
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",,2005,0.01921
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",,2010,0.09525
+"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",,2015,0.05023
+Developing regions,,2005,-0.22721
+Developing regions,,2010,-0.23957
+Developing regions,,2015,-0.19977
+Djibouti,DJI,2005,0
+Djibouti,DJI,2010,0
+Djibouti,DJI,2015,0
+Dominica,DMA,2005,-0.57276
+Dominica,DMA,2010,-0.5852
+Dominica,DMA,2015,-0.60284
+Dominican Republic,DOM,2005,2.14056
+Dominican Republic,DOM,2010,1.92224
+Dominican Republic,DOM,2015,1.76386
+Eastern Africa,,2005,-0.64851
+Eastern Africa,,2010,-0.72116
+Eastern Africa,,2015,-0.60699
+Eastern Asia,,2005,1.29122
+Eastern Asia,,2010,0.70634
+Eastern Asia,,2015,0.51706
+Eastern Asia (excluding Japan),,2005,1.44028
+Eastern Asia (excluding Japan),,2010,0.78351
+Eastern Asia (excluding Japan),,2015,0.57434
+Eastern Europe,,2005,0.00745
+Eastern Europe,,2010,0.1603
+Eastern Europe,,2015,0.01392
+Eastern and South-Eastern Asia,,2005,0.49431
+Eastern and South-Eastern Asia,,2010,0.26586
+Eastern and South-Eastern Asia,,2015,0.1162
+Ecuador,ECU,2005,-0.5802
+Ecuador,ECU,2010,-0.59753
+Ecuador,ECU,2015,-0.61594
+Egypt,EGY,2005,2.57572
+Egypt,EGY,2010,0.8799
+Egypt,EGY,2015,0.84282
+El Salvador,SLV,2005,-1.42561
+El Salvador,SLV,2010,-1.46632
+El Salvador,SLV,2015,-1.58239
+Equatorial Guinea,GNQ,2005,-0.67456
+Equatorial Guinea,GNQ,2010,-0.71032
+Equatorial Guinea,GNQ,2015,-0.72381
+Eritrea,ERI,2005,-0.28076
+Eritrea,ERI,2010,-0.28476
+Eritrea,ERI,2015,-0.28887
+Estonia,EST,2005,0.08012
+Estonia,EST,2010,-0.16037
+Estonia,EST,2015,-0.01791
+Ethiopia,ETH,2005,-1.05067
+Ethiopia,ETH,2010,-1.10733
+Ethiopia,ETH,2015,0.32803
+Europe,,2005,0.0368
+Europe,,2010,0.18702
+Europe,,2015,0.03767
+Europe and Northern America,,2005,0.03433
+Europe and Northern America,,2010,0.15784
+Europe and Northern America,,2015,0.03654
+"Europe, Western",,2005,0.39323
+"Europe, Western",,2010,0.37392
+"Europe, Western",,2015,0.35445
+Faeroe Islands,FRO,2005,0
+Faeroe Islands,FRO,2010,0
+Faeroe Islands,FRO,2015,0
+Federated States of Micronesia,,2005,0.04287
+Federated States of Micronesia,,2010,0.04247
+Federated States of Micronesia,,2015,0.04238
+Fiji,FJI,2005,0.34078
+Fiji,FJI,2010,-0.08767
+Fiji,FJI,2015,0.48473
+Finland,FIN,2005,-0.27056
+Finland,FIN,2010,0.06765
+Finland,FIN,2015,0
+France,FRA,2005,0.7373
+France,FRA,2010,0.70005
+France,FRA,2015,0.67874
+French Guiana,GUF,2005,-0.03424
+French Guiana,GUF,2010,-0.07357
+French Guiana,GUF,2015,-0.01967
+French Polynesia,PYF,2005,4.36402
+French Polynesia,PYF,2010,3.58042
+French Polynesia,PYF,2015,0
+Gabon,GAB,2005,0
+Gabon,GAB,2010,0
+Gabon,GAB,2015,0.893
+Gambia,GMB,2005,0.43012
+Gambia,GMB,2010,0.37928
+Gambia,GMB,2015,0.33113
+Georgia,GEO,2005,0.08606
+Georgia,GEO,2010,0.3574
+Georgia,GEO,2015,0
+Germany,DEU,2005,0.05279
+Germany,DEU,2010,0.04388
+Germany,DEU,2015,0.01752
+Ghana,GHA,2005,0.3212
+Ghana,GHA,2010,0.31176
+Ghana,GHA,2015,0.30697
+Greece,GRC,2005,0.82493
+Greece,GRC,2010,0.79225
+Greece,GRC,2015,0.76206
+Greenland,GRL,2005,0
+Greenland,GRL,2010,0
+Greenland,GRL,2015,0
+Grenada,GRD,2005,0
+Grenada,GRD,2010,0
+Grenada,GRD,2015,0
+Guadeloupe,GLP,2005,-0.04521
+Guadeloupe,GLP,2010,-0.33143
+Guadeloupe,GLP,2015,-0.05585
+Guam,GUM,2005,0
+Guam,GUM,2010,0
+Guam,GUM,2015,0
+Guatemala,GTM,2005,-1.31753
+Guatemala,GTM,2010,-1.1219
+Guatemala,GTM,2015,-0.99768
+Guernsey,GGY,2005,0
+Guernsey,GGY,2010,0
+Guernsey,GGY,2015,0
+Guinea,GIN,2005,-0.52696
+Guinea,GIN,2010,-0.54122
+Guinea,GIN,2015,-0.55628
+Guinea-Bissau,GNB,2005,-0.45699
+Guinea-Bissau,GNB,2010,-0.48735
+Guinea-Bissau,GNB,2015,-0.49953
+Guyana,GUY,2005,-0.02408
+Guyana,GUY,2010,-0.03134
+Guyana,GUY,2015,-0.0604
+Haiti,HTI,2005,-0.74496
+Haiti,HTI,2010,-0.77379
+Haiti,HTI,2015,-0.80493
+Honduras,HND,2005,-1.95209
+Honduras,HND,2010,-2.16343
+Honduras,HND,2015,-2.42615
+Hungary,HUN,2005,0.67928
+Hungary,HUN,2010,0.62748
+Hungary,HUN,2015,0.22382
+Iceland,ISL,2005,4.85281
+Iceland,ISL,2010,3.18748
+Iceland,ISL,2015,2.87443
+India,IND,2005,0.69943
+India,IND,2010,0.60727
+India,IND,2015,0.25433
+Indonesia,IDN,2005,-0.31421
+Indonesia,IDN,2010,-0.71001
+Indonesia,IDN,2015,-0.73549
+Iran,IRN,2005,2.77222
+Iran,IRN,2010,0
+Iran,IRN,2015,0
+Iraq,IRQ,2005,0.17057
+Iraq,IRQ,2010,0
+Iraq,IRQ,2015,0
+Ireland,IRL,2005,1.81888
+Ireland,IRL,2010,0.87123
+Ireland,IRL,2015,0.77028
+Isle of Man,IMN,2005,0
+Isle of Man,IMN,2010,0
+Isle of Man,IMN,2015,0
+Israel,ISR,2005,0.26008
+Israel,ISR,2010,-0.12937
+Israel,ISR,2015,1.38942
+Italy,ITA,2005,0.91511
+Italy,ITA,2010,0.60682
+Italy,ITA,2015,0.58895
+Jamaica,JAM,2005,-0.09994
+Jamaica,JAM,2010,-0.12413
+Jamaica,JAM,2015,-0.11298
+Japan,JPN,2005,0.04739
+Japan,JPN,2010,0.02485
+Japan,JPN,2015,-0.00641
+Jersey,JEY,2005,0
+Jersey,JEY,2010,0
+Jersey,JEY,2015,0
+Jordan,JOR,2005,0
+Jordan,JOR,2010,0
+Jordan,JOR,2015,0
+Kazakhstan,KAZ,2005,-0.16698
+Kazakhstan,KAZ,2010,-0.16838
+Kazakhstan,KAZ,2015,0
+Kenya,KEN,2005,2.61477
+Kenya,KEN,2010,0.88845
+Kenya,KEN,2015,0.85065
+Kiribati,KIR,2005,0
+Kiribati,KIR,2010,0
+Kiribati,KIR,2015,0
+Kuwait,KWT,2005,2.73307
+Kuwait,KWT,2010,2.40411
+Kuwait,KWT,2015,0
+Kyrgyzstan,KGZ,2005,0.25502
+Kyrgyzstan,KGZ,2010,-4.87738
+Kyrgyzstan,KGZ,2015,-1.21064
+Landlocked developing countries,,2005,-0.55105
+Landlocked developing countries,,2010,-0.5341
+Landlocked developing countries,,2015,-0.55244
+Laos,LAO,2005,0.41256
+Laos,LAO,2010,1.09702
+Laos,LAO,2015,1.03997
+Latin America and the Caribbean	,,2005,-0.48661
+Latin America and the Caribbean	,,2010,-0.37283
+Latin America and the Caribbean	,,2015,-0.23121
+Latvia,LVA,2005,0.34321
+Latvia,LVA,2010,0.3434
+Latvia,LVA,2015,0.01192
+Least Developed Countries (LDCs),,2005,-0.45975
+Least Developed Countries (LDCs),,2010,-0.45578
+Least Developed Countries (LDCs),,2015,-0.44551
+Lebanon,LBN,2005,0.82594
+Lebanon,LBN,2010,0.05854
+Lebanon,LBN,2015,0.05837
+Lesotho,LSO,2005,0.47172
+Lesotho,LSO,2010,0.46085
+Lesotho,LSO,2015,2.17595
+Liberia,LBR,2005,-0.65666
+Liberia,LBR,2010,-0.67895
+Liberia,LBR,2015,-0.70281
+Libya,LBY,2005,0
+Libya,LBY,2010,0
+Libya,LBY,2015,0
+Liechtenstein,LIE,2005,0
+Liechtenstein,LIE,2010,0
+Liechtenstein,LIE,2015,0
+Lithuania,LTU,2005,0.98058
+Lithuania,LTU,2010,0.45783
+Lithuania,LTU,2015,0.092
+Luxembourg,LUX,2005,0
+Luxembourg,LUX,2010,0
+Luxembourg,LUX,2015,0
+Macedonia,MKD,2005,0.35241
+Macedonia,MKD,2010,0.46741
+Macedonia,MKD,2015,0
+Madagascar,MDG,2005,-0.28574
+Madagascar,MDG,2010,-0.44799
+Madagascar,MDG,2015,-0.12779
+Malawi,MWI,2005,-0.94276
+Malawi,MWI,2010,-0.9894
+Malawi,MWI,2015,-0.56236
+Malaysia,MYS,2005,-0.65795
+Malaysia,MYS,2010,1.15446
+Malaysia,MYS,2015,0.0641
+Maldives,MDV,2005,0
+Maldives,MDV,2010,0
+Maldives,MDV,2015,0
+Mali,MLI,2005,-1.37635
+Mali,MLI,2010,-1.47811
+Mali,MLI,2015,-1.59613
+Malta,MLT,2005,0
+Malta,MLT,2010,0
+Malta,MLT,2015,0
+Marshall Islands,MHL,2005,0
+Marshall Islands,MHL,2010,0
+Marshall Islands,MHL,2015,0
+Martinique,MTQ,2005,0
+Martinique,MTQ,2010,0
+Martinique,MTQ,2015,0
+Mauritania,MRT,2005,-3.3748
+Mauritania,MRT,2010,-1.94701
+Mauritania,MRT,2015,-1.49003
+Mauritius,MUS,2005,-1.83202
+Mauritius,MUS,2010,0.10449
+Mauritius,MUS,2015,0.10395
+Mayotte,MYT,2005,-2.32813
+Mayotte,MYT,2010,-2.63528
+Mayotte,MYT,2015,-3.03597
+Melanesia,OWID_MNS,2005,-0.01269
+Melanesia,OWID_MNS,2010,-0.02382
+Melanesia,OWID_MNS,2015,-0.0093
+Mexico,MEX,2005,-0.22888
+Mexico,MEX,2010,-0.17502
+Mexico,MEX,2015,-0.13813
+Micronesia (country),FSM,2005,0.00335
+Micronesia (country),FSM,2010,-0.07429
+Micronesia (country),FSM,2015,-0.07457
+Middle Africa,,2005,-0.23582
+Middle Africa,,2010,-0.26638
+Middle Africa,,2015,-0.20497
+Moldova,MDA,2005,2.29922
+Moldova,MDA,2010,1.23627
+Moldova,MDA,2015,1.16428
+Mongolia,MNG,2005,-0.70809
+Mongolia,MNG,2010,2.88997
+Mongolia,MNG,2015,-0.75745
+Montenegro,MNE,2005,0
+Montenegro,MNE,2010,5.72708
+Montenegro,MNE,2015,0
+Montserrat,MSR,2005,0
+Montserrat,MSR,2010,0
+Montserrat,MSR,2015,0
+Morocco,MAR,2005,1.58335
+Morocco,MAR,2010,0.98396
+Morocco,MAR,2015,-0.14144
+Mozambique,MOZ,2005,-0.5444
+Mozambique,MOZ,2010,-0.55862
+Mozambique,MOZ,2015,-0.53531
+Myanmar,MMR,2005,-0.90353
+Myanmar,MMR,2010,-0.94691
+Myanmar,MMR,2015,-1.78209
+Namibia,NAM,2005,-0.94136
+Namibia,NAM,2010,-0.98787
+Namibia,NAM,2015,-1.03921
+Nepal,NPL,2005,-1.39207
+Nepal,NPL,2010,0
+Nepal,NPL,2015,0
+Netherlands,NLD,2005,0.27625
+Netherlands,NLD,2010,0.43456
+Netherlands,NLD,2015,0.16034
+New Caledonia,NCL,2005,0
+New Caledonia,NCL,2010,0
+New Caledonia,NCL,2015,0
+New Zealand,NZL,2005,0.08664
+New Zealand,NZL,2010,-0.06293
+New Zealand,NZL,2015,0.00197
+Nicaragua,NIC,2005,-1.90668
+Nicaragua,NIC,2010,-2.10779
+Nicaragua,NIC,2015,0
+Niger,NER,2005,-0.95168
+Niger,NER,2010,-0.99923
+Niger,NER,2015,-1.05179
+Nigeria,NGA,2005,-3.33278
+Nigeria,NGA,2010,-4.00142
+Nigeria,NGA,2015,-5.00748
+Niue,NIU,2005,-0.51549
+Niue,NIU,2010,-0.52913
+Niue,NIU,2015,-0.54351
+Norfolk Island,NFK,2005,0
+Norfolk Island,NFK,2010,0
+Norfolk Island,NFK,2015,0
+North Korea,PRK,2005,-1.89976
+North Korea,PRK,2010,-2.09587
+North Korea,PRK,2015,-2.34926
+Northern Africa,,2005,-0.28026
+Northern Africa,,2010,-0.09487
+Northern Africa,,2015,-0.55928
+Northern Africa (exc. Sudan),,2005,1.05245
+Northern Africa (exc. Sudan),,2010,1.60118
+Northern Africa (exc. Sudan),,2015,0.10839
+Northern Africa and Western Asia,,2005,0.05069
+Northern Africa and Western Asia,,2010,0.25435
+Northern Africa and Western Asia,,2015,-0.06544
+Northern America,,2005,0.03053
+Northern America,,2010,0.11284
+Northern America,,2015,0.03479
+Northern Europe,,2005,0.00129
+Northern Europe,,2010,0.03555
+Northern Europe,,2015,0.04421
+Northern Mariana Islands,MNP,2005,-0.5197
+Northern Mariana Islands,MNP,2010,-0.53422
+Northern Mariana Islands,MNP,2015,-0.54889
+Norway,NOR,2005,-0.0347
+Norway,NOR,2010,0.01653
+Norway,NOR,2015,0.01652
+Oceania,,2005,-0.13047
+Oceania,,2010,-0.51336
+Oceania,,2015,0.17635
+Oceania (exc. Australia and New Zealand),,2005,0.00009
+Oceania (exc. Australia and New Zealand),,2010,-0.01123
+Oceania (exc. Australia and New Zealand),,2015,-0.00986
+Oman,OMN,2005,0
+Oman,OMN,2010,0
+Oman,OMN,2015,0
+Pakistan,PAK,2005,-2.10986
+Pakistan,PAK,2010,-2.37053
+Pakistan,PAK,2015,-2.68976
+Palau,PLW,2005,0.35915
+Palau,PLW,2010,0
+Palau,PLW,2015,0
+Palestine,PSE,2005,0.19746
+Palestine,PSE,2010,0
+Palestine,PSE,2015,0
+Panama,PAN,2005,-0.35176
+Panama,PAN,2010,-0.34957
+Panama,PAN,2015,-0.35147
+Papua New Guinea,PNG,2005,-0.00833
+Papua New Guinea,PNG,2010,-0.00774
+Papua New Guinea,PNG,2015,-0.00834
+Paraguay,PRY,2005,-0.93963
+Paraguay,PRY,2010,-1.70825
+Paraguay,PRY,2015,-1.99803
+Peru,PER,2005,-0.16311
+Peru,PER,2010,-0.19059
+Peru,PER,2015,-0.22504
+Philippines,PHL,2005,0.13341
+Philippines,PHL,2010,-0.67051
+Philippines,PHL,2015,3.28565
+Pitcairn,PCN,2005,0
+Pitcairn,PCN,2010,0
+Pitcairn,PCN,2015,0
+Poland,POL,2005,0.30937
+Poland,POL,2010,0.27888
+Poland,POL,2015,0.22622
+Polynesia,OWID_PYA,2005,1.36056
+Polynesia,OWID_PYA,2010,1.27438
+Polynesia,OWID_PYA,2015,-0.03324
+Portugal,PRT,2005,-0.28278
+Portugal,PRT,2010,-0.34829
+Portugal,PRT,2015,-0.35446
+Puerto Rico,PRI,2005,0.56154
+Puerto Rico,PRI,2010,0.70467
+Puerto Rico,PRI,2015,0.68068
+Reunion,REU,2005,-0.46406
+Reunion,REU,2010,0.69612
+Reunion,REU,2015,0
+Romania,ROU,2005,0.07842
+Romania,ROU,2010,0.38507
+Romania,ROU,2015,1.04029
+Russia,RUS,2005,-0.01183
+Russia,RUS,2010,0.15643
+Russia,RUS,2015,-0.00503
+Rwanda,RWA,2005,2.27758
+Rwanda,RWA,2010,2.9852
+Rwanda,RWA,2015,1.48019
+Saint Helena,SHN,2005,0
+Saint Helena,SHN,2010,0
+Saint Helena,SHN,2015,0
+Saint Kitts and Nevis,KNA,2005,0
+Saint Kitts and Nevis,KNA,2010,0
+Saint Kitts and Nevis,KNA,2015,0
+Saint Lucia,LCA,2005,-0.28463
+Saint Lucia,LCA,2010,-0.28874
+Saint Lucia,LCA,2015,-0.29297
+Saint Martin (French part),MAF,2005,0
+Saint Martin (French part),MAF,2010,0
+Saint Martin (French part),MAF,2015,0
+Saint Pierre and Miquelon,SPM,2005,-1.28248
+Saint Pierre and Miquelon,SPM,2010,-0.67574
+Saint Pierre and Miquelon,SPM,2015,-0.69937
+Saint Vincent and the Grenadines,VCT,2005,0
+Saint Vincent and the Grenadines,VCT,2010,0.75766
+Saint Vincent and the Grenadines,VCT,2015,0
+Samoa,WSM,2005,0
+Samoa,WSM,2010,0
+Samoa,WSM,2015,0
+Sao Tome and Principe,STP,2005,0
+Sao Tome and Principe,STP,2010,-0.87223
+Sao Tome and Principe,STP,2015,0
+Saudi Arabia,SAU,2005,0
+Saudi Arabia,SAU,2010,0
+Saudi Arabia,SAU,2015,0
+Senegal,SEN,2005,-0.51093
+Senegal,SEN,2010,-0.46552
+Senegal,SEN,2015,-0.47661
+Serbia,SRB,2005,0.12974
+Serbia,SRB,2010,1.84503
+Serbia,SRB,2015,0.05155
+Seychelles,SYC,2005,0
+Seychelles,SYC,2010,0
+Seychelles,SYC,2015,0
+Sierra Leone,SLE,2005,-0.67996
+Sierra Leone,SLE,2010,-0.70389
+Sierra Leone,SLE,2015,2.23127
+Singapore,SGP,2005,0
+Singapore,SGP,2010,0
+Singapore,SGP,2015,0
+Sint Maarten (Dutch part),SXM,2005,0
+Sint Maarten (Dutch part),SXM,2010,0
+Sint Maarten (Dutch part),SXM,2015,0
+Slovakia,SVK,2005,0.11426
+Slovakia,SVK,2010,0.07236
+Slovakia,SVK,2015,0.01031
+Slovenia,SVN,2005,0.16168
+Slovenia,SVN,2010,0.06428
+Slovenia,SVN,2015,0.01603
+Small Island Developing States (SIDS),,2005,0.05814
+Small Island Developing States (SIDS),,2010,0.04987
+Small Island Developing States (SIDS),,2015,0.0574
+Solomon Islands,SLB,2005,-0.23924
+Solomon Islands,SLB,2010,-0.25115
+Solomon Islands,SLB,2015,-0.25434
+Somalia,SOM,2005,-1.04351
+Somalia,SOM,2010,-1.10096
+Somalia,SOM,2015,-1.16512
+South Africa,ZAF,2005,0
+South Africa,ZAF,2010,0
+South Africa,ZAF,2015,0
+South America,,2005,-0.50359
+South America,,2010,-0.38233
+South America,,2015,-0.23872
+South Eastern Asia,,2005,-0.35085
+South Eastern Asia,,2010,-0.23406
+South Eastern Asia,,2015,-0.36002
+South Korea,KOR,2005,-0.10518
+South Korea,KOR,2010,-0.10574
+South Korea,KOR,2015,-0.12245
+South Sudan,SSD,2005,0
+South Sudan,SSD,2010,0
+South Sudan,SSD,2015,0
+Southern Africa,,2005,-0.62621
+Southern Africa,,2010,-0.64715
+Southern Africa,,2015,-0.60685
+Southern Asia,,2005,0.70752
+Southern Asia,,2010,0.40915
+Southern Asia,,2015,0.14532
+Southern Europe,,2005,0.40834
+Southern Europe,,2010,0.81979
+Southern Europe,,2015,0.23783
+Spain,ESP,2005,0.35693
+Spain,ESP,2010,1.09275
+Spain,ESP,2015,0.18637
+Sri Lanka,LKA,2005,-0.68449
+Sri Lanka,LKA,2010,-0.14205
+Sri Lanka,LKA,2015,-0.31583
+Sub-Saharan Africa,,2005,-0.50638
+Sub-Saharan Africa,,2010,-0.54939
+Sub-Saharan Africa,,2015,-0.46671
+Sub-Saharan Africa (inc. Sudan),,2005,-0.51648
+Sub-Saharan Africa (inc. Sudan),,2010,-0.55907
+Sub-Saharan Africa (inc. Sudan),,2015,-0.48007
+Sudan,SDN,2005,-0.8122
+Sudan,SDN,2010,-0.84658
+Sudan,SDN,2015,-0.884
+Suriname,SUR,2005,-0.026
+Suriname,SUR,2010,-0.02604
+Suriname,SUR,2015,-0.02477
+Swaziland,SWZ,2005,0.87267
+Swaziland,SWZ,2010,0.80039
+Swaziland,SWZ,2015,0.80402
+Sweden,SWE,2005,0.03903
+Sweden,SWE,2010,-0.10298
+Sweden,SWE,2015,0
+Switzerland,CHE,2005,0.38232
+Switzerland,CHE,2010,0.29407
+Switzerland,CHE,2015,0.30582
+Syria,SYR,2005,1.30793
+Syria,SYR,2010,1.2689
+Syria,SYR,2015,0
+Tajikistan,TJK,2005,0
+Tajikistan,TJK,2010,0
+Tajikistan,TJK,2015,0.09737
+Tanzania,TZA,2005,-0.78257
+Tanzania,TZA,2010,-0.81444
+Tanzania,TZA,2015,-0.78864
+Thailand,THA,2005,-1.09478
+Thailand,THA,2010,0.18441
+Thailand,THA,2015,0.18395
+Timor,TLS,2005,-1.34729
+Timor,TLS,2010,-1.44465
+Timor,TLS,2015,-1.55718
+Togo,TGO,2005,-4.50289
+Togo,TGO,2010,-5.75487
+Togo,TGO,2015,-8.11276
+Tonga,TON,2005,0
+Tonga,TON,2010,0
+Tonga,TON,2015,0
+Trinidad and Tobago,TTO,2005,-0.31014
+Trinidad and Tobago,TTO,2010,-0.31502
+Trinidad and Tobago,TTO,2015,0.70346
+Tunisia,TUN,2005,1.79797
+Tunisia,TUN,2010,1.5881
+Tunisia,TUN,2015,1.00971
+Turkey,TUR,2005,0.92357
+Turkey,TUR,2010,0.99483
+Turkey,TUR,2015,0.89778
+Turkmenistan,TKM,2005,0
+Turkmenistan,TKM,2010,0
+Turkmenistan,TKM,2015,0
+Turks and Caicos Islands,TCA,2005,0
+Turks and Caicos Islands,TCA,2010,0
+Turks and Caicos Islands,TCA,2015,0
+Tuvalu,TUV,2005,0
+Tuvalu,TUV,2010,0
+Tuvalu,TUV,2015,0
+Uganda,UGA,2005,-2.38563
+Uganda,UGA,2010,-4.29652
+Uganda,UGA,2015,-5.47949
+Ukraine,UKR,2005,0.13633
+Ukraine,UKR,2010,-0.05646
+Ukraine,UKR,2015,0.22728
+United Arab Emirates,ARE,2005,0.1287
+United Arab Emirates,ARE,2010,0.33746
+United Arab Emirates,ARE,2015,0.33186
+United Kingdom,GBR,2005,0.44956
+United Kingdom,GBR,2010,0.25032
+United Kingdom,GBR,2015,0.54966
+United States,USA,2005,0.08032
+United States,USA,2010,0.25873
+United States,USA,2015,0.08892
+United States Virgin Islands,VIR,2005,-1.76099
+United States Virgin Islands,VIR,2010,-0.6162
+United States Virgin Islands,VIR,2015,-0.62449
+Uruguay,URY,2005,2.12838
+Uruguay,URY,2010,2.61313
+Uruguay,URY,2015,1.28026
+Uzbekistan,UZB,2005,0.51155
+Uzbekistan,UZB,2010,-0.11864
+Uzbekistan,UZB,2015,-0.34182
+Vanuatu,VUT,2005,0
+Vanuatu,VUT,2010,0
+Vanuatu,VUT,2015,0
+Venezuela,VEN,2005,-0.59211
+Venezuela,VEN,2010,-0.08734
+Venezuela,VEN,2015,-0.34849
+Vietnam,VNM,2005,2.20314
+Vietnam,VNM,2010,1.55809
+Vietnam,VNM,2015,0.89685
+Wallis and Futuna,WLF,2005,0
+Wallis and Futuna,WLF,2010,0.0344
+Wallis and Futuna,WLF,2015,0.03434
+Western Africa,,2005,-1.21945
+Western Africa,,2010,-1.28476
+Western Africa,,2015,-1.23224
+Western Asia,,2005,0.60257
+Western Asia,,2010,0.81136
+Western Asia,,2015,0.68238
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",,2005,0.76284
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",,2010,0.80957
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",,2015,0.69874
+Western Sahara,ESH,2005,0
+Western Sahara,ESH,2010,0
+Western Sahara,ESH,2015,0
+World,OWID_WRL,2005,-0.11631
+World,OWID_WRL,2010,-0.08773
+World,OWID_WRL,2015,-0.08546
+Yemen,YEM,2005,0
+Yemen,YEM,2010,0
+Yemen,YEM,2015,0
+Zambia,ZMB,2005,-0.32795
+Zambia,ZMB,2010,-0.33342
+Zambia,ZMB,2015,-0.33908
+Zimbabwe,ZWE,2005,-1.79393
+Zimbabwe,ZWE,2010,-1.97083
+Zimbabwe,ZWE,2015,-2.08461
